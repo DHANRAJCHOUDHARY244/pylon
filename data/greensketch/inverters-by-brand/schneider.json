@@ -1,0 +1,1115 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Schneider",
+  "count": 14,
+  "exportedAt": "2026-09-23T06:39:31.877Z",
+  "items": [
+    {
+      "id": 20979,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "CL 30 (AS4777-2 2020)",
+      "productCode": "CL 30 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/59a33d86-90b8-4694-b47c-e3174a483019.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_CL_30_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10089,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 595,
+        "width": 702,
+        "depth": 310,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 6,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21158,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "CL 33",
+      "productCode": "CL 33",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f21744ee-822a-41a7-af84-9b4323ffd71a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_CL_33.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10268,
+        "companyProductId": null,
+        "maxAcPower": 36300,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 33000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 595,
+        "width": 702,
+        "depth": 310,
+        "weight": 50,
+        "display": "LED",
+        "maxDcPower": 49500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 33000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20904,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "CL 50",
+      "productCode": "CL 50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/81bd7fb0-4a51-4d02-9a05-3c8a1620736d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_CL_50_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10014,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 5,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 645,
+        "width": 782,
+        "depth": 310,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 10,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.984,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 5
+        }
+      }
+    },
+    {
+      "id": 22322,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "Conext CL 20000E / PVSCL20E",
+      "productCode": "Conext CL 20000E / PVSCL20E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f76374de-dd8a-4fc1-b286-54759daf6c39.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_Conext_CL_20000E___PVSCL20E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11432,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 714,
+        "width": 674,
+        "depth": 268,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 21500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21776,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "Conext CL 25000E / PVSCL25E",
+      "productCode": "Conext CL 25000E / PVSCL25E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8ffada30-b797-4065-a00c-069478d105bf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_Conext_CL_25000E___PVSCL25E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10886,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 430,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 714,
+        "width": 674,
+        "depth": 268,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 26500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 430
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24505,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "Conext CL36",
+      "productCode": "Conext CL36",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/278b24a3-8b72-4c0b-aa69-ce4bf1a4e58c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Conext_CL36.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13615,
+        "companyProductId": null,
+        "maxAcPower": 36000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 36000,
+        "maxShortCircuitCurrentPerMppt": 36,
+        "type": "PV-only Inverter",
+        "height": 740,
+        "width": 525,
+        "depth": 240,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 36
+        },
+        "nominal_ac_power": {
+          "value": 36000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 24316,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "SW 2524 230",
+      "productCode": "SW 2524 230",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/22549206-32fe-4822-8bef-6793d67377b3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_SW_2524_230.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13426,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 34,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 418,
+        "width": 341,
+        "depth": 197,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.915,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 34
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20883,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "SW 4024 230",
+      "productCode": "SW 4024 230",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/db983697-8d11-4904-a3d4-dd00d980a934.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_SW_4024_230.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9993,
+        "companyProductId": null,
+        "maxAcPower": 3400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 34,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3400,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 418,
+        "width": 341,
+        "depth": 197,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.92,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 34
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3400
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21361,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "SW 4048 230",
+      "productCode": "SW 4048 230",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1ba1dbc6-b603-43e0-8d14-6201885fba6b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_SW_4048_230.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10471,
+        "companyProductId": null,
+        "maxAcPower": 3800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3800,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 418,
+        "width": 341,
+        "depth": 197,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.94,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3800
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24347,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "TL 15000 E",
+      "productCode": "TL 15000 E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1ec4b8bb-7ddf-46da-ad19-e22bbb173c59.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_TL_15000_E.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13457,
+        "companyProductId": null,
+        "maxAcPower": 15800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 350,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "PV-only Inverter",
+        "height": 960,
+        "width": 612,
+        "depth": 278,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 17000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 350
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23030,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "TL 20000 E",
+      "productCode": "TL 20000 E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8967f789-1bde-4194-bc62-7566d8ceb587.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_TL_20000_E.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12140,
+        "companyProductId": null,
+        "maxAcPower": 21000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 350,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 960,
+        "width": 612,
+        "depth": 278,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 350
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23137,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "XW Pro 8548",
+      "productCode": "XW Pro 8548",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/52823257-0df3-4730-b81f-f7c868297a35.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_XW_Pro_8548.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12247,
+        "companyProductId": null,
+        "maxAcPower": 6800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 64,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 6800,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 580,
+        "width": 410,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 64
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 6800
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20822,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "XW+ 7048 E",
+      "productCode": "XW+ 7048 E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/335a51e0-8715-4585-a9ef-e8f3d7f7eb40.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3fa609e4-54df-411d-a970-4149678f5fae.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9932,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 64,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 580,
+        "width": 410,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.958,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 64
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21825,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1397,
+      "brandName": "Schneider",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ba2684e1-c697-4f12-b80c-9386d2bcdbd2.png",
+      "productName": "XW+ 8548 E",
+      "productCode": "XW+ 8548 E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/080f2bbf-11d4-4792-a194-052d38dfb572.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Schneider_Electric_XW%2B_8548_E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10935,
+        "companyProductId": null,
+        "maxAcPower": 8500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 64,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 84,
+        "nominalAcPower": 6800,
+        "maxShortCircuitCurrentPerMppt": 180,
+        "type": "Hybrid Inverter",
+        "height": 580,
+        "width": 410,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.958,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 64
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 180
+        },
+        "nominal_ac_power": {
+          "value": 6800
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

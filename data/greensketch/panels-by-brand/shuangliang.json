@@ -1,0 +1,98 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Shuangliang",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:32:24.488Z",
+  "items": [
+    {
+      "id": 55121,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2343,
+      "brandName": "Shuangliang",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/3a6bb3c3-5e30-49d6-acc7-f4b7c9cd7f75.png",
+      "productName": "Gigalumi SL-M10NS-410-430W Frameles",
+      "productCode": "SL-M10NS-415W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f8ff035a-cb11-4f5a-9d7a-71203e9d108c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/e88242fb-68ad-4ca1-a29f-9c5dea5c54ee.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 31920,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.62,
+        "stcShortCircuitCurrentIsc": 13.77,
+        "stcOpenCircuitVoltageVoc": 38.43,
+        "stcCurrentAtMaximumPowerImpp": 13.13,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1716,
+        "width": 1128,
+        "depth": 4.7,
+        "weight": 20.29,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2125,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.77
+        },
+        "stc_voc": {
+          "value": 38.43
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "SL-M10NS-415W"
+        },
+        "stc_vmpp": {
+          "value": 31.62
+        }
+      }
+    }
+  ]
+}

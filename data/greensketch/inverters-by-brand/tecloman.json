@@ -1,0 +1,483 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Tecloman",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:39:42.182Z",
+  "items": [
+    {
+      "id": 22431,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1470,
+      "brandName": "Tecloman",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Tecloman.png",
+      "productName": "Hybrid-3k",
+      "productCode": "Hybrid-3k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6d5c2a7e-d699-47b1-ad68-67e6eca577bf.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/f3c6983e-0080-42e7-af31-9f367b88b160.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11541,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 469,
+        "width": 451,
+        "depth": 184,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21684,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1470,
+      "brandName": "Tecloman",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Tecloman.png",
+      "productName": "Hybrid-4.6k",
+      "productCode": "Hybrid-4.6k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ad958479-43b8-4d39-94c9-d16305ddd3fc.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/33e8a302-511d-4498-b62c-44a09ec4f4ab.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10794,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 469,
+        "width": 451,
+        "depth": 184,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22446,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1470,
+      "brandName": "Tecloman",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Tecloman.png",
+      "productName": "Hybrid-5k",
+      "productCode": "Hybrid-5k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cc34f20e-a773-49c3-86e0-300e5c7b351e.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/24818aef-251f-4abd-81d6-45f373c58765.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11556,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 469,
+        "width": 451,
+        "depth": 184,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23148,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1470,
+      "brandName": "Tecloman",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Tecloman.png",
+      "productName": "Hybrid-OS-E5k",
+      "productCode": "Hybrid-OS-E5k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/505a3e94-32bc-4147-a4b4-48b61e5ce4d6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Telcoman_Hybrid-OS-E5k.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12258,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 435,
+        "width": 742,
+        "depth": 176,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23023,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1470,
+      "brandName": "Tecloman",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Tecloman.png",
+      "productName": "Hybrid-OS-E8k",
+      "productCode": "Hybrid-OS-E8k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cec29197-fd29-4dc2-b446-70119c670bd0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Telcoman_Hybrid-OS-E8k.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12133,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 435,
+        "width": 742,
+        "depth": 176,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24107,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1470,
+      "brandName": "Tecloman",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Tecloman.png",
+      "productName": "Hybrid-OS-US7.6k",
+      "productCode": "Hybrid-OS-US7.6k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/224c17fb-06e5-451d-8130-1e5bf1be7d7e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Telcoman_Hybrid-OS-US7.6k.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13217,
+        "companyProductId": null,
+        "maxAcPower": 7600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 7600,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 694,
+        "depth": 172,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 11400,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 7600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

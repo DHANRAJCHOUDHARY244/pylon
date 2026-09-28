@@ -1,0 +1,1352 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "KOYOE",
+  "count": 17,
+  "exportedAt": "2026-09-23T06:39:31.865Z",
+  "items": [
+    {
+      "id": 22255,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-1Hybrid-5k0-H (AS4777-2 2020)",
+      "productCode": "KY-1Hybrid-5k0-H (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/9c5cdb29-312e-4013-be85-ea08f102ad63.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-1Hybrid-5k0-H_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11365,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 390,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21172,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-3GT-10k0 (AS4777-2 2020)",
+      "productCode": "KY-3GT-10k0 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b4eb8841-7a35-46e0-b893-770db8ee16e4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-3GT-10k0_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10282,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 505,
+        "width": 414,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23784,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-3GT-12k0 (AS4777-2 2020)",
+      "productCode": "KY-3GT-12k0 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0d68d967-fcf8-4d65-8227-6dadb3d76e65.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-3GT-12k0_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12894,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 414,
+        "width": 505,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23892,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-3GT-15k0 (AS4777-2 2020)",
+      "productCode": "KY-3GT-15k0 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/de909cf0-1b08-457b-8099-bfe37157f251.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-3GT-15k0_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13002,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "PV-only Inverter",
+        "height": 414,
+        "width": 505,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 3,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20453,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-3GT-17k0",
+      "productCode": "KY-3GT-17k0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a98452fa-b9d1-4272-84d3-5144ab2097d0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-3GT-17k0_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9563,
+        "companyProductId": null,
+        "maxAcPower": 17000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 17000,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "PV-only Inverter",
+        "height": 414,
+        "width": 505,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 17000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23090,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-3GT-20k0 (AS4777-2 2020)",
+      "productCode": "KY-3GT-20k0 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ee59f76b-eaec-4e70-b081-7212349bf714.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-3GT-20k0_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12200,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "PV-only Inverter",
+        "height": 414,
+        "width": 505,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 4,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22469,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST06KH (AS4777-2 2020)",
+      "productCode": "KY-EST06KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/26651047-1461-4af4-96cd-82657cf34ac2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST06KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST06KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11579,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 570,
+        "width": 505,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23747,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST08KH (AS4777-2 2020)",
+      "productCode": "KY-EST08KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3c334091-e674-4f95-8fdc-e6984d4e9d15.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST08KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST08KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12857,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 570,
+        "width": 505,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21636,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST10KH",
+      "productCode": "KY-EST10KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/98a7a06b-415c-4024-a3b8-d4b3cfda1d1f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST10KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST10KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10746,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 390,
+        "width": 505,
+        "depth": 500,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23777,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST12KH (AS4777-2 2020)",
+      "productCode": "KY-EST12KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7b66e3af-b808-42c0-b99a-7461c35e72ff.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST12KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST12KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12887,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 570,
+        "width": 630,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23252,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST15KH (AS4777-2 2020)",
+      "productCode": "KY-EST15KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c5ab405f-b97e-4db4-9523-2c13f482bacd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST15KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST15KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12362,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 630,
+        "width": 505,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 19500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21874,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST17KH",
+      "productCode": "KY-EST17KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/850d67e2-fb9d-445c-8383-27f2aa772495.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST17KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST17KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10984,
+        "companyProductId": null,
+        "maxAcPower": 17000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 17000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 570,
+        "width": 630,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22100,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 17000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 24416,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KY-EST20KH",
+      "productCode": "KY-EST20KH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/35ddd69a-e722-45cb-aa97-73868fe69b72.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KY-EST20KH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KY-EST20KH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13526,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 630,
+        "width": 505,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 26000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23453,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KYS5KW-10KWh-I",
+      "productCode": "KYS5KW-10KWh-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/aac9a949-589e-4ebd-83a8-7578a408ca11.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KYS5KW-10KWh-I.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12563,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 600,
+        "depth": 933,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23755,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KYS5KW-10KWh-S",
+      "productCode": "KYS5KW-10KWh-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5142665b-d537-4640-9d75-2d9e812f4167.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KYS5KW-10KWh-S.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12865,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 1300,
+        "width": 390,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20802,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KYS5KW-20KWh-I",
+      "productCode": "KYS5KW-20KWh-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ca45062c-8c8c-4cea-b074-7b82c1c225e9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KYS5KW-20KWh-I.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9912,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 586,
+        "width": 682,
+        "depth": 1900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24189,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 312,
+      "brandName": "KOYOE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(7).png",
+      "productName": "KYS5KW-20KWh-O",
+      "productCode": "KYS5KW-20KWh-O",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5b4b93e7-e0db-4a96-bc56-63224aefc852.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KOYOE_KYS5KW-20KWh-O.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13299,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 586,
+        "width": 682,
+        "depth": 1900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

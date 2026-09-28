@@ -1,0 +1,309 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "KDm Kingdom Solar",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:32:24.482Z",
+  "items": [
+    {
+      "id": 129734,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2968,
+      "brandName": "KDm Kingdom Solar",
+      "brandLogo": null,
+      "productName": "KD-M440-108-N",
+      "productCode": "KD-M440-108-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/07/06/c8d8e471-5dc2-4509-ba8b-642d926fcf3e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/07/06/1d784213-b606-4d8f-927f-685b2d1c0d92.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 year Power Warranty, 2% first year degradation, 0.4% Annual Power Attenuation",
+      "cecModelNumber": "KD-M440-108-N (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV NORD",
+        "CE",
+        "CEC",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 14064",
+        "ISO 45001",
+        "INMETRO",
+        "UL 1703",
+        "CLEAN ENERGY COUNCIL MEMBER"
+      ],
+      "panel": {
+        "id": 72205,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 32.81,
+        "stcShortCircuitCurrentIsc": 13.86,
+        "stcOpenCircuitVoltageVoc": 39.38,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Monocrystalline",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 31,
+        "connectorType": "AM-SOLAR15C1",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.86
+        },
+        "stc_voc": {
+          "value": 39.38
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "KD-M440-108-N"
+        },
+        "stc_vmpp": {
+          "value": 32.81
+        }
+      }
+    },
+    {
+      "id": 129735,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2968,
+      "brandName": "KDm Kingdom Solar",
+      "brandLogo": null,
+      "productName": "KD-M570-144-N",
+      "productCode": "KD-M570-144-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/07/06/7e0010bf-f0e1-423f-b167-7f1b708dc0f1.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/07/06/060ab645-3e2f-46a6-99a2-5863adf632ad.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEAR LINEAR POWER WARRANTY",
+      "cecModelNumber": "KD-M570-144-N (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV NORD",
+        "CE",
+        "CEC",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 14064",
+        "ISO 45001",
+        "INMETRO",
+        "UL 1703",
+        "CLEAN ENERGY COUNCIL MEMBER"
+      ],
+      "panel": {
+        "id": 72206,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 570,
+        "stcVoltageAtMaximumPowerVmpp": 42.99,
+        "stcShortCircuitCurrentIsc": 14.17,
+        "stcOpenCircuitVoltageVoc": 51.13,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2207,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 31,
+        "connectorType": "AM-SOLAR15C1",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.17
+        },
+        "stc_voc": {
+          "value": 51.13
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 570
+        },
+        "cec_model": {
+          "value": "KD-M570-144-N"
+        },
+        "stc_vmpp": {
+          "value": 42.99
+        }
+      }
+    },
+    {
+      "id": 129736,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2968,
+      "brandName": "KDm Kingdom Solar",
+      "brandLogo": null,
+      "productName": "KD-M590-144-N",
+      "productCode": "KD-M590-144-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/07/06/1804c787-3294-474c-acac-c49403fe48bd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/07/06/0710e6c0-223c-4739-9aaf-9dbca5b5f545.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEAR LINEAR POWER WARRANTY",
+      "cecModelNumber": "KD-M590-144-N (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV NORD Type Tested",
+        "CE",
+        "cec",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System",
+        "INMETRO",
+        "UL 1703",
+        "Clean Energy Council Member"
+      ],
+      "panel": {
+        "id": 72207,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 590,
+        "stcVoltageAtMaximumPowerVmpp": 43.71,
+        "stcShortCircuitCurrentIsc": 14.48,
+        "stcOpenCircuitVoltageVoc": 52.01,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 31,
+        "connectorType": "AM-SOLAR15C1",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.48
+        },
+        "stc_voc": {
+          "value": 52.01
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 590
+        },
+        "cec_model": {
+          "value": "KD-M590-144-N"
+        },
+        "stc_vmpp": {
+          "value": 43.71
+        }
+      }
+    }
+  ]
+}

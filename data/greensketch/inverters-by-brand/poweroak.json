@@ -1,0 +1,562 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "PowerOak",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:39:42.157Z",
+  "items": [
+    {
+      "id": 22602,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS10030B",
+      "productCode": "PS10030B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/798f85de-139b-4346-a9de-7140f8b5e372.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS10030B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11712,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 910,
+        "width": 347,
+        "depth": 780,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23261,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS11030B",
+      "productCode": "PS11030B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e1d369d3-bbf1-46a1-80e8-012b41eaf5e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS11030B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12371,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 910,
+        "width": 347,
+        "depth": 780,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23275,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS12030B",
+      "productCode": "PS12030B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3349ba44-3f26-4e91-bb32-79ff0c9c6b39.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS12030B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12385,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 910,
+        "width": 347,
+        "depth": 780,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23089,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS3215B",
+      "productCode": "PS3215B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/809ab673-c154-44a0-8d2b-23edeac2a08e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS3215B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12199,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 140,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 510,
+        "width": 270,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21305,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS6530B",
+      "productCode": "PS6530B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/522dc8ff-59a2-4321-8b4d-d65350eba95f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS6530B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10415,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 910,
+        "width": 347,
+        "depth": 780,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21985,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS7530B",
+      "productCode": "PS7530B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8b4d0209-1037-4028-8692-5137dcd140a9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS7530B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11095,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 910,
+        "width": 347,
+        "depth": 780,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21384,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1424,
+      "brandName": "PowerOak",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PowerOak.png",
+      "productName": "PS8030B",
+      "productCode": "PS8030B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c9f0acdd-3ee3-4cb8-bed0-abbdddfba970.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PowerOak_PS8030B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10494,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 910,
+        "width": 347,
+        "depth": 780,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

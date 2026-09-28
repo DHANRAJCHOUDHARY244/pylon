@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "SunArk",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.644Z",
+  "items": [
+    {
+      "id": 23415,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1378,
+      "brandName": "SunArk",
+      "brandLogo": null,
+      "productName": "SunExpert SL10K-EU",
+      "productCode": "SunExpert SL10K-EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6ca69fe8-2c2e-4161-b7b0-646a38a99269.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SunArk_SunExpert_SL10K-EU.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12525,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 413,
+        "width": 630,
+        "depth": 257.5,
+        "weight": 31,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20602,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1378,
+      "brandName": "SunArk",
+      "brandLogo": null,
+      "productName": "SunExpert SL12K-EU",
+      "productCode": "SunExpert SL12K-EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1385e62c-be30-4e0a-9947-8f54893b7984.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SunArk_SunExpert_SL12K-EU.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9712,
+        "companyProductId": null,
+        "maxAcPower": 13200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 413,
+        "width": 630,
+        "depth": 257.5,
+        "weight": 31,
+        "display": null,
+        "maxDcPower": 15600,
+        "dcInputs": 6,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

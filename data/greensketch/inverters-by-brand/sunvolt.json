@@ -1,0 +1,341 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Sunvolt",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:39:52.573Z",
+  "items": [
+    {
+      "id": 128574,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3127,
+      "brandName": "Sunvolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/790b0109-fc96-40ce-87f2-ec8345160083.webp",
+      "productName": "SV-LV ESS G3 10.8-1(10.74kWh)",
+      "productCode": "SV-LV ESS G3 10.8-1(5.37kWh)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8ef5fecd-7e9f-407d-b7fd-79db90b48fb6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/17/24fcf22a-9b24-4c38-9ce3-ad57b9436989.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Year Warranty. Terms & Conditions apply.",
+      "cecModelNumber": "SV-LV ESS G3 10.8-1(5.37kWh) (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Safety",
+        "EMC",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28537,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 58,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1700,
+        "width": 710,
+        "depth": 325,
+        "weight": 168.5,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.967,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 58
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128575,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3127,
+      "brandName": "Sunvolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/790b0109-fc96-40ce-87f2-ec8345160083.webp",
+      "productName": "SV-LV ESS G3 16.2-1(16.11kWh)",
+      "productCode": "SV-LV ESS G3 16.2-1(5.37kWh)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8ef5fecd-7e9f-407d-b7fd-79db90b48fb6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/17/24fcf22a-9b24-4c38-9ce3-ad57b9436989.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Year Warranty. Terms & Conditions apply.",
+      "cecModelNumber": "SV-LV ESS G3 16.2-1(5.37kWh) (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Safety",
+        "EMC",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28538,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 58,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1700,
+        "width": 710,
+        "depth": 325,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.967,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 58
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128576,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3127,
+      "brandName": "Sunvolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/790b0109-fc96-40ce-87f2-ec8345160083.webp",
+      "productName": "SV-LV ESS G3 21.6-1(21.48kWh)",
+      "productCode": "SV-LV ESS G3 21.6-1(5.37kWh)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8ef5fecd-7e9f-407d-b7fd-79db90b48fb6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/17/24fcf22a-9b24-4c38-9ce3-ad57b9436989.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Year Warranty. Terms & Conditions apply.",
+      "cecModelNumber": "SV-LV ESS G3 21.6-1(5.37kWh) (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Safety",
+        "EMC",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28539,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 58,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1700,
+        "width": 710,
+        "depth": 325,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.967,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 58
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128573,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3127,
+      "brandName": "Sunvolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/790b0109-fc96-40ce-87f2-ec8345160083.webp",
+      "productName": "SV-LV ESS G3 5.4-1(5.37kWh)",
+      "productCode": "SV-LV ESS G3 5.4-1(5.37kWh)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8ef5fecd-7e9f-407d-b7fd-79db90b48fb6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/17/24fcf22a-9b24-4c38-9ce3-ad57b9436989.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Year Warranty. Terms & Conditions apply.",
+      "cecModelNumber": "SV-LV ESS G3 5.4-1(5.37kWh) (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Safety",
+        "EMC",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28536,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 58,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1360,
+        "width": 710,
+        "depth": 325,
+        "weight": 115.5,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.967,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 58
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

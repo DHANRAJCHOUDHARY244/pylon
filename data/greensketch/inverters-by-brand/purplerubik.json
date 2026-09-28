@@ -1,0 +1,720 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "PurpleRubik",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.115Z",
+  "items": [
+    {
+      "id": 22333,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PM-1500TL-SS",
+      "productCode": "PM-1500TL-SS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2e74770b-4e21-47a4-95f0-e6c640f87147.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PM-1500TL-SS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11443,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 13.5,
+        "type": "PV-only Inverter",
+        "height": 349,
+        "width": 326,
+        "depth": 135,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": 0.96,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 13.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22066,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PM-2000TL-SS",
+      "productCode": "PM-2000TL-SS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5baa3696-134e-4a48-b504-4f51695fca68.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PM-2000TL-SS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11176,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 13.5,
+        "type": "PV-only Inverter",
+        "height": 349,
+        "width": 326,
+        "depth": 135,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2100,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 13.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22859,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PM-2500TL-SS",
+      "productCode": "PM-2500TL-SS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b78a5047-2e4d-4aea-ad63-ae22bbaf7a37.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PM-2500TL-SS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11969,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 13.5,
+        "type": "PV-only Inverter",
+        "height": 349,
+        "width": 326,
+        "depth": 135,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 13.5
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22476,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PM-3000TL-SS",
+      "productCode": "PM-3000TL-SS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/236dc763-adba-4770-9ebe-8f88fe1616da.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PM-3000TL-SS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11586,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 13.5,
+        "type": "PV-only Inverter",
+        "height": 349,
+        "width": 326,
+        "depth": 135,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 13.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20610,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PV-3000TL-DS",
+      "productCode": "PV-3000TL-DS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/61be85fd-5bb0-4f70-810b-bea1b2fc4a93.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PV-3000TL-DS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9720,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 403,
+        "width": 368,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22494,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PV-3680TL-DS",
+      "productCode": "PV-3680TL-DS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/016dcd50-b254-420f-a1f6-643b031674c4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PV-3680TL-DS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11604,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 403,
+        "width": 368,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.969,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21267,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PV-4000TL-DS",
+      "productCode": "PV-4000TL-DS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3a300935-65df-44b1-9bfa-640eef8fb21c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PV-4000TL-DS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10377,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 403,
+        "width": 368,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23163,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PV-4600TL-DS",
+      "productCode": "PV-4600TL-DS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fa3d2985-5647-44c1-9109-a1a4c7c6ee3d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PV-4600TL-DS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12273,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 403,
+        "width": 368,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23504,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1379,
+      "brandName": "PurpleRubik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/PurpleRubik.png",
+      "productName": "PV-5000TL-DS",
+      "productCode": "PV-5000TL-DS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b012fca8-c409-4712-9782-051949fd9af8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/PurpleRubik_PV-5000TL-DS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12614,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 403,
+        "width": 368,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

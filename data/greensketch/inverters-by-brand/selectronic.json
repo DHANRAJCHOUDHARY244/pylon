@@ -1,0 +1,1352 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Selectronic",
+  "count": 17,
+  "exportedAt": "2026-09-23T06:39:31.868Z",
+  "items": [
+    {
+      "id": 23974,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPLC1200 (AS4777-2 2020)",
+      "productCode": "SPLC1200 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/541441c8-9844-48ca-b19b-95d41ada1cfe.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPLC1200_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13084,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 170,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 870,
+        "width": 540,
+        "depth": 290,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 170
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24193,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPLC1200 (Series 2i)",
+      "productCode": "SPLC1200 (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f2b7c948-1ba4-49bb-a326-b7b0556d3550.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPLC1200_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13303,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 170,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 870,
+        "width": 540,
+        "depth": 290,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 170
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21307,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPLC1202 (AS4777-2 2020)",
+      "productCode": "SPLC1202 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a6468774-be28-4fff-bfbb-da9832b815d4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPLC1202_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10417,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 170,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 870,
+        "width": 540,
+        "depth": 290,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 170
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20731,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPLC1202 (Series 2i)",
+      "productCode": "SPLC1202 (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/30646446-5897-4e72-a203-dd2f31dbb32c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPLC1202_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9841,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 170,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 870,
+        "width": 540,
+        "depth": 290,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 170
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 22549,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC1201",
+      "productCode": "SPMC1201",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/69eb6dfe-eb67-4d1f-b53a-086dc8eab09b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC1201.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11659,
+        "companyProductId": null,
+        "maxAcPower": 7500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 170,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 170
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 22776,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC1201 (Series 2i)",
+      "productCode": "SPMC1201 (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/93e3a711-0e22-49d3-8743-009823415478.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC1201_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11886,
+        "companyProductId": null,
+        "maxAcPower": 7500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 170,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 170
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23682,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC240-AU",
+      "productCode": "SPMC240-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/123601cb-f192-4086-8ea6-b5eea559c0de.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC240-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12792,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 34,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 34
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21646,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC240-AU (Series 2i)",
+      "productCode": "SPMC240-AU (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ad9cdf7f-a99c-47e3-83dc-d34167522eab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC240-AU_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10756,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 34,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 34
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23761,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC241-AU",
+      "productCode": "SPMC241-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/18d4cb12-d969-444d-93cb-7c2786c5d6d5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC241-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12871,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 34,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 4500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 34
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 4500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24235,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC241-AU (Series 2i)",
+      "productCode": "SPMC241-AU (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fd4bcc60-7d1f-4de6-8212-53075ecd77b8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC241-AU_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13345,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 34,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 34
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21418,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC480-AU (Series 2i)",
+      "productCode": "SPMC480-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/585d4b0e-9813-4828-b678-957cedd4aed1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC480-AU_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "SPMC480-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10528,
+        "companyProductId": null,
+        "maxAcPower": 3500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 68,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 68
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21259,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC481-AU",
+      "productCode": "SPMC481-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/13ad43db-2c1f-4bdb-b511-c1822766a60a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC481-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "SPMC481-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10369,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 68,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 68
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21919,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC481-AU (Series 2i)",
+      "productCode": "SPMC481-AU (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7ffe2dbd-1b95-4095-b435-4bec0388d0a9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC481-AU_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11029,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 68,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 68
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20290,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC482-AU",
+      "productCode": "SPMC482-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0921fd31-6969-4bda-95fb-81b28fd9d1c4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC482-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "SPMC482-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9400,
+        "companyProductId": null,
+        "maxAcPower": 7500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 68,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 68
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 22784,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SPMC482-AU (Series 2i)",
+      "productCode": "SPMC482-AU (Series 2i)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e5404153-a715-4533-9bb7-963aed0b6d1b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SPMC482-AU_(Series_2i).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11894,
+        "companyProductId": null,
+        "maxAcPower": 7500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 68,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 690,
+        "width": 375,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 68
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24173,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SelectSun 20K (865A020)",
+      "productCode": "SelectSun 20K (865A020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/61e509c6-08d7-4151-8bf9-5c4e8379361e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SelectSun_20K_(865A020).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13283,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 490,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "PV-only Inverter",
+        "height": 601,
+        "width": 535,
+        "depth": 277,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 490
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21953,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1337,
+      "brandName": "Selectronic",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Selectronic.png",
+      "productName": "SelectSun 40K (842A040)",
+      "productCode": "SelectSun 40K (842A040)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/150ad9cf-0e37-4752-89a9-58a4ae46ecd4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Selectronic_SelectSun_40K_(842A040).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11063,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 490,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "PV-only Inverter",
+        "height": 820,
+        "width": 755,
+        "depth": 300,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 60000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 490
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

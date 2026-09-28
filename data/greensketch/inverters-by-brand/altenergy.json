@@ -1,0 +1,1115 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Altenergy",
+  "count": 14,
+  "exportedAt": "2026-09-23T06:39:31.879Z",
+  "items": [
+    {
+      "id": 23577,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3 (AS4777-2 2020)",
+      "productCode": "DS3 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b1163e4e-b78a-4bd1-beaf-b2a440a79426.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12687,
+        "companyProductId": null,
+        "maxAcPower": 880,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 16,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 880,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 42.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1340,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 16
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 880
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20782,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3-H (AS4777-2 2020)",
+      "productCode": "DS3-H (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/18ee9b4a-dbcf-4f1f-aac0-01a67bc8672f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3-H_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9892,
+        "companyProductId": null,
+        "maxAcPower": 960,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 16,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 960,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 42.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1320,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 16
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 960
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24220,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3-L (AS4777-2 2020)",
+      "productCode": "DS3-L (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3136fab5-5964-46ab-a225-31acb829c908.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3-L_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13330,
+        "companyProductId": null,
+        "maxAcPower": 750,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 16,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 750,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 41.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1100,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 16
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 750
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22062,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3-S",
+      "productCode": "DS3-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/407506ef-43f6-44bb-a054-f232790accce.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3-S_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "DS3-S (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11172,
+        "companyProductId": null,
+        "maxAcPower": 625,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 16,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 625,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 41.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 960,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 16
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 625
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23455,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3D (AS4777-2 2020)",
+      "productCode": "DS3D (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0ff82b8a-ad39-4688-8fac-a029519984be.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3D_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12565,
+        "companyProductId": null,
+        "maxAcPower": 1800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 112,
+        "minDcVoltageToStartFeedIn": 52,
+        "mpptVoltageMin": 52,
+        "mpptVoltageMax": 112,
+        "nominalAcPower": 1800,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 234,
+        "width": 284,
+        "depth": 50.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1900,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 112
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 52
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1800
+        },
+        "mppt_voltage_min": {
+          "value": 52
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22661,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3D-AU (AS4777-2 2020)",
+      "productCode": "DS3D-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/76c0d6c8-5f38-460d-bc7b-30c63323e082.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3D-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "DS3D-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11771,
+        "companyProductId": null,
+        "maxAcPower": 1800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 112,
+        "minDcVoltageToStartFeedIn": 52,
+        "mpptVoltageMin": 52,
+        "mpptVoltageMax": 112,
+        "nominalAcPower": 1800,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 234,
+        "width": 284,
+        "depth": 50.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1900,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 112
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 52
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1800
+        },
+        "mppt_voltage_min": {
+          "value": 52
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22244,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3D-H (AS4777-2 2020)",
+      "productCode": "DS3D-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3091412b-1f2f-44f8-a5ac-a7112243b77a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3D-H_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "DS3D-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11354,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 112,
+        "minDcVoltageToStartFeedIn": 56,
+        "mpptVoltageMin": 52,
+        "mpptVoltageMax": 112,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 234,
+        "width": 284,
+        "depth": 50.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1680,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 112
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 56
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 52
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24124,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3D-H-AU",
+      "productCode": "DS3D-H-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/bc2623e2-6a68-4976-9d56-23db650b3fcc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3D-H-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "DS3D-H-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13234,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 112,
+        "minDcVoltageToStartFeedIn": 56,
+        "mpptVoltageMin": 52,
+        "mpptVoltageMax": 112,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 234,
+        "width": 284,
+        "depth": 50.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1680,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 112
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 56
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 52
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22941,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3D-L (AS4777-2 2020)",
+      "productCode": "DS3D-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/071dc150-ded7-445a-aa97-a0e206c28ba1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3D-L_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "DS3D-L (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12051,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 112,
+        "minDcVoltageToStartFeedIn": 56,
+        "mpptVoltageMin": 52,
+        "mpptVoltageMax": 112,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 234,
+        "width": 284,
+        "depth": 50.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2100,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 112
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 56
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 52
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24640,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "DS3D-L-AU",
+      "productCode": "DS3D-L-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/63fdb98a-5799-4061-96cb-0a17358f1653.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_DS3D-L-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "DS3D-L-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13750,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 112,
+        "minDcVoltageToStartFeedIn": 56,
+        "mpptVoltageMin": 52,
+        "mpptVoltageMax": 112,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 234,
+        "width": 284,
+        "depth": 50.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2100,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 112
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 56
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 52
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20853,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "QS1",
+      "productCode": "QS1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b4c7c17d-688f-4f40-8c73-9b07ba2274fd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_QS1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9963,
+        "companyProductId": null,
+        "maxAcPower": 1200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 20,
+        "mpptVoltageMin": 22,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 231,
+        "width": 281,
+        "depth": 41.3,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 20
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 22
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 20581,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "QT2 (AS4777-2 2020)",
+      "productCode": "QT2 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b21d0d29-8815-4abd-94db-5d85edde0ce8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_QT2_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9691,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 26,
+        "mpptVoltageMin": 26,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 242,
+        "width": 359,
+        "depth": 46,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2680,
+        "dcInputs": 4,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 26
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 26
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22781,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "QT2-AU (AS4777-2 2020)",
+      "productCode": "QT2-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/496a9b82-bced-490c-8eb9-8e52ea9c456f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_QT2-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "QT2-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11891,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 30,
+        "mpptVoltageMin": 26,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 242,
+        "width": 359,
+        "depth": 46,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2680,
+        "dcInputs": 4,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 30
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 26
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24090,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1376,
+      "brandName": "Altenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Altenergy.png",
+      "productName": "YC600",
+      "productCode": "YC600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/af6bdb33-2c48-43bf-8bec-e05077b19b58.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/APsystems_YC600.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13200,
+        "companyProductId": null,
+        "maxAcPower": 600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 55,
+        "minDcVoltageToStartFeedIn": 20,
+        "mpptVoltageMin": 22,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 547,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 188,
+        "width": 260,
+        "depth": 31.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 55
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 20
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 547
+        },
+        "mppt_voltage_min": {
+          "value": 22
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

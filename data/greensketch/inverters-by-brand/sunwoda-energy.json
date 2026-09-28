@@ -1,0 +1,799 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Sunwoda Energy",
+  "count": 10,
+  "exportedAt": "2026-09-23T06:39:42.099Z",
+  "items": [
+    {
+      "id": 24287,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW10KH3UT",
+      "productCode": "SW10KH3UT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/381dccdf-9017-4ea3-9006-b3fce21aaade.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW10KH3UT.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13397,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 650,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24134,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW12KH3UT",
+      "productCode": "SW12KH3UT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/889201ee-62b0-430e-be9b-f5b336e6287c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW12KH3UT.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13244,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 650,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20697,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW15KH3UT",
+      "productCode": "SW15KH3UT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9b3a05e7-e99f-4279-afd8-65b7e2af44b1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW15KH3UT.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9807,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 650,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21319,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW5KH3UT",
+      "productCode": "SW5KH3UT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7de5eb12-7f8e-4719-81a6-3ea659e35da8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW5KH3UT.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10429,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 650,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23188,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW5KWHDC-US",
+      "productCode": "SW5KWHDC-US",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c7860339-34cf-49f9-aa6e-b49d638c7210.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW5KWHDC-US.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12298,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 620,
+        "depth": 215,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23495,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW6KH3UT",
+      "productCode": "SW6KH3UT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/43fcf3d1-64d3-45b6-9fa7-2c685ce52fb4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW6KH3UT.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12605,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 650,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23664,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW6KWHDC-US",
+      "productCode": "SW6KWHDC-US",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1e860d4c-0e2d-4911-ab05-17dca4e42db2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW6KWHDC-US.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12774,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 620,
+        "depth": 215,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22415,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW7.6KWHDC-US",
+      "productCode": "SW7.6KWHDC-US",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b87d7826-404c-4c4f-a23e-598bf9847386.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW7.6KWHDC-US.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11525,
+        "companyProductId": null,
+        "maxAcPower": 7600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 7600,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 620,
+        "depth": 215,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 11400,
+        "dcInputs": 3,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 7600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23692,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW8KH3UT",
+      "productCode": "SW8KH3UT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f0b229b0-e9ca-48f9-91ed-afcb127b4634.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW8KH3UT.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12802,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 650,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22623,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1383,
+      "brandName": "Sunwoda Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kxud7z3p.png",
+      "productName": "SW8KWHDC-US",
+      "productCode": "SW8KWHDC-US",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1984025a-3d79-468b-b32c-21c7885290b7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sunwoda_Energy_SW8KWHDC-US.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11733,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 620,
+        "depth": 215,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

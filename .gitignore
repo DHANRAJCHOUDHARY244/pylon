@@ -195,7 +195,7 @@ public/uploads/
 *.db
 dump.rdb
 *.mongo
-data/
+
 !**/src/**/data/
 !**/docs/**/data/
 

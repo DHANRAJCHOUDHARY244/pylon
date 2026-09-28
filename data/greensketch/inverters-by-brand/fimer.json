@@ -1,0 +1,5697 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "FIMER",
+  "count": 72,
+  "exportedAt": "2026-09-23T06:39:23.399Z",
+  "items": [
+    {
+      "id": 22317,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-2.0-SE-A-1PH",
+      "productCode": "FIM-HY-2.0-SE-A-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/00ecafd0-5aeb-4905-9be5-07b23796dcbd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-2.0-SE-A-1PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "FIM-HY-2.0-SE-A-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11427,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 470,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2055,
+        "dcInputs": 1,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21678,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-3.3-SE-A-1PH",
+      "productCode": "FIM-HY-3.3-SE-A-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/75029930-7307-4fc9-bb15-a229e4d836ca.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-3.3-SE-A-1PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "FIM-HY-3.3-SE-A-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10788,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 135,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 470,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3074,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 135
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20344,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-4.0-SE-A-1PH",
+      "productCode": "FIM-HY-4.0-SE-A-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9834e075-cc6a-4300-b33b-76c545ee2990.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-4.0-SE-A-1PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "FIM-HY-4.0-SE-A-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9454,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 165,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 470,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4082,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 165
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21694,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-4.0-SE-A-3PH",
+      "productCode": "FIM-HY-4.0-SE-A-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/affc9e23-f00b-4f6a-8634-ae89af83df5a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-4.0-SE-A-3PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10804,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 625,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 750,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4082,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 625
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24568,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-4.6-SE-A-1PH",
+      "productCode": "FIM-HY-4.6-SE-A-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5fd8825e-9906-42ab-9c85-349b3089fb34.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-4.6-SE-A-1PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "FIM-HY-4.6-SE-A-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13678,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4693,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21135,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-5.0-SE-A-1PH",
+      "productCode": "FIM-HY-5.0-SE-A-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f4005efd-e9a2-47a5-a190-64bce5967569.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-5.0-SE-A-1PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "FIM-HY-5.0-SE-A-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10245,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 470,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5102,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21968,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-5.0-SE-A-3PH",
+      "productCode": "FIM-HY-5.0-SE-A-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/aa9399d6-84fe-4e14-af43-a83d2a002f32.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-5.0-SE-A-3PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11078,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 625,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 750,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 32.5,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5102,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 625
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 32.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24457,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-6.0-SE-A-1PH",
+      "productCode": "FIM-HY-6.0-SE-A-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ddc08f30-9760-44b0-8eec-0363cd32072c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-6.0-SE-A-1PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "FIM-HY-6.0-SE-A-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13567,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6122,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20875,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-6.0-SE-A-3PH",
+      "productCode": "FIM-HY-6.0-SE-A-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/634aaafb-031b-43a8-94f6-ae005bf6b764.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-6.0-SE-A-3PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9985,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 625,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 750,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 32.5,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6122,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 625
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 32.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23942,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-7.5-SE-A-3PH",
+      "productCode": "FIM-HY-7.5-SE-A-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c9fa35ce-8a4a-4150-8a1d-ee053e714e44.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-7.5-SE-A-3PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13052,
+        "companyProductId": null,
+        "maxAcPower": 7500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 625,
+        "minDcVoltageToStartFeedIn": 215,
+        "mpptVoltageMin": 270,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": 32.5,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7143,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 625
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 215
+        },
+        "current_isc_max": {
+          "value": 32.5
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 270
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22948,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "FIM-HY-8.5-SE-A-3PH",
+      "productCode": "FIM-HY-8.5-SE-A-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2ef7e022-16f9-4bdb-b702-e6a001e814fc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_FIM-HY-8.5-SE-A-3PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12058,
+        "companyProductId": null,
+        "maxAcPower": 8500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 625,
+        "minDcVoltageToStartFeedIn": 215,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8500,
+        "maxShortCircuitCurrentPerMppt": 32.5,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 520,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8673,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 625
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 215
+        },
+        "current_isc_max": {
+          "value": 32.5
+        },
+        "nominal_ac_power": {
+          "value": 8500
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20541,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVI-10.0-TL-OUTD",
+      "productCode": "PVI-10.0-TL-OUTD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/07d90597-5cb9-4c44-bb20-518650c35a5f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVI-10.0-TL-OUTD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9651,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 360,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "PV-only Inverter",
+        "height": 716,
+        "width": 645,
+        "depth": 224,
+        "weight": 41,
+        "display": "LCD",
+        "maxDcPower": 10300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 360
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23582,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-10-TL",
+      "productCode": "PVS-10-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/92ec1bc6-9f2c-4c2d-8200-1303624f30bc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-10-TL.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12692,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 14500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24265,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-10-TL-SX (AS4777-2 2020)",
+      "productCode": "PVS-10-TL-SX (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/71fa72b2-e122-4559-b2e6-817e7c8bdc94.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-10-TL-SX_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13375,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 14500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22705,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-10-TL-SY",
+      "productCode": "PVS-10-TL-SY",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f3524243-2ba4-4296-ac7e-24bb5ce85102.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-10-TL-SY.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "PVS-10-TL-SY (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11815,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 14500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20909,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-12.5-TL",
+      "productCode": "PVS-12.5-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8cac32c2-e1c1-45f4-a181-c6e5fccda04e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-12.5-TL.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10019,
+        "companyProductId": null,
+        "maxAcPower": 12500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12500,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18125,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 12500
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21536,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-12.5-TL-SX (AS4777-2 2020)",
+      "productCode": "PVS-12.5-TL-SX (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4356fd0-8471-4497-870c-1513fa21f41c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-12.5-TL-SX_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10646,
+        "companyProductId": null,
+        "maxAcPower": 12500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18125,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23014,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-12.5-TL-SY",
+      "productCode": "PVS-12.5-TL-SY",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b83391c2-2ae2-4d6a-af83-1713dae676aa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-12.5-TL-SY.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "PVS-12.5-TL-SY (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12124,
+        "companyProductId": null,
+        "maxAcPower": 12500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12500,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18125,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 12500
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1378,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-120-TL",
+      "productCode": "PVS-120-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fb1e2088-8599-4d47-b2a4-06ffce5f1e12.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-120-TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 320,
+        "companyProductId": null,
+        "maxAcPower": 120000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 120000,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "PV-only Inverter",
+        "height": 869,
+        "width": 1086,
+        "depth": 419,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 123000,
+        "dcInputs": null,
+        "maxEfficiency": 0.989,
+        "euroEfficiency": 0.986,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 120000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 24452,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-15-TL",
+      "productCode": "PVS-15-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a4d4dc63-023b-4d4d-ae59-958f47abbe6c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-15-TL.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13562,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 21750,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20479,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-15-TL-SX",
+      "productCode": "PVS-15-TL-SX",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/255b6a68-2f93-409f-8430-601130c4109a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-15-TL-SX_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9589,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 21750,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23933,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-15-TL-SY",
+      "productCode": "PVS-15-TL-SY",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d94fcf20-a6a8-40d6-b356-9cd0754074dc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-15-TL-SY.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "PVS-15-TL-SY (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13043,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 565.7,
+        "width": 469.8,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 21750,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23206,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-20-TL",
+      "productCode": "PVS-20-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e4819537-1e83-494a-9d9b-feede0e9b333.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-20-TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12316,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 34000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22373,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-20-TL-SX (AS4777-2 2020)",
+      "productCode": "PVS-20-TL-SX",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/80812cd7-7be7-415b-815a-bd8fed70815e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-20-TL-SX_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "PVS-20-TL-SX (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11483,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23438,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-20-TL-SXD (AS4777-2 2020)",
+      "productCode": "PVS-20-TL-SXD (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a8148571-c7ab-4fd3-98eb-f0fe28e039ae.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-20-TL-SXD_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12548,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 34000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23916,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-30-TL",
+      "productCode": "PVS-30-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9aada3bc-0886-4234-b0d2-72667113a263.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-30-TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13026,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": 50,
+        "display": null,
+        "maxDcPower": 44000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22607,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-30-TL-SX (AS4777-2 2020)",
+      "productCode": "PVS-30-TL-SX (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4c0fcd97-8403-466d-a8ad-09a83f1d552a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-30-TL-SX_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11717,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 44000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23793,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-33-TL",
+      "productCode": "PVS-33-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/051bceb9-bb04-46c6-9025-17ff8cdbecd2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-33-TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12903,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 33000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": 50,
+        "display": null,
+        "maxDcPower": 48000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 33000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21391,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-33-TL-SX (AS4777-2 2020)",
+      "productCode": "PVS-33-TL-SX (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0a105ed7-bc25-445d-8cdd-1dd7474fbbd7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-33-TL-SX_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10501,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 460,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 48000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 460
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 1960,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-50-TL",
+      "productCode": "PVS-50-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4875e851-f93f-4896-b14e-21db6b74f96a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-60-TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 582,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 55000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 750,
+        "width": 1100,
+        "depth": 261.5,
+        "weight": 68,
+        "display": null,
+        "maxDcPower": 52000,
+        "dcInputs": 5,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 36,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 55000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20516,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-50-TL-S",
+      "productCode": "PVS-50-TL-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/85a5f2c7-0ae1-40ac-afe0-ade4a010a759.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-50-TL-S.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9626,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 750,
+        "width": 1100,
+        "depth": 261.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 52000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20830,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-50-TL-SX2",
+      "productCode": "PVS-50-TL-SX2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/695888b2-b0e5-4a93-b2ac-a762cee89673.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-50-TL-SX2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9940,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 750,
+        "width": 1100,
+        "depth": 261.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 52000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1282,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-60-TL",
+      "productCode": "PVS-60-TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0d5c99f8-9f4a-400e-b5b5-4b0130a9b4ca.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-60-TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 224,
+        "companyProductId": null,
+        "maxAcPower": 66000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 750,
+        "width": 1100,
+        "depth": 261.5,
+        "weight": 68,
+        "display": null,
+        "maxDcPower": 61800,
+        "dcInputs": 5,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 36,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22667,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-60-TL-S",
+      "productCode": "PVS-60-TL-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/91a561a1-b150-4d1d-99dc-32e2cb69af70.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-60-TL-S.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11777,
+        "companyProductId": null,
+        "maxAcPower": 66000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 750,
+        "width": 1100,
+        "depth": 2615,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 61800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24644,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-60-TL-SX",
+      "productCode": "PVS-60-TL-SX",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e617bc25-3459-4f8b-b87e-2a860630a79d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-60-TL-SX.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13754,
+        "companyProductId": null,
+        "maxAcPower": 66000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 675,
+        "width": 591.8,
+        "depth": 227.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 61800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22242,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "PVS-60-TL-SX2",
+      "productCode": "PVS-60-TL-SX2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6f2b37a4-cb26-44ae-a39d-8b357f23b9cb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_PVS-60-TL-SX2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11352,
+        "companyProductId": null,
+        "maxAcPower": 66000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 750,
+        "width": 1100,
+        "depth": 261.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 61800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22662,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-20.0-TL-OUTD",
+      "productCode": "TRIO-20.0-TL-OUTD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/65aa0ebb-32c5-482c-ab1d-9a5447ad9297.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-20.0-TL-OUTD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11772,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 1061,
+        "width": 702,
+        "depth": 292,
+        "weight": 70,
+        "display": "LCD",
+        "maxDcPower": 20750,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21923,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-20.0-TL-OUTD-400",
+      "productCode": "TRIO-20.0-TL-OUTD-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3602a411-f047-4cbb-8cb1-cbc7fb83bf7f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-20.0-TL-OUTD-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11033,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 1061,
+        "width": 702,
+        "depth": 292,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20750,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20285,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-20.0-TL-OUTD-S1J-400",
+      "productCode": "TRIO-20.0-TL-OUTD-S1J-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2ebe30d4-7b56-402c-9140-c9648c92aa6a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-20.0-TL-OUTD-S1J-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9395,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 1061,
+        "width": 702,
+        "depth": 292,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20750,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23361,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-20.0-TL-OUTD-S2J-400",
+      "productCode": "TRIO-20.0-TL-OUTD-S2J-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8b85c1ee-ed46-4ecb-ae24-b54f67dc98d4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-20.0-TL-OUTD-S2J-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12471,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 1061,
+        "width": 702,
+        "depth": 292,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20750,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22253,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-27.6-TL-OUTD",
+      "productCode": "TRIO-27.6-TL-OUTD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/25c8993d-9a1f-478a-bd51-78b168478752.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-27.6-TL-OUTD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11363,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 27600,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 1061,
+        "width": 702,
+        "depth": 292,
+        "weight": 75,
+        "display": "LCD",
+        "maxDcPower": 28600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 27600
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20694,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-27.6-TL-OUTD-400",
+      "productCode": "TRIO-27.6-TL-OUTD-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/95f4de26-f7af-41af-b965-6f540364df5c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-27.6-TL-OUTD-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9804,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 430,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 1061,
+        "width": 702,
+        "depth": 292,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 28600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 430
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23921,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-5.8-TL-OUTD",
+      "productCode": "TRIO-5.8-TL-OUTD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9c1a3d4b-bcb8-483d-89ca-09624ebd4c9c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-5.8-TL-OUTD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13031,
+        "companyProductId": null,
+        "maxAcPower": 5800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5800,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 641,
+        "width": 429,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5950,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5800
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22133,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-5.8-TL-OUTD-S-400",
+      "productCode": "TRIO-5.8-TL-OUTD-S-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/076fbb34-f032-4168-b945-2b74c2868dc4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-5.8-TL-OUTD-S-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11243,
+        "companyProductId": null,
+        "maxAcPower": 5800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5800,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 641,
+        "width": 429,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5950,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5800
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23168,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-7.5-TL-OUTD",
+      "productCode": "TRIO-7.5-TL-OUTD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9eb0d38e-f7b7-4859-9a34-5c6406ad03de.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-7.5-TL-OUTD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12278,
+        "companyProductId": null,
+        "maxAcPower": 7500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 641,
+        "width": 429,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7650,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22390,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-7.5-TL-OUTD-400",
+      "productCode": "TRIO-7.5-TL-OUTD-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9e47af64-c910-4747-8aa5-36d1d518015d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-7.5-TL-OUTD-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11500,
+        "companyProductId": null,
+        "maxAcPower": 5800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5800,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 641,
+        "width": 429,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7650,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5800
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21533,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-8.5-TL-OUTD",
+      "productCode": "TRIO-8.5-TL-OUTD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8d05060f-5b58-4c17-8e8c-757bd989d94e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-8.5-TL-OUTD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10643,
+        "companyProductId": null,
+        "maxAcPower": 8500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8500,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 641,
+        "width": 429,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8700,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 8500
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20696,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "TRIO-TM-50.0-400",
+      "productCode": "TRIO-TM-50.0-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0f960099-e110-4fb1-a30a-d9b05407055e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_TRIO-TM-50.0-400.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9806,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 420,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 725,
+        "width": 1491,
+        "depth": 315,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 52000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 420
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22134,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-1.2-TL-PLUS-B-Q",
+      "productCode": "UNO-DM-1.2-TL-PLUS-B-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/958a1ab1-e471-4632-b484-ecc8a6aa4ad3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-1.2-TL-PLUS-B-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11244,
+        "companyProductId": null,
+        "maxAcPower": 1200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": 0.92,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21374,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-1.2-TL-PLUS-Q",
+      "productCode": "UNO-DM-1.2-TL-PLUS-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b09167f3-ba68-4fc3-8f99-881935a16911.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-1.2-TL-PLUS-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10484,
+        "companyProductId": null,
+        "maxAcPower": 1200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": 0.92,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24073,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-1.2-TL-PLUS-SB-Q",
+      "productCode": "UNO-DM-1.2-TL-PLUS-SB-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/97511b6d-58d8-41af-bce7-274f31267328.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-1.2-TL-PLUS-SB-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13183,
+        "companyProductId": null,
+        "maxAcPower": 1200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": 0.92,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23262,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-2.0-TL-PLUS-B-Q (AS4777-2 2020)",
+      "productCode": "UNO-DM-2.0-TL-PLUS-B-Q (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6fa02755-e047-4a34-9b75-5e6f81682d8b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-2.0-TL-PLUS-B-Q_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12372,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24613,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-2.0-TL-PLUS-Q",
+      "productCode": "UNO-DM-2.0-TL-PLUS-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f68d43b7-f104-47de-830e-7474614a0c08.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-2.0-TL-PLUS-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13723,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23327,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-2.0-TL-PLUS-SB-Q",
+      "productCode": "UNO-DM-2.0-TL-PLUS-SB-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3aeb884d-c90f-4a43-a17e-d6012553eb52.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-2.0-TL-PLUS-SB-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "UNO-DM-2.0-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12437,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22287,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-3.0-TL-PLUS-B-Q",
+      "productCode": "UNO-DM-3.0-TL-PLUS-B-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3961f54b-028f-4382-94e1-b28d04bbccc3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-3.0-TL-PLUS-B-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11397,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22138,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-3.0-TL-PLUS-Q",
+      "productCode": "UNO-DM-3.0-TL-PLUS-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/45f0f05d-bc15-4525-8d78-fde9daf81a7c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-3.0-TL-PLUS-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11248,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21951,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-3.0-TL-PLUS-SB-Q",
+      "productCode": "UNO-DM-3.0-TL-PLUS-SB-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/08483f42-da34-46f4-b57a-3ea4a494988d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-3.0-TL-PLUS-SB-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11061,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20589,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-3.3-TL-PLUS-B-Q",
+      "productCode": "UNO-DM-3.3-TL-PLUS-B-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3e02206b-3159-4bbf-9fa0-4f837e15989e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-3.3-TL-PLUS-B-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "UNO-DM-3.3-TL-PLUS-B-Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9699,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20746,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-3.3-TL-PLUS-Q",
+      "productCode": "UNO-DM-3.3-TL-PLUS-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4579207d-e87e-4bb3-9e92-91d8d3934624.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-3.3-TL-PLUS-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9856,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22123,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-3.3-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "productCode": "UNO-DM-3.3-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b1153b34-f106-4db7-884c-ec23a594e0cc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-3.3-TL-PLUS-SB-Q_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11233,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23484,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-4.0-TL-PLUS-B-Q",
+      "productCode": "UNO-DM-4.0-TL-PLUS-B-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2ad1ee7c-f06f-49de-b6c6-b026c153837b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-4.0-TL-PLUS-B-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "UNO-DM-4.0-TL-PLUS-B-Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12594,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 130,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4250,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 130
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24284,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-4.0-TL-PLUS-Q",
+      "productCode": "UNO-DM-4.0-TL-PLUS-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a1be4173-e72e-4637-9d90-4ada4c62f8ee.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-4.0-TL-PLUS-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13394,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 130,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4250,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 130
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20829,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-4.0-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "productCode": "UNO-DM-4.0-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/84ad9218-cf9d-45f1-afd1-8330bd28c8de.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-4.0-TL-PLUS-SB-Q_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9939,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 130,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4250,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 130
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24479,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-4.6-TL-PLUS-B-Q",
+      "productCode": "UNO-DM-4.6-TL-PLUS-B-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7fd23690-5ecb-4213-be0c-dd5f4426c50e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-4.6-TL-PLUS-B-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "UNO-DM-4.6-TL-PLUS-B-Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13589,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4750,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24130,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-4.6-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "productCode": "UNO-DM-4.6-TL-PLUS-SB-Q (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9ad94628-d07d-40e7-a9aa-3f74e38af606.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-4.6-TL-PLUS-SB-Q_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13240,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4750,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20362,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-5.0-TL-PLUS-B-QU",
+      "productCode": "UNO-DM-5.0-TL-PLUS-B-QU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/33f34aaf-1828-4d8a-b3a3-ce9a8c181707.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-5.0-TL-PLUS-B-QU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "UNO-DM-5.0-TL-PLUS-B-QU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9472,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5150,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21086,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-5.0-TL-PLUS-SB-QU (AS4777-2 2020)",
+      "productCode": "UNO-DM-5.0-TL-PLUS-SB-QU (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/inverters/30b34963-2a9f-4376-8110-2c715526c3ca/UNO-DM-5.0-TL-PLUS-SB-QU_(AS4777-2_2020).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-5.0-TL-PLUS-SB-QU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "UNO-DM-5.0-TL-PLUS-SB-QU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10196,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5150,
+        "dcInputs": 2,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24060,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-6.0-TL-PLUS-B-G-QU",
+      "productCode": "UNO-DM-6.0-TL-PLUS-B-G-QU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a8874760-ce8a-43de-ad3f-b6ba1a546d87.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-6.0-TL-PLUS-B-G-QU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13170,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22585,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-6.0-TL-PLUS-Q",
+      "productCode": "UNO-DM-6.0-TL-PLUS-Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ca87b005-77f4-46e1-abae-2027b19d515f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-6.0-TL-PLUS-Q.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11695,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22692,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM-6.0-TL-PLUS-SB-G-QU (AS4777-2 2020)",
+      "productCode": "UNO-DM-6.0-TL-PLUS-SB-G-QU (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1444da20-e37f-4d30-85dd-585c83d8c40b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM-6.0-TL-PLUS-SB-G-QU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11802,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6200,
+        "dcInputs": 3,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23960,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM5.0Q-CERT",
+      "productCode": "UNO-DM5.0Q-CERT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c8759886-2121-4402-af71-0260aa1843eb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM5.0Q-CERT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13070,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 360,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 553,
+        "width": 418,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5150,
+        "dcInputs": 2,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 360
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22567,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 282,
+      "brandName": "FIMER",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.svg",
+      "productName": "UNO-DM6.0Q-CERT",
+      "productCode": "UNO-DM6.0Q-CERT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3edc5b14-6391-4525-bc30-6f2bbe694da3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/FIMER_UNO-DM6.0Q-CERT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11677,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 553,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

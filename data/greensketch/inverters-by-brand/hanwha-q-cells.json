@@ -1,0 +1,404 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Hanwha Q CELLS",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.203Z",
+  "items": [
+    {
+      "id": 20547,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 204,
+      "brandName": "Hanwha Q CELLS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/124a0b9f-feee-4bd4-88ea-a111011b3f28.png",
+      "productName": "Q.VOLT A5S",
+      "productCode": "Q.VOLT A5S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7a3cd6fa-093c-4b7a-ae40-d6c68e21a796.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hanwha_Q_CELLS_Q.VOLT_A5S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9657,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 460,
+        "depth": 221,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22716,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 204,
+      "brandName": "Hanwha Q CELLS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/124a0b9f-feee-4bd4-88ea-a111011b3f28.png",
+      "productName": "Q.VOLT G2 HYB-5kW.1.1 (AS4777-2 2020)",
+      "productCode": "Q.VOLT G2 HYB-5kW.1.1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e41a6057-c591-46f3-89bc-6e1201b89ad3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hanwha_Q_CELLS_Q.VOLT_G2_HYB-5kW.1.1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11826,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 721,
+        "width": 467,
+        "depth": 212,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.953,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21454,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 204,
+      "brandName": "Hanwha Q CELLS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/124a0b9f-feee-4bd4-88ea-a111011b3f28.png",
+      "productName": "Q.VOLT H5S (AS4777-2 2020)",
+      "productCode": "Q.VOLT H5S (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b557d05a-7d10-418a-ada5-a555cf6203ad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hanwha_Q_CELLS_Q.VOLT_H5S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10564,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 460,
+        "depth": 221,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20261,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 204,
+      "brandName": "Hanwha Q CELLS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/124a0b9f-feee-4bd4-88ea-a111011b3f28.png",
+      "productName": "Q.VOLT HYB-G2 4.6 kW 1.1",
+      "productCode": "Q.VOLT HYB-G2 4.6 kW 1.1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a6da50b5-7836-4377-b41b-1039d76fbbb9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hanwha_Q_CELLS_Q.VOLT_HYB-G2_4.6_kW_1.1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9371,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 721,
+        "width": 467,
+        "depth": 212,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.962,
+        "euroEfficiency": 0.955,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21451,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 204,
+      "brandName": "Hanwha Q CELLS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/124a0b9f-feee-4bd4-88ea-a111011b3f28.png",
+      "productName": "Q.VOLT HYB-G2 5kW.1.1",
+      "productCode": "Q.VOLT HYB-G2 5kW.1.1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d98f6965-615e-41e4-95d1-3ebe646b5291.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hanwha_Q_CELLS_Q.VOLT_HYB-G2_5kW.1.1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10561,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 721,
+        "width": 467,
+        "depth": 212,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.953,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

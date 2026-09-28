@@ -1,0 +1,576 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Felicity ESS",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:39:42.154Z",
+  "items": [
+    {
+      "id": 24092,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "FLS-ES232LC-S",
+      "productCode": "FLS-ES232LC-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4e73cd41-f534-4af0-8228-6c843722c297.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Felicity_ESS_FLS-ES232LC-S.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13202,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 949,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 2200,
+        "width": 1600,
+        "depth": 1400,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 0,
+        "maxEfficiency": 0.94,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 949
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21723,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "FLS-MES215AF-S",
+      "productCode": "FLS-MES215AF-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b99a169e-0f4c-497a-9dca-a78a21b70eea.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Felicity_ESS_FLS-MES215AF-S.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10833,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 100,
+        "maxShortCircuitCurrentPerMppt": 100000,
+        "type": "Hybrid Inverter",
+        "height": 2400,
+        "width": 2450,
+        "depth": 1550,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 120000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.87,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 100000
+        },
+        "nominal_ac_power": {
+          "value": 100
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127615,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "T-REX-10KLP3G01",
+      "productCode": "T-REX-10KLP3G01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/3af81dda-75e8-4eb6-8125-a3ce9e3279c0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/9d02fd9f-47a4-4cd8-a5c6-84ce0ed46176.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "T-REX-10KLP3G01 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "IEC",
+        "UN38.3",
+        "VDE-AR-N 4105",
+        "G99/1",
+        "EN50549-1",
+        "CEI -21",
+        "AS 4777.2",
+        "NRS 097-2-1",
+        "IEC 62109-1/2",
+        "IEC 62040-1",
+        "EN61000-6-1",
+        "EN61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28185,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 655,
+        "width": 475,
+        "depth": 266,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20432,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "T-REX-4K6LP1G01",
+      "productCode": "T-REX-4K6LP1G01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e51d4956-68e3-4c14-80b2-1ec5cc7b47a4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Felicity_ESS_T-REX-4K6LP1G01.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9542,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 530,
+        "width": 493,
+        "depth": 228,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22815,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "T-REX-50KHP3G01",
+      "productCode": "T-REX-50KHP3G01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2b607550-e417-4b14-aa4a-0fd1df230daa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Felicity_ESS_T-REX-50KHP3G01.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11925,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "Hybrid Inverter",
+        "height": 582,
+        "width": 940,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 65000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21605,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "T-REX-5KLP1G01",
+      "productCode": "T-REX-5KLP1G01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f20cf747-70c8-4bb4-8d1a-351214e65cb6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Felicity_ESS_T-REX-5KLP1G01.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10715,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 530,
+        "width": 493,
+        "depth": 228,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22240,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1357,
+      "brandName": "Felicity ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/2943dedb-6242-4947-83e6-c5aaac63a3fc.png",
+      "productName": "T-REX-6KLP1G01",
+      "productCode": "T-REX-6KLP1G01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/58e9ca84-1165-4005-930c-503a64c408c2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Felicity_ESS_T-REX-6KLP1G01.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11350,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 530,
+        "width": 493,
+        "depth": 228,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

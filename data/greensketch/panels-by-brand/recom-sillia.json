@@ -1,0 +1,365 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "RECOM-Sillia",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:32:24.480Z",
+  "items": [
+    {
+      "id": 122506,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1258,
+      "brandName": "RECOM-Sillia",
+      "brandLogo": "https://file.greensketch.net/brands/logo/RECOM-Sillia.jpg",
+      "productName": "RCM-360-6ME",
+      "productCode": "RCM-360-6ME",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/8645b17d-e486-4931-938c-b628dc53b0be.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/89c2dad7-ef09-4edf-92b2-582b59c6b4ab.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68742,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 360,
+        "stcVoltageAtMaximumPowerVmpp": 33.7,
+        "stcShortCircuitCurrentIsc": 11.2,
+        "stcOpenCircuitVoltageVoc": 40.9,
+        "stcCurrentAtMaximumPowerImpp": 10.69,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0054,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1976,
+        "noctMaximumPowerPmax": 266.7,
+        "noctVoltageAtMaximumPowerVmpp": 31.1,
+        "noctCurrentAtMaximumPowerImpp": 8.57,
+        "noctOpenCircuitVoltageVoc": 38.2,
+        "noctShortCircuitCurrentIsc": 9.03,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 11.2
+        },
+        "stc_voc": {
+          "value": 40.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 360
+        },
+        "cec_model": {
+          "value": "RCM-360-6ME"
+        },
+        "stc_vmpp": {
+          "value": 33.7
+        }
+      }
+    },
+    {
+      "id": 122505,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1258,
+      "brandName": "RECOM-Sillia",
+      "brandLogo": "https://file.greensketch.net/brands/logo/RECOM-Sillia.jpg",
+      "productName": "RCM-365-6ME",
+      "productCode": "RCM-365-6ME",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/ca20af42-3a08-4e7f-b466-8967b1eb2a16.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/23e77b3e-8ad6-46dd-937f-5307dbc5fa4e.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68741,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 33.9,
+        "stcShortCircuitCurrentIsc": 11.28,
+        "stcOpenCircuitVoltageVoc": 41.1,
+        "stcCurrentAtMaximumPowerImpp": 10.77,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0054,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2004,
+        "noctMaximumPowerPmax": 270.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.3,
+        "noctCurrentAtMaximumPowerImpp": 8.64,
+        "noctOpenCircuitVoltageVoc": 38.4,
+        "noctShortCircuitCurrentIsc": 9.09,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 11.28
+        },
+        "stc_voc": {
+          "value": 41.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "RCM-365-6ME"
+        },
+        "stc_vmpp": {
+          "value": 33.9
+        }
+      }
+    },
+    {
+      "id": 122504,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1258,
+      "brandName": "RECOM-Sillia",
+      "brandLogo": "https://file.greensketch.net/brands/logo/RECOM-Sillia.jpg",
+      "productName": "RCM-370-6ME",
+      "productCode": "RCM-370-6ME",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/7fd64314-1775-432c-89fb-c0a3161b3b85.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/a96dfa01-3a6c-4894-b70f-1f65be011b84.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68740,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 370,
+        "stcVoltageAtMaximumPowerVmpp": 34.1,
+        "stcShortCircuitCurrentIsc": 11.37,
+        "stcOpenCircuitVoltageVoc": 41.3,
+        "stcCurrentAtMaximumPowerImpp": 10.86,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0054,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2,
+        "noctMaximumPowerPmax": 274.1,
+        "noctVoltageAtMaximumPowerVmpp": 31.5,
+        "noctCurrentAtMaximumPowerImpp": 8.71,
+        "noctOpenCircuitVoltageVoc": 38.5,
+        "noctShortCircuitCurrentIsc": 9.17,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 11.37
+        },
+        "stc_voc": {
+          "value": 41.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 370
+        },
+        "cec_model": {
+          "value": "RCM-370-6ME"
+        },
+        "stc_vmpp": {
+          "value": 34.1
+        }
+      }
+    },
+    {
+      "id": 122503,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1258,
+      "brandName": "RECOM-Sillia",
+      "brandLogo": "https://file.greensketch.net/brands/logo/RECOM-Sillia.jpg",
+      "productName": "RCM-375-6ME",
+      "productCode": "RCM-375-6ME",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/9e6cc14c-d8c3-45f3-9767-5624464f9246.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/38614e48-9f68-4864-ba43-9590be6bdeb6.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68739,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 375,
+        "stcVoltageAtMaximumPowerVmpp": 34.3,
+        "stcShortCircuitCurrentIsc": 11.48,
+        "stcOpenCircuitVoltageVoc": 41.5,
+        "stcCurrentAtMaximumPowerImpp": 10.93,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0054,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2031,
+        "noctMaximumPowerPmax": 277.8,
+        "noctVoltageAtMaximumPowerVmpp": 31.7,
+        "noctCurrentAtMaximumPowerImpp": 8.76,
+        "noctOpenCircuitVoltageVoc": 38.7,
+        "noctShortCircuitCurrentIsc": 9.24,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 11.48
+        },
+        "stc_voc": {
+          "value": 41.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 375
+        },
+        "cec_model": {
+          "value": "RCM-375-6ME"
+        },
+        "stc_vmpp": {
+          "value": 34.3
+        }
+      }
+    }
+  ]
+}

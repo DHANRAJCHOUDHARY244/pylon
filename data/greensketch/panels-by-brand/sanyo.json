@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Sanyo",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.462Z",
+  "items": [
+    {
+      "id": 18175,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1236,
+      "brandName": "Sanyo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/sanyoTvLogo.png",
+      "productName": "HIP-210NKHE6",
+      "productCode": "HIP-210NKHE6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Sanyo_HIP-210NKHE6.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Sanyo_HIP-210NKHE6.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5056,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 210,
+        "stcVoltageAtMaximumPowerVmpp": 41.3,
+        "stcShortCircuitCurrentIsc": 5.57,
+        "stcOpenCircuitVoltageVoc": 50.9,
+        "stcCurrentAtMaximumPowerImpp": 5.09,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 1580,
+        "width": 798,
+        "depth": 35,
+        "weight": 15,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.167,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 5.57
+        },
+        "stc_voc": {
+          "value": 50.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 210
+        },
+        "cec_model": {
+          "value": "HIP-210NKHE6"
+        },
+        "stc_vmpp": {
+          "value": 41.3
+        }
+      }
+    },
+    {
+      "id": 122557,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1236,
+      "brandName": "Sanyo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/sanyoTvLogo.png",
+      "productName": "HIT-H245E01",
+      "productCode": "HIT-H245E01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/f575631e-2698-4984-9409-8f9b1a94a9a6.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/d8f15eaf-8ae4-4f8d-83af-b84f8d710041.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68793,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 245,
+        "stcVoltageAtMaximumPowerVmpp": 34.4,
+        "stcShortCircuitCurrentIsc": 7.73,
+        "stcOpenCircuitVoltageVoc": 42.7,
+        "stcCurrentAtMaximumPowerImpp": 7.14,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.00107,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1610,
+        "width": 825,
+        "depth": 35,
+        "weight": 16.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "HIT",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.177,
+        "noctMaximumPowerPmax": 185.4,
+        "noctVoltageAtMaximumPowerVmpp": 32.4,
+        "noctCurrentAtMaximumPowerImpp": 5.73,
+        "noctOpenCircuitVoltageVoc": 48.3,
+        "noctShortCircuitCurrentIsc": 6.23,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 7.73
+        },
+        "stc_voc": {
+          "value": 42.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.107
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 245
+        },
+        "cec_model": {
+          "value": "HIT-H245E01"
+        },
+        "stc_vmpp": {
+          "value": 34.4
+        }
+      }
+    },
+    {
+      "id": 122556,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1236,
+      "brandName": "Sanyo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/sanyoTvLogo.png",
+      "productName": "HIT-H250E01",
+      "productCode": "HIT-H250E01",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/8a9a2e5e-66ec-4550-9be5-dccee7011d11.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/272039da-caf6-4160-ac8e-4e6fee6ab564.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68792,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 250,
+        "stcVoltageAtMaximumPowerVmpp": 34.9,
+        "stcShortCircuitCurrentIsc": 7.74,
+        "stcOpenCircuitVoltageVoc": 43.1,
+        "stcCurrentAtMaximumPowerImpp": 7.18,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.00108,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1610,
+        "width": 825,
+        "depth": 35,
+        "weight": 16.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "HIT",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.18,
+        "noctMaximumPowerPmax": 188.9,
+        "noctVoltageAtMaximumPowerVmpp": 32.8,
+        "noctCurrentAtMaximumPowerImpp": 5.76,
+        "noctOpenCircuitVoltageVoc": 48.9,
+        "noctShortCircuitCurrentIsc": 6.23,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 7.74
+        },
+        "stc_voc": {
+          "value": 43.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.108
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 250
+        },
+        "cec_model": {
+          "value": "HIT-H250E01"
+        },
+        "stc_vmpp": {
+          "value": 34.9
+        }
+      }
+    },
+    {
+      "id": 122559,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1236,
+      "brandName": "Sanyo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/sanyoTvLogo.png",
+      "productName": "HIT-N235SE10",
+      "productCode": "HIT-N235SE10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/0a3ed5df-97ac-42f7-a373-1cd96ed6649b.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/35496e03-9b92-4b02-9287-a6528398d0c4.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68795,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 235,
+        "stcVoltageAtMaximumPowerVmpp": 43,
+        "stcShortCircuitCurrentIsc": 5.84,
+        "stcOpenCircuitVoltageVoc": 51.8,
+        "stcCurrentAtMaximumPowerImpp": 5.48,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0013,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1580,
+        "width": 798,
+        "depth": 35,
+        "weight": 15,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "HIT",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.186,
+        "noctMaximumPowerPmax": 179,
+        "noctVoltageAtMaximumPowerVmpp": 40.5,
+        "noctCurrentAtMaximumPowerImpp": 4.41,
+        "noctOpenCircuitVoltageVoc": 48.9,
+        "noctShortCircuitCurrentIsc": 4.7,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 5.84
+        },
+        "stc_voc": {
+          "value": 51.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.13
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 235
+        },
+        "cec_model": {
+          "value": "HIT-N235SE10"
+        },
+        "stc_vmpp": {
+          "value": 43
+        }
+      }
+    },
+    {
+      "id": 122558,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1236,
+      "brandName": "Sanyo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/sanyoTvLogo.png",
+      "productName": "HIT-N240SE10",
+      "productCode": "HIT-N240SE10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/34709c05-29d3-4fd7-b537-e1018b6564e3.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/3f390127-eb2c-4228-adae-3dd615f71d8c.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68794,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 240,
+        "stcVoltageAtMaximumPowerVmpp": 43.7,
+        "stcShortCircuitCurrentIsc": 5.85,
+        "stcOpenCircuitVoltageVoc": 52.4,
+        "stcCurrentAtMaximumPowerImpp": 5.51,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.00131,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1580,
+        "width": 798,
+        "depth": 35,
+        "weight": 15,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "HIT",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.19,
+        "noctMaximumPowerPmax": 182,
+        "noctVoltageAtMaximumPowerVmpp": 41.1,
+        "noctCurrentAtMaximumPowerImpp": 4.44,
+        "noctOpenCircuitVoltageVoc": 49.4,
+        "noctShortCircuitCurrentIsc": 4.71,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 5.85
+        },
+        "stc_voc": {
+          "value": 52.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.131
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 240
+        },
+        "cec_model": {
+          "value": "HIT-N240SE10"
+        },
+        "stc_vmpp": {
+          "value": 43.7
+        }
+      }
+    }
+  ]
+}

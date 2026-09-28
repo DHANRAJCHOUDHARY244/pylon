@@ -1,0 +1,1194 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Sonnen",
+  "count": 15,
+  "exportedAt": "2026-09-23T06:39:31.874Z",
+  "items": [
+    {
+      "id": 22369,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Evo (AS4777-2 2020)",
+      "productCode": "sonnenBatterie Evo",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5336a9a1-bf32-4257-88cb-be43bc990319.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Evo_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "sonnenBatterie Evo (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11479,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 230,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 1400,
+        "width": 710,
+        "depth": 427,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.944,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 230
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23512,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Hybrid 9.53/10",
+      "productCode": "sonnenBatterie Hybrid 9.53/10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1dbf4702-a493-46a9-a5ef-622b873c5baf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Hybrid_9.53_10.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12622,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 67,
+        "depth": 23,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22193,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Hybrid 9.53/12.5",
+      "productCode": "sonnenBatterie Hybrid 9.53/12.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f1fe2fd9-b177-46e3-92c2-665a37b13c1b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Hybrid_9.53_12.5.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11303,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 186,
+        "width": 67,
+        "depth": 23,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23110,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Hybrid 9.53/15",
+      "productCode": "sonnenBatterie Hybrid 9.53/15",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ee1781f2-4b56-4bb1-a379-27c7268e3c9a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Hybrid_9.53_15.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12220,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 186,
+        "width": 67,
+        "depth": 23,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20373,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Hybrid 9.53/2.5",
+      "productCode": "sonnenBatterie Hybrid 9.53/2.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/93facbf6-d427-4e68-b7e0-ef20c1bcbf7a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Hybrid_9.53_2.5.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9483,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 88,
+        "width": 67,
+        "depth": 23,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21473,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Hybrid 9.53/5",
+      "productCode": "sonnenBatterie Hybrid 9.53/5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a939316c-6e7c-44ea-b8e7-93379ff74e45.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Hybrid_9.53_5.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10583,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 67,
+        "depth": 23,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22434,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie Hybrid 9.53/7.5",
+      "productCode": "sonnenBatterie Hybrid 9.53/7.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7964fb84-1f24-4b61-872d-70ecb55006a6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_Hybrid_9.53_7.5.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11544,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 67,
+        "depth": 23,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23881,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/10",
+      "productCode": "sonnenBatterie hybrid 8.1/10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/37a51cfe-06e0-4bdf-b184-4f7deb77aeee.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_10.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12991,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22801,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/12",
+      "productCode": "sonnenBatterie hybrid 8.1/12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7b8bfe12-2c5e-41b5-8966-67e8dc46313a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_12.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11911,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 184,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21409,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/14",
+      "productCode": "sonnenBatterie hybrid 8.1/14",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d09e5e8b-e5d0-49b3-8fe9-1cbcbce515e9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_14.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10519,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 184,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23343,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/16",
+      "productCode": "sonnenBatterie hybrid 8.1/16",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8b3ff4f8-62fc-449b-afd7-aabc06b1ba66.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_16.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12453,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 184,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24066,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/2",
+      "productCode": "sonnenBatterie hybrid 8.1/2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/dd112e16-7b2a-428f-953f-633500eac5f1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13176,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 70,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22957,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/4",
+      "productCode": "sonnenBatterie hybrid 8.1/4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/78eb25aa-3bbc-40c6-b730-2aa96496f00e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_4.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12067,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23083,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/6",
+      "productCode": "sonnenBatterie hybrid 8.1/6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7e5b34ec-c646-4cda-8429-a5f402dcb38c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_6.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12193,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24443,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 297,
+      "brandName": "Sonnen",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sonnen.png",
+      "productName": "sonnenBatterie hybrid 8.1/8",
+      "productCode": "sonnenBatterie hybrid 8.1/8",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/79ead946-3b40-41ae-90dd-615a735020cd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sonnen_sonnenBatterie_hybrid_8.1_8.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13553,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 510,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 137,
+        "width": 64,
+        "depth": 22,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 510
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

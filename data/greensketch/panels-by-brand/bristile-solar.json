@@ -1,0 +1,187 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Bristile Solar",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:32:24.484Z",
+  "items": [
+    {
+      "id": 38010,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2007,
+      "brandName": "Bristile Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bristile+Solar.png",
+      "productName": "BREC 45S-Rab",
+      "productCode": "BREC 45S-Rab",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Bristile_Solar_BREC_45S-Rab.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Bristile_Solar_BREC_45S-Rab.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16010,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 45,
+        "stcVoltageAtMaximumPowerVmpp": 5.21,
+        "stcShortCircuitCurrentIsc": 9.31,
+        "stcOpenCircuitVoltageVoc": 6.67,
+        "stcCurrentAtMaximumPowerImpp": 8.65,
+        "temperatureCoefficientOfPmax": -0.0041,
+        "temperatureCoefficientOfVoc": -0.0034,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0075,
+        "height": 943,
+        "width": 435,
+        "depth": 55,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.16,
+        "noctMaximumPowerPmax": 45,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.41
+        },
+        "stc_isc": {
+          "value": 9.31
+        },
+        "stc_voc": {
+          "value": 6.67
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.34
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 45
+        },
+        "cec_model": {
+          "value": "BREC 45S-Rab"
+        },
+        "stc_vmpp": {
+          "value": 5.21
+        }
+      }
+    },
+    {
+      "id": 35145,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2007,
+      "brandName": "Bristile Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bristile+Solar.png",
+      "productName": "BREC 47S-Rab",
+      "productCode": "BREC 47S-Rab",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Bristile_Solar_BREC_47S-Rab.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Bristile_Solar_BREC_47S-Rab.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13145,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 47,
+        "stcVoltageAtMaximumPowerVmpp": 5.18,
+        "stcShortCircuitCurrentIsc": 9.68,
+        "stcOpenCircuitVoltageVoc": 6.67,
+        "stcCurrentAtMaximumPowerImpp": 9.09,
+        "temperatureCoefficientOfPmax": -0.0041,
+        "temperatureCoefficientOfVoc": -0.0034,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0075,
+        "height": 943,
+        "width": 435,
+        "depth": 55,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.17,
+        "noctMaximumPowerPmax": 47,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.41
+        },
+        "stc_isc": {
+          "value": 9.68
+        },
+        "stc_voc": {
+          "value": 6.67
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.34
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 47
+        },
+        "cec_model": {
+          "value": "BREC 47S-Rab"
+        },
+        "stc_vmpp": {
+          "value": 5.18
+        }
+      }
+    }
+  ]
+}

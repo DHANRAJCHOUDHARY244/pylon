@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "GS ENERGY",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.624Z",
+  "items": [
+    {
+      "id": 24179,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1451,
+      "brandName": "GS ENERGY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-21_20-13-46.png",
+      "productName": "GW3648D-EM",
+      "productCode": "GW3648D-EM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/245959ac-3747-4f26-b45a-2d2313f8de69.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GS_ENERGY_GW3648D-EM.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13289,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "Hybrid Inverter",
+        "height": 432,
+        "width": 347,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24377,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1451,
+      "brandName": "GS ENERGY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-21_20-13-46.png",
+      "productName": "GW5048D-EM",
+      "productCode": "GW5048D-EM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c2804007-2695-463d-893e-33aa952c3c9c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GS_ENERGY_GW5048D-EM.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13487,
+        "companyProductId": null,
+        "maxAcPower": 6500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6500,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "Hybrid Inverter",
+        "height": 432,
+        "width": 347,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 6500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

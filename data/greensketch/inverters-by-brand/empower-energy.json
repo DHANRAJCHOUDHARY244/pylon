@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Empower Energy",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.595Z",
+  "items": [
+    {
+      "id": 23119,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1445,
+      "brandName": "Empower Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Empower+Energy.png",
+      "productName": "Electrobank 14 (AS4777-2 2020)",
+      "productCode": "Electrobank 14 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2b51a884-e6af-4931-b247-2214416a7622.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Empower_Energy_Electrobank_14_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12229,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 430,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 430,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 1200,
+        "width": 900,
+        "depth": 225,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 430
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24104,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1445,
+      "brandName": "Empower Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Empower+Energy.png",
+      "productName": "ElektroBank 14",
+      "productCode": "ElektroBank 14",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d8e81296-ef01-453f-b841-b5930b6eb006.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Empower_Energy_ElektroBank_14.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "Elektrobank 14 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13214,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 430,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 430,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 1200,
+        "width": 900,
+        "depth": 225,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 430
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23750,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1445,
+      "brandName": "Empower Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Empower+Energy.png",
+      "productName": "ElektroBank 7",
+      "productCode": "ElektroBank 7",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ff270b64-5f80-47cc-92c2-1ea008277d74.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Empower_Energy_ElektroBank_7.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12860,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 430,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 1022,
+        "width": 713,
+        "depth": 435,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

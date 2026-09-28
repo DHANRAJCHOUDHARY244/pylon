@@ -1,0 +1,91 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Risen Energy",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.678Z",
+  "items": [
+    {
+      "id": 125053,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "SU120E60LM",
+      "productCode": "SU120E60LM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/bf9f55b0-2c7b-4261-b6dd-9643ca5d4479.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5f6e86af-53b8-4fbc-b3a4-a37f1ea4e8a7.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "SU120E60LM (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IP 65",
+        "C4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27030,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 2000,
+        "width": 1200,
+        "depth": 480,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

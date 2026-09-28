@@ -1,0 +1,2174 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Each Energy",
+  "count": 27,
+  "exportedAt": "2026-09-23T06:39:31.838Z",
+  "items": [
+    {
+      "id": 23722,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES10K-M1 (AS4777-2 2020)",
+      "productCode": "EES10K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9064ac2c-530b-48ac-95e0-512e81fb130a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES10K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12832,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 411,
+        "width": 419,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21091,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES3K-M1 (AS4777-2 2020)",
+      "productCode": "EES3K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/864ae3d6-209f-4cbb-87f8-d01910e25653.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES3K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10201,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 340,
+        "width": 350,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23738,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES4.6K-M1",
+      "productCode": "EES4.6K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/de61374e-bf0d-4fca-a75c-e4cd0929a5f2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES4.6K-M1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12848,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 340,
+        "width": 350,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6900,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23735,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES4K-M1 (AS4777-2 2020)",
+      "productCode": "EES4K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2938e63f-a3e7-4e77-9836-4a6b42c7b265.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES4K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12845,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 340,
+        "width": 350,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24605,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES5K-M1 (AS4777-2 2020)",
+      "productCode": "EES5K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f045414d-f4da-489b-bf36-5be3178807ff.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES5K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13715,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 340,
+        "width": 350,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22101,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES6K-M1 (AS4777-2 2020)",
+      "productCode": "EES6K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b00a780d-d4ba-4d0d-ad01-7d1149ab25a6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES6K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11211,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 340,
+        "width": 350,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23367,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES6KPro-M1 (AS4777-2 2020)",
+      "productCode": "EES6KPro-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4a2451dd-6038-4a3c-ab6e-20f9536ad802.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES6KPro-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12477,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 411,
+        "width": 419,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20968,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES7K-M1 (AS4777-2 2020)",
+      "productCode": "EES7K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/28ebe685-91de-470d-a454-0efde6b77a2c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES7K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10078,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 411,
+        "width": 419,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22606,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES8K-M1 (AS4777-2 2020)",
+      "productCode": "EES8K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3a85cba7-595d-499b-a55a-b6bfb5372d15.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES8K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11716,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 411,
+        "width": 419,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21228,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EES9K-M1 (AS4777-2 2020)",
+      "productCode": "EES9K-M1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c3ed819f-ff7f-4bc4-9674-1acfe6198fa0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EES9K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10338,
+        "companyProductId": null,
+        "maxAcPower": 9000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 411,
+        "width": 419,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22177,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET10K-M1",
+      "productCode": "EET10K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4a686584-4c46-41f9-ad6d-96dc52711ba0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET10K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET10K-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11287,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22578,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET15K-M1 (AS4777-2 2020)",
+      "productCode": "EET15K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4f866129-a984-45d5-a382-6d77b54c91a7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET15K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET15K-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11688,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 24436,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET15KPro-M1",
+      "productCode": "EET15KPro-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7e54efe8-2489-412e-ba66-c504a82d7980.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET15KPro-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET15KPro-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13546,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "PV-only Inverter",
+        "height": 461,
+        "width": 478,
+        "depth": 174,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23475,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET20K-M1 (AS4777-2 2020)",
+      "productCode": "EET20K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fdc8953c-024c-4ba0-b4e8-acbf4ab3d1b8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET20K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET20K-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12585,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20700,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET20KPro-M1",
+      "productCode": "EET20KPro-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c43610ac-f29f-47aa-9278-2c4f81e40d30.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET20KPro-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET20KPro-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9810,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23470,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET25K-M1 (AS4777-2 2020)",
+      "productCode": "EET25K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0b59ecad-2ff7-4ecc-8fb5-b14e81b88b6a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET25K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET25K-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12580,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "PV-only Inverter",
+        "height": 461,
+        "width": 478,
+        "depth": 174,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 37500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20502,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET30K-M1",
+      "productCode": "EET30K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a7687739-cbc8-4368-9d49-63693460a828.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET30K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET30K-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9612,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "PV-only Inverter",
+        "height": 461,
+        "width": 478,
+        "depth": 174,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20636,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET5KPro-M1",
+      "productCode": "EET5KPro-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6f873731-bf9f-4f82-a7cd-f26e0b6eb541.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET5KPro-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET5KPro-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9746,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 24353,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET6KPro-M1",
+      "productCode": "EET6KPro-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/58ef115e-be1b-4633-9dd5-6b0d5c5ae5d2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET6KPro-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET6KPro-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13463,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20642,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "EET8K-M1",
+      "productCode": "EET8K-M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a80f6ccd-17be-4965-bc5c-b4a4842c0604.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_EET8K-M1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EET8K-M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9752,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 1080,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "PV-only Inverter",
+        "height": 401,
+        "width": 411,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124845,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS3.6K-M1A",
+      "productCode": "PHS3.6K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4c534824-64e7-4dc1-92ec-eef747a12f00.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/705fb54d-d028-45fb-8bdf-42756a2815a1.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "EN50549-1:2019",
+        "G98:2021",
+        "G99:2021",
+        "NC RFG",
+        "PTPIREE",
+        "ABNT NBR 16149",
+        "ABNT NBR 16150",
+        "VDE-AR-N 4105",
+        "CEI0-21",
+        "RD1699",
+        "IEC-62109-1/-2",
+        "IEC-62477-1/-2",
+        "IEC-61000-6-1/-2/-3",
+        "NB/T32004"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26969,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00986,
+        "euroEfficiency": 0.00981,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 36,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23905,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS3K-M1A",
+      "productCode": "PHS3K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a2595f6d-c540-49ad-afd4-90fa6488e8e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_PHS3K-M1A_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "PHS3K-M1A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13015,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 3000,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 3000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124844,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS4.6K-M1A",
+      "productCode": "PHS4.6K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3e2e304c-2c19-4b74-b8b6-53e77ba408f7.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/c2e11d7b-b5a2-477c-ba8c-062b749149b1.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "EN50549-1:2019",
+        "G98:2021",
+        "G99:2021",
+        "NC RFG",
+        "PTPIREE",
+        "ABNT NBR 16149",
+        "ABNT NBR 16150",
+        "VDE-AR-N 4105",
+        "CEI0-21",
+        "RD1699",
+        "IEC-62109-1/-2",
+        "IEC-62477-1/-2",
+        "IEC-61000-6-1/-2/-3",
+        "NB/T32004"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26968,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00986,
+        "euroEfficiency": 0.00981,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 36,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21092,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS4K-M1A",
+      "productCode": "PHS4K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/aba3d411-7bdf-4a4c-a531-8c4ad15fdbbb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_PHS4K-M1A_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "PHS4K-M1A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10202,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 4000,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 4000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24564,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS5K-M1A",
+      "productCode": "PHS5K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0d1dc4fd-d7cb-401c-84c0-5802b89ef1b8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_PHS5K-M1A_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "PHS5K-M1A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13674,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23954,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS6K-M1A",
+      "productCode": "PHS6K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/828b1c02-8215-4d95-94a6-2a5b75571f47.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_PHS6K-M1A_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "PHS6K-M1A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13064,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 6000,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9600,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 6000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20762,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1331,
+      "brandName": "Each Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3391ab30-9852-4edf-b3de-c729a123ecb9.png",
+      "productName": "PHS8K-M1A",
+      "productCode": "PHS8K-M1A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/16eb5f08-a402-4eae-9f4a-74c28c58ddad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Each_Energy_PHS8K-M1A_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "PHS8K-M1A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9872,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 610,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12800,
+        "dcInputs": 3,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

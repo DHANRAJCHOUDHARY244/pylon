@@ -1,0 +1,98 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Enerdrive",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:32:24.487Z",
+  "items": [
+    {
+      "id": 37535,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2012,
+      "brandName": "Enerdrive",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Enerdrive+1.png",
+      "productName": "EN-SP180W",
+      "productCode": "EN-SP180W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Enerdrive_EN-SP180W.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Enerdrive_EN-SP180W.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15535,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 180,
+        "stcVoltageAtMaximumPowerVmpp": 19.8,
+        "stcShortCircuitCurrentIsc": 9.85,
+        "stcOpenCircuitVoltageVoc": 24.1,
+        "stcCurrentAtMaximumPowerImpp": 9.1,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": 0.0034,
+        "temperatureCoefficientOfIsc": 0.00037,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1482,
+        "width": 680,
+        "depth": 35,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.173,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 9.85
+        },
+        "stc_voc": {
+          "value": 24.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": 0.34
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.037
+        },
+        "power": {
+          "value": 180
+        },
+        "cec_model": {
+          "value": "EN-SP180W"
+        },
+        "stc_vmpp": {
+          "value": 19.8
+        }
+      }
+    }
+  ]
+}

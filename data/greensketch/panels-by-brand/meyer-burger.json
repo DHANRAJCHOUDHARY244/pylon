@@ -1,0 +1,632 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Meyer Burger",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:32:14.072Z",
+  "items": [
+    {
+      "id": 123067,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "370W",
+      "productCode": "370W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/203bb76d-12c1-424d-9624-9733bd34c62c.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/0498bc7d-450f-42d3-a26d-6a3d0e2871b3.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69303,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 370,
+        "stcVoltageAtMaximumPowerVmpp": 37.7,
+        "stcShortCircuitCurrentIsc": 10.3,
+        "stcOpenCircuitVoltageVoc": 44.5,
+        "stcCurrentAtMaximumPowerImpp": 9.8,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.002,
+        "height": 1722,
+        "width": 1041,
+        "depth": 35,
+        "weight": 24.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.206,
+        "noctMaximumPowerPmax": 280,
+        "noctVoltageAtMaximumPowerVmpp": 35.8,
+        "noctCurrentAtMaximumPowerImpp": 7.8,
+        "noctOpenCircuitVoltageVoc": 42.2,
+        "noctShortCircuitCurrentIsc": 8.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.3
+        },
+        "stc_voc": {
+          "value": 44.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 370
+        },
+        "cec_model": {
+          "value": "370W"
+        },
+        "stc_vmpp": {
+          "value": 37.7
+        }
+      }
+    },
+    {
+      "id": 123066,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "375W",
+      "productCode": "375W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/28d8371f-0cb4-4454-a2a2-8142207b9203.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/1dcff07f-9d9f-4372-bb2f-308809abb19a.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69302,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 375,
+        "stcVoltageAtMaximumPowerVmpp": 37.8,
+        "stcShortCircuitCurrentIsc": 10.6,
+        "stcOpenCircuitVoltageVoc": 44.4,
+        "stcCurrentAtMaximumPowerImpp": 9.9,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0025,
+        "height": 1767,
+        "width": 1041,
+        "depth": 35,
+        "weight": 19.7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.204,
+        "noctMaximumPowerPmax": 283,
+        "noctVoltageAtMaximumPowerVmpp": 35.7,
+        "noctCurrentAtMaximumPowerImpp": 7.9,
+        "noctOpenCircuitVoltageVoc": 42.2,
+        "noctShortCircuitCurrentIsc": 8.5,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.6
+        },
+        "stc_voc": {
+          "value": 44.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 375
+        },
+        "cec_model": {
+          "value": "375W"
+        },
+        "stc_vmpp": {
+          "value": 37.8
+        }
+      }
+    },
+    {
+      "id": 123064,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "380W",
+      "productCode": "380W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/b8b8b15e-840f-449e-891b-0342a97ac8cc.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/ec18e381-7e53-4389-b489-12d1ed68ca2e.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69300,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 380,
+        "stcVoltageAtMaximumPowerVmpp": 38.4,
+        "stcShortCircuitCurrentIsc": 10.4,
+        "stcOpenCircuitVoltageVoc": 44.6,
+        "stcCurrentAtMaximumPowerImpp": 9.9,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.002,
+        "height": 1722,
+        "width": 1041,
+        "depth": 35,
+        "weight": 24.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 287,
+        "noctVoltageAtMaximumPowerVmpp": 36.5,
+        "noctCurrentAtMaximumPowerImpp": 7.9,
+        "noctOpenCircuitVoltageVoc": 42.3,
+        "noctShortCircuitCurrentIsc": 8.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.4
+        },
+        "stc_voc": {
+          "value": 44.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 380
+        },
+        "cec_model": {
+          "value": "380W"
+        },
+        "stc_vmpp": {
+          "value": 38.4
+        }
+      }
+    },
+    {
+      "id": 123061,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "385W",
+      "productCode": "385W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/477c887e-74fd-4a3e-9c18-74444d88dffa.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/06f35bbb-ec84-4bc9-859c-b3e4631e7898.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69297,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 385,
+        "stcVoltageAtMaximumPowerVmpp": 38.7,
+        "stcShortCircuitCurrentIsc": 10.4,
+        "stcOpenCircuitVoltageVoc": 44.7,
+        "stcCurrentAtMaximumPowerImpp": 10,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.002,
+        "height": 1722,
+        "width": 1041,
+        "depth": 35,
+        "weight": 24.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 292,
+        "noctVoltageAtMaximumPowerVmpp": 36.9,
+        "noctCurrentAtMaximumPowerImpp": 7.9,
+        "noctOpenCircuitVoltageVoc": 42.4,
+        "noctShortCircuitCurrentIsc": 8.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.4
+        },
+        "stc_voc": {
+          "value": 44.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 385
+        },
+        "cec_model": {
+          "value": "385W"
+        },
+        "stc_vmpp": {
+          "value": 38.7
+        }
+      }
+    },
+    {
+      "id": 123058,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "390W",
+      "productCode": "390W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/52b829b3-ac7f-4a20-bb10-51b003a26c61.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/bfe76d5b-c29e-4e71-8307-3bfb9eb0ff44.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69294,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 37.9,
+        "stcShortCircuitCurrentIsc": 10.8,
+        "stcOpenCircuitVoltageVoc": 44.5,
+        "stcCurrentAtMaximumPowerImpp": 10.3,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0025,
+        "height": 1767,
+        "width": 1041,
+        "depth": 35,
+        "weight": 19.7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 294,
+        "noctVoltageAtMaximumPowerVmpp": 8.2,
+        "noctCurrentAtMaximumPowerImpp": 35.9,
+        "noctOpenCircuitVoltageVoc": 8.7,
+        "noctShortCircuitCurrentIsc": 44.5,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.8
+        },
+        "stc_voc": {
+          "value": 44.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "390W"
+        },
+        "stc_vmpp": {
+          "value": 37.9
+        }
+      }
+    },
+    {
+      "id": 123055,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "395W",
+      "productCode": "395W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/c90145b5-ec3d-46bb-a832-8a807c82e9a9.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/a68eae61-1519-4f0f-89c5-271f6d988b17.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69291,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 39.2,
+        "stcShortCircuitCurrentIsc": 10.6,
+        "stcOpenCircuitVoltageVoc": 44.7,
+        "stcCurrentAtMaximumPowerImpp": 10.1,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0025,
+        "height": 1767,
+        "width": 1041,
+        "depth": 35,
+        "weight": 19.7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 298,
+        "noctVoltageAtMaximumPowerVmpp": 37,
+        "noctCurrentAtMaximumPowerImpp": 8.1,
+        "noctOpenCircuitVoltageVoc": 42.4,
+        "noctShortCircuitCurrentIsc": 8.5,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.6
+        },
+        "stc_voc": {
+          "value": 44.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "395W"
+        },
+        "stc_vmpp": {
+          "value": 39.2
+        }
+      }
+    },
+    {
+      "id": 123053,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 216,
+      "brandName": "Meyer Burger",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Meyer+Burger.png",
+      "productName": "400W",
+      "productCode": "400W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/b9a96fb0-10f6-43b4-8f4d-d9fcb67938a6.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/08d0777a-c1fe-4f79-9c32-7d050e58b135.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69289,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 38.6,
+        "stcShortCircuitCurrentIsc": 10.9,
+        "stcOpenCircuitVoltageVoc": 44.6,
+        "stcCurrentAtMaximumPowerImpp": 10.4,
+        "temperatureCoefficientOfPmax": -0.00259,
+        "temperatureCoefficientOfVoc": -0.00234,
+        "temperatureCoefficientOfIsc": 0.00033,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0025,
+        "height": 1767,
+        "width": 1041,
+        "depth": 35,
+        "weight": 19.7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.217,
+        "noctMaximumPowerPmax": 302,
+        "noctVoltageAtMaximumPowerVmpp": 8.3,
+        "noctCurrentAtMaximumPowerImpp": 36.5,
+        "noctOpenCircuitVoltageVoc": 8.7,
+        "noctShortCircuitCurrentIsc": 44.6,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.259
+        },
+        "stc_isc": {
+          "value": 10.9
+        },
+        "stc_voc": {
+          "value": 44.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.234
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.033
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "400W"
+        },
+        "stc_vmpp": {
+          "value": 38.6
+        }
+      }
+    }
+  ]
+}

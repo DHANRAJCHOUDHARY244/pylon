@@ -1,0 +1,3643 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Hypontech",
+  "count": 46,
+  "exportedAt": "2026-09-23T06:39:31.813Z",
+  "items": [
+    {
+      "id": 22438,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HES-3000",
+      "productCode": "HES-3000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ad454fd5-8380-430a-b7ec-57499cb7b09e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HES-3000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11548,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 485,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21156,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HES-3680",
+      "productCode": "HES-3680",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ebfacc08-b0c5-4f6c-acb0-b8a764770ed1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HES-3680.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10266,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 485,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7360,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23900,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HES-4000",
+      "productCode": "HES-4000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fc480a06-ea8e-40da-bbae-4dbb8318038b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HES-4000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13010,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 485,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22110,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HES-5000",
+      "productCode": "HES-5000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/26f1394c-084c-4820-89d3-6779af7ba519.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HES-5000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11220,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 485,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21568,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HES-6000",
+      "productCode": "HES-6000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f23abb72-74b2-45b7-a7ff-dadad93caf86.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HES-6000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10678,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 485,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1206,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HHT-10000",
+      "productCode": "HHT-10000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b1f41806-a07d-4e57-82c1-bc6c6d7bffeb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HHT-10000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 148,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 145,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 145
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1342,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HHT-12000",
+      "productCode": "HHT-12000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/69153534-66fc-4388-9c59-291d8dab6b70.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HHT-12000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 284,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 145,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18000,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 145
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23207,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HHT-15000",
+      "productCode": "HHT-15000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/64406906-4cf3-4ceb-8479-486084901510.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HHT-15000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12317,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 145,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 145
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1205,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HHT-5000",
+      "productCode": "HHT-5000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bcf5a971-3206-49ca-9065-a89851496192.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HHT-5000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 147,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 145,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 145
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1159,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HHT-6000",
+      "productCode": "HHT-6000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/91f95d22-cded-4468-937c-070c7bfa3fdb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HHT-6000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 101,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 145,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 145
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1109,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HHT-8000",
+      "productCode": "HHT-8000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3afd2287-4061-40df-9b20-dfa21fb15aad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HHT-8000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 51,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 145,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 145
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23388,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPK-1000",
+      "productCode": "HPK-1000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/720e3904-c805-4af9-afde-c4d4e3b9cca7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPK-1000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12498,
+        "companyProductId": null,
+        "maxAcPower": 1000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1000,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 220,
+        "width": 298,
+        "depth": 111,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1650,
+        "dcInputs": 1,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 1000
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24395,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPK-1500",
+      "productCode": "HPK-1500",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/baeaa9f7-f229-4e8e-b52c-1e9ac425bf9a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPK-1500.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13505,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 220,
+        "width": 298,
+        "depth": 111,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2475,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21850,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPK-2000",
+      "productCode": "HPK-2000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/963b99fe-cccd-418e-935e-a455c63a8efc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPK-2000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10960,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 220,
+        "width": 298,
+        "depth": 111,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22851,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPK-2500",
+      "productCode": "HPK-2500",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7497cfa0-5d58-4f76-adc8-b90cb4afbe72.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPK-2500.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11961,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 220,
+        "width": 298,
+        "depth": 116,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3750,
+        "dcInputs": 1,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23795,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPK-3000",
+      "productCode": "HPK-3000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1dd4a494-b2c3-416d-98de-a54dfecffe5f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPK-3000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12905,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 220,
+        "width": 298,
+        "depth": 116,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1990,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-1500",
+      "productCode": "HPS-1500",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed779bae-dee4-4a4b-8de7-8a802306f4d2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3680.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 608,
+        "companyProductId": null,
+        "maxAcPower": 1650,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": 9,
+        "display": null,
+        "maxDcPower": 2195,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22626,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-1500D",
+      "productCode": "HPS-1500D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/717ed86a-44a6-4dfd-85f0-2c286d2a33e5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-1500D.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11736,
+        "companyProductId": null,
+        "maxAcPower": 1650,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2195,
+        "dcInputs": 1,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1991,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-2000",
+      "productCode": "HPS-2000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ae6c78a1-33a5-4f39-a673-8316bfabef62.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3680.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 609,
+        "companyProductId": null,
+        "maxAcPower": 2200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": 9,
+        "display": null,
+        "maxDcPower": 2926,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23179,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-2000D",
+      "productCode": "HPS-2000D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e8c69426-0e8c-40c4-a9e3-ae448fab49d0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-2000D.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12289,
+        "companyProductId": null,
+        "maxAcPower": 2200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2926,
+        "dcInputs": 1,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1387,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-3000",
+      "productCode": "HPS-3000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f62b3602-e958-44c2-a93d-be479b27aef8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 329,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15.6,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": 9,
+        "display": null,
+        "maxDcPower": 3990,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.974,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 15.6
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24210,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-3000D",
+      "productCode": "HPS-3000D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9dca747e-2399-4a8c-b4f0-229b55ebaabc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3000D.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13320,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3990,
+        "dcInputs": 1,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20664,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-3000DL",
+      "productCode": "HPS-3000DL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ecb73290-9dc9-4699-8f27-ee23edbe210f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3000DL_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9774,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 395,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5152,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1435,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-3680",
+      "productCode": "HPS-3680",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4c9acd37-ad20-4892-ae3f-10aa294248e9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3680.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 377,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": 9.5,
+        "display": null,
+        "maxDcPower": 4895,
+        "dcInputs": null,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.974,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20546,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-3680D",
+      "productCode": "HPS-3680D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/935b3d00-b838-472f-9803-cd1f0c19349f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-3680D_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9656,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 395,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5152,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1158,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-4000",
+      "productCode": "HPS-4000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0109b1fb-4ea4-411c-8b2b-f9dc4feb34a9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-4000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 100,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": 9.5,
+        "display": null,
+        "maxDcPower": 5852,
+        "dcInputs": null,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.974,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23973,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-4000D (AS4777-2 2020)",
+      "productCode": "HPS-4000D (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7d694679-4821-414a-8d71-ee29d612e6b3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-4000D_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13083,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 395,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6160,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1343,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-5000",
+      "productCode": "HPS-5000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/79e40152-b491-4a72-a821-026364f280c7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-5000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 285,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 324.5,
+        "width": 393,
+        "depth": 154,
+        "weight": 9.5,
+        "display": null,
+        "maxDcPower": 6650,
+        "dcInputs": null,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.974,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24572,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-5000D (AS4777-2 2020)",
+      "productCode": "HPS-5000D (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1a3a0062-30ca-4c7b-9598-9814560d8c98.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-5000D_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13682,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 395,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22603,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-6000D (AS4777-2 2020)",
+      "productCode": "HPS-6000D (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e25a7303-8627-47d6-b7b0-1b3f001b0810.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-6000D_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11713,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 395,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23230,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-6500D",
+      "productCode": "HPS-6500D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e59172be-6bbf-4b33-b713-884ff0de7f3f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-6500D.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12340,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6500,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 395,
+        "depth": 154,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8125,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6500
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22358,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-7000",
+      "productCode": "HPS-7000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8101d9b1-fddb-4c78-a1f4-0879d47f675f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-7000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11468,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 160,
+        "weight": 14,
+        "display": "LCD,LED",
+        "maxDcPower": 10500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23113,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-8000",
+      "productCode": "HPS-8000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5cac6909-46b3-4b19-b9ee-a4970989429e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-8000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12223,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 160,
+        "weight": 14,
+        "display": "LCD,LED",
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20792,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPS-9000",
+      "productCode": "HPS-9000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7cf5e0eb-4bde-49df-bac5-50bf7606bbac.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPS-9000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9902,
+        "companyProductId": null,
+        "maxAcPower": 9000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 9000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 351,
+        "width": 425,
+        "depth": 160,
+        "weight": 14,
+        "display": "LCD,LED",
+        "maxDcPower": 13500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 9000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21416,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-10000",
+      "productCode": "HPT-10000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9946a18a-40ae-4fd4-b5e9-f5814dd11664.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-10000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10526,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23375,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-11000",
+      "productCode": "HPT-11000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1c48b390-0cbd-4bd4-8aea-9b6e57631c90.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-11000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12485,
+        "companyProductId": null,
+        "maxAcPower": 10500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10500,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 10500
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20511,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-3000",
+      "productCode": "HPT-3000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/306ae738-316c-4144-8144-0e6d96255b2c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-3000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9621,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23742,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-30K",
+      "productCode": "HPT-30K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c542c4e3-b764-4cb9-863d-88b647dbddc7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-30K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12852,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 580,
+        "depth": 242,
+        "weight": 38,
+        "display": "LCD,LED",
+        "maxDcPower": 49500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23644,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-33K",
+      "productCode": "HPT-33K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/75d6b4fe-ca09-4cf3-a00f-7151d8262dc0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-33K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12754,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 33000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 580,
+        "depth": 242,
+        "weight": 40,
+        "display": "LCD,LED",
+        "maxDcPower": 49500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 33000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21764,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-36K",
+      "productCode": "HPT-36K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f1aa3f0f-7686-4863-8974-d8b3674223b9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-36K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10874,
+        "companyProductId": null,
+        "maxAcPower": 36000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 36000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 580,
+        "depth": 242,
+        "weight": 40,
+        "display": "LCD,LED",
+        "maxDcPower": 54000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 36000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 24088,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-4000",
+      "productCode": "HPT-4000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cf54fd16-b23f-4e57-a94c-4063ca41cc78.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-4000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13198,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20645,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-40K",
+      "productCode": "HPT-40K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4092f088-214e-46e8-9ba3-c92841450bab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-40K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9755,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 580,
+        "depth": 242,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 60000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21225,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-5000",
+      "productCode": "HPT-5000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/af1c1865-da62-4653-b777-8702cd97d56e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-5000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10335,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22685,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-50K",
+      "productCode": "HPT-50K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e259e95c-6b74-4d59-ae90-49347de2ed51.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-50K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11795,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 580,
+        "depth": 242,
+        "weight": 40,
+        "display": "LCD,LED",
+        "maxDcPower": 65000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.984,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21900,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-6000",
+      "productCode": "HPT-6000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b2b28d41-9cc6-4f0c-a62c-22fde74569a4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-6000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11010,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24366,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 268,
+      "brandName": "Hypontech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/83aaed4d-7e50-4e8d-9ebf-344ee0889848.png",
+      "productName": "HPT-8000",
+      "productCode": "HPT-8000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/aa0a2d63-3798-4a62-ad4b-cc9b0f1bc2a4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hypontech_HPT-8000.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13476,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 346,
+        "width": 425,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

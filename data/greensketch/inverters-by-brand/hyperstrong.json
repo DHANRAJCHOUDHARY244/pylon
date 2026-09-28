@@ -1,0 +1,98 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "HyperStrong",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.654Z",
+  "items": [
+    {
+      "id": 128392,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3203,
+      "brandName": "HyperStrong",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/de73aba1-3e45-4bbe-a7d3-2e13e393f8bd.png",
+      "productName": "HSL2C2912-0232-AU",
+      "productCode": "HSL2C2912-0232-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/da680705-229f-4c45-a653-383cf5261ac4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/f56d9c4c-5eae-475e-9010-a5efa3de3a19.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HSL2C2912-0232-AU",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS3000",
+        "AS4777.2",
+        "IEC 61000",
+        "IEC 60730",
+        "IEC 62040",
+        "IEC 62477",
+        "IEC 62619",
+        "IEC 63056",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28468,
+        "companyProductId": null,
+        "maxAcPower": 115,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 923,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 115,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 2400,
+        "width": 1030,
+        "depth": 1350,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.91,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 923
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 115
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "SSE",
+  "count": 14,
+  "exportedAt": "2026-09-23T06:39:31.884Z",
+  "items": [
+    {
+      "id": 22458,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS10KTL-B",
+      "productCode": "SPS10KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b3e422ee-ebbf-49e3-9562-d5eab6043de8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS10KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11568,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 26.25,
+        "type": "PV-only Inverter",
+        "height": 656,
+        "width": 494,
+        "depth": 206,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 26.25
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22809,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS12KTL-B",
+      "productCode": "SPS12KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b0a5d10b-d708-408a-b194-dd2dbf9ae439.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS12KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11919,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 26.25,
+        "type": "PV-only Inverter",
+        "height": 656,
+        "width": 494,
+        "depth": 206,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 26.25
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21382,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS15KTL-B",
+      "productCode": "SPS15KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7b6d2fd8-432a-414e-a77b-a96a32b78d3f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS15KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10492,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 26.25,
+        "type": "PV-only Inverter",
+        "height": 656,
+        "width": 494,
+        "depth": 206,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 26.25
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21719,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS20KTL-B",
+      "productCode": "SPS20KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/27fd7809-c477-432b-a27e-275ac6fe76f1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS20KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10829,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "PV-only Inverter",
+        "height": 814,
+        "width": 626,
+        "depth": 234,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22867,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS25KTL-B",
+      "productCode": "SPS25KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e8cfe6aa-ce2d-45ce-9551-9c69cf959936.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS25KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11977,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 814,
+        "width": 626,
+        "depth": 234,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 26000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22395,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS30KTL",
+      "productCode": "SPS30KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/52f929b4-614e-4916-8e37-9e0f821d8afa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS30KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11505,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 33,
+        "type": "PV-only Inverter",
+        "height": 814,
+        "width": 626,
+        "depth": 234,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 31200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 33
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21425,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS3KTL-B",
+      "productCode": "SPS3KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6431054e-9286-4008-ab33-b97360936c8d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS3KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10535,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 328,
+        "depth": 172,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3250,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22689,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS4K6TL-ED",
+      "productCode": "SPS4K6TL-ED",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0a7f57d5-b5ed-4eda-b404-d0aade9f3da0.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS4K6TL-ED.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11799,
+        "companyProductId": null,
+        "maxAcPower": 4200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4200,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 560,
+        "width": 415,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4200
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23028,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS4KTL-B",
+      "productCode": "SPS4KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3d377e81-6687-4dba-97ae-f1140a1918fe.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS4KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12138,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 26.25,
+        "type": "PV-only Inverter",
+        "height": 560,
+        "width": 415,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 26.25
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23440,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS4KTL-ED",
+      "productCode": "SPS4KTL-ED",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/41e9bb72-b4c6-4b6f-ae90-d9b749fefd86.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS4KTL-ED.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12550,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 560,
+        "width": 415,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24108,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS5KTL-B",
+      "productCode": "SPS5KTL-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2f40a7f9-8825-4f45-be30-299873bc57dd.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS5KTL-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13218,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "PV-only Inverter",
+        "height": 560,
+        "width": 415,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21240,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS5KTL-ED",
+      "productCode": "SPS5KTL-ED",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2394bfa9-1843-4609-9eca-a178a9202429.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS5KTL-ED.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10350,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 560,
+        "width": 415,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22525,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS6KTR",
+      "productCode": "SPS6KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/646c3096-fab1-4ebc-801b-9531ef6d9df3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS6KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11635,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 656,
+        "width": 494,
+        "depth": 206,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21817,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1420,
+      "brandName": "SSE",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf7141a9-875a-4168-8cea-ecc91c9bb3c1.png",
+      "productName": "SPS8KTL",
+      "productCode": "SPS8KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/97af26ea-9d83-4d72-b73e-bc079de6c29b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SSE_SPS8KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10927,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 656,
+        "width": 494,
+        "depth": 206,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Sol-Ark",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.576Z",
+  "items": [
+    {
+      "id": 60038,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1435,
+      "brandName": "Sol-Ark",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sol-Ark.png",
+      "productName": "12K-2P-N",
+      "productCode": "12K-2P-N(Sol-Ark-12K-P)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d877e905-1f40-45ce-becc-40b440b24fa2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/29/16dd4fdd-ee84-4e65-acc3-01ad268976f1.pdf",
+      "productWarranty": "10.0",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 19536,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 9000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 762,
+        "width": 464.82,
+        "depth": 254,
+        "weight": 35.38,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 9000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 39956,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1435,
+      "brandName": "Sol-Ark",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sol-Ark.png",
+      "productName": "Limitless 15K-LV",
+      "productCode": "Limitless 15K-LV",
+      "displayName": null,
+      "productDescription": "The Sol-Ark® Whole Home hybrid inverter is the most powerful and versatile home energy storage solution on the market today. The 15K-2P hybrid solar inverter is a complete whole home backup.",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/20/7413f609-6163-4978-8d9b-5e0c931d3e32.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/20/ab9ad2f9-64b4-44c2-b9f3-729ec1e80de5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16874,
+        "companyProductId": null,
+        "maxAcPower": 13000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 807,
+        "width": 494,
+        "depth": 306,
+        "weight": 61.2,
+        "display": "LCD",
+        "maxDcPower": 12000,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": "Home energy storage",
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21991,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1435,
+      "brandName": "Sol-Ark",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sol-Ark.png",
+      "productName": "SOL-ARK-15K",
+      "productCode": "SOL-ARK-15K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/796c8d2a-8daf-44f5-84c1-3c7582074965.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sol-Ark_SOL-ARK-15K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11101,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 808,
+        "width": 465,
+        "depth": 277,
+        "weight": 61.2,
+        "display": null,
+        "maxDcPower": 17000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.965,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

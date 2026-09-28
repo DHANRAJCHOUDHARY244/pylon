@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "United Energy",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.448Z",
+  "items": [
+    {
+      "id": 20132,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1297,
+      "brandName": "United Energy",
+      "brandLogo": null,
+      "productName": "450H-54HBD",
+      "productCode": "450H-54HBD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/United_Energy_450H-54HBD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/United_Energy_450H-54HBD.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 7013,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.19,
+        "stcShortCircuitCurrentIsc": 13.98,
+        "stcOpenCircuitVoltageVoc": 39.8,
+        "stcCurrentAtMaximumPowerImpp": 13.56,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 339,
+        "noctVoltageAtMaximumPowerVmpp": 31.03,
+        "noctCurrentAtMaximumPowerImpp": 10.93,
+        "noctOpenCircuitVoltageVoc": 37.81,
+        "noctShortCircuitCurrentIsc": 11.29,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.98
+        },
+        "stc_voc": {
+          "value": 39.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "450H-54HBD"
+        },
+        "stc_vmpp": {
+          "value": 33.19
+        }
+      }
+    },
+    {
+      "id": 32231,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1297,
+      "brandName": "United Energy",
+      "brandLogo": null,
+      "productName": "455H-54HBD",
+      "productCode": "455H-54HBD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/United_Energy_455H-54HBD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/United_Energy_455H-54HBD.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10231,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 33.39,
+        "stcShortCircuitCurrentIsc": 14.04,
+        "stcOpenCircuitVoltageVoc": 40.02,
+        "stcCurrentAtMaximumPowerImpp": 13.63,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2277,
+        "noctMaximumPowerPmax": 343,
+        "noctVoltageAtMaximumPowerVmpp": 31.26,
+        "noctCurrentAtMaximumPowerImpp": 10.98,
+        "noctOpenCircuitVoltageVoc": 38.01,
+        "noctShortCircuitCurrentIsc": 11.34,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.04
+        },
+        "stc_voc": {
+          "value": 40.02
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "455H-54HBD"
+        },
+        "stc_vmpp": {
+          "value": 33.39
+        }
+      }
+    },
+    {
+      "id": 33731,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1297,
+      "brandName": "United Energy",
+      "brandLogo": null,
+      "productName": "460H-54HBD",
+      "productCode": "460H-54HBD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/United_Energy_460H-54HBD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/United_Energy_460H-54HBD.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11731,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 33.59,
+        "stcShortCircuitCurrentIsc": 14.1,
+        "stcOpenCircuitVoltageVoc": 40.24,
+        "stcCurrentAtMaximumPowerImpp": 13.7,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2302,
+        "noctMaximumPowerPmax": 347,
+        "noctVoltageAtMaximumPowerVmpp": 31.49,
+        "noctCurrentAtMaximumPowerImpp": 11.03,
+        "noctOpenCircuitVoltageVoc": 38.21,
+        "noctShortCircuitCurrentIsc": 11.39,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.1
+        },
+        "stc_voc": {
+          "value": 40.24
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "460H-54HBD"
+        },
+        "stc_vmpp": {
+          "value": 33.59
+        }
+      }
+    },
+    {
+      "id": 38814,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1297,
+      "brandName": "United Energy",
+      "brandLogo": null,
+      "productName": "465H-54HBD",
+      "productCode": "465H-54HBD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/United_Energy_465H-54HBD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/United_Energy_465H-54HBD.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16814,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 33.79,
+        "stcShortCircuitCurrentIsc": 14.16,
+        "stcOpenCircuitVoltageVoc": 40.46,
+        "stcCurrentAtMaximumPowerImpp": 13.77,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2327,
+        "noctMaximumPowerPmax": 351,
+        "noctVoltageAtMaximumPowerVmpp": 31.72,
+        "noctCurrentAtMaximumPowerImpp": 11.08,
+        "noctOpenCircuitVoltageVoc": 38.41,
+        "noctShortCircuitCurrentIsc": 11.44,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.16
+        },
+        "stc_voc": {
+          "value": 40.46
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "465H-54HBD"
+        },
+        "stc_vmpp": {
+          "value": 33.79
+        }
+      }
+    },
+    {
+      "id": 19786,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1297,
+      "brandName": "United Energy",
+      "brandLogo": null,
+      "productName": "470H-54HBD",
+      "productCode": "470H-54HBD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/United_Energy_470H-54HBD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/United_Energy_470H-54HBD.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6667,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 470,
+        "stcVoltageAtMaximumPowerVmpp": 33.99,
+        "stcShortCircuitCurrentIsc": 14.22,
+        "stcOpenCircuitVoltageVoc": 40.68,
+        "stcCurrentAtMaximumPowerImpp": 13.84,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": 355,
+        "noctVoltageAtMaximumPowerVmpp": 31.95,
+        "noctCurrentAtMaximumPowerImpp": 11.13,
+        "noctOpenCircuitVoltageVoc": 38.61,
+        "noctShortCircuitCurrentIsc": 11.49,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.22
+        },
+        "stc_voc": {
+          "value": 40.68
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 470
+        },
+        "cec_model": {
+          "value": "470H-54HBD"
+        },
+        "stc_vmpp": {
+          "value": 33.99
+        }
+      }
+    }
+  ]
+}

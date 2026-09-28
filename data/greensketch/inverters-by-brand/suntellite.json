@@ -1,0 +1,1905 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Suntellite",
+  "count": 24,
+  "exportedAt": "2026-09-23T06:39:31.844Z",
+  "items": [
+    {
+      "id": 22265,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-1.1-S-N",
+      "productCode": "T1-1.1-S-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/130a0b4b-1b57-4f7f-b96f-dd65de85e7ba.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-1.1-S-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11375,
+        "companyProductId": null,
+        "maxAcPower": 1100,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 400,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 55,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 1100,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 248,
+        "depth": 124,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1250,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.955,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 400
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1100
+        },
+        "mppt_voltage_min": {
+          "value": 55
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20936,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-1.5-S-N",
+      "productCode": "T1-1.5-S-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4d07d3c3-7003-479a-ae03-207c2e698779.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-1.5-S-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10046,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 400,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 55,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 248,
+        "depth": 124,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1650,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.96,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 400
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 55
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22032,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-2.0-S-N",
+      "productCode": "T1-2.0-S-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/444c9dd9-d155-4050-91ce-7f62eb3d8da2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-2.0-S-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11142,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 400,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 55,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 248,
+        "depth": 124,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 400
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 55
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21111,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-2.5-S-N",
+      "productCode": "T1-2.5-S-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3f70c8a8-4d38-4a22-8431-38b774874500.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-2.5-S-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10221,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 65,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 402,
+        "width": 323,
+        "depth": 119,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2700,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 65
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21466,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-3.0-S-N",
+      "productCode": "T1-3.0-S-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b3282598-491c-4e8b-98f4-bfc8f7ba5a0e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-3.0-S-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10576,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 65,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 402,
+        "width": 323,
+        "depth": 119,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 65
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24084,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-3.0-T-N",
+      "productCode": "T1-3.0-T-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0699d437-1c31-47ad-bf49-0a31bef7861e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-3.0-T-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13194,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 110,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 339,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3250,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 110
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24259,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-3.3-T-N",
+      "productCode": "T1-3.3-T-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e256c816-c104-477b-93dd-d7c0e9ac02e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-3.3-T-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13369,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 110,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 339,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 110
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20740,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-3.6-T-N",
+      "productCode": "T1-3.6-T-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/27342294-17c3-4aa5-ae98-95a05cd2f9f7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-3.6-T-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9850,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 110,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 339,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 110
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24186,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-4.6-T-N",
+      "productCode": "T1-4.6-T-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8a54d543-316c-4a62-9fa1-7c907e10d7b6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-4.6-T-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13296,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 110,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 339,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 110
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24183,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T1-5.0-T-N",
+      "productCode": "T1-5.0-T-N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/372715be-43ac-4426-9cef-b14d936e122a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T1-5.0-T-N.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13293,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 110,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 339,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 110
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20644,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T3-10000",
+      "productCode": "T3-10000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/static/images/image-not-found.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T3-10000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9754,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 320,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 28.6,
+        "type": "PV-only Inverter",
+        "height": 651.5,
+        "width": 513,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10260,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 28.6
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 320
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22040,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T3-12000",
+      "productCode": "T3-12000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/static/images/image-not-found.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T3-12000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11150,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 380,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 28.6,
+        "type": "PV-only Inverter",
+        "height": 651.5,
+        "width": 513,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 28.6
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 380
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23706,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T3-15000",
+      "productCode": "T3-15000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/static/images/image-not-found.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T3-15000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12816,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 350,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 28.6,
+        "type": "PV-only Inverter",
+        "height": 651.5,
+        "width": 513,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15370,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 28.6
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 350
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23923,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T3-17000",
+      "productCode": "T3-17000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/static/images/image-not-found.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T3-17000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13033,
+        "companyProductId": null,
+        "maxAcPower": 17000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 17000,
+        "maxShortCircuitCurrentPerMppt": 28.6,
+        "type": "PV-only Inverter",
+        "height": 651.5,
+        "width": 513,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 17420,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 28.6
+        },
+        "nominal_ac_power": {
+          "value": 17000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22343,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "T3-20000",
+      "productCode": "T3-20000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/static/images/image-not-found.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_T3-20000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11453,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 28.6,
+        "type": "PV-only Inverter",
+        "height": 651.5,
+        "width": 513,
+        "depth": 207,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 28.6
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22433,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-SU3000C",
+      "productCode": "TK-SU3000C",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5f0fcc38-b0bd-4eea-83da-5c50c1476fef.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-SU3000C.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11543,
+        "companyProductId": null,
+        "maxAcPower": null,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21811,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-SU3000E",
+      "productCode": "TK-SU3000E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d5f2773d-be1a-4a0f-aa22-22458bd45009.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-SU3000E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10921,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 591,
+        "width": 475,
+        "depth": 151,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22475,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-SU3700E",
+      "productCode": "TK-SU3700E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/45db3baa-4c17-410c-93fa-2dc0c87ec6cf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-SU3700E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11585,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 591,
+        "width": 475,
+        "depth": 151,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23748,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-SU5000C",
+      "productCode": "TK-SU5000C",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/29f61b9c-3536-4db7-87c2-ff13d004abb2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-SU5000C.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12858,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24524,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-SU5000E",
+      "productCode": "TK-SU5000E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f8e302dd-5520-441e-b40f-0b4131a976c3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-SU5000E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13634,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 591,
+        "width": 475,
+        "depth": 151,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22513,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-TL3000E",
+      "productCode": "TK-TL3000E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/697f500d-3f9b-4f26-be2d-5876b9ab1379.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-TL3000E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11623,
+        "companyProductId": null,
+        "maxAcPower": null,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22356,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-TL3700E",
+      "productCode": "TK-TL3700E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4b92ee77-f05f-477a-9944-5aa69f595a5a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-TL3700E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11466,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23370,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-TL5000C",
+      "productCode": "TK-TL5000C",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b331f48f-c038-4109-981e-f90a8f833c91.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-TL5000C.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12480,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22217,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1381,
+      "brandName": "Suntellite",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sunny+Energy.webp",
+      "productName": "TK-TL5000E",
+      "productCode": "TK-TL5000E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9b3c05b1-01b4-4406-ac68-f85eab7a87ea.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Suntellite_TK-TL5000E.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11327,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

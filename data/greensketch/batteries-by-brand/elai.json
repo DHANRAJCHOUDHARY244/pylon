@@ -1,0 +1,62 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "ELAI",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:22.997Z",
+  "items": [
+    {
+      "id": 128936,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 3117,
+      "brandName": "ELAI",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/b144d81f-a312-41b4-a0e6-28ea179dcf9c.webp",
+      "productName": "A11-010KCAA",
+      "productCode": "A11-010KCAA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/91f3e389-bf10-40df-ba60-37630f309985.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/23/add9ffff-b143-4480-8221-e2a0cccf772e.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 years performance warranty",
+      "cecModelNumber": "A11-010KCAA",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 15915,
+        "companyProductId": null,
+        "nominalEnergy": 10.64,
+        "usableEnergy": 9.6,
+        "depthOfDischarge": 0.902255639,
+        "roundTripEfficiency": 0.9,
+        "cycleLife": null,
+        "length": 762,
+        "width": 518,
+        "height": 148,
+        "batteryType": "LiFePO4 battery pack",
+        "weight": 85,
+        "ratedDcVoltage": 51.2,
+        "maxAcPower": null,
+        "ipRating": "",
+        "batteryChemistry": "LiFePO4",
+        "maxOutputPower": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}

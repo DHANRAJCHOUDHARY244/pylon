@@ -1,0 +1,98 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Soleos",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:32:24.490Z",
+  "items": [
+    {
+      "id": 19420,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1314,
+      "brandName": "Soleos",
+      "brandLogo": "https://file.greensketch.net/brands/logo/aiji94jd.png",
+      "productName": "MO-144-540",
+      "productCode": "MO-144-540",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Soleos_MO-144-540.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Soleos_MO-144-540.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6301,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 42,
+        "stcShortCircuitCurrentIsc": 13.66,
+        "stcOpenCircuitVoltageVoc": 49.8,
+        "stcCurrentAtMaximumPowerImpp": 12.86,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2278,
+        "width": 1134,
+        "depth": 35,
+        "weight": 32,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 402,
+        "noctVoltageAtMaximumPowerVmpp": 39.4,
+        "noctCurrentAtMaximumPowerImpp": 10.2,
+        "noctOpenCircuitVoltageVoc": 46.7,
+        "noctShortCircuitCurrentIsc": 11.04,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.66
+        },
+        "stc_voc": {
+          "value": 49.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "MO-144-540"
+        },
+        "stc_vmpp": {
+          "value": 42
+        }
+      }
+    }
+  ]
+}

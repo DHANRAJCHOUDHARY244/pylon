@@ -1,0 +1,504 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Stealth Energy",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.205Z",
+  "items": [
+    {
+      "id": 128494,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3133,
+      "brandName": "Stealth Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7547f0d9-d863-467b-97c0-0f62ad1ad5bf.webp",
+      "productName": "ST-INV-S3.0",
+      "productCode": "ST-INV-S3.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/672c5c11-7322-4c6e-a37b-ee931965cf63.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/d3d2ffec-4253-4916-8c8a-15e265812149.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ST-INV-S3.0 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC61000-6-2",
+        "IEC61000-6-3",
+        "VDE-AR-N 4105",
+        "AS4777",
+        "EN50549-1",
+        "CEI 0-21",
+        "G98",
+        "G99",
+        "UNE217001",
+        "UNE217002",
+        "NTS",
+        "RD647",
+        "RD413",
+        "RD1699",
+        "NL",
+        "GR",
+        "C10/11"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28524,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 411,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128493,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3133,
+      "brandName": "Stealth Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7547f0d9-d863-467b-97c0-0f62ad1ad5bf.webp",
+      "productName": "ST-INV-S3.68",
+      "productCode": "ST-INV-S3.68",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/672c5c11-7322-4c6e-a37b-ee931965cf63.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/d3d2ffec-4253-4916-8c8a-15e265812149.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC61000-6-2",
+        "IEC61000-6-3",
+        "VDE-AR-N 4105",
+        "AS4777",
+        "EN50549-1",
+        "CEI 0-21",
+        "G98",
+        "G99",
+        "UNE217001",
+        "UNE217002",
+        "NTS",
+        "RD647",
+        "RD413",
+        "RD1699",
+        "NL",
+        "GR",
+        "C10/11"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28523,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 411,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128492,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3133,
+      "brandName": "Stealth Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7547f0d9-d863-467b-97c0-0f62ad1ad5bf.webp",
+      "productName": "ST-INV-S4.0",
+      "productCode": "ST-INV-S4.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/672c5c11-7322-4c6e-a37b-ee931965cf63.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/d3d2ffec-4253-4916-8c8a-15e265812149.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC61000-6-2",
+        "IEC61000-6-3",
+        "VDE-AR-N 4105",
+        "AS4777",
+        "EN50549-1",
+        "CEI 0-21",
+        "G98",
+        "G99",
+        "UNE217001",
+        "UNE217002",
+        "NTS",
+        "RD647",
+        "RD413",
+        "RD1699",
+        "NL",
+        "GR",
+        "C10/11"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28522,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 411,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128491,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3133,
+      "brandName": "Stealth Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7547f0d9-d863-467b-97c0-0f62ad1ad5bf.webp",
+      "productName": "ST-INV-S5.0",
+      "productCode": "ST-INV-S5.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/672c5c11-7322-4c6e-a37b-ee931965cf63.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/d3d2ffec-4253-4916-8c8a-15e265812149.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ST-INV-S5.0 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC61000-6-2",
+        "IEC61000-6-3",
+        "VDE-AR-N 4105",
+        "AS4777",
+        "EN50549-1",
+        "CEI 0-21",
+        "G98",
+        "G99",
+        "UNE217001",
+        "UNE217002",
+        "NTS",
+        "RD647",
+        "RD413",
+        "RD1699",
+        "NL",
+        "GR",
+        "C10/11"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28521,
+        "companyProductId": null,
+        "maxAcPower": 4991,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4991,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 411,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4991
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128490,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3133,
+      "brandName": "Stealth Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7547f0d9-d863-467b-97c0-0f62ad1ad5bf.webp",
+      "productName": "ST-INV-S6.0",
+      "productCode": "ST-INV-S6.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/672c5c11-7322-4c6e-a37b-ee931965cf63.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/d3d2ffec-4253-4916-8c8a-15e265812149.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC61000-6-2",
+        "IEC61000-6-3",
+        "VDE-AR-N 4105",
+        "AS4777",
+        "EN50549-1",
+        "CEI 0-21",
+        "G98",
+        "G99",
+        "UNE217001",
+        "UNE217002",
+        "NTS",
+        "RD647",
+        "RD413",
+        "RD1699",
+        "NL",
+        "GR",
+        "C10/11"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28520,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 411,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

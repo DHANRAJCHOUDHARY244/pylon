@@ -1,0 +1,543 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Mate Solar",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:32:24.447Z",
+  "items": [
+    {
+      "id": 36996,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1267,
+      "brandName": "Mate Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mate+Solar.png",
+      "productName": "MS430M-54H",
+      "productCode": "MS430M-54H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mate_Solar_MS430M-54H.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mate_Solar_MS430M-54H.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14996,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 430,
+        "stcVoltageAtMaximumPowerVmpp": 32.38,
+        "stcShortCircuitCurrentIsc": 13.73,
+        "stcOpenCircuitVoltageVoc": 38.95,
+        "stcCurrentAtMaximumPowerImpp": 13.28,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2202,
+        "noctMaximumPowerPmax": 323,
+        "noctVoltageAtMaximumPowerVmpp": 30.1,
+        "noctCurrentAtMaximumPowerImpp": 10.73,
+        "noctOpenCircuitVoltageVoc": 37,
+        "noctShortCircuitCurrentIsc": 11.09,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.73
+        },
+        "stc_voc": {
+          "value": 38.95
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 430
+        },
+        "cec_model": {
+          "value": "MS430M-54H"
+        },
+        "stc_vmpp": {
+          "value": 32.38
+        }
+      }
+    },
+    {
+      "id": 18462,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1267,
+      "brandName": "Mate Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mate+Solar.png",
+      "productName": "MS435M-54H",
+      "productCode": "MS435M-54H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mate_Solar_MS435M-54H.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mate_Solar_MS435M-54H.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5343,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 32.59,
+        "stcShortCircuitCurrentIsc": 13.8,
+        "stcOpenCircuitVoltageVoc": 39.16,
+        "stcCurrentAtMaximumPowerImpp": 13.35,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 327,
+        "noctVoltageAtMaximumPowerVmpp": 30.33,
+        "noctCurrentAtMaximumPowerImpp": 10.78,
+        "noctOpenCircuitVoltageVoc": 37.2,
+        "noctShortCircuitCurrentIsc": 11.14,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.8
+        },
+        "stc_voc": {
+          "value": 39.16
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "MS435M-54H"
+        },
+        "stc_vmpp": {
+          "value": 32.59
+        }
+      }
+    },
+    {
+      "id": 18383,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1267,
+      "brandName": "Mate Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mate+Solar.png",
+      "productName": "MS440M-54H",
+      "productCode": "MS440M-54H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mate_Solar_MS440M-54H.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mate_Solar_MS440M-54H.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5264,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 32.81,
+        "stcShortCircuitCurrentIsc": 13.86,
+        "stcOpenCircuitVoltageVoc": 39.38,
+        "stcCurrentAtMaximumPowerImpp": 13.41,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 331,
+        "noctVoltageAtMaximumPowerVmpp": 30.56,
+        "noctCurrentAtMaximumPowerImpp": 10.83,
+        "noctOpenCircuitVoltageVoc": 37.41,
+        "noctShortCircuitCurrentIsc": 11.19,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.86
+        },
+        "stc_voc": {
+          "value": 39.38
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "MS440M-54H"
+        },
+        "stc_vmpp": {
+          "value": 32.81
+        }
+      }
+    },
+    {
+      "id": 35368,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1267,
+      "brandName": "Mate Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mate+Solar.png",
+      "productName": "MS445M-54H",
+      "productCode": "MS445M-54H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mate_Solar_MS445M-54H.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mate_Solar_MS445M-54H.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13368,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 33.02,
+        "stcShortCircuitCurrentIsc": 13.93,
+        "stcOpenCircuitVoltageVoc": 39.59,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2279,
+        "noctMaximumPowerPmax": 335,
+        "noctVoltageAtMaximumPowerVmpp": 30.76,
+        "noctCurrentAtMaximumPowerImpp": 10.89,
+        "noctOpenCircuitVoltageVoc": 37.61,
+        "noctShortCircuitCurrentIsc": 11.25,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.93
+        },
+        "stc_voc": {
+          "value": 39.59
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "MS445M-54H"
+        },
+        "stc_vmpp": {
+          "value": 33.02
+        }
+      }
+    },
+    {
+      "id": 19330,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1267,
+      "brandName": "Mate Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mate+Solar.png",
+      "productName": "MS450M-54H",
+      "productCode": "MS450M-54H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mate_Solar_MS450M-54H.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mate_Solar_MS450M-54H.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6211,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.21,
+        "stcShortCircuitCurrentIsc": 14,
+        "stcOpenCircuitVoltageVoc": 39.78,
+        "stcCurrentAtMaximumPowerImpp": 13.55,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 338,
+        "noctVoltageAtMaximumPowerVmpp": 30.9,
+        "noctCurrentAtMaximumPowerImpp": 10.94,
+        "noctOpenCircuitVoltageVoc": 37.79,
+        "noctShortCircuitCurrentIsc": 11.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14
+        },
+        "stc_voc": {
+          "value": 39.78
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "MS450M-54H"
+        },
+        "stc_vmpp": {
+          "value": 33.21
+        }
+      }
+    },
+    {
+      "id": 35253,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1267,
+      "brandName": "Mate Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mate+Solar.png",
+      "productName": "MS455M-54H",
+      "productCode": "MS455M-54H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mate_Solar_MS455M-54H.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mate_Solar_MS455M-54H.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13253,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 33.41,
+        "stcShortCircuitCurrentIsc": 14.07,
+        "stcOpenCircuitVoltageVoc": 39.98,
+        "stcCurrentAtMaximumPowerImpp": 13.62,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 342,
+        "noctVoltageAtMaximumPowerVmpp": 31.12,
+        "noctCurrentAtMaximumPowerImpp": 10.99,
+        "noctOpenCircuitVoltageVoc": 37.98,
+        "noctShortCircuitCurrentIsc": 11.35,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.07
+        },
+        "stc_voc": {
+          "value": 39.98
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "MS455M-54H"
+        },
+        "stc_vmpp": {
+          "value": 33.41
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Clenergy",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.645Z",
+  "items": [
+    {
+      "id": 21017,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1412,
+      "brandName": "Clenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Clenergy.png",
+      "productName": "TNK-5000-PV-E1 (AS4777-2 2020)",
+      "productCode": "TNK-5000-PV-E1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bfe72400-440a-41b3-858a-57a1b1894821.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Clenergy_TNK-5000-PV-E1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "TNK-5000-PV-E1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10127,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 405,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22106,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1412,
+      "brandName": "Clenergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Clenergy.png",
+      "productName": "TNK-6000-PV-E1 (AS4777-2 2020)",
+      "productCode": "TNK-6000-PV-E1 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e7fc0648-b4c4-4917-aa17-0f203b3a7441.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Clenergy_TNK-6000-PV-E1_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "TNK-6000-PV-E1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11216,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 405,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9600,
+        "dcInputs": 4,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

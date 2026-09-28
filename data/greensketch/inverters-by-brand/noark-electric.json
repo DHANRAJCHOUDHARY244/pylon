@@ -1,0 +1,1686 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "NOARK Electric",
+  "count": 21,
+  "exportedAt": "2026-09-23T06:39:31.853Z",
+  "items": [
+    {
+      "id": 20622,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DG-3.6KS-AU",
+      "productCode": "Ex9N-DG-3.6KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6fab9acc-bfbb-457d-92f1-4041505afe6d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DG-3.6KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DG-3.6KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9732,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "PV-only Inverter",
+        "height": 323,
+        "width": 330,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4700,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23186,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DG-4.6KS-AU (AS4777-2 2020)",
+      "productCode": "Ex9N-DG-4.6KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/86a5d37e-0e5d-48a5-b301-83d6474cb0d8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DG-4.6KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DG-4.6KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12296,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "PV-only Inverter",
+        "height": 323,
+        "width": 330,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20498,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DG-4KS-AU",
+      "productCode": "Ex9N-DG-4KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ffe387ea-65ea-4f94-a1a6-5bfa9abb79ec.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DG-4KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DG-4KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9608,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "PV-only Inverter",
+        "height": 323,
+        "width": 330,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5980,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21412,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DG-5KS-AU",
+      "productCode": "Ex9N-DG-5KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/72058cca-0d9c-48a7-81a3-2642927f345f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DG-5KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DG-5KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10522,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "PV-only Inverter",
+        "height": 323,
+        "width": 330,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21621,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DG-6KS-AU",
+      "productCode": "Ex9N-DG-6KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8dd2e892-7772-498c-baf2-da1038639edd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DG-6KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DG-6KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10731,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "PV-only Inverter",
+        "height": 323,
+        "width": 330,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21537,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-10KT-AU",
+      "productCode": "Ex9N-DH-10KT-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bccc680f-d09c-4d92-a620-88ca53d9b745.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-10KT-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-10KT-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10647,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 39,
+        "type": "Hybrid Inverter",
+        "height": 702,
+        "width": 422,
+        "depth": 281,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 39
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127621,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-12KS-AU",
+      "productCode": "Ex9N-DH-12KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/0e753724-2224-42b5-841e-243e11c64c17.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/4a0e0d7b-55d3-4394-a2c1-5631c505a94f.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Ex9N-DH-12KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC/EN 61000-6-1/2/3/4",
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "DC Type II / AC Type III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28191,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 763,
+        "width": 464,
+        "depth": 282,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00976,
+        "euroEfficiency": 0.00965,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22765,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-12KT-AU",
+      "productCode": "Ex9N-DH-12KT-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/883a02d3-54e0-403d-b7e4-2124e78b07e8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-12KT-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-12KT-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11875,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 39,
+        "type": "Hybrid Inverter",
+        "height": 702,
+        "width": 422,
+        "depth": 281,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 39
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127622,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-14KS-AU",
+      "productCode": "Ex9N-DH-14KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/0e753724-2224-42b5-841e-243e11c64c17.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/4a0e0d7b-55d3-4394-a2c1-5631c505a94f.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Ex9N-DH-14KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC/EN 61000-6-1/2/3/4",
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "DC Type II / AC Type III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28192,
+        "companyProductId": null,
+        "maxAcPower": 14000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 14000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 763,
+        "width": 464,
+        "depth": 282,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00976,
+        "euroEfficiency": 0.00965,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 14000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127623,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-16KS-AU",
+      "productCode": "Ex9N-DH-16KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/0e753724-2224-42b5-841e-243e11c64c17.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/4a0e0d7b-55d3-4394-a2c1-5631c505a94f.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Ex9N-DH-16KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC/EN 61000-6-1/2/3/4",
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "DC Type II / AC Type III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28193,
+        "companyProductId": null,
+        "maxAcPower": 16000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 16000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 763,
+        "width": 464,
+        "depth": 282,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00976,
+        "euroEfficiency": 0.00965,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 16000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 58973,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-3-6KS (AU)",
+      "productCode": "Ex9N-DH-5KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/957865d5-da75-4e92-a1a6-525bfab7fe65.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/29/c966d843-b1fb-4b02-b9df-368d2b3c0334.pdf",
+      "productWarranty": "5.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "Ex9N-DH-5KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 18471,
+        "companyProductId": null,
+        "maxAcPower": null,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": null,
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": 15,
+        "display": "LCD,LED",
+        "maxDcPower": 7500,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23103,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-3.6KS-AU (AS4777-2 2020)",
+      "productCode": "Ex9N-DH-3.6KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/060590f1-3925-487a-8b77-18dc3681c538.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-3.6KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-3.6KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12213,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20533,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-3KS-AU",
+      "productCode": "Ex9N-DH-3KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1d30c97f-692a-46ee-8683-bd8353fd3c9a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-3KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-3KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9643,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22351,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-3KS1-AU (AS4777-2 2020)",
+      "productCode": "Ex9N-DH-3KS1-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/97668e1f-503e-46ca-8bb8-5c2ae1156a3b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-3KS1-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-3KS1-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11461,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23510,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-5KS-AU (AS4777-2 2020)",
+      "productCode": "Ex9N-DH-5KS-AU (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0741dc64-c411-4657-9c6f-558310be9fb5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-5KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12620,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22131,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-5KT-AU",
+      "productCode": "Ex9N-DH-5KT-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/dcd3f7b7-b1c4-460d-b087-5346fd8ad9f8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-5KT-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-5KT-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11241,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21707,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-6KS-AU",
+      "productCode": "Ex9N-DH-6KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3b20b846-c136-4d86-9cd6-a8cac77d384f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-6KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-6KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10817,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23989,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-6KT-AU",
+      "productCode": "Ex9N-DH-6KT-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d4a6b456-24f0-4484-9b86-2e8a08cb51f1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-6KT-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-6KT-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13099,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 702,
+        "width": 422,
+        "depth": 281,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24617,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-7.6KS-AU",
+      "productCode": "Ex9N-DH-7.6KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/27284b3b-6d2f-475f-bdfc-a970c99f6465.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-7.6KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-7.6KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13727,
+        "companyProductId": null,
+        "maxAcPower": 7600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 7600,
+        "maxShortCircuitCurrentPerMppt": 39,
+        "type": "Hybrid Inverter",
+        "height": 580,
+        "width": 330,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 11400,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 39
+        },
+        "nominal_ac_power": {
+          "value": 7600
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24309,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-8KS-AU",
+      "productCode": "Ex9N-DH-8KS-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/295463af-9c24-451d-808d-ec7569d603ce.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-8KS-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-8KS-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13419,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 39,
+        "type": "Hybrid Inverter",
+        "height": 580,
+        "width": 330,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 39
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22823,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1367,
+      "brandName": "NOARK Electric",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/95e5ef6b-77eb-480e-a303-479f6051df1f.png",
+      "productName": "Ex9N-DH-8KT-AU",
+      "productCode": "Ex9N-DH-8KT-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/640cb14c-a285-46a6-8299-3d4e43ccff35.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NOARK_Electric_Ex9N-DH-8KT-AU_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Ex9N-DH-8KT-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11933,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 702,
+        "width": 422,
+        "depth": 281,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

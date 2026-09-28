@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Powerwave Energy",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.677Z",
+  "items": [
+    {
+      "id": 24023,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1449,
+      "brandName": "Powerwave Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/950027da-663d-466a-b945-e8e0c6458509.png",
+      "productName": "SP5H Inverter -INV",
+      "productCode": "SP5H Inverter -INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d1e2ffd8-33af-439a-be9d-c2f035b04d11.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Powerwave_Energy_SP5H_Inverter_-INV.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13133,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 451,
+        "depth": 121.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

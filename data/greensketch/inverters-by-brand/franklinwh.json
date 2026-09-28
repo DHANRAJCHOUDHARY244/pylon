@@ -1,0 +1,102 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "FranklinWH",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.653Z",
+  "items": [
+    {
+      "id": 127905,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1464,
+      "brandName": "FranklinWH",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-21_19-04-46.png",
+      "productName": "Franklin Home Power aPower X-01-AU",
+      "productCode": "aPower X-01-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/abb3071a-9c50-4c83-982b-9939b39d885e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/14/67014cae-253b-455e-bf36-4c0a63ef9823.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "12 years product / performance warranty",
+      "cecModelNumber": "aPower X-01-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN62109-1",
+        "IEC/EN62109-2",
+        "UL1973",
+        "IEC/EN62477-1",
+        "AS/NZS 4777.2:2020",
+        "IEC62040-1",
+        "IEC/EN62619",
+        "AC156",
+        "OSHPD",
+        "IEEE 693-2005 (high)",
+        "RoHS Directive 2011 / EU",
+        "IEC61000-6-1",
+        "IEC61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28299,
+        "companyProductId": null,
+        "maxAcPower": 5,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 51.2,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 1150,
+        "width": 750,
+        "depth": 290,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 51.2
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

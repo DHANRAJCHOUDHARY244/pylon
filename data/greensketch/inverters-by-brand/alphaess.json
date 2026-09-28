@@ -1,0 +1,5428 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "AlphaESS",
+  "count": 68,
+  "exportedAt": "2026-09-23T06:39:23.406Z",
+  "items": [
+    {
+      "id": 24583,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "AEV-5048",
+      "productCode": "AEV-5048",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/52ea5efd-c583-44b8-9a2f-8756c96b9738.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_AEV-5048.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13693,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 205,
+        "width": 460,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 0,
+        "maxEfficiency": 0.91,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21148,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B3-PLUS (AS4777-2 2020)",
+      "productCode": "SMILE-B3-PLUS (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b608f3cd-6b9f-4f71-8067-87448103a6da.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/347962a8-e04d-4514-be99-d6f7289e2445/SMILE-B3-PLUS_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10258,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 685,
+        "width": 630,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.945,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20613,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B3-PLUS II (AS4777-2 2020)",
+      "productCode": "SMILE-B3-PLUS II (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8229879d-520d-47df-9399-b1d061d4ec8c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-B3-PLUS_II_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9723,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 685,
+        "width": 630,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.945,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21420,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B3-PLUS III (AS4777-2 2020)",
+      "productCode": "SMILE-B3-PLUS III (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ec3d96d3-8611-4939-99b0-3645bbbaa1c6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-B3-PLUS_III_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10530,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 685,
+        "width": 630,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.945,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23058,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B3-PLUS IV (AS4777-2 2020)",
+      "productCode": "SMILE-B3-PLUS IV (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ca73a2d7-0f3b-47b4-8400-9de54d914cbe.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-B3-PLUS_IV_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12168,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 685,
+        "width": 630,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.945,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 22511,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B3-PLUS V (AS4777-2 2020)",
+      "productCode": "SMILE-B3-PLUS V (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/81ded3c5-5c1f-4fa7-935f-6fb5463bfe07.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-B3-PLUS_V_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11621,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 685,
+        "width": 630,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.945,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20550,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B3-PLUS VI (AS4777-2 2020)",
+      "productCode": "SMILE-B3-PLUS VI (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/bb17c1ed-179e-4033-b836-4edd9c7a24f9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-B3-PLUS_VI_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9660,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 685,
+        "width": 630,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.945,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125094,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B5",
+      "productCode": "SMILE-B5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3355812b-fa10-4931-baf0-f3dc7815167b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/c1b737b1-a263-4236-90e0-4a4629f8dd72.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 Year Performance Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109",
+        "IEC 62477",
+        "EN61000-6-1/-2/-3/-4",
+        "AS4777.2",
+        "CE",
+        "RCM"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27071,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Battery-only",
+        "height": 695,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129407,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B5 II",
+      "productCode": "SMILE-B5 II",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/eddb2f56-70e3-4186-b1a4-4e8c1a17966d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/01/249ef41d-a003-460d-8c7b-092e3c23aed5.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 Year Performance Warranty",
+      "cecModelNumber": "SMILE-B5 II (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109",
+        "IEC 62477",
+        "EN61000-6-1/-2/-3/-4",
+        "AS4777.2",
+        "CE",
+        "CQC"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28549,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 350,
+        "width": 530,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 129408,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B5 III",
+      "productCode": "SMILE-B5 III",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/eddb2f56-70e3-4186-b1a4-4e8c1a17966d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/01/249ef41d-a003-460d-8c7b-092e3c23aed5.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 Year Performance Warranty",
+      "cecModelNumber": "SMILE-B5 III (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109",
+        "IEC 62477",
+        "EN61000-6-1/-2/-3/-4",
+        "AS4777.2",
+        "CE",
+        "CQC"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28550,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 350,
+        "width": 530,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 129409,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B5 IV",
+      "productCode": "SMILE-B5 IV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/eddb2f56-70e3-4186-b1a4-4e8c1a17966d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/01/249ef41d-a003-460d-8c7b-092e3c23aed5.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 Year Performance Warranty",
+      "cecModelNumber": "SMILE-B5 IV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109",
+        "IEC 62477",
+        "EN61000-6-1/-2/-3/-4",
+        "AS4777.2",
+        "CE",
+        "CQC"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28551,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 350,
+        "width": 530,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 129410,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B5 V",
+      "productCode": "SMILE-B5 V",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/eddb2f56-70e3-4186-b1a4-4e8c1a17966d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/01/249ef41d-a003-460d-8c7b-092e3c23aed5.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 Year Performance Warranty",
+      "cecModelNumber": "SMILE-B5 V (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109",
+        "IEC 62477",
+        "EN61000-6-1/-2/-3/-4",
+        "AS4777.2",
+        "CE",
+        "CQC"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28552,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 350,
+        "width": 530,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 129411,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-B5 VI",
+      "productCode": "SMILE-B5 VI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/eddb2f56-70e3-4186-b1a4-4e8c1a17966d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/01/249ef41d-a003-460d-8c7b-092e3c23aed5.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10 Year Performance Warranty",
+      "cecModelNumber": "SMILE-B5 VI (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109",
+        "IEC 62477",
+        "EN61000-6-1/-2/-3/-4",
+        "AS4777.2",
+        "CE",
+        "CQC"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28553,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 350,
+        "width": 530,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 1951,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-B5",
+      "productCode": "SMILE-G3-B5 (LCD)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e10eda10-8e45-4f4a-8301-a22bc22be7ca.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/82612e5c-221a-48fd-96a2-ec66b7010039/SMILE-G3-S5-INV.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 573,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 106.5,
+        "minDcVoltageToStartFeedIn": 91.5,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 366,
+        "width": 610,
+        "depth": 212,
+        "weight": 19.5,
+        "display": "LCD",
+        "maxDcPower": 10000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 106.5
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 91.5
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21650,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-B5-INV",
+      "productCode": "SMILE-G3-B5-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8c29e905-e69c-4657-b1fd-79d72a411c9c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-G3-B5-INV_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10760,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 106.5,
+        "minDcVoltageToStartFeedIn": 91.5,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 366,
+        "width": 610,
+        "depth": 212,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 2,
+        "maxEfficiency": 0.966,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 106.5
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 91.5
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 1949,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-S3.6",
+      "productCode": "SMILE-G3-S3.6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4809361c-3303-4566-9dc4-6d16e6016392.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/82612e5c-221a-48fd-96a2-ec66b7010039/SMILE-G3-S5-INV.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 571,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 1161,
+        "width": 610,
+        "depth": 250,
+        "weight": 109.5,
+        "display": null,
+        "maxDcPower": 7360,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24194,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-S3.6-INV (AS4777-2 2020)",
+      "productCode": "SMILE-G3-S3.6-INV (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fb74e5fb-7854-40ec-8885-a0e224a676ee.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/e416e513-5557-4c8b-bea9-bb7f6bea1358/SMILE-G3-S3.6-INV_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13304,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 435,
+        "width": 610,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7,
+        "dcInputs": 2,
+        "maxEfficiency": 0.966,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1950,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-S5",
+      "productCode": "SMILE-G3-S5(LCD)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/347d4f0f-5f7c-4f43-892b-3ff08cc32f89.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/82612e5c-221a-48fd-96a2-ec66b7010039/SMILE-G3-S5-INV.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 572,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 366,
+        "width": 610,
+        "depth": 212,
+        "weight": 19.5,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20980,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-S5-INV",
+      "productCode": "SMILE-G3-S5-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ffbb3be2-c004-47d9-a72e-da068c830f5d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/29cf8557-2879-48c6-8590-c179dff02f29/SMILE-G3-S5-INV_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-G3-S5-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10090,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 212,
+        "width": 610,
+        "depth": 366,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.966,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 29412,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T10",
+      "productCode": "SMILE-G3-T10 (LED)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/05acbdf0-9ab8-470f-a750-55920f420c61.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2752/7caa60ec6985b1345177c6ce93785e5a.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15374,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 212.5,
+        "weight": 26.7,
+        "display": "LED",
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1219,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T10-INV",
+      "productCode": "SMILE-G3-T10-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/764bd1a0-f82f-4da1-9ed9-96151ebcc881.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-G3-T10-INV.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "SMILE-G3-T10-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 161,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 213,
+        "weight": 26.7,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29465,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T12",
+      "productCode": "SMILE-G3-T12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4680098-3f72-4cf8-98a8-19aca55554ca.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2796/978b044e491544728f197d48c44d9c92.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Years Battery Performance Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15426,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 21,
+        "type": "Hybrid Inverter",
+        "height": 610,
+        "width": 610,
+        "depth": 250,
+        "weight": 44,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 21
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 119641,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T12 (LCD)",
+      "productCode": "SMILE-G3-T12 (LCD)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/45038656-78fa-4814-ad4f-daf7d63b65cd.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/77266605-b09f-4a38-89fc-c17ac0dc28f5.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26267,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 610,
+        "width": 610,
+        "depth": 250,
+        "weight": 44,
+        "display": "LCD",
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 119642,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T15 (LCD)",
+      "productCode": "SMILE-G3-T15 (LCD)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a0545df2-d094-47f8-9a21-ea6e18a8c44f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/1581fc43-edb2-43e4-b284-0d4eb6c7a9d8.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26268,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 610,
+        "width": 610,
+        "depth": 250,
+        "weight": 44,
+        "display": "LCD",
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29466,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T15-INV",
+      "productCode": "SMILE-G3-T15",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/07/21/a99b12dc-6ebd-4e8d-9821-c90eb97715ce.jpeg",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/414f093c-bd4d-40ec-83d6-a1ad4bcaaef4.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Years Battery Performance Warranty",
+      "cecModelNumber": "SMILE-G3-T15-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15427,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 650,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 610,
+        "width": 610,
+        "depth": 250,
+        "weight": 44,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 650
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 119643,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T20 (LCD)",
+      "productCode": "SMILE-G3-T20 (LCD)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/30ee7112-88c8-45b0-95d8-6e5cac52b069.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/08dc5f21-ba66-4024-84ed-445b5d3a8f58.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26269,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 610,
+        "width": 610,
+        "depth": 250,
+        "weight": 44,
+        "display": "LCD",
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29467,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T20-INV",
+      "productCode": "SMILE-G3-T20",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/07/21/30032237-a7aa-4aeb-a7c1-31db7debdd68.jpeg",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/b1d68c05-a14b-46b6-9687-d6168b4a20d8.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 Years Battery Performance Warranty",
+      "cecModelNumber": "SMILE-G3-T20-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15428,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 610,
+        "width": 610,
+        "depth": 250,
+        "weight": 44,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T4",
+      "productCode": "SMILE-G3-T4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5dc9983b-1b2e-4d23-99fb-0e4dea0a9812.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-G3-T8-INV.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 470,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 435,
+        "width": 610,
+        "depth": 213,
+        "weight": 39.2,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": null,
+        "maxEfficiency": 0.1,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1398,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T4-INV",
+      "productCode": "SMILE-G3-T4-INV (LED)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3a273ab2-e2a1-4b1e-86d9-1216d6d2b3cc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-G3-T4-INV.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 340,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 212.5,
+        "weight": 26.7,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29409,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T5",
+      "productCode": "SMILE-G3-T5 (LED)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/edede84e-72a6-4eff-8bb1-3fbb44d392e5.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2752/7caa60ec6985b1345177c6ce93785e5a.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15371,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 212.5,
+        "weight": 26.7,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T5-INV",
+      "productCode": "SMILE-G3-T5-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3ccca5b3-e514-4c32-9bd5-681bda2a22e3.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2348/f4db7a377ffe0c2be69db1602d6f11cf.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10.0",
+      "cecModelNumber": "SMILE-G3-T5-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15598,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 213,
+        "weight": 26.7,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29410,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T6",
+      "productCode": "SMILE-G3-T6 (LED)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/70aa0d85-df4a-4abd-b256-9bdd22d4b68f.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2752/7caa60ec6985b1345177c6ce93785e5a.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15372,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 212.5,
+        "weight": 26.7,
+        "display": "LED",
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1399,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T6-INV",
+      "productCode": "SMILE-G3-T6-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b524bbf6-9e4d-470f-a28c-174138dbe92f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-G3-T6-INV.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 341,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 213,
+        "weight": 26.7,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 29411,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T8",
+      "productCode": "SMILE-G3-T8 (LED)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7a455e1d-bf7f-4474-8929-2553ebceb40a.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2752/7caa60ec6985b1345177c6ce93785e5a.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15373,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 212.5,
+        "weight": 26.7,
+        "display": "LED",
+        "maxDcPower": 0,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1124,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-G3-T8-INV",
+      "productCode": "SMILE-G3-T8-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1c920b14-63ec-4e88-8496-fd24b4c599f9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-G3-T8-INV.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 66,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 610,
+        "depth": 213,
+        "weight": 26.7,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 130279,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M10-S",
+      "productCode": "SMILE-M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/07/21/3b5e9a41-83e9-490f-8b1d-0719da7506ed.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/a5cb614f-152b-4daa-9477-3a74082ba668.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28635,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 125093,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M3.6-S-INV",
+      "productCode": "SMILE-M3.6-S-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/aac9fa6d-ab01-4b46-935a-41b0087e3bab.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/76607d74-5cd3-4f05-9072-64c68a81d931.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "SMILE-M3.6-S-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1/3",
+        "IEC 61000-3-2/3",
+        "IEC 62109-1/-2",
+        "AS4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27070,
+        "companyProductId": null,
+        "maxAcPower": 5520,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 10,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 260.3,
+        "width": 620,
+        "depth": 423,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.0097,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 10
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 65153,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M5",
+      "productCode": "SMILE-M5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d6471788-577d-445a-a667-5d880aae02eb.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/834032ba-7d3d-4c73-b278-c314219fc2a7.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25164,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 240,
+        "width": 620,
+        "depth": 412.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126353,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M5-B-INV",
+      "productCode": "SMILE-M5-B-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/03/18/c44c3f4e-6569-47c2-bf92-f6f21f058353.png",
+      "datasheet": null,
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "SMILE-M5-B-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 27615,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 260,
+        "width": 620,
+        "depth": 423,
+        "weight": 21.3,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.9747,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24176,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M5-S-INV",
+      "productCode": "SMILE-M5-S-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ad1f7527-fb7f-44eb-b5e8-d97f8a489b02.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/e10888a5-a346-453f-8991-351562f6e407.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-M5-S-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13286,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 240,
+        "width": 620,
+        "depth": 413,
+        "weight": 19.5,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 130281,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M8-S",
+      "productCode": "SMILE-M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/07/21/c3a3056a-1ea3-46db-b931-a2526a71ac7b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/7d871287-4664-4a4e-84aa-755b17cbc5a2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28637,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 130280,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-M9-S",
+      "productCode": "SMILE-M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/07/21/0e7f86d4-36d3-4f21-9cdc-45a634faa39e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/10964eb2-c359-412d-b8d5-496561f1cfac.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28636,
+        "companyProductId": null,
+        "maxAcPower": 9000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 9000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 9000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22902,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S5",
+      "productCode": "SMILE-S5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/46c1a28d-426e-427a-84cd-415f3cbc4512.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S5_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-S5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12012,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 350,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20425,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S5 II",
+      "productCode": "SMILE-S5 II",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1cdc98fd-3af5-48eb-9e9a-b5aa4c8f5dab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S5_II_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-S5 II (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9535,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 350,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22063,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S5 III",
+      "productCode": "SMILE-S5 III",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c344190b-e30a-4456-90c1-5860f16c4a45.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S5_III_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-S5 III (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11173,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 350,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24639,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S5 IV",
+      "productCode": "SMILE-S5 IV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a4e92de-e733-44f8-a49d-d3f7f57ebf4e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S5_IV_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-S5 IV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13749,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 745,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22935,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S5 V",
+      "productCode": "SMILE-S5 V",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b7041423-05a7-4401-8003-0929596f40e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S5_V_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-S5 V (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12045,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 350,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22247,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S5 VI",
+      "productCode": "SMILE-S5 VI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f568e06c-132e-4330-a749-3ce915f9fae4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S5_VI_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-S5 VI (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11357,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 350,
+        "width": 640,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8,
+        "dcInputs": 2,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1451,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-S6-HV-INV",
+      "productCode": "SMILE-S6-HV-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/313837f3-157b-476f-958a-41af653e89c2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-S6-HV-INV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 393,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 606,
+        "width": 580,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 29385,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-T10-HV",
+      "productCode": "SMILE-T10-HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/eaa3b4d3-8ca5-4e93-9bee-6f7ac2e283d7.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2747/1d3ed44292b18eb04857e860da1ea9d6.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10.0",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15347,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 39,
+        "type": "Hybrid Inverter",
+        "height": 606,
+        "width": 580,
+        "depth": 230,
+        "weight": 30,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 3,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 39
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21861,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-T10-HV-INV",
+      "productCode": "SMILE-T10-HV-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e271152c-c57e-4727-8c6c-197ccb21cc73.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-T10-HV-INV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE-T10-HV-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10971,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 39,
+        "type": "Hybrid Inverter",
+        "height": 605,
+        "width": 610,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 39
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21553,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE-T10-INV",
+      "productCode": "SMILE-T10-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7190a17a-547a-47cd-b96a-d970e50310d3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_SMILE-T10-INV.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10663,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 15.2,
+        "type": "Hybrid Inverter",
+        "height": 605,
+        "width": 610,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 15.2
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23314,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "SMILE5-INV",
+      "productCode": "SMILE5-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2a38aeaa-7725-4ba9-9d7a-b25dbbbdf81a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/ae154987-c533-4656-882c-817043371a7f/SMILE5-INV_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "SMILE5-INV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12424,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 627,
+        "width": 610,
+        "depth": 210,
+        "weight": 27.7,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 29827,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "STORION-G2-H30",
+      "productCode": "STORION-G2-H30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/58017f43-c048-4d63-9f82-c8ec480499e2.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2288/7e079e23b11768206e75ff4d01e46b60.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10.0",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15582,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 135,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 1100,
+        "depth": 900,
+        "weight": null,
+        "display": "SCADA",
+        "maxDcPower": 45000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 135
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 29828,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "STORION-G2-H30-O",
+      "productCode": "STORION-G2-H30-O",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/91c86135-b54b-4d30-beb9-0413cfab5a98.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2288/7e079e23b11768206e75ff4d01e46b60.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10.0",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15583,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 135,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 1100,
+        "depth": 1200,
+        "weight": null,
+        "display": "SCADA",
+        "maxDcPower": 45000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 135
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 29825,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "STORION-G2-H50",
+      "productCode": "STORION-G2-H50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d764fc13-2fda-4a6a-94eb-76a0f9449ee3.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2289/bfbc1ba3d1823ee95c8558bcb4b143e7.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10.0",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15580,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 135,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 900,
+        "depth": 850,
+        "weight": null,
+        "display": "SCADA",
+        "maxDcPower": 75000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 135
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 29826,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "STORION-G2-H50-O",
+      "productCode": "STORION-G2-H50-O",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/498611fa-bb6a-4555-85bf-b532bf43cbc6.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2289/bfbc1ba3d1823ee95c8558bcb4b143e7.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10.0",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15581,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 135,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 1050,
+        "depth": 1200,
+        "weight": null,
+        "display": "SCADA",
+        "maxDcPower": 75000,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 135
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22115,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "STORION-H30",
+      "productCode": "STORION-H30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cb458641-7934-4539-bdba-5b549d072a4f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_STORION-H30.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11225,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 830,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 830,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "Hybrid Inverter",
+        "height": 920,
+        "width": 440,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 830
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21969,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "STORION-H30-O",
+      "productCode": "STORION-H30-O",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f016413e-eaf6-4c62-ad42-930213aa2789.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_STORION-H30-O.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11079,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 830,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 830,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 43.75,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 900,
+        "depth": 1200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 830
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 43.75
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20612,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-SMILE-B3 (AS4777-2 2020)",
+      "productCode": "Storion-SMILE-B3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/11f2945f-223a-4a30-acc8-0fc0e00d11eb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-SMILE-B3_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Storion-SMILE-B3 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9722,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 650,
+        "width": 610,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.926,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24498,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-SMILE-B3 II",
+      "productCode": "Storion-SMILE-B3 II",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/73b5e408-2901-4bf7-aec5-d0b71a7d5545.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-SMILE-B3_II_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Storion-SMILE-B3 II (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13608,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 650,
+        "width": 610,
+        "depth": 955,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3,
+        "dcInputs": 1,
+        "maxEfficiency": 0.926,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21141,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-SMILE-B3 III",
+      "productCode": "Storion-SMILE-B3 III",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/9886bc2c-cb94-44f8-ba81-7f64cd8208c0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-SMILE-B3_III_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Storion-SMILE-B3 III (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10251,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 650,
+        "width": 610,
+        "depth": 1260,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.926,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24354,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-SMILE-B3 IV",
+      "productCode": "Storion-SMILE-B3 IV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/960545b4-8e99-4f75-be45-144eed9c7192.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-SMILE-B3_IV_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Storion-SMILE-B3 IV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13464,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 650,
+        "width": 610,
+        "depth": 1565,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3,
+        "dcInputs": 1,
+        "maxEfficiency": 0.926,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21606,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-SMILE-B3 V",
+      "productCode": "Storion-SMILE-B3 V",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f4250200-5b35-457c-ae8d-c07aed50fcb2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-SMILE-B3_V_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Storion-SMILE-B3 V (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10716,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 650,
+        "width": 610,
+        "depth": 1565,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.926,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23255,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-SMILE-B3 VI (AS4777-2 2020)",
+      "productCode": "Storion-SMILE-B3 VI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a2221e3a-bbf9-4d8e-93a0-8961d2730244.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-SMILE-B3_VI_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "10",
+      "cecModelNumber": "Storion-SMILE-B3 VI (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12365,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 650,
+        "width": 610,
+        "depth": 2175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3,
+        "dcInputs": 1,
+        "maxEfficiency": 0.926,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 22315,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-T100",
+      "productCode": "Storion-T100",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1dbd477b-ea4b-4c89-ba9b-db28a25d531b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-T100.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11425,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 520,
+        "mpptVoltageMin": 520,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 384,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 200000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 520
+        },
+        "current_isc_max": {
+          "value": 384
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 520
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21163,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-T30",
+      "productCode": "Storion-T30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899fd96b-6f90-4e5d-aa0c-9f9fcc9ee9ef.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-T30.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10273,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 400,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 165,
+        "width": 450,
+        "depth": 580,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 400
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21717,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 270,
+      "brandName": "AlphaESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/17/b079f386-65ee-413c-851f-26027dfa20b0.webp",
+      "productName": "Storion-T50",
+      "productCode": "Storion-T50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5c06e328-8abe-4ca2-871c-b2846bff894f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Alpha_ESS_Storion-T50.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10827,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 520,
+        "mpptVoltageMin": 520,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 192,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 100000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 520
+        },
+        "current_isc_max": {
+          "value": 192
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 520
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

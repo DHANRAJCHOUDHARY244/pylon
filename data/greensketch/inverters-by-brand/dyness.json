@@ -1,0 +1,1521 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Dyness",
+  "count": 18,
+  "exportedAt": "2026-09-23T06:39:31.859Z",
+  "items": [
+    {
+      "id": 39963,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni 10.0AS",
+      "productCode": "Cygni 10.0AS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/86c9a596-bbf1-44a4-82b2-0ce0b7644fe6.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/2d569e74-10c8-4ce0-90ea-2737c2a4354a.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16879,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 15000,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 15000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 39957,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni 10.0HS",
+      "productCode": "Cygni 10.0HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/24a490a7-9fa2-440e-870d-5c36830a2efa.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/f4b031db-09b4-4809-aa8b-48b5f880db12.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16875,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1430,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127873,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni 10.0HS-M12",
+      "productCode": "Cygni 10.0HS-M12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f3557d1c-8fc6-4a3d-8001-7b2f33d3acb6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/ea49906e-5e25-434d-bd71-9bf9495d485d.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28288,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127872,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni 10.0HS-M9",
+      "productCode": "Cygni 10.0HS-M9",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f3557d1c-8fc6-4a3d-8001-7b2f33d3acb6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/ea49906e-5e25-434d-bd71-9bf9495d485d.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "Cygni 10.0HS-M12 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28287,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 39962,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni 8.0AS",
+      "productCode": "Cygni 8.0AS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5c4b39f3-fa0c-43d3-8a36-ca724e369c3b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d02266c7-7a85-4a87-bf04-1f38fce25b14.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16878,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 20000,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 20000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 39958,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni 8.0HS",
+      "productCode": "Cygni 8.0HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/714259ac-8e1d-4df9-9c00-4811ce2960b6.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/9de3d48e-616b-43ef-ad15-dc356bf38a89.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16876,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125133,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni10.0HS-M2",
+      "productCode": "Cygni 10.0HS-M2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ddecd72c-c6f5-4a99-8916-541f45f3f5ae.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/2e066a68-db7f-49df-b83c-342a82cbe238.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 10.0HS-M2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27110,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125134,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni10.0HS-M3",
+      "productCode": "Cygni 10.0HS-M3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/90dffafa-a6a3-4559-bc0f-08e071fbceb6.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/36bca5e6-2aae-4651-bb81-378134320ddc.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 10.0HS-M3 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27111,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1430,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125135,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni10.0HS-M4",
+      "productCode": "Cygni 10.0HS-M4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/de4d47bb-62a2-4187-bd63-ac33e61b32e5.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/abf44796-7980-4f6d-8b37-99de813e66ff.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 10.0HS-M4 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27112,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1730,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125136,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni10.0HS-M6",
+      "productCode": "Cygni 10.0HS-M6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/81bc3410-e39a-4f09-8bbe-30e94c3b3663.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/51394926-1bbf-4c06-b2c7-9d7d67197df3.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 10.0HS-M6 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27113,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1630,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125137,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni10.0HS-M8",
+      "productCode": "Cygni 10.0HS-M8",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c1dfaa4e-3fde-40a4-a449-5288d68c523b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/ea402eed-bdd4-41dc-9ed5-19d920f4d2d1.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 10.0HS-M8 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27114,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 210,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1930,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 210
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125132,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M12",
+      "productCode": "Cygni 8.0HS-M12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4aa01a57-4fdc-43fb-8551-373b6c7d364a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d00722a2-8fee-4377-97f9-92fa43298087.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M12 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27109,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1930,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125126,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M2",
+      "productCode": "Cygni 8.0HS-M2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/71f011ef-e6bd-4f4e-8551-126d162bea1a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/ea5fd4dd-1d4a-41a4-a15b-a51d90980ff7.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27103,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1130,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125127,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M3",
+      "productCode": "Cygni 8.0HS-M3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/57d3e15f-af4a-401f-b3b5-ce8f1e36f817.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/8aa69cec-339e-4bb0-8982-a60620b62934.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M3 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27104,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1430,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125128,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M4",
+      "productCode": "Cygni 8.0HS-M4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/774d4698-4d69-4350-8ce2-446fb10e3800.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3a9aecee-70f3-4b60-bbdb-7f0e5f685e8b.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M4 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27105,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1730,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125129,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M6",
+      "productCode": "Cygni 8.0HS-M6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/afc4d174-1bf9-4d2d-81d9-6d881f8eb7a7.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/9910e727-4cc8-48ce-9731-1bb330f248a8.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M6 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27106,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1630,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125130,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M8",
+      "productCode": "Cygni 8.0HS-M8",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0b9175ca-cae0-4402-9c0a-a26e1df7d9a5.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/c6ad5a9e-ae5c-4eec-a668-5ee09dcc6f11.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M8 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27107,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1930,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125131,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1469,
+      "brandName": "Dyness",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/16/114988bd-0d3b-411d-81fa-a00455a42718.webp",
+      "productName": "Cygni8.0HS-M9",
+      "productCode": "Cygni 8.0HS-M9",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0c6883e4-4a4b-4080-b658-c1d45dfadf40.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/f34d66f5-df37-41ca-8ce9-327a4a0ab7aa.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Cygni 8.0HS-M9 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62619",
+        "IEC 60730",
+        "IP66",
+        "DC Type II",
+        "AC Type III",
+        "Class III"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27108,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1630,
+        "width": 650,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": 0.0097,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

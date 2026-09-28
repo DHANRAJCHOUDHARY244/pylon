@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "APEX",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.681Z",
+  "items": [
+    {
+      "id": 22316,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1440,
+      "brandName": "APEX",
+      "brandLogo": "https://file.greensketch.net/brands/logo/APEX.png",
+      "productName": "Solar Greyser System",
+      "productCode": "Solar Greyser System",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f70ac237-1f8d-4af9-80a7-4996820878f0.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/e285d06b-ef78-49b6-8339-3e328714a582.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11426,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 230,
+        "minDcVoltageToStartFeedIn": 110,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 230,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 230
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 110
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

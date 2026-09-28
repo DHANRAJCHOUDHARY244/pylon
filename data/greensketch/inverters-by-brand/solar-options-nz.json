@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Solar Options NZ",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.652Z",
+  "items": [
+    {
+      "id": 21348,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1425,
+      "brandName": "Solar Options NZ",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+Options+NZ+Ltd.png",
+      "productName": "ESH 5500",
+      "productCode": "ESH 5500",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/static/images/image-not-found.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_Options_NZ_ESH_5500.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10458,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 445,
+        "width": 450,
+        "depth": 110,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.93,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

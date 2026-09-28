@@ -1,0 +1,562 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Eltek",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:39:42.149Z",
+  "items": [
+    {
+      "id": 24242,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "48/3200 HE SOLAR",
+      "productCode": "48/3200 HE SOLAR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4e3a92f3-847b-4aaf-9bdf-6f336fd8641d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/12b103bd-f9e3-4027-866c-f0c0ce042293.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13352,
+        "companyProductId": null,
+        "maxAcPower": 3200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 430,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 3200,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7714,
+        "dcInputs": 1,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 430
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3200
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22208,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "Rectiverter 115/750 48/0",
+      "productCode": "Rectiverter 115/750 48/0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6f9d6495-ad16-4530-bbfc-aa0beabda3c9.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/6cf272bb-6b1d-4f9f-9344-33147242629e.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11318,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 41.5,
+        "width": 109,
+        "depth": 327,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.91,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20497,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "Rectiverter 115/750 48/600",
+      "productCode": "Rectiverter 115/750 48/600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/92a92f18-3277-47c5-8037-220dcdb256d0.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/25d3edab-fd12-407c-b3a6-80d68b44416c.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9607,
+        "companyProductId": null,
+        "maxAcPower": 600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 600,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 41.5,
+        "width": 109,
+        "depth": 327,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.91,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 600
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24164,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "Rectiverter 115/750 48/75",
+      "productCode": "Rectiverter 115/750 48/75",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5558baed-5258-4fce-912b-61cc0b7bab8f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d3344ee8-729d-4310-8cda-069a9ef990f9.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13274,
+        "companyProductId": null,
+        "maxAcPower": 75,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 75,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 41.5,
+        "width": 109,
+        "depth": 327,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.91,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 75
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20669,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "Rectiverter 230/1500 48/0",
+      "productCode": "Rectiverter 230/1500 48/0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b7de8ddf-de6f-4a30-9179-621e7f4d6f83.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3170af54-0f15-4636-bc18-b014d341b7cc.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9779,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 41.5,
+        "width": 109,
+        "depth": 327,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.94,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 22738,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "Rectiverter 230/1500 48/1200",
+      "productCode": "Rectiverter 230/1500 48/1200",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a438aac6-1dd3-4dce-bf75-6a40dedc2d70.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/4a1927da-09e3-4886-b90b-a73c3f27ef6e.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11848,
+        "companyProductId": null,
+        "maxAcPower": 1200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 41.5,
+        "width": 109,
+        "depth": 327,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.94,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1366,
+      "brandName": "Eltek",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-22_16-54-25.png",
+      "productName": "Rectiverter 230/1500 48/150",
+      "productCode": "Rectiverter 230/1500 48/150",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f9e05b13-4670-46b7-b8e2-ded81e7bf2cb.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/9af68232-81d3-4e74-a9d0-d2842ef3cf81.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12953,
+        "companyProductId": null,
+        "maxAcPower": 150,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 150,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 41.5,
+        "width": 109,
+        "depth": 327,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.94,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 150
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

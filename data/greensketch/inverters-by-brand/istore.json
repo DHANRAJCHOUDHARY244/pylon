@@ -1,0 +1,967 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "iStore",
+  "count": 12,
+  "exportedAt": "2026-09-23T06:39:42.059Z",
+  "items": [
+    {
+      "id": 22135,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-10000-1PH (AS4777-2 2020)",
+      "productCode": "IS-HYB-10000-1PH (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": "10 kW single-phase hybrid inverter with 3 MPP trackers, 3 PV inputs, 9,999 VA output, up to 98.1% efficiency, single-port battery connection, RS485 & optional WLAN/Ethernet for smart monitoring and management.\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/28/73b8aec7-34e8-4492-9f92-c060cdc1d8a1.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-10000-1PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11245,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 377,
+        "width": 425,
+        "depth": 150,
+        "weight": 15,
+        "display": "Indicators",
+        "maxDcPower": 25000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20878,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-10000-3PH (AS4777-2 2020)",
+      "productCode": "IS-HYB-10000-3PH (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": "Our inverters feature Intelligent AFCI (0.5s arc cut‑off), IP66 durability, high efficiency, advanced DC/AC lightning protection, and seamless storage integration—delivering safe, reliable, and sustainable 24/7 solar energy for homes and businesses.\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/29/f2f05dc0-f651-4eee-847e-8fa4259c9468.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-10000-3PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9988,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 460,
+        "width": 546,
+        "depth": 228,
+        "weight": 21,
+        "display": "Indicators",
+        "maxDcPower": 25000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.977,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21613,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-15000-3PH (AS4777-2 2020)",
+      "productCode": "IS-HYB-15000-3PH (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": "Our inverters feature Intelligent AFCI (0.5s arc cut‑off), IP66 durability, high efficiency, advanced DC/AC lightning protection, and seamless storage integration—delivering safe, reliable, and sustainable 24/7 solar energy for homes and businesses.\n",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/68f72022-9d2e-4233-be80-9068f1937093.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-15000-3PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10723,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 460,
+        "width": 546,
+        "depth": 228,
+        "weight": 21,
+        "display": "Indicators",
+        "maxDcPower": 37500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20399,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-25000-3PH",
+      "productCode": "IS-HYB-25000-3PH",
+      "displayName": null,
+      "productDescription": "Our inverters feature Intelligent AFCI (0.5s arc cut‑off), IP66 durability, high efficiency, advanced DC/AC lightning protection, and seamless storage integration—delivering safe, reliable, and sustainable 24/7 solar energy for homes and businesses.",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/29/f4adf92e-3d5f-49a2-b14f-ff7e04745bbe.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-25000-3PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9509,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 460,
+        "width": 546,
+        "depth": 228,
+        "weight": 21,
+        "display": "Indicators",
+        "maxDcPower": 62500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128113,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-5000-1PH",
+      "productCode": "IS-HYB-5000HC-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c12844df-bc62-4bce-a730-03c31fd47a56.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/c0c85a79-ddbc-4baf-9af2-90cc2e8f0f38.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "IS-HYB-5000HC-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN/IEC 61643-11",
+        "IEC 62109-1",
+        "IEC 62109-2",
+        "AS4777.2:2020"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28352,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 365,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22198,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-5000-1PH (AS4777-2 2020)",
+      "productCode": "IS-HYB-5000-1PH (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": "Our inverters feature Intelligent AFCI cutting DC arcs in 0.5s, IP65 durability, high efficiency, advanced DC/AC lightning protection, and seamless storage integration—delivering safe, reliable, and sustainable solar power for 24/7 green living.\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/28/0d0876de-9c52-4bc3-8626-d5702f9b23ad.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-5000-1PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "IS-HYB-5000-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11308,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 365,
+        "depth": 156,
+        "weight": 12,
+        "display": "Indicators",
+        "maxDcPower": 12500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23739,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-5000-3PH (AS4777-2020)",
+      "productCode": "IS-HYB-5000-3PH (AS4777-2020)",
+      "displayName": null,
+      "productDescription": "The iStore 5kW three‑phase hybrid inverter features transformer‑less design, dual MPPTs, high‑voltage battery input, and AI‑driven AFCI for advanced fire‑hazard detection, ensuring safe, efficient, and flexible solar energy management.\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/29/4836a9d1-fde3-440e-9d4d-da9193d3003e.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-5000-3PH_(AS4777-2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12849,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 470,
+        "width": 525,
+        "depth": 147,
+        "weight": 17,
+        "display": "Indicators",
+        "maxDcPower": 12500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 13.5,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128114,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-6000-1PH",
+      "productCode": "IS-HYB-6000-1PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c12844df-bc62-4bce-a730-03c31fd47a56.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/c0c85a79-ddbc-4baf-9af2-90cc2e8f0f38.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN/IEC 61643-11",
+        "IEC 62109-1",
+        "IEC 62109-2",
+        "AS4777.2:2020"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28353,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 365,
+        "depth": 156,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21432,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-6000-1PH (AS4777-2 2020)",
+      "productCode": "IS-HYB-6000-1PH (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": "Our inverters feature Intelligent AFCI cutting DC arcs in 0.5s, IP65 durability, high efficiency, advanced DC/AC lightning protection, and seamless storage integration—delivering safe, reliable, and sustainable solar power for 24/7 green living.\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/28/047f1d2e-b6d0-41a1-9ba8-5b677712d893.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-6000-1PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "IS-HYB-6000-1PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10542,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 365,
+        "width": 365,
+        "depth": 156,
+        "weight": 12,
+        "display": "Indicators",
+        "maxDcPower": 15000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24315,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-HYB-6000-3PH (AS4777-2020)",
+      "productCode": "IS-HYB-6000-3PH (AS4777-2020)",
+      "displayName": null,
+      "productDescription": "The iStore 6kW three‑phase hybrid inverter features transformer‑less design, dual MPPTs, high‑voltage battery input, and AI‑driven AFCI for advanced fire‑hazard detection, ensuring safe, efficient, and flexible solar energy management.\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/29/1bb5b999-b863-40fd-ac92-276adf92f53b.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-HYB-6000-3PH_(AS4777-2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13425,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 470,
+        "width": 525,
+        "depth": 147,
+        "weight": 17,
+        "display": "Indicators",
+        "maxDcPower": 15000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.977,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 13.5,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes, Native",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20852,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-INV-29900-3PH",
+      "productCode": "IS-INV-29900-3PH",
+      "displayName": null,
+      "productDescription": "The iStore IS‑INV‑29900‑3PH offers 8‑string monitoring, rapid troubleshooting, PLC, Smart I‑V diagnosis, 4MPPT (98.6% max efficiency), integrated DC switch, fuse‑free design, and RCMU—delivering safer, smarter, and highly efficient solar perfor",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/29/100613bc-88f0-424d-99d7-d7efe3e3d491.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-INV-29900-3PH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "IS-INV-29900-3PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9962,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 530,
+        "width": 640,
+        "depth": 270,
+        "weight": 43,
+        "display": "Indicators",
+        "maxDcPower": 44850,
+        "dcInputs": 8,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.984,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 27,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "No",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22501,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1353,
+      "brandName": "iStore",
+      "brandLogo": "https://file.greensketch.net/brands/logo/istore-logo-fullcolour-final.png",
+      "productName": "IS-INV-40000-3PH (AS4777-2 2020)",
+      "productCode": "IS-INV-40000-3PH (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": "The iStore IS‑INV‑40000‑3PH offers 8‑string monitoring, rapid troubleshooting, PLC, Smart I‑V diagnosis, 4MPPT (98.6% max efficiency), integrated DC switch, fuse‑free design, and RCMU—delivering safer, smarter, and highly efficient solar perfor",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/07/29/71589180-d316-4ab8-a433-f9a4735ce4f1.webp",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/iStore_IS-INV-40000-3PH_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "IS-INV-40000-3PH (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11611,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 530,
+        "width": 640,
+        "depth": 270,
+        "weight": 43,
+        "display": "Indicator",
+        "maxDcPower": 60000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.984,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 27,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "No",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    }
+  ]
+}

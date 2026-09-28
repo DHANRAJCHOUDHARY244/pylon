@@ -1,0 +1,957 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Nahui",
+  "count": 12,
+  "exportedAt": "2026-09-23T06:39:42.068Z",
+  "items": [
+    {
+      "id": 23598,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PH-1N3.6K",
+      "productCode": "N1PH-1N3.6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/99b23cb6-ef7c-48b2-97da-9dec6ab4503d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PH-1N3.6K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "N1PH-1N3.6K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12708,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 172,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22118,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PH-1N3K",
+      "productCode": "N1PH-1N3K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/015d9df6-b4df-4e2d-9106-a098213d0d46.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PH-1N3K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "N1PH-1N3K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11228,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 172,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20723,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PH-1N5K",
+      "productCode": "N1PH-1N5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1df4c664-30eb-4f19-b279-f2f539fec039.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PH-1N5K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "N1PH-1N5K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9833,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 172,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20702,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PH-1N6K",
+      "productCode": "N1PH-1N6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/34b47c49-dcb1-4a73-a420-4d0adcc97d55.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PH-1N6K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "N1PH-1N6K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9812,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 172,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22928,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PL-1M3.6K",
+      "productCode": "N1PL-1M3.6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5725bf8e-5541-4531-96e2-624d69991370.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PL-1M3.6K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12038,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "Hybrid Inverter",
+        "height": 520,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20526,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PL-1M3K",
+      "productCode": "N1PL-1M3K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/11b7fd54-6dac-4bef-a4b3-0e6b6a53fe59.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PL-1M3K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9636,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "Hybrid Inverter",
+        "height": 520,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21635,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PL-1M5K",
+      "productCode": "N1PL-1M5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/15aa997f-c92a-4e97-8825-13e10a38e57c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PL-1M5K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10745,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "Hybrid Inverter",
+        "height": 520,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21434,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N1PL-1M6K",
+      "productCode": "N1PL-1M6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/44c90315-6fa8-44cf-9cb2-5be8a314b64c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N1PL-1M6K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10544,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "Hybrid Inverter",
+        "height": 520,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22205,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N3PH-1N10K",
+      "productCode": "N3PH-1N10K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a97a7bc4-7630-4baf-9c42-bc1209566f6c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N3PH-1N10K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11315,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 187,
+        "weight": 27,
+        "display": "LCD",
+        "maxDcPower": 15000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21201,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N3PH-1N5K",
+      "productCode": "N3PH-1N5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8286fee4-af4e-4f2e-8127-124644ec747b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N3PH-1N5K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10311,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 187,
+        "weight": 27,
+        "display": "LCD",
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24407,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N3PH-1N6K",
+      "productCode": "N3PH-1N6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/70783e2d-20af-461f-9e0e-4cd1da956efc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N3PH-1N6K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13517,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 187,
+        "weight": 27,
+        "display": "LCD",
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23423,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1266,
+      "brandName": "Nahui",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Nahui.png",
+      "productName": "N3PH-1N8K",
+      "productCode": "N3PH-1N8K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/62cf39e3-cde4-422c-8ad9-e7e8eb680c15.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nahui_N3PH-1N8K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12533,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 412,
+        "width": 520,
+        "depth": 187,
+        "weight": 27,
+        "display": "LCD",
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

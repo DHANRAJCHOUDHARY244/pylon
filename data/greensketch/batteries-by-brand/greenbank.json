@@ -1,0 +1,62 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "GREENBANK",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:23.015Z",
+  "items": [
+    {
+      "id": 129097,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 3121,
+      "brandName": "GREENBANK",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/fc253416-8273-4213-8da4-5f810804c356.webp",
+      "productName": "GB48200",
+      "productCode": "GB48200",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/80122491-873b-4980-a23f-9289b0cdcd79.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/85d57edd-fe71-47cc-b222-a30a3bfcd375.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "> 6,000 Cycle@ 80% DOD / 25°C / 0.5C, 60% EOL",
+      "cecModelNumber": "GB48200",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62619",
+        "UN38.3",
+        "CE"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 15969,
+        "companyProductId": null,
+        "nominalEnergy": 10.24,
+        "usableEnergy": 9.22,
+        "depthOfDischarge": 0.900390625,
+        "roundTripEfficiency": 0.95,
+        "cycleLife": null,
+        "length": 610,
+        "width": 160,
+        "height": 800,
+        "batteryType": "",
+        "weight": 72,
+        "ratedDcVoltage": 51.2,
+        "maxAcPower": null,
+        "ipRating": "IP21",
+        "batteryChemistry": "",
+        "maxOutputPower": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}

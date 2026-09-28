@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "URE",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.656Z",
+  "items": [
+    {
+      "id": 23380,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 230,
+      "brandName": "URE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/thwtryvr.png",
+      "productName": "MA1-INV",
+      "productCode": "MA1-INV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/56a0822d-5c2c-4479-87e6-21c209f84dad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/URE_MA1-INV.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12490,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 615,
+        "width": 610,
+        "depth": 236,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

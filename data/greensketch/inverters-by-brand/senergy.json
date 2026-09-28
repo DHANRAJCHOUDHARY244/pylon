@@ -1,0 +1,641 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Senergy",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.128Z",
+  "items": [
+    {
+      "id": 23943,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "PVT-SE2KTL",
+      "productCode": "PVT-SE2KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1635d114-a7f6-492c-b069-5d887dfb892d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_PVT-SE2KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13053,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 336,
+        "width": 285,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24381,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "PVT-SE3KTL",
+      "productCode": "PVT-SE3KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f289252d-72c7-4c11-a8f9-239b99447adc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_PVT-SE3KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13491,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 336,
+        "width": 285,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22649,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "PVT-SE5KTL",
+      "productCode": "PVT-SE5KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/123feee6-ec38-4572-9340-489bfb353095.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_PVT-SE5KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11759,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "PV-only Inverter",
+        "height": 426,
+        "width": 335,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23615,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "SE 10KTL",
+      "productCode": "SE 10KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9f1cd379-d499-450d-b904-50a4874290c2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_SE_10KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12725,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 400,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24453,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "SE 12KTL",
+      "productCode": "SE 12KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5682ae7b-3f18-48a3-bb25-71034e2b3b77.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_SE_12KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13563,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 400,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22127,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "SE 15KTL",
+      "productCode": "SE 15KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8ba4e1e4-d311-4c89-95e7-d49997682ed7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_SE_15KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11237,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 400,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21810,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "SE 6KTL",
+      "productCode": "SE 6KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4d89dd04-b582-4a67-a669-0fe8722ee20c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_SE_6KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10920,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 400,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20738,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1389,
+      "brandName": "Senergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/senergy_logo.png",
+      "productName": "SE 8KTL",
+      "productCode": "SE 8KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d67ade25-610d-44e3-8220-a261451b92bc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Senergy_SE_8KTL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9848,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 400,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

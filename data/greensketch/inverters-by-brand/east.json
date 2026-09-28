@@ -1,0 +1,720 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "EAST",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.104Z",
+  "items": [
+    {
+      "id": 23045,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA2.5KSI",
+      "productCode": "EA2.5KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4f0c07de-8b00-44e0-8940-2cdb76f781d1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA2.5KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12155,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 353,
+        "width": 308,
+        "depth": 116.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3250,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21705,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA2KSI",
+      "productCode": "EA2KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/39bd5c87-506f-4bda-a821-971588cc6b89.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA2KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10815,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 353,
+        "width": 308,
+        "depth": 116.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21638,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA3.68KSI",
+      "productCode": "EA3.68KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3a2b1419-ed12-40d9-bc7c-53614fd14aeb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA3.68KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10748,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 200,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 370,
+        "depth": 126.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21182,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA3KSI",
+      "productCode": "EA3KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/89921be3-75af-4ba4-936e-b15b9dca48d8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA3KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10292,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 353,
+        "width": 308,
+        "depth": 116.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3900,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22331,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA3KSI-D",
+      "productCode": "EA3KSI-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/afb8f029-00a4-48be-8e83-9e10c3a5e24b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA3KSI-D.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11441,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 150,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 370,
+        "depth": 126.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3900,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23509,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA4.6KSI",
+      "productCode": "EA4.6KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e26b447a-2b38-46f5-a710-c057031e25ed.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA4.6KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12619,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 230,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 370,
+        "depth": 126.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20409,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA4KSI",
+      "productCode": "EA4KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5952a4a6-ea86-4185-8f07-77936ebf5662.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA4KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9519,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 200,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 370,
+        "depth": 126.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24260,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA5KSI",
+      "productCode": "EA5KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/19408bb4-b11b-4e3e-9ad7-37460dccfc4a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA5KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13370,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 250,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 370,
+        "depth": 126.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22059,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1354,
+      "brandName": "EAST",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Each+Energy.png",
+      "productName": "EA6KSI",
+      "productCode": "EA6KSI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1d4c189a-c8fd-4b3c-a7b2-92a98bf69b44.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EAST_EA6KSI.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11169,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 300,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 370,
+        "depth": 126.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

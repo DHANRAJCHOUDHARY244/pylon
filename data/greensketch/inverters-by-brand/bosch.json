@@ -1,0 +1,325 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Bosch",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:39:42.213Z",
+  "items": [
+    {
+      "id": 22710,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1434,
+      "brandName": "Bosch",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bosch+Power.png",
+      "productName": "BPT-S 3",
+      "productCode": "BPT-S 3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b4792572-f910-40ad-83a6-9f1c1fd9d9ab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bosch_BPT-S_3.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11820,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 620,
+        "width": 414,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22126,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1434,
+      "brandName": "Bosch",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bosch+Power.png",
+      "productName": "BPT-S 3.68",
+      "productCode": "BPT-S 3.68",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3e68df1e-6e26-4808-b929-0407d8924d44.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bosch_BPT-S_3.68.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11236,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 620,
+        "width": 530,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3900,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21974,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1434,
+      "brandName": "Bosch",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bosch+Power.png",
+      "productName": "BPT-S 4",
+      "productCode": "BPT-S 4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/067d641b-118d-495a-938c-84300ea86c96.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bosch_BPT-S_4.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11084,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 620,
+        "width": 414,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23384,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1434,
+      "brandName": "Bosch",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bosch+Power.png",
+      "productName": "BPT-S 4.6",
+      "productCode": "BPT-S 4.6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed0039a0-3451-4dd1-95a1-5a8ac2022755.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bosch_BPT-S_4.6.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12494,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 620,
+        "width": 414,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

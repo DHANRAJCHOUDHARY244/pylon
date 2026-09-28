@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Mysolar",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.467Z",
+  "items": [
+    {
+      "id": 35138,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1318,
+      "brandName": "Mysolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/60110fbf-eeba-4ed0-9f97-c8c62c6bcfe0.png",
+      "productName": "MS390M-HS",
+      "productCode": "MS390M-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mysolar_MS390M-HS.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mysolar_MS390M-HS.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13138,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 40.24,
+        "stcShortCircuitCurrentIsc": 10.19,
+        "stcOpenCircuitVoltageVoc": 48.74,
+        "stcCurrentAtMaximumPowerImpp": 9.69,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0031,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2008,
+        "width": 1002,
+        "depth": 40,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.194,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.19
+        },
+        "stc_voc": {
+          "value": 48.74
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.31
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "MS390M-HS"
+        },
+        "stc_vmpp": {
+          "value": 40.24
+        }
+      }
+    },
+    {
+      "id": 19757,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1318,
+      "brandName": "Mysolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/60110fbf-eeba-4ed0-9f97-c8c62c6bcfe0.png",
+      "productName": "MS395M-HS",
+      "productCode": "MS395M-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mysolar_MS395M-HS.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mysolar_MS395M-HS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6638,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 40.47,
+        "stcShortCircuitCurrentIsc": 10.26,
+        "stcOpenCircuitVoltageVoc": 48.99,
+        "stcCurrentAtMaximumPowerImpp": 9.76,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0031,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2008,
+        "width": 1002,
+        "depth": 40,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.196,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.26
+        },
+        "stc_voc": {
+          "value": 48.99
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.31
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "MS395M-HS"
+        },
+        "stc_vmpp": {
+          "value": 40.47
+        }
+      }
+    },
+    {
+      "id": 34541,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1318,
+      "brandName": "Mysolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/60110fbf-eeba-4ed0-9f97-c8c62c6bcfe0.png",
+      "productName": "MS400M-HS",
+      "productCode": "MS400M-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mysolar_MS400M-HS.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mysolar_MS400M-HS.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12541,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 40.65,
+        "stcShortCircuitCurrentIsc": 10.34,
+        "stcOpenCircuitVoltageVoc": 49.19,
+        "stcCurrentAtMaximumPowerImpp": 9.84,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0031,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2008,
+        "width": 1002,
+        "depth": 40,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.199,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.34
+        },
+        "stc_voc": {
+          "value": 49.19
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.31
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "MS400M-HS"
+        },
+        "stc_vmpp": {
+          "value": 40.65
+        }
+      }
+    },
+    {
+      "id": 34716,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1318,
+      "brandName": "Mysolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/60110fbf-eeba-4ed0-9f97-c8c62c6bcfe0.png",
+      "productName": "MS405M-HS",
+      "productCode": "MS405M-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mysolar_MS405M-HS.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mysolar_MS405M-HS.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12716,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 40.74,
+        "stcShortCircuitCurrentIsc": 10.45,
+        "stcOpenCircuitVoltageVoc": 49.24,
+        "stcCurrentAtMaximumPowerImpp": 9.94,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0031,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2008,
+        "width": 1002,
+        "depth": 40,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.201,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.45
+        },
+        "stc_voc": {
+          "value": 49.24
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.31
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "MS405M-HS"
+        },
+        "stc_vmpp": {
+          "value": 40.74
+        }
+      }
+    },
+    {
+      "id": 37650,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1318,
+      "brandName": "Mysolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/60110fbf-eeba-4ed0-9f97-c8c62c6bcfe0.png",
+      "productName": "MS410M-HS",
+      "productCode": "MS410M-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mysolar_MS410M-HS.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mysolar_MS410M-HS.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15650,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 40.95,
+        "stcShortCircuitCurrentIsc": 10.52,
+        "stcOpenCircuitVoltageVoc": 49.46,
+        "stcCurrentAtMaximumPowerImpp": 10.01,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0031,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2008,
+        "width": 1002,
+        "depth": 40,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.204,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.52
+        },
+        "stc_voc": {
+          "value": 49.46
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.31
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "MS410M-HS"
+        },
+        "stc_vmpp": {
+          "value": 40.95
+        }
+      }
+    }
+  ]
+}

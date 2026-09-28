@@ -1,0 +1,187 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "SolarEdge",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:32:24.485Z",
+  "items": [
+    {
+      "id": 18714,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 243,
+      "brandName": "SolarEdge",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/c5484b3a-c58b-431e-b843-509a4d161268.png",
+      "productName": "PV300-60MMJ",
+      "productCode": "PV300-60MMJ",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/SolarEdge_PV300-60MMJ.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/SolarEdge_PV300-60MMJ.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5595,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 300,
+        "stcVoltageAtMaximumPowerVmpp": 32.62,
+        "stcShortCircuitCurrentIsc": 9.64,
+        "stcOpenCircuitVoltageVoc": 39.75,
+        "stcCurrentAtMaximumPowerImpp": 9.2,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 1650,
+        "width": 992,
+        "depth": 40,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 223.3,
+        "noctVoltageAtMaximumPowerVmpp": 30.34,
+        "noctCurrentAtMaximumPowerImpp": 7.36,
+        "noctOpenCircuitVoltageVoc": 37.28,
+        "noctShortCircuitCurrentIsc": 7.78,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 9.64
+        },
+        "stc_voc": {
+          "value": 39.75
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 300
+        },
+        "cec_model": {
+          "value": "PV300-60MMJ"
+        },
+        "stc_vmpp": {
+          "value": 32.62
+        }
+      }
+    },
+    {
+      "id": 20174,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 243,
+      "brandName": "SolarEdge",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/c5484b3a-c58b-431e-b843-509a4d161268.png",
+      "productName": "PV310-60MMJ",
+      "productCode": "PV310-60MMJ",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/SolarEdge_PV310-60MMJ.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/SolarEdge_PV310-60MMJ.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 7055,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 300,
+        "stcVoltageAtMaximumPowerVmpp": 33.16,
+        "stcShortCircuitCurrentIsc": 9.76,
+        "stcOpenCircuitVoltageVoc": 40.09,
+        "stcCurrentAtMaximumPowerImpp": 9.35,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 1650,
+        "width": 992,
+        "depth": 40,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.189,
+        "noctMaximumPowerPmax": 230.7,
+        "noctVoltageAtMaximumPowerVmpp": 30.84,
+        "noctCurrentAtMaximumPowerImpp": 7.48,
+        "noctOpenCircuitVoltageVoc": 37.6,
+        "noctShortCircuitCurrentIsc": 7.87,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 9.76
+        },
+        "stc_voc": {
+          "value": 40.09
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 300
+        },
+        "cec_model": {
+          "value": "PV310-60MMJ"
+        },
+        "stc_vmpp": {
+          "value": 33.16
+        }
+      }
+    }
+  ]
+}

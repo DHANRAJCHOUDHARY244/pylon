@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Three Phase Inverter",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.675Z",
+  "items": [
+    {
+      "id": 20389,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1351,
+      "brandName": "Three Phase Inverter",
+      "brandLogo": null,
+      "productName": "SE7K-AUB (AS4777-2 2020)",
+      "productCode": "SE7K-AUB (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/448dc0ba-a57d-4e0d-8fec-904c92096f65.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Three_Phase_Inverter_SE7K-AUB_AS4777-2_2020.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9499,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 375,
+        "mpptVoltageMin": 375,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 775,
+        "width": 315,
+        "depth": 260,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9750,
+        "dcInputs": 1,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 375
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 375
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

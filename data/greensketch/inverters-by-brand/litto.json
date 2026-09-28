@@ -1,0 +1,799 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Litto",
+  "count": 10,
+  "exportedAt": "2026-09-23T06:39:42.092Z",
+  "items": [
+    {
+      "id": 21260,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LS 3000H",
+      "productCode": "LS 3000H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1cae20f3-81ba-476e-b7f5-81fddb0c858b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LS_3000H.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10370,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16.25,
+        "type": "PV-only Inverter",
+        "height": 290,
+        "width": 340,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 16.25
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24458,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LS 3000HD",
+      "productCode": "LS 3000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f3bafc67-54e4-4823-8133-b7fe622d011c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LS_3000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13568,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 355,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21816,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LS 4000H",
+      "productCode": "LS 4000H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1daed269-ed9b-4c98-b6dc-2899555b097c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LS_4000H.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10926,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 28.75,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 355,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 28.75
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22775,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LS 4000HD",
+      "productCode": "LS 4000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6e1caad2-c75a-46c9-ae07-ff8d5352657d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LS_4000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11885,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 355,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22833,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LS 5000H",
+      "productCode": "LS 5000H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e6b163c1-3257-4e8c-8861-b3449e17e4bb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LS_5000H.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11943,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 28.75,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 355,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 28.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24038,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LS 5000HD",
+      "productCode": "LS 5000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b41305db-2a4b-4271-b264-d3add28d0d74.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LS_5000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13148,
+        "companyProductId": null,
+        "maxAcPower": 4960,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16.25,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 355,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 16.25
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24545,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LT 10000HD",
+      "productCode": "LT 10000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/84919027-bd12-4e2b-954a-b9279dd546ea.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LT_10000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13655,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 820,
+        "nominalAcPower": 11000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 480,
+        "width": 400,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 14000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 11000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24446,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LT 5000HD",
+      "productCode": "LT 5000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8a46419c-0c4c-4470-ba8e-2521fdd56896.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LT_5000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13556,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 820,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "PV-only Inverter",
+        "height": 480,
+        "width": 400,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22592,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LT 6000HD",
+      "productCode": "LT 6000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/46b68113-5636-4f9d-ac98-506288713891.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LT_6000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11702,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 820,
+        "nominalAcPower": 6600,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 480,
+        "width": 400,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 6600
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23708,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1421,
+      "brandName": "Litto",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Litto.jpg",
+      "productName": "LT 8000HD",
+      "productCode": "LT 8000HD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d91bc2da-c95d-4861-9780-afcd6be5b626.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Litto_LT_8000HD.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12818,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 820,
+        "nominalAcPower": 8800,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 480,
+        "width": 400,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 8800
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Xantrex",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.623Z",
+  "items": [
+    {
+      "id": 20839,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1400,
+      "brandName": "Xantrex",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/a136e3d8-0832-487a-90bd-9178b0fce13b.png",
+      "productName": "GT2.8-AU",
+      "productCode": "GT2.8-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/df475d13-f86b-4a61-8673-1dda7ef70865.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Xantrex_GT2.8-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9949,
+        "companyProductId": null,
+        "maxAcPower": 2800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 195,
+        "mpptVoltageMin": 195,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 2800,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 597,
+        "width": 403,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3070,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": 0.94,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 195
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 2800
+        },
+        "mppt_voltage_min": {
+          "value": 195
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24403,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1400,
+      "brandName": "Xantrex",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/a136e3d8-0832-487a-90bd-9178b0fce13b.png",
+      "productName": "GT5.0-AU",
+      "productCode": "GT5.0-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ac1f2d84-5fce-4853-900f-7673d9c5a41a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Xantrex_GT5.0-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13513,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 240,
+        "mpptVoltageMin": 240,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 597,
+        "width": 403,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.952,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 240
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 240
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

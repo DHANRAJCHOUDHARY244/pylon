@@ -1,0 +1,816 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "SRNE Solar",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.110Z",
+  "items": [
+    {
+      "id": 24531,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HES48100S200-H",
+      "productCode": "HES48100S200-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/51446099-e4ae-448f-a2ca-a927f1a080f9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SRNE_Solar_HES48100S200-H.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13641,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 440,
+        "depth": 240,
+        "weight": 37,
+        "display": null,
+        "maxDcPower": 11000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23874,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HES48120S200-H",
+      "productCode": "HES48120S200-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e3d13c41-e09f-4dfd-99f0-79e7d1958453.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SRNE_Solar_HES48120S200-H.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12984,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 440,
+        "depth": 240,
+        "weight": 37,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20915,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HES4880S200-H",
+      "productCode": "HES4880S200-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8f022e1d-4064-418d-8d5f-964181889013.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SRNE_Solar_HES4880S200-H.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10025,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 8800,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 440,
+        "depth": 240,
+        "weight": 37,
+        "display": null,
+        "maxDcPower": 11000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 8800
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128465,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HESP4836S100-H",
+      "productCode": "HESP4836S100-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e6b27c77-ce63-4d99-9fb7-1ad3f0161e3d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/4ce57746-07e1-40b5-ac51-a3a3910bb360.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "HESP4836S100-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN50549-1",
+        "EN50549-IE",
+        "PEA-MEA",
+        "UNE217002",
+        "G99",
+        "G98",
+        "G98/NI",
+        "G99/NI",
+        "NRS-097",
+        "VDE-ARN-4105",
+        "CEI 021",
+        "IEC62109-1",
+        "IEC62109-2",
+        "EN61000-6-1",
+        "EN61000-6-3",
+        "RoHS",
+        "FCC 15 class B",
+        "AS4777.2 Australia New Zealand",
+        "AS4777.2 Australia A",
+        "AS4777.2 Australia B",
+        "AS4777.2 Australia C"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28505,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "Hybrid Inverter",
+        "height": 556,
+        "width": 345,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127742,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HESP4840S100-H",
+      "productCode": "HESP4840S100-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d52c64f6-60e3-48c7-a260-03201de4576f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/1f709e52-70f9-4c69-97c1-d8e1174fa40d.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "HESP4840S100-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN50549-1",
+        "G99",
+        "NRS-097",
+        "VDE-ARN-4105",
+        "CEI021",
+        "UNE217002",
+        "IEC62109–1",
+        "IEC62109–2",
+        "EN61000-6-1",
+        "EN61000-6-3",
+        "FCC 15 class B",
+        "RoHS"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28237,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "Hybrid Inverter",
+        "height": 556,
+        "width": 345,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127743,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HESP4846S100-H",
+      "productCode": "HESP4846S100-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/60c2fef4-7c35-4793-9c7d-17b2b28c7adb.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d0b15d5a-1b31-4107-88ad-0a3d8991c7f1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "HESP4846S100-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN50549-1",
+        "G99",
+        "NRS-097",
+        "VDE-ARN-4105",
+        "CEI021",
+        "UNE217002",
+        "IEC62109–1",
+        "IEC62109–2",
+        "EN61000-6-1",
+        "EN61000-6-3",
+        "FCC 15 class B",
+        "RoHS"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28238,
+        "companyProductId": null,
+        "maxAcPower": 9200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "Hybrid Inverter",
+        "height": 556,
+        "width": 345,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127744,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HESP4850S100-H",
+      "productCode": "HESP4850S100-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ad5f92f3-83d0-457c-8d2b-d9fff45840aa.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/ac54d834-b69a-4bd6-b061-d03b5a7c2301.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "HESP4850S100-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN50549-1",
+        "G99",
+        "NRS-097",
+        "VDE-ARN-4105",
+        "CEI021",
+        "UNE217002",
+        "IEC62109–1",
+        "IEC62109–2",
+        "EN61000-6-1",
+        "EN61000-6-3",
+        "FCC 15 class B",
+        "RoHS"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28239,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "Hybrid Inverter",
+        "height": 556,
+        "width": 345,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128466,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HESP4855S100-H",
+      "productCode": "HESP4855S100-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e6b27c77-ce63-4d99-9fb7-1ad3f0161e3d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/12/4ce57746-07e1-40b5-ac51-a3a3910bb360.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "HESP4855S100-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN50549-1",
+        "EN50549-IE",
+        "PEA-MEA",
+        "UNE217002",
+        "G99",
+        "G98",
+        "G98/NI",
+        "G99/NI",
+        "NRS-097",
+        "VDE-ARN-4105",
+        "CEI 021",
+        "IEC62109-1",
+        "IEC62109-2",
+        "EN61000-6-1",
+        "EN61000-6-3",
+        "RoHS",
+        "FCC 15 class B",
+        "AS4777.2 Australia New Zealand",
+        "AS4777.2 Australia A",
+        "AS4777.2 Australia B",
+        "AS4777.2 Australia C"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28506,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "Hybrid Inverter",
+        "height": 556,
+        "width": 345,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127745,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1406,
+      "brandName": "SRNE Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SRNE+Solar.png",
+      "productName": "HESP4860S100-H",
+      "productCode": "HESP4860S100-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a00f7aa-1d24-466f-844c-f2ffa7fc1a63.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/46b610d3-855d-43f0-9fed-944b9c835ff0.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "HESP4860S100-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN50549-1",
+        "G99",
+        "NRS-097",
+        "VDE-ARN-4105",
+        "CEI021",
+        "UNE217002",
+        "IEC62109–1",
+        "IEC62109–2",
+        "EN61000-6-1",
+        "EN61000-6-3",
+        "FCC 15 class B",
+        "RoHS"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28240,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "Hybrid Inverter",
+        "height": 556,
+        "width": 345,
+        "depth": 182,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1251 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "AP Systems",
+  "count": 15,
+  "exportedAt": "2026-09-23T06:39:31.873Z",
+  "items": [
+    {
+      "id": 119593,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "DS3",
+      "productCode": "DS3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/10/08/8746246e-4483-48e6-8931-f300961ac168.webp",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/b5cbde38-b6b2-4a9e-b65c-3adce918d36f.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "DS3 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26250,
+        "companyProductId": null,
+        "maxAcPower": 880,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 28,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 880,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 42.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 28
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 880
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 29138,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "DS3-",
+      "productCode": "DS3-",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2197687b-9f4b-48b3-834e-866ffddd00c2.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1968/aef31085bc4272d93324604b5b8f2617.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15112,
+        "companyProductId": null,
+        "maxAcPower": 880,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 880,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 43,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 880
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 119588,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "DS3-H",
+      "productCode": "DS3-H ",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/133b1826-b9df-4b3a-a6d3-9915d10077f4.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d4ab033d-642e-4f51-bc80-01fc41652b6b.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26245,
+        "companyProductId": null,
+        "maxAcPower": 960,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 28,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 960,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 42,
+        "weight": 3.1,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 28
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 960
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 29139,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "DS3-H",
+      "productCode": "DS3-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b8b18d80-2c40-4691-9daa-864deec730b5.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1968/aef31085bc4272d93324604b5b8f2617.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "DS3-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15113,
+        "companyProductId": null,
+        "maxAcPower": 960,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 28,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 960,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 43,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 28
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 960
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 29137,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "DS3-L",
+      "productCode": "DS3-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e66198fb-16a7-42cd-8966-56e37113c551.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1968/aef31085bc4272d93324604b5b8f2617.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "DS3-L (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15111,
+        "companyProductId": null,
+        "maxAcPower": 730,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 28,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 750,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "PV-only Inverter",
+        "height": 218,
+        "width": 263,
+        "depth": 41,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 28
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 750
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 119594,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "DS3D",
+      "productCode": "DS3D",
+      "displayName": null,
+      "productDescription": "2 input channels with independent MPPT and monitoring function Single unit connects to 4 modules Maximum continuous output power up to 1800VA Engineered to match the highest power modules available (Max input current 20A)",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/10/08/cd7484e0-45f9-46af-ac5d-430b95fcf8c6.webp",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/b236af56-4c9f-43f1-8134-fd14879b7d1c.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "DS3D (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26251,
+        "companyProductId": null,
+        "maxAcPower": 1800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 120,
+        "minDcVoltageToStartFeedIn": 56,
+        "mpptVoltageMin": 56,
+        "mpptVoltageMax": 90,
+        "nominalAcPower": 1800,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 233,
+        "width": 283,
+        "depth": 48.4,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 120
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 56
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 1800
+        },
+        "mppt_voltage_min": {
+          "value": 56
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124366,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELS-11.4",
+      "productCode": "ELS-11.4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/379dc30b-4bc8-47b7-8fe1-d300fe1866f2.png",
+      "datasheet": null,
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "ELS-11.4 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IP65"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26922,
+        "companyProductId": null,
+        "maxAcPower": 11400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 11400,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 474,
+        "width": 875,
+        "depth": 279,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 11400
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 124368,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELS-3K",
+      "productCode": "ELS-3K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1a1f6642-53ff-40b7-8287-0786a28beeca.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/a1762551-4b4f-4df0-bf86-ae6434a58339.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "ELS-3K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UL1741",
+        "CSA C22.2 No. 107.1-16",
+        "CA Rule21(UL1741SA)",
+        "ANSI/CAN/UL-9540(For energy storage system)",
+        "FCC part15",
+        "ICES-003"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26924,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 847,
+        "width": 502,
+        "depth": 197,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 124367,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELS-5K",
+      "productCode": "ELS-5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/aa613408-5f25-4a07-ac75-d2d20552c49a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/6c0b36a2-3703-4288-b107-e6febc1d2b2a.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "ELS-5K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105",
+        "TOR Erzeuger",
+        "OVE_Richtlinie_R_25",
+        "XP C15-712-3",
+        "VFR",
+        "Pending: CEI 0-21",
+        "IEC/EN 62477-1",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "EN 61000-6-4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26923,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 847,
+        "width": 502,
+        "depth": 197,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 124358,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELS-7.6",
+      "productCode": "ELS-7.6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f407468a-d7ba-445f-a5a1-7a6185c9f5a2.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/748d2a1b-aeae-4f39-8858-9b6136531c17.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IP65"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26920,
+        "companyProductId": null,
+        "maxAcPower": 7600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 6600,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 474,
+        "width": 875,
+        "depth": 279,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 6600
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 124359,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELS-9.6",
+      "productCode": "ELS-9.6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6dd50b3a-255a-4db5-9c0d-ebe3590835de.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/b19a34ed-4a1b-4b37-b8ea-b49dccb350f7.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "ELS-9.6 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IP65"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26921,
+        "companyProductId": null,
+        "maxAcPower": 9600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 9600,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 474,
+        "width": 875,
+        "depth": 279,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00965,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 9600
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 128192,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELT-10",
+      "productCode": "ELT-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b1bcf955-efc1-40bf-9efa-d57a2726ba97.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/cc27f0d8-83f3-4dcc-b803-35541293c6c5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ELT-10 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105",
+        "EN 50549-1",
+        "EN 50549-10",
+        "NF EN50549-1",
+        "NF EN50549-10",
+        "PN EN50549-1",
+        "EN IEC 62477-1",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN 55011",
+        "EN 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28381,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 818,
+        "width": 474,
+        "depth": 275,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 128148,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELT-12",
+      "productCode": "ELT-12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7aa6b2be-a238-41a2-9410-bf47bd8790f0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/41f932df-9ea5-4801-ada0-ab5804cae701.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "ELT-12 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105",
+        "EN 50549-1",
+        "EN 50549-10",
+        "NF EN50549-1",
+        "NF EN50549-10",
+        "PN EN50549-1",
+        "EN IEC 62477-1",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN 55011",
+        "EN 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28379,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 474,
+        "width": 818,
+        "depth": 275,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 240,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128149,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "ELT-8-220",
+      "productCode": "ELT-8",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7e6e88fb-7212-41cd-a17f-dab2057bcef6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/98bd2ac6-904e-4778-acb3-fca3ef3f46d4.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ELT-8 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ABNT NBR 16149:2013",
+        "ABNT NBR 16150",
+        "Portaria nº 140 de 21 de março de 2022"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28380,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 818,
+        "width": 474,
+        "depth": 275,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 29241,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2085,
+      "brandName": "AP Systems",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/a56a2928-7bc2-4801-9cbc-3f524ef993f8.png",
+      "productName": "QT2",
+      "productCode": "QT2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1c4583a5-dcc6-415c-852c-e8108576f456.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/2517/a7f49490d20a40b41ea28006d78a76ef.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Standardmäßig 10 Jahre, optional 20 Jahre",
+      "cecModelNumber": "QT2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 15203,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 242,
+        "width": 359,
+        "depth": 46,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

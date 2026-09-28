@@ -1,0 +1,5463 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Solargiga Energy",
+  "count": 57,
+  "exportedAt": "2026-09-23T06:32:06.974Z",
+  "items": [
+    {
+      "id": 128842,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-700(R)",
+      "productCode": "JMPV-TV6/66-700(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/641f8701-46d5-47fe-820f-820767ca3a57.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ea059e16-cb2d-45ec-afb7-41e322585bf6.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV6/66-700(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71657,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 700,
+        "stcVoltageAtMaximumPowerVmpp": 40.4,
+        "stcShortCircuitCurrentIsc": 18.38,
+        "stcOpenCircuitVoltageVoc": 48.49,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.38
+        },
+        "stc_voc": {
+          "value": 48.49
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 700
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-700(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.4
+        }
+      }
+    },
+    {
+      "id": 128843,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-705(R)",
+      "productCode": "JMPV-TV6/66-705(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/641f8701-46d5-47fe-820f-820767ca3a57.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ea059e16-cb2d-45ec-afb7-41e322585bf6.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV6/66-705(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71658,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 705,
+        "stcVoltageAtMaximumPowerVmpp": 40.55,
+        "stcShortCircuitCurrentIsc": 18.45,
+        "stcOpenCircuitVoltageVoc": 48.65,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.45
+        },
+        "stc_voc": {
+          "value": 48.65
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 705
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-705(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.55
+        }
+      }
+    },
+    {
+      "id": 128844,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-710(R)",
+      "productCode": "JMPV-TV6/66-710(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/641f8701-46d5-47fe-820f-820767ca3a57.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ea059e16-cb2d-45ec-afb7-41e322585bf6.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV6/66-710(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71659,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 710,
+        "stcVoltageAtMaximumPowerVmpp": 40.69,
+        "stcShortCircuitCurrentIsc": 18.51,
+        "stcOpenCircuitVoltageVoc": 48.82,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.51
+        },
+        "stc_voc": {
+          "value": 48.82
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 710
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-710(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.69
+        }
+      }
+    },
+    {
+      "id": 128845,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-715(R)",
+      "productCode": "JMPV-TV6/66-715(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/2a780ae3-f022-4cc1-9a85-262a664b5329.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ce9bde9e-a0cd-41c1-9680-7d47b12a4470.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation : 0.4%.",
+      "cecModelNumber": "JMPV-TV6/66-715(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO 45001: Occupational Health and Safety Management System",
+        "ISO 5001: Energy Management System",
+        "ISO 14067: Product Carbon Footprint Limited Assurance",
+        "ISO 14025: Product Environmental Declaration",
+        "IEC 62941: Quality Management System for PV Module Manufacturing",
+        "IEC61215/IEC61730/ IEC62804-1/IEC61701/IEC62716",
+        "IEC60068-2-68/UNI 9177/UL61730",
+        "TÜV SÜD",
+        "D'E",
+        "CQC",
+        "MCS",
+        "INMETRO",
+        "TÜV Rheinland",
+        "CLEAN ENERGY COUNCIL",
+        "UL E544729"
+      ],
+      "panel": {
+        "id": 71660,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 715,
+        "stcVoltageAtMaximumPowerVmpp": 40.84,
+        "stcShortCircuitCurrentIsc": 18.58,
+        "stcOpenCircuitVoltageVoc": 48.98,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell MBB",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 533.6,
+        "noctVoltageAtMaximumPowerVmpp": 38.06,
+        "noctCurrentAtMaximumPowerImpp": 14.02,
+        "noctOpenCircuitVoltageVoc": 45.81,
+        "noctShortCircuitCurrentIsc": 15,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.58
+        },
+        "stc_voc": {
+          "value": 48.98
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 715
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-715(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.84
+        }
+      }
+    },
+    {
+      "id": 128846,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-720(R)",
+      "productCode": "JMPV-TV6/66-720(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/2a780ae3-f022-4cc1-9a85-262a664b5329.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ce9bde9e-a0cd-41c1-9680-7d47b12a4470.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation : 0.4%.",
+      "cecModelNumber": "JMPV-TV6/66-720(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO 45001: Occupational Health and Safety Management System",
+        "ISO 5001: Energy Management System",
+        "ISO 14067: Product Carbon Footprint Limited Assurance",
+        "ISO 14025: Product Environmental Declaration",
+        "IEC 62941: Quality Management System for PV Module Manufacturing",
+        "IEC61215/IEC61730/ IEC62804-1/IEC61701/IEC62716",
+        "IEC60068-2-68/UNI 9177/UL61730",
+        "TÜV SÜD",
+        "D'E",
+        "CQC",
+        "MCS",
+        "INMETRO",
+        "TÜV Rheinland",
+        "CLEAN ENERGY COUNCIL",
+        "UL E544729"
+      ],
+      "panel": {
+        "id": 71661,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 720,
+        "stcVoltageAtMaximumPowerVmpp": 40.98,
+        "stcShortCircuitCurrentIsc": 18.63,
+        "stcOpenCircuitVoltageVoc": 49.18,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell MBB",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 537.33,
+        "noctVoltageAtMaximumPowerVmpp": 38.19,
+        "noctCurrentAtMaximumPowerImpp": 14.07,
+        "noctOpenCircuitVoltageVoc": 45.99,
+        "noctShortCircuitCurrentIsc": 15.04,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.63
+        },
+        "stc_voc": {
+          "value": 49.18
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 720
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-720(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.98
+        }
+      }
+    },
+    {
+      "id": 128847,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-725(R)",
+      "productCode": "JMPV-TV6/66-725(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/2a780ae3-f022-4cc1-9a85-262a664b5329.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ce9bde9e-a0cd-41c1-9680-7d47b12a4470.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation : 0.4%.",
+      "cecModelNumber": "JMPV-TV6/66-725(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO 45001: Occupational Health and Safety Management System",
+        "ISO 5001: Energy Management System",
+        "ISO 14067: Product Carbon Footprint Limited Assurance",
+        "ISO 14025: Product Environmental Declaration",
+        "IEC 62941: Quality Management System for PV Module Manufacturing",
+        "IEC61215/IEC61730/ IEC62804-1/IEC61701/IEC62716",
+        "IEC60068-2-68/UNI 9177/UL61730",
+        "TÜV SÜD",
+        "D'E",
+        "CQC",
+        "MCS",
+        "INMETRO",
+        "TÜV Rheinland",
+        "CLEAN ENERGY COUNCIL",
+        "UL E544729"
+      ],
+      "panel": {
+        "id": 71662,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 725,
+        "stcVoltageAtMaximumPowerVmpp": 41.13,
+        "stcShortCircuitCurrentIsc": 18.69,
+        "stcOpenCircuitVoltageVoc": 49.36,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell MBB",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 541.22,
+        "noctVoltageAtMaximumPowerVmpp": 38.33,
+        "noctCurrentAtMaximumPowerImpp": 14.12,
+        "noctOpenCircuitVoltageVoc": 46.16,
+        "noctShortCircuitCurrentIsc": 15.09,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.69
+        },
+        "stc_voc": {
+          "value": 49.36
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 725
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-725(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.13
+        }
+      }
+    },
+    {
+      "id": 128848,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV6/66-730(R)",
+      "productCode": "JMPV-TV6/66-730(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/2a780ae3-f022-4cc1-9a85-262a664b5329.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/ce9bde9e-a0cd-41c1-9680-7d47b12a4470.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation : 0.4%.",
+      "cecModelNumber": "JMPV-TV6/66-730(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO 45001: Occupational Health and Safety Management System",
+        "ISO 5001: Energy Management System",
+        "ISO 14067: Product Carbon Footprint Limited Assurance",
+        "ISO 14025: Product Environmental Declaration",
+        "IEC 62941: Quality Management System for PV Module Manufacturing",
+        "IEC61215/IEC61730/ IEC62804-1/IEC61701/IEC62716",
+        "IEC60068-2-68/UNI 9177/UL61730",
+        "TÜV SÜD",
+        "D'E",
+        "CQC",
+        "MCS",
+        "INMETRO",
+        "TÜV Rheinland",
+        "CLEAN ENERGY COUNCIL",
+        "UL E544729"
+      ],
+      "panel": {
+        "id": 71663,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 730,
+        "stcVoltageAtMaximumPowerVmpp": 41.27,
+        "stcShortCircuitCurrentIsc": 18.76,
+        "stcOpenCircuitVoltageVoc": 49.51,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-Cell MBB",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": 544.98,
+        "noctVoltageAtMaximumPowerVmpp": 38.46,
+        "noctCurrentAtMaximumPowerImpp": 14.17,
+        "noctOpenCircuitVoltageVoc": 46.3,
+        "noctShortCircuitCurrentIsc": 15.14,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.76
+        },
+        "stc_voc": {
+          "value": 49.51
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 730
+        },
+        "cec_model": {
+          "value": "JMPV-TV6/66-730(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.27
+        }
+      }
+    },
+    {
+      "id": 129220,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-705(R)",
+      "productCode": "JMPV-TV7/66-705(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/8b658806-bf5a-4138-9536-5bb675996100.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/5e2c9911-1ef4-47c4-8dd4-fd325627d2ae.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-705(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730"
+      ],
+      "panel": {
+        "id": 71831,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 705,
+        "stcVoltageAtMaximumPowerVmpp": 41.86,
+        "stcShortCircuitCurrentIsc": 17.9,
+        "stcOpenCircuitVoltageVoc": 49.92,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 17.9
+        },
+        "stc_voc": {
+          "value": 49.92
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 705
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-705(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.86
+        }
+      }
+    },
+    {
+      "id": 129221,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-710(R)",
+      "productCode": "JMPV-TV7/66-710(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/8b658806-bf5a-4138-9536-5bb675996100.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/5e2c9911-1ef4-47c4-8dd4-fd325627d2ae.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-710(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730"
+      ],
+      "panel": {
+        "id": 71832,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 710,
+        "stcVoltageAtMaximumPowerVmpp": 41.93,
+        "stcShortCircuitCurrentIsc": 18,
+        "stcOpenCircuitVoltageVoc": 50.01,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18
+        },
+        "stc_voc": {
+          "value": 50.01
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 710
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-710(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.93
+        }
+      }
+    },
+    {
+      "id": 129222,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-715(R)",
+      "productCode": "JMPV-TV7/66-715(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/8b658806-bf5a-4138-9536-5bb675996100.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/5e2c9911-1ef4-47c4-8dd4-fd325627d2ae.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-715(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730"
+      ],
+      "panel": {
+        "id": 71833,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 715,
+        "stcVoltageAtMaximumPowerVmpp": 42,
+        "stcShortCircuitCurrentIsc": 18.1,
+        "stcOpenCircuitVoltageVoc": 50.09,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.1
+        },
+        "stc_voc": {
+          "value": 50.09
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 715
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-715(R)"
+        },
+        "stc_vmpp": {
+          "value": 42
+        }
+      }
+    },
+    {
+      "id": 129223,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-720(R)",
+      "productCode": "JMPV-TV7/66-720(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/8b658806-bf5a-4138-9536-5bb675996100.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/5e2c9911-1ef4-47c4-8dd4-fd325627d2ae.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-720(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730"
+      ],
+      "panel": {
+        "id": 71834,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 720,
+        "stcVoltageAtMaximumPowerVmpp": 42.07,
+        "stcShortCircuitCurrentIsc": 18.2,
+        "stcOpenCircuitVoltageVoc": 50.17,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.2
+        },
+        "stc_voc": {
+          "value": 50.17
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 720
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-720(R)"
+        },
+        "stc_vmpp": {
+          "value": 42.07
+        }
+      }
+    },
+    {
+      "id": 129224,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-725(R)",
+      "productCode": "JMPV-TV7/66-725(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/102784ad-8d83-4478-8832-f9cd6370b30e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/b5b5210c-da21-4b69-9ad7-b78c7e680510.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-725(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "PICC"
+      ],
+      "panel": {
+        "id": 71835,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 725,
+        "stcVoltageAtMaximumPowerVmpp": 42.14,
+        "stcShortCircuitCurrentIsc": 18.3,
+        "stcOpenCircuitVoltageVoc": 50.25,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type, MBB, Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "Proprietary",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.3
+        },
+        "stc_voc": {
+          "value": 50.25
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 725
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-725(R)"
+        },
+        "stc_vmpp": {
+          "value": 42.14
+        }
+      }
+    },
+    {
+      "id": 129225,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-730(R)",
+      "productCode": "JMPV-TV7/66-730(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/102784ad-8d83-4478-8832-f9cd6370b30e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/b5b5210c-da21-4b69-9ad7-b78c7e680510.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-730(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "PICC"
+      ],
+      "panel": {
+        "id": 71836,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 730,
+        "stcVoltageAtMaximumPowerVmpp": 42.21,
+        "stcShortCircuitCurrentIsc": 18.4,
+        "stcOpenCircuitVoltageVoc": 50.33,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type, MBB, Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "Proprietary",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.4
+        },
+        "stc_voc": {
+          "value": 50.33
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 730
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-730(R)"
+        },
+        "stc_vmpp": {
+          "value": 42.21
+        }
+      }
+    },
+    {
+      "id": 129226,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-735(R)",
+      "productCode": "JMPV-TV7/66-735(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/102784ad-8d83-4478-8832-f9cd6370b30e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/b5b5210c-da21-4b69-9ad7-b78c7e680510.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-735(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "PICC"
+      ],
+      "panel": {
+        "id": 71837,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 735,
+        "stcVoltageAtMaximumPowerVmpp": 42.28,
+        "stcShortCircuitCurrentIsc": 18.5,
+        "stcOpenCircuitVoltageVoc": 50.41,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type, MBB, Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.237,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "Proprietary",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.5
+        },
+        "stc_voc": {
+          "value": 50.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 735
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-735(R)"
+        },
+        "stc_vmpp": {
+          "value": 42.28
+        }
+      }
+    },
+    {
+      "id": 129227,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-TV7/66-740(R)",
+      "productCode": "JMPV-TV7/66-740(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/102784ad-8d83-4478-8832-f9cd6370b30e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/b5b5210c-da21-4b69-9ad7-b78c7e680510.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-TV7/66-740(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "PICC"
+      ],
+      "panel": {
+        "id": 71838,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 740,
+        "stcVoltageAtMaximumPowerVmpp": 42.35,
+        "stcShortCircuitCurrentIsc": 18.6,
+        "stcOpenCircuitVoltageVoc": 50.49,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.00233,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00375,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.9,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type, MBB, Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.238,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "Proprietary",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.6
+        },
+        "stc_voc": {
+          "value": 50.49
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.233
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 740
+        },
+        "cec_model": {
+          "value": "JMPV-TV7/66-740(R)"
+        },
+        "stc_vmpp": {
+          "value": 42.35
+        }
+      }
+    },
+    {
+      "id": 65141,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/54-440(R)",
+      "productCode": "JMPV-XV6/54-440(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/23/f71766ea-abe9-4773-a826-1de8624d3f9d.webp",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/f64df4e7-8925-4516-a1c4-640ffe850e81.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XV6/54-440(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 34217,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 32.73,
+        "stcShortCircuitCurrentIsc": 15.64,
+        "stcOpenCircuitVoltageVoc": 39.65,
+        "stcCurrentAtMaximumPowerImpp": 10.82,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": null,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.64
+        },
+        "stc_voc": {
+          "value": 39.65
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/54-440(R)"
+        },
+        "stc_vmpp": {
+          "value": 32.73
+        }
+      }
+    },
+    {
+      "id": 129161,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/54-445(R)",
+      "productCode": "JMPV-XV6/54-445(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c9e63485-e21b-41af-a05d-f3df6e2070b9.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/bbc695f6-280c-4650-902d-896bf58b34dc.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/54-445(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "CE",
+        "DE"
+      ],
+      "panel": {
+        "id": 71803,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 32.75,
+        "stcShortCircuitCurrentIsc": 14.2,
+        "stcOpenCircuitVoltageVoc": 39.87,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 882,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 36,
+        "connectorType": "Holysun C1xyz/C2xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.2
+        },
+        "stc_voc": {
+          "value": 39.87
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/54-445(R)"
+        },
+        "stc_vmpp": {
+          "value": 32.75
+        }
+      }
+    },
+    {
+      "id": 129228,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/54-450(R)",
+      "productCode": "JMPV-XV6/54-450(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/27449946-f6a8-4c93-8f40-b91208a1fd84.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/6ec46afe-323d-47b4-87c0-91c41f6fc90e.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/54-450(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DE",
+        "CE",
+        "IEC 61215/ IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71839,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 32.95,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 40.09,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 40.09
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/54-450(R)"
+        },
+        "stc_vmpp": {
+          "value": 32.95
+        }
+      }
+    },
+    {
+      "id": 129229,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/54-455(R)",
+      "productCode": "JMPV-XV6/54-455(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/27449946-f6a8-4c93-8f40-b91208a1fd84.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/6ec46afe-323d-47b4-87c0-91c41f6fc90e.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/54-455(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DE",
+        "CE",
+        "IEC 61215/ IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71840,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 33.12,
+        "stcShortCircuitCurrentIsc": 14.36,
+        "stcOpenCircuitVoltageVoc": 40.3,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.36
+        },
+        "stc_voc": {
+          "value": 40.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/54-455(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.12
+        }
+      }
+    },
+    {
+      "id": 42157,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/72-575~585(R)",
+      "productCode": "JMPV-XV6/72-585(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/27/dbfbde5f-5487-4815-bfac-c7c3197dfedd.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/85f30215-7789-4851-8715-ce62fb09609f.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XV6/72-585(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18956,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 585,
+        "stcVoltageAtMaximumPowerVmpp": 43.37,
+        "stcShortCircuitCurrentIsc": 14.09,
+        "stcOpenCircuitVoltageVoc": 52.76,
+        "stcCurrentAtMaximumPowerImpp": 13.49,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 436.53,
+        "noctVoltageAtMaximumPowerVmpp": 40.42,
+        "noctCurrentAtMaximumPowerImpp": 10.8,
+        "noctOpenCircuitVoltageVoc": 49.34,
+        "noctShortCircuitCurrentIsc": 11.37,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.09
+        },
+        "stc_voc": {
+          "value": 52.76
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 585
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/72-585(R)"
+        },
+        "stc_vmpp": {
+          "value": 43.37
+        }
+      }
+    },
+    {
+      "id": 42156,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/72-575~585(R)",
+      "productCode": "JMPV-XV6/72-580(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/61867f24-01d4-4180-941b-78c42c9034b6.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/5b921eec-c3f9-4d32-8a85-c726ea9bdb80.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XV6/72-580(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18955,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 580,
+        "stcVoltageAtMaximumPowerVmpp": 43.19,
+        "stcShortCircuitCurrentIsc": 14.03,
+        "stcOpenCircuitVoltageVoc": 52.55,
+        "stcCurrentAtMaximumPowerImpp": 13.43,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 433.09,
+        "noctVoltageAtMaximumPowerVmpp": 40.25,
+        "noctCurrentAtMaximumPowerImpp": 10.76,
+        "noctOpenCircuitVoltageVoc": 49.14,
+        "noctShortCircuitCurrentIsc": 11.33,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.03
+        },
+        "stc_voc": {
+          "value": 52.55
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 580
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/72-580(R)"
+        },
+        "stc_vmpp": {
+          "value": 43.19
+        }
+      }
+    },
+    {
+      "id": 130301,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/72-590(R)",
+      "productCode": "JMPV-XV6/72-590(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e1cc2674-d921-424f-86a1-fe13e6274a3c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/131b3f72-887f-4de9-85cb-fd9f180f72c1.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/72-590(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 72656,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 590,
+        "stcVoltageAtMaximumPowerVmpp": 43.55,
+        "stcShortCircuitCurrentIsc": 14.15,
+        "stcOpenCircuitVoltageVoc": 52.98,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "Holysun C1xyz/C2xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.15
+        },
+        "stc_voc": {
+          "value": 52.98
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 590
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/72-590(R)"
+        },
+        "stc_vmpp": {
+          "value": 43.55
+        }
+      }
+    },
+    {
+      "id": 130302,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/72-595(R)",
+      "productCode": "JMPV-XV6/72-595(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e1cc2674-d921-424f-86a1-fe13e6274a3c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/131b3f72-887f-4de9-85cb-fd9f180f72c1.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/72-595(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 72657,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 595,
+        "stcVoltageAtMaximumPowerVmpp": 43.72,
+        "stcShortCircuitCurrentIsc": 14.21,
+        "stcOpenCircuitVoltageVoc": 53.19,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "Holysun C1xyz/C2xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.21
+        },
+        "stc_voc": {
+          "value": 53.19
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 595
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/72-595(R)"
+        },
+        "stc_vmpp": {
+          "value": 43.72
+        }
+      }
+    },
+    {
+      "id": 130303,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/72-600(R)",
+      "productCode": "JMPV-XV6/72-600(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/dddaf40e-fc42-4a85-b7d8-196f56d3bac8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/f00acd07-f36d-4dea-a6c1-251dc12d5f18.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/72-600(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68",
+        "DVE",
+        "CE"
+      ],
+      "panel": {
+        "id": 72658,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 43.9,
+        "stcShortCircuitCurrentIsc": 14.27,
+        "stcOpenCircuitVoltageVoc": 53.41,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.27
+        },
+        "stc_voc": {
+          "value": 53.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/72-600(R)"
+        },
+        "stc_vmpp": {
+          "value": 43.9
+        }
+      }
+    },
+    {
+      "id": 130304,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/72-605(R)",
+      "productCode": "JMPV-XV6/72-605(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/dddaf40e-fc42-4a85-b7d8-196f56d3bac8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/f00acd07-f36d-4dea-a6c1-251dc12d5f18.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/72-605(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68",
+        "DVE",
+        "CE"
+      ],
+      "panel": {
+        "id": 72659,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 605,
+        "stcVoltageAtMaximumPowerVmpp": 44.1,
+        "stcShortCircuitCurrentIsc": 14.33,
+        "stcOpenCircuitVoltageVoc": 53.62,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.234,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.33
+        },
+        "stc_voc": {
+          "value": 53.62
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 605
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/72-605(R)"
+        },
+        "stc_vmpp": {
+          "value": 44.1
+        }
+      }
+    },
+    {
+      "id": 42159,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/78-625~640(R)",
+      "productCode": "JMPV-XV6/78-630(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/27/83a86f42-81cf-4dd9-92ca-3a45cf1fd94f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/0ad2a840-e2d5-4efd-9611-6c3e09cfe72e.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XV6/78-630(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18958,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 630,
+        "stcVoltageAtMaximumPowerVmpp": 46.86,
+        "stcShortCircuitCurrentIsc": 14.05,
+        "stcOpenCircuitVoltageVoc": 57,
+        "stcCurrentAtMaximumPowerImpp": 13.45,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 470.32,
+        "noctVoltageAtMaximumPowerVmpp": 43.67,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 53.3,
+        "noctShortCircuitCurrentIsc": 11.34,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.05
+        },
+        "stc_voc": {
+          "value": 57
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 630
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/78-630(R)"
+        },
+        "stc_vmpp": {
+          "value": 46.86
+        }
+      }
+    },
+    {
+      "id": 42161,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/78-625~640(R)",
+      "productCode": "JMPV-XV6/78-640(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/27/c6441cd4-26d8-44f9-b833-01ca636fd600.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/b3cd95b9-9cdc-4032-b2d7-fa9f54ff3163.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XV6/78-640(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18960,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 640,
+        "stcVoltageAtMaximumPowerVmpp": 47.22,
+        "stcShortCircuitCurrentIsc": 14.17,
+        "stcOpenCircuitVoltageVoc": 57.44,
+        "stcCurrentAtMaximumPowerImpp": 13.57,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 478.38,
+        "noctVoltageAtMaximumPowerVmpp": 44.01,
+        "noctCurrentAtMaximumPowerImpp": 10.87,
+        "noctOpenCircuitVoltageVoc": 53.72,
+        "noctShortCircuitCurrentIsc": 11.44,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.17
+        },
+        "stc_voc": {
+          "value": 57.44
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 640
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/78-640(R)"
+        },
+        "stc_vmpp": {
+          "value": 47.22
+        }
+      }
+    },
+    {
+      "id": 42160,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/78-625~640(R)",
+      "productCode": "JMPV-XV6/78-635(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/27/b9934caf-4ad7-4648-84d9-9f26cc81e658.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/3818b0cb-569a-4749-9c70-24923dbe999c.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XV6/78-635(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18959,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 635,
+        "stcVoltageAtMaximumPowerVmpp": 47.04,
+        "stcShortCircuitCurrentIsc": 14.11,
+        "stcOpenCircuitVoltageVoc": 57.22,
+        "stcCurrentAtMaximumPowerImpp": 13.51,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 474.34,
+        "noctVoltageAtMaximumPowerVmpp": 43.84,
+        "noctCurrentAtMaximumPowerImpp": 10.82,
+        "noctOpenCircuitVoltageVoc": 53.51,
+        "noctShortCircuitCurrentIsc": 11.39,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.11
+        },
+        "stc_voc": {
+          "value": 57.22
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 635
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/78-635(R)"
+        },
+        "stc_vmpp": {
+          "value": 47.04
+        }
+      }
+    },
+    {
+      "id": 129162,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/78-645(R)",
+      "productCode": "JMPV-XV6/78-645(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/bf9886d3-989e-4611-93ca-d0a52a0b4743.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/730b2d03-3206-479c-ab27-fa000d4dab1e.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/78-645(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71804,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 645,
+        "stcVoltageAtMaximumPowerVmpp": 47.4,
+        "stcShortCircuitCurrentIsc": 14.22,
+        "stcOpenCircuitVoltageVoc": 57.62,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": 677.35,
+        "noctVoltageAtMaximumPowerVmpp": 47.4,
+        "noctCurrentAtMaximumPowerImpp": 14.29,
+        "noctOpenCircuitVoltageVoc": 57.62,
+        "noctShortCircuitCurrentIsc": 14.93,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz/C2xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.22
+        },
+        "stc_voc": {
+          "value": 57.62
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 645
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/78-645(R)"
+        },
+        "stc_vmpp": {
+          "value": 47.4
+        }
+      }
+    },
+    {
+      "id": 129230,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/78-650(R)",
+      "productCode": "JMPV-XV6/78-650(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/5f59c829-53a9-4287-b12d-25b3eaa70d36.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/19a5d55f-9211-4c1e-84f8-ee667345f0bf.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/78-650(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71841,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 650,
+        "stcVoltageAtMaximumPowerVmpp": 47.55,
+        "stcShortCircuitCurrentIsc": 14.27,
+        "stcOpenCircuitVoltageVoc": 57.85,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.27
+        },
+        "stc_voc": {
+          "value": 57.85
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 650
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/78-650(R)"
+        },
+        "stc_vmpp": {
+          "value": 47.55
+        }
+      }
+    },
+    {
+      "id": 129231,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XV6/78-655(R)",
+      "productCode": "JMPV-XV6/78-655(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/5f59c829-53a9-4287-b12d-25b3eaa70d36.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/19a5d55f-9211-4c1e-84f8-ee667345f0bf.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XV6/78-655(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71842,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 655,
+        "stcVoltageAtMaximumPowerVmpp": 47.75,
+        "stcShortCircuitCurrentIsc": 14.33,
+        "stcOpenCircuitVoltageVoc": 58.06,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.234,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.33
+        },
+        "stc_voc": {
+          "value": 58.06
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 655
+        },
+        "cec_model": {
+          "value": "JMPV-XV6/78-655(R)"
+        },
+        "stc_vmpp": {
+          "value": 47.75
+        }
+      }
+    },
+    {
+      "id": 129232,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-435(R)",
+      "productCode": "JMPV-XVT6/48-435(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/f9600826-c22e-46ce-a2dc-3ff8c741c676.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/6f25be0d-bd81-4554-b413-17be1b726e72.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/48-435(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "D'E",
+        "CE",
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "PICC"
+      ],
+      "panel": {
+        "id": 71843,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 29.22,
+        "stcShortCircuitCurrentIsc": 15.84,
+        "stcOpenCircuitVoltageVoc": 34.98,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type, MBB, Half-Cell",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.84
+        },
+        "stc_voc": {
+          "value": 34.98
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-435(R)"
+        },
+        "stc_vmpp": {
+          "value": 29.22
+        }
+      }
+    },
+    {
+      "id": 129233,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-440(R)",
+      "productCode": "JMPV-XVT6/48-440(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/9c8ee0ca-116b-437c-8d9c-3ab01bf04225.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/a6bb5747-ea72-4b38-9c97-0c5fab00cabb.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/48-440(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "D'E",
+        "CE"
+      ],
+      "panel": {
+        "id": 71844,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 29.4,
+        "stcShortCircuitCurrentIsc": 15.92,
+        "stcOpenCircuitVoltageVoc": 35.2,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.92
+        },
+        "stc_voc": {
+          "value": 35.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-440(R)"
+        },
+        "stc_vmpp": {
+          "value": 29.4
+        }
+      }
+    },
+    {
+      "id": 129234,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-445(R)",
+      "productCode": "JMPV-XVT6/48-445(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/9c8ee0ca-116b-437c-8d9c-3ab01bf04225.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/a6bb5747-ea72-4b38-9c97-0c5fab00cabb.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/48-445(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "D'E",
+        "CE"
+      ],
+      "panel": {
+        "id": 71845,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 29.55,
+        "stcShortCircuitCurrentIsc": 16.01,
+        "stcOpenCircuitVoltageVoc": 35.39,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.01
+        },
+        "stc_voc": {
+          "value": 35.39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-445(R)"
+        },
+        "stc_vmpp": {
+          "value": 29.55
+        }
+      }
+    },
+    {
+      "id": 129235,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-450(R)",
+      "productCode": "JMPV-XVT6/48-450(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/9c8ee0ca-116b-437c-8d9c-3ab01bf04225.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/a6bb5747-ea72-4b38-9c97-0c5fab00cabb.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/48-450(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "D'E",
+        "CE"
+      ],
+      "panel": {
+        "id": 71846,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 29.73,
+        "stcShortCircuitCurrentIsc": 16.1,
+        "stcOpenCircuitVoltageVoc": 35.59,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.1
+        },
+        "stc_voc": {
+          "value": 35.59
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-450(R)"
+        },
+        "stc_vmpp": {
+          "value": 29.73
+        }
+      }
+    },
+    {
+      "id": 129236,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-455(R)",
+      "productCode": "JMPV-XVT6/48-455(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/9c8ee0ca-116b-437c-8d9c-3ab01bf04225.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/a6bb5747-ea72-4b38-9c97-0c5fab00cabb.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/48-455(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "D'E",
+        "CE"
+      ],
+      "panel": {
+        "id": 71847,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 29.9,
+        "stcShortCircuitCurrentIsc": 16.19,
+        "stcOpenCircuitVoltageVoc": 35.78,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.19
+        },
+        "stc_voc": {
+          "value": 35.78
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-455(R)"
+        },
+        "stc_vmpp": {
+          "value": 29.9
+        }
+      }
+    },
+    {
+      "id": 129237,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-460(R)",
+      "productCode": "JMPV-XVT6/48-460(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/9c8ee0ca-116b-437c-8d9c-3ab01bf04225.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/a6bb5747-ea72-4b38-9c97-0c5fab00cabb.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/48-460(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test",
+        "D'E",
+        "CE"
+      ],
+      "panel": {
+        "id": 71848,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 30.05,
+        "stcShortCircuitCurrentIsc": 16.27,
+        "stcOpenCircuitVoltageVoc": 35.99,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.27
+        },
+        "stc_voc": {
+          "value": 35.99
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-460(R)"
+        },
+        "stc_vmpp": {
+          "value": 30.05
+        }
+      }
+    },
+    {
+      "id": 130305,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/48-465(R)",
+      "productCode": "JMPV-XVT6/48-465(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e93dea2f-a006-4e70-891a-61d54e30460f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/21/afd6c2f4-3411-4c5d-a7e3-5c24d425bf38.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty (99.0% in 1st year, 87.4% in 30th year)",
+      "cecModelNumber": "JMPV-XVT6/48-465(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 72660,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 30.22,
+        "stcShortCircuitCurrentIsc": 16.36,
+        "stcOpenCircuitVoltageVoc": 36.18,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.36
+        },
+        "stc_voc": {
+          "value": 36.18
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/48-465(R)"
+        },
+        "stc_vmpp": {
+          "value": 30.22
+        }
+      }
+    },
+    {
+      "id": 129238,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-480(R)",
+      "productCode": "JMPV-XVT6/54-480(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/3c63eef8-a724-4b51-b19d-bdb697ec048b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/bfd631fc-15bc-4853-a918-cae3ebb24270.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/54-480(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215 / IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71849,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 480,
+        "stcVoltageAtMaximumPowerVmpp": 32.55,
+        "stcShortCircuitCurrentIsc": 15.69,
+        "stcOpenCircuitVoltageVoc": 38.97,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.216,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.69
+        },
+        "stc_voc": {
+          "value": 38.97
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 480
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-480(R)"
+        },
+        "stc_vmpp": {
+          "value": 32.55
+        }
+      }
+    },
+    {
+      "id": 129239,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-485(R)",
+      "productCode": "JMPV-XVT6/54-485(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/3c63eef8-a724-4b51-b19d-bdb697ec048b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/bfd631fc-15bc-4853-a918-cae3ebb24270.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/54-485(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215 / IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71850,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 485,
+        "stcVoltageAtMaximumPowerVmpp": 32.71,
+        "stcShortCircuitCurrentIsc": 15.77,
+        "stcOpenCircuitVoltageVoc": 39.17,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.77
+        },
+        "stc_voc": {
+          "value": 39.17
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 485
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-485(R)"
+        },
+        "stc_vmpp": {
+          "value": 32.71
+        }
+      }
+    },
+    {
+      "id": 129240,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-490(R)",
+      "productCode": "JMPV-XVT6/54-490(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/3c63eef8-a724-4b51-b19d-bdb697ec048b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/bfd631fc-15bc-4853-a918-cae3ebb24270.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/54-490(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215 / IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71851,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 490,
+        "stcVoltageAtMaximumPowerVmpp": 32.89,
+        "stcShortCircuitCurrentIsc": 15.85,
+        "stcOpenCircuitVoltageVoc": 39.37,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.85
+        },
+        "stc_voc": {
+          "value": 39.37
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 490
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-490(R)"
+        },
+        "stc_vmpp": {
+          "value": 32.89
+        }
+      }
+    },
+    {
+      "id": 129324,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-495(R)",
+      "productCode": "JMPV-XVT6/54-495(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7ee732f5-9eb4-4447-a8ed-6930e6b54a93.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/26/165140be-d69b-406e-be3d-61dd66b2a9e7.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation: 0.4%.",
+      "cecModelNumber": "JMPV-XVT6/54-495(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 5001",
+        "ISO 14067",
+        "ISO 14025",
+        "IEC 62941",
+        "IEC61215",
+        "IEC61730",
+        "IEC62804-1",
+        "IEC61701",
+        "IEC62716",
+        "IEC60068-2-68",
+        "UNI 9177",
+        "UL61730",
+        "TÜV SÜD",
+        "TÜV Rheinland",
+        "DVE",
+        "MCS",
+        "CQC",
+        "CLEAN ENERGY COUNCIL",
+        "CE",
+        "cULus"
+      ],
+      "panel": {
+        "id": 71935,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 495,
+        "stcVoltageAtMaximumPowerVmpp": 33.05,
+        "stcShortCircuitCurrentIsc": 15.93,
+        "stcOpenCircuitVoltageVoc": 39.57,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 369.6,
+        "noctVoltageAtMaximumPowerVmpp": 30.8,
+        "noctCurrentAtMaximumPowerImpp": 30.8,
+        "noctOpenCircuitVoltageVoc": 37.01,
+        "noctShortCircuitCurrentIsc": 12.86,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.93
+        },
+        "stc_voc": {
+          "value": 39.57
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 495
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-495(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.05
+        }
+      }
+    },
+    {
+      "id": 129325,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-500(R)",
+      "productCode": "JMPV-XVT6/54-500(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7ee732f5-9eb4-4447-a8ed-6930e6b54a93.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/26/165140be-d69b-406e-be3d-61dd66b2a9e7.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation: 0.4%.",
+      "cecModelNumber": "JMPV-XVT6/54-500(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 5001",
+        "ISO 14067",
+        "ISO 14025",
+        "IEC 62941",
+        "IEC61215",
+        "IEC61730",
+        "IEC62804-1",
+        "IEC61701",
+        "IEC62716",
+        "IEC60068-2-68",
+        "UNI 9177",
+        "UL61730",
+        "TÜV SÜD",
+        "TÜV Rheinland",
+        "DVE",
+        "MCS",
+        "CQC",
+        "CLEAN ENERGY COUNCIL",
+        "CE",
+        "cULus"
+      ],
+      "panel": {
+        "id": 71936,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 500,
+        "stcVoltageAtMaximumPowerVmpp": 33.21,
+        "stcShortCircuitCurrentIsc": 16.01,
+        "stcOpenCircuitVoltageVoc": 39.77,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 373.26,
+        "noctVoltageAtMaximumPowerVmpp": 30.95,
+        "noctCurrentAtMaximumPowerImpp": 30.95,
+        "noctOpenCircuitVoltageVoc": 37.19,
+        "noctShortCircuitCurrentIsc": 12.92,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.01
+        },
+        "stc_voc": {
+          "value": 39.77
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 500
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-500(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.21
+        }
+      }
+    },
+    {
+      "id": 129326,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-505(R)",
+      "productCode": "JMPV-XVT6/54-505(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7ee732f5-9eb4-4447-a8ed-6930e6b54a93.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/26/165140be-d69b-406e-be3d-61dd66b2a9e7.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation: 0.4%.",
+      "cecModelNumber": "JMPV-XVT6/54-505(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 5001",
+        "ISO 14067",
+        "ISO 14025",
+        "IEC 62941",
+        "IEC61215",
+        "IEC61730",
+        "IEC62804-1",
+        "IEC61701",
+        "IEC62716",
+        "IEC60068-2-68",
+        "UNI 9177",
+        "UL61730",
+        "TÜV SÜD",
+        "TÜV Rheinland",
+        "DVE",
+        "MCS",
+        "CQC",
+        "CLEAN ENERGY COUNCIL",
+        "CE",
+        "cULus"
+      ],
+      "panel": {
+        "id": 71937,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 505,
+        "stcVoltageAtMaximumPowerVmpp": 33.38,
+        "stcShortCircuitCurrentIsc": 16.08,
+        "stcOpenCircuitVoltageVoc": 39.97,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 377.05,
+        "noctVoltageAtMaximumPowerVmpp": 31.11,
+        "noctCurrentAtMaximumPowerImpp": 31.11,
+        "noctOpenCircuitVoltageVoc": 37.38,
+        "noctShortCircuitCurrentIsc": 12.98,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.08
+        },
+        "stc_voc": {
+          "value": 39.97
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 505
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-505(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.38
+        }
+      }
+    },
+    {
+      "id": 129327,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-510(R)",
+      "productCode": "JMPV-XVT6/54-510(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7ee732f5-9eb4-4447-a8ed-6930e6b54a93.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/26/165140be-d69b-406e-be3d-61dd66b2a9e7.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty. First Year Power Degradation: 1%, Subsequent Annual Power Degradation: 0.4%.",
+      "cecModelNumber": "JMPV-XVT6/54-510(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 5001",
+        "ISO 14067",
+        "ISO 14025",
+        "IEC 62941",
+        "IEC61215",
+        "IEC61730",
+        "IEC62804-1",
+        "IEC61701",
+        "IEC62716",
+        "IEC60068-2-68",
+        "UNI 9177",
+        "UL61730",
+        "TÜV SÜD",
+        "TÜV Rheinland",
+        "DVE",
+        "MCS",
+        "CQC",
+        "CLEAN ENERGY COUNCIL",
+        "CE",
+        "cULus"
+      ],
+      "panel": {
+        "id": 71938,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 510,
+        "stcVoltageAtMaximumPowerVmpp": 33.54,
+        "stcShortCircuitCurrentIsc": 16.16,
+        "stcOpenCircuitVoltageVoc": 40.17,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 380.74,
+        "noctVoltageAtMaximumPowerVmpp": 31.26,
+        "noctCurrentAtMaximumPowerImpp": 31.26,
+        "noctOpenCircuitVoltageVoc": 37.57,
+        "noctShortCircuitCurrentIsc": 13.05,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.16
+        },
+        "stc_voc": {
+          "value": 40.17
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 510
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-510(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.54
+        }
+      }
+    },
+    {
+      "id": 129241,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-515(R)",
+      "productCode": "JMPV-XVT6/54-515(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/83a7f8ab-8134-49b4-852a-36bcef6e9237.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/57969a95-5968-45bd-bd9b-74f3c711657f.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/54-515(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71852,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 515,
+        "stcVoltageAtMaximumPowerVmpp": 33.71,
+        "stcShortCircuitCurrentIsc": 16.24,
+        "stcOpenCircuitVoltageVoc": 40.35,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.0001,
+        "subsequentAnnualPowerDegradation": 0.00004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.24
+        },
+        "stc_voc": {
+          "value": 40.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 515
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-515(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.71
+        }
+      }
+    },
+    {
+      "id": 129242,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-520(R)",
+      "productCode": "JMPV-XVT6/54-520(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/83a7f8ab-8134-49b4-852a-36bcef6e9237.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/57969a95-5968-45bd-bd9b-74f3c711657f.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/54-520(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71853,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 520,
+        "stcVoltageAtMaximumPowerVmpp": 33.88,
+        "stcShortCircuitCurrentIsc": 16.32,
+        "stcOpenCircuitVoltageVoc": 40.53,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.0001,
+        "subsequentAnnualPowerDegradation": 0.00004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.234,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.32
+        },
+        "stc_voc": {
+          "value": 40.53
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 520
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-520(R)"
+        },
+        "stc_vmpp": {
+          "value": 33.88
+        }
+      }
+    },
+    {
+      "id": 129243,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/54-525(R)",
+      "productCode": "JMPV-XVT6/54-525(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/26/83a7f8ab-8134-49b4-852a-36bcef6e9237.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/26/57969a95-5968-45bd-bd9b-74f3c711657f.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/54-525(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "DVE",
+        "CE",
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71854,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 525,
+        "stcVoltageAtMaximumPowerVmpp": 34.03,
+        "stcShortCircuitCurrentIsc": 16.39,
+        "stcOpenCircuitVoltageVoc": 40.74,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.0001,
+        "subsequentAnnualPowerDegradation": 0.00004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.236,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.39
+        },
+        "stc_voc": {
+          "value": 40.74
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 525
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/54-525(R)"
+        },
+        "stc_vmpp": {
+          "value": 34.03
+        }
+      }
+    },
+    {
+      "id": 129164,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-600(R)",
+      "productCode": "JMPV-XVT6/66-600(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4ecda35b-c356-45ca-bc13-9c7384e3c12d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/594010e2-452e-4eb8-8b69-6d140f4ba5a1.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/66-600(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71805,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 40.22,
+        "stcShortCircuitCurrentIsc": 15.86,
+        "stcOpenCircuitVoltageVoc": 48.18,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.222,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.86
+        },
+        "stc_voc": {
+          "value": 48.18
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-600(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.22
+        }
+      }
+    },
+    {
+      "id": 129165,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-605(R)",
+      "productCode": "JMPV-XVT6/66-605(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4ecda35b-c356-45ca-bc13-9c7384e3c12d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/594010e2-452e-4eb8-8b69-6d140f4ba5a1.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty*",
+      "cecModelNumber": "JMPV-XVT6/66-605(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215/IEC 61730",
+        "IEC 60068-2-68: Dust and Sand Test"
+      ],
+      "panel": {
+        "id": 71806,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 605,
+        "stcVoltageAtMaximumPowerVmpp": 40.39,
+        "stcShortCircuitCurrentIsc": 15.93,
+        "stcOpenCircuitVoltageVoc": 48.36,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.224,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.93
+        },
+        "stc_voc": {
+          "value": 48.36
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 605
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-605(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.39
+        }
+      }
+    },
+    {
+      "id": 71844,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-610(R)",
+      "productCode": "JMPV-XVT6/66-610(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a8c467d0-ba4f-4bae-84e4-aaf24df1fd8d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/da9854cd-40e5-49a7-ad2e-0460db1bd134.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XVT6/66-610(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 34901,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 610,
+        "stcVoltageAtMaximumPowerVmpp": 40.56,
+        "stcShortCircuitCurrentIsc": 16,
+        "stcOpenCircuitVoltageVoc": 48.54,
+        "stcCurrentAtMaximumPowerImpp": 15.04,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.226,
+        "noctMaximumPowerPmax": 455.49,
+        "noctVoltageAtMaximumPowerVmpp": 37.8,
+        "noctCurrentAtMaximumPowerImpp": 12.05,
+        "noctOpenCircuitVoltageVoc": 45.39,
+        "noctShortCircuitCurrentIsc": 12.92,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16
+        },
+        "stc_voc": {
+          "value": 48.54
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 610
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-610(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.56
+        }
+      }
+    },
+    {
+      "id": 42166,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-615(R)",
+      "productCode": "JMPV-XVT6/66-615(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7ec23833-d1dd-4016-ac9f-45301d7909c0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/4cdc0497-6fc6-4df7-90cb-70b107caa997.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XVT6/66-615(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18965,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 615,
+        "stcVoltageAtMaximumPowerVmpp": 40.73,
+        "stcShortCircuitCurrentIsc": 16.06,
+        "stcOpenCircuitVoltageVoc": 48.75,
+        "stcCurrentAtMaximumPowerImpp": 15.1,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 458.93,
+        "noctVoltageAtMaximumPowerVmpp": 37.96,
+        "noctCurrentAtMaximumPowerImpp": 12.09,
+        "noctOpenCircuitVoltageVoc": 45.59,
+        "noctShortCircuitCurrentIsc": 12.97,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.06
+        },
+        "stc_voc": {
+          "value": 48.75
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 615
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-615(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.73
+        }
+      }
+    },
+    {
+      "id": 42167,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-620(R)",
+      "productCode": "JMPV-XVT6/66-620(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/141234e1-2034-408b-b5eb-d5b5eec3de1b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/27/0b3625e0-8f5a-45ad-b81d-61c72216be10.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "JMPV-XVT6/66-620(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18966,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 620,
+        "stcVoltageAtMaximumPowerVmpp": 40.9,
+        "stcShortCircuitCurrentIsc": 16.12,
+        "stcOpenCircuitVoltageVoc": 48.96,
+        "stcCurrentAtMaximumPowerImpp": 15.16,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 462.77,
+        "noctVoltageAtMaximumPowerVmpp": 38.12,
+        "noctCurrentAtMaximumPowerImpp": 12.14,
+        "noctOpenCircuitVoltageVoc": 45.79,
+        "noctShortCircuitCurrentIsc": 13.01,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.12
+        },
+        "stc_voc": {
+          "value": 48.96
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 620
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-620(R)"
+        },
+        "stc_vmpp": {
+          "value": 40.9
+        }
+      }
+    },
+    {
+      "id": 129166,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-625(R)",
+      "productCode": "JMPV-XVT6/66-625(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ea59f157-10a1-40e9-bf50-243910028bae.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/375090c4-3169-4ab1-adb3-c96f8654fbe3.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/66-625(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71807,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 625,
+        "stcVoltageAtMaximumPowerVmpp": 41.07,
+        "stcShortCircuitCurrentIsc": 16.18,
+        "stcOpenCircuitVoltageVoc": 49.17,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.18
+        },
+        "stc_voc": {
+          "value": 49.17
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 625
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-625(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.07
+        }
+      }
+    },
+    {
+      "id": 129167,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-630(R)",
+      "productCode": "JMPV-XVT6/66-630(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ea59f157-10a1-40e9-bf50-243910028bae.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/375090c4-3169-4ab1-adb3-c96f8654fbe3.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/66-630(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68"
+      ],
+      "panel": {
+        "id": 71808,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 630,
+        "stcVoltageAtMaximumPowerVmpp": 41.24,
+        "stcShortCircuitCurrentIsc": 16.25,
+        "stcOpenCircuitVoltageVoc": 49.35,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 661.49,
+        "noctVoltageAtMaximumPowerVmpp": 41.24,
+        "noctCurrentAtMaximumPowerImpp": 41.24,
+        "noctOpenCircuitVoltageVoc": 49.35,
+        "noctShortCircuitCurrentIsc": 17.06,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.25
+        },
+        "stc_voc": {
+          "value": 49.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 630
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-630(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.24
+        }
+      }
+    },
+    {
+      "id": 129168,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-635(R)",
+      "productCode": "JMPV-XVT6/66-635(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/27e30d29-178b-4400-b2ab-ce9f5e3bdd46.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/19bff77f-d5e5-4359-b66f-ff297d4d36f7.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/66-635(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68",
+        "CE",
+        "D'E"
+      ],
+      "panel": {
+        "id": 71809,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 635,
+        "stcVoltageAtMaximumPowerVmpp": 41.4,
+        "stcShortCircuitCurrentIsc": 16.31,
+        "stcOpenCircuitVoltageVoc": 49.55,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz, PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.31
+        },
+        "stc_voc": {
+          "value": 49.55
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 635
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-635(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.4
+        }
+      }
+    },
+    {
+      "id": 129169,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2017,
+      "brandName": "Solargiga Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/922787a0-533e-4674-aaac-386555925576.png",
+      "productName": "JMPV-XVT6/66-640(R)",
+      "productCode": "JMPV-XVT6/66-640(R)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/27e30d29-178b-4400-b2ab-ce9f5e3bdd46.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/19bff77f-d5e5-4359-b66f-ff297d4d36f7.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30 YEARS Power Output Warranty",
+      "cecModelNumber": "JMPV-XVT6/66-640(R) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "IEC 60068-2-68",
+        "CE",
+        "D'E"
+      ],
+      "panel": {
+        "id": 71810,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 640,
+        "stcVoltageAtMaximumPowerVmpp": 41.56,
+        "stcShortCircuitCurrentIsc": 16.38,
+        "stcOpenCircuitVoltageVoc": 49.72,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type/MBB/Half-Cell",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.237,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "C1xyz, PV-MH5",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 16.38
+        },
+        "stc_voc": {
+          "value": 49.72
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 640
+        },
+        "cec_model": {
+          "value": "JMPV-XVT6/66-640(R)"
+        },
+        "stc_vmpp": {
+          "value": 41.56
+        }
+      }
+    }
+  ]
+}

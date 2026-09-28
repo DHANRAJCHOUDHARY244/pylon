@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "BLUETTI",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.592Z",
+  "items": [
+    {
+      "id": 119708,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1432,
+      "brandName": "BLUETTI",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/73885eb6-0869-4548-95cf-beca0df60412.png",
+      "productName": "EP2000",
+      "productCode": "EP2000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/18/af005e1d-8e65-483c-a395-24cb164b5fd2.webp",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/093f2abc-87b1-4d70-a582-ff7cb1a93876.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "EP2000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26307,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 670,
+        "width": 280,
+        "depth": 460,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24083,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1432,
+      "brandName": "BLUETTI",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/73885eb6-0869-4548-95cf-beca0df60412.png",
+      "productName": "EP760",
+      "productCode": "EP760",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a1b13983-e25f-4720-8f2f-a5dc8f5963c8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/BLUETTI_EP760_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "EP760 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13193,
+        "companyProductId": null,
+        "maxAcPower": 7600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 7600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 370,
+        "width": 636,
+        "depth": 325,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 7600
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21739,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1432,
+      "brandName": "BLUETTI",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/73885eb6-0869-4548-95cf-beca0df60412.png",
+      "productName": "EP900",
+      "productCode": "EP900",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a3f806dc-be6a-4095-acb8-9ac8e228ce07.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/BLUETTI_EP900.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10849,
+        "companyProductId": null,
+        "maxAcPower": 9000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 9000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 325,
+        "width": 636,
+        "depth": 370,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 9000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

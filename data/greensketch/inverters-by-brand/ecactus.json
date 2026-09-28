@@ -1,0 +1,641 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "eCactus",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.143Z",
+  "items": [
+    {
+      "id": 20799,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPA3.68H",
+      "productCode": "WH-SPA3.68H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/28137464-0766-45d7-99ba-85b1ace8614b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPA3.68H.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9909,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 317,
+        "width": 370,
+        "depth": 146,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21527,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPA5.0H",
+      "productCode": "WH-SPA5.0H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1046088a-d655-4eb5-bd38-2c819702b5d2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPA5.0H.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10637,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 317,
+        "width": 370,
+        "depth": 146,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20817,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPHA3.6H-10.24kWh (AS4777-2 2020)",
+      "productCode": "WH-SPHA3.6H-10.24kWh (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7964a13c-0984-4b5a-a507-67d063f7094a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPHA3.6H-10.24kWh_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "WH-SPHA3.6H-10.24kWh (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9927,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1125,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20693,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPHA3.6H-5.12kWh (AS4777-2 2020)",
+      "productCode": "WH-SPHA3.6H-5.12kWh (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5b95d357-6c1e-43b1-a1e9-17f72324bb0f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPHA3.6H-5.12kWh_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "WH-SPHA3.6H-5.12kWh (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9803,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1125,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21952,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPHA5.0H-10.24kWh (AS4777-2 2020)",
+      "productCode": "WH-SPHA5.0H-10.24kWh (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b6eb19e4-e6e9-4716-b194-c261d357e10e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPHA5.0H-10.24kWh_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "WH-SPHA5.0H-10.24kWh (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11062,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1750,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6650,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22918,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPHA5.0H-5.12kWh (AS4777-2 2020)",
+      "productCode": "WH-SPHA5.0H-5.12kWh (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/585b7d9a-bc4a-406a-850a-9e780f3364af.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPHA5.0H-5.12kWh_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "WH-SPHA5.0H-5.12kWh (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12028,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1725,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6650,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20520,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPHA6.0H-10.24kWh (AS4777-2 2020)",
+      "productCode": "WH-SPHA6.0H-10.24kWh (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2ce6a0a4-fe32-4bb0-92b9-b5f9b4d0d33f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPHA6.0H-10.24kWh_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "WH-SPHA6.0H-10.24kWh (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9630,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1750,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21756,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1368,
+      "brandName": "eCactus",
+      "brandLogo": "https://file.greensketch.net/brands/logo/3f21kkem.png",
+      "productName": "WH-SPHA6.0H-5.12kWh (AS4777-2 2020)",
+      "productCode": "WH-SPHA6.0H-5.12kWh (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5ca62616-89f8-4c7b-98f1-5e2f15bce5e7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/eCactus_WH-SPHA6.0H-5.12kWh_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "WH-SPHA6.0H-5.12kWh (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10866,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1725,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

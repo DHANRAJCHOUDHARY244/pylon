@@ -1,0 +1,894 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "FLOWNERGY",
+  "count": 11,
+  "exportedAt": "2026-09-23T06:39:42.077Z",
+  "items": [
+    {
+      "id": 128379,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPS115-34M0",
+      "productCode": "HNESPS115-34M0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b3cad6b3-353f-431c-8a20-3f53a1634e1c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/b867c9a5-f82b-44bd-beda-fd7ca4c1f605.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "HNESPS115-34M0 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28455,
+        "companyProductId": null,
+        "maxAcPower": 115000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 115000,
+        "maxShortCircuitCurrentPerMppt": 212,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.985,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 212,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 212
+        },
+        "nominal_ac_power": {
+          "value": 115000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128381,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPS115-34M0Q",
+      "productCode": "HNESPS115-34M0Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b3cad6b3-353f-431c-8a20-3f53a1634e1c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/b867c9a5-f82b-44bd-beda-fd7ca4c1f605.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "HNESPS115-34M0Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28457,
+        "companyProductId": null,
+        "maxAcPower": 115000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 115000,
+        "maxShortCircuitCurrentPerMppt": 212,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.985,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 212,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 212
+        },
+        "nominal_ac_power": {
+          "value": 115000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128383,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPS125-34M0",
+      "productCode": "HNESPS125-34M0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d8c90cd8-5fa7-4540-b334-2ea2a3f0cc9e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/047404b8-b589-4b9e-a0ad-cb974728a10b.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HNESPS125-34M0 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28459,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 650,
+        "mpptVoltageMin": 650,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 222,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 222,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 650
+        },
+        "current_isc_max": {
+          "value": 222
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 650
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128384,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPS125-34M0Q",
+      "productCode": "HNESPS125-34M0Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d8c90cd8-5fa7-4540-b334-2ea2a3f0cc9e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/047404b8-b589-4b9e-a0ad-cb974728a10b.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HNESPS125-34M0Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28460,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 650,
+        "mpptVoltageMin": 650,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 222,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 222,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 650
+        },
+        "current_isc_max": {
+          "value": 222
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 650
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128385,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPS125-44M0",
+      "productCode": "HNESPS125-44M0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d8c90cd8-5fa7-4540-b334-2ea2a3f0cc9e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/047404b8-b589-4b9e-a0ad-cb974728a10b.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HNESPS125-44M0 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28461,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 600,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 222,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 222,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 222
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 600
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128386,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPS125-44M0Q",
+      "productCode": "HNESPS125-44M0Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d8c90cd8-5fa7-4540-b334-2ea2a3f0cc9e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/047404b8-b589-4b9e-a0ad-cb974728a10b.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HNESPS125-44M0Q (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TUV CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28462,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 600,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 222,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 222,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 222
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 600
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128387,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPSA125-44M0",
+      "productCode": "HNESPSA125-44M0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4b0b3ce-0fc5-49bc-ae40-98add734857c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/c0c4489b-8f48-4be0-ae55-5346e4d0e10e.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28463,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 600,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 700,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 192,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 600
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 128391,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPSA125-44M0K",
+      "productCode": "HNESPSA125-44M0K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/dc581545-46fc-47b2-a37f-e82f2b6ac21f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/39721a20-92c8-4672-9525-fe01d4d37851.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28467,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": null,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 270,
+        "width": 700,
+        "depth": 900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": null
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 128388,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPSA125-44M0Q",
+      "productCode": "HNESPSA125-44M0Q",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4b0b3ce-0fc5-49bc-ae40-98add734857c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/c0c4489b-8f48-4be0-ae55-5346e4d0e10e.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28464,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 600,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 700,
+        "depth": 900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 192,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 600
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 128390,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPSG125-44LON",
+      "productCode": "HNESPSG125-44LON",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/36d9455e-c401-4ad4-91ca-b2bdccf1ac88.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/3fbe5926-bb60-4647-aa4d-e178505a8825.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28466,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 1500,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 800,
+        "width": 225,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 128389,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3202,
+      "brandName": "FLOWNERGY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2ab96c74-cbbc-490d-9e78-22bcd585b2fb.png",
+      "productName": "HNESPSG125-44MON",
+      "productCode": "HNESPSG125-44MON",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/36d9455e-c401-4ad4-91ca-b2bdccf1ac88.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/3fbe5926-bb60-4647-aa4d-e178505a8825.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28465,
+        "companyProductId": null,
+        "maxAcPower": 150000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 1500,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 235,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

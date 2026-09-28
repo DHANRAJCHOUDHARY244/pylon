@@ -1,0 +1,1115 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Sky Energy",
+  "count": 14,
+  "exportedAt": "2026-09-23T06:39:31.882Z",
+  "items": [
+    {
+      "id": 21218,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX10.0",
+      "productCode": "SBX10.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/dc6e0922-37c0-4bc6-8622-8a26d9647c7a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX10.0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10328,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 438,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1354,
+        "width": 1072,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 438
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23283,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX12.0H1",
+      "productCode": "SBX12.0H1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7b5f9186-f2a0-4538-9fa8-1bd183d5fbab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX12.0H1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12393,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 1802,
+        "width": 1757,
+        "depth": 597,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21751,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX12.0H3",
+      "productCode": "SBX12.0H3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b1ba7c50-46dd-430d-bd32-ea2d97acf59a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX12.0H3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10861,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 1802,
+        "width": 1757,
+        "depth": 597,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 19300,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21555,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX15.0",
+      "productCode": "SBX15.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7f1b9f26-fe62-4993-98f0-51c55136f21f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX15.0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10665,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 80,
+        "type": "Hybrid Inverter",
+        "height": 1802,
+        "width": 1757,
+        "depth": 597,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 80
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23009,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX16.0H1",
+      "productCode": "SBX16.0H1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b518c1be-b1a6-443f-84eb-ba215a1fb4c8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX16.0H1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12119,
+        "companyProductId": null,
+        "maxAcPower": 16000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 16000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 1802,
+        "width": 1757,
+        "depth": 597,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 24000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 16000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22814,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX5.0",
+      "productCode": "SBX5.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/132f32bc-f96b-4af8-9e30-d1dba28b0d54.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX5.0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11924,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 438,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1354,
+        "width": 1072,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 438
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24491,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX5.0H1",
+      "productCode": "SBX5.0H1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e407d266-f967-4b8c-9eda-72d9ccdfff88.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX5.0H1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13601,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 1354,
+        "width": 1072,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23056,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX8.0",
+      "productCode": "SBX8.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a35016fc-7c09-4ec1-9da3-4f831ab15f05.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX8.0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12166,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 438,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 6400,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1354,
+        "width": 1072,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 438
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6400
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24255,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SBX8.0H1",
+      "productCode": "SBX8.0H1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/75529f12-d8e6-4ce5-9747-bdc188c8a8ff.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SBX8.0H1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13365,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 1354,
+        "width": 1072,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24335,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SkyBox Hybrid 5kW",
+      "productCode": "SkyBox Hybrid 5kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fd96851c-83c5-4652-b7b7-1ab4924a721d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SkyBox_Hybrid_5kW.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13445,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "Hybrid Inverter",
+        "height": 1072,
+        "width": 1354,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23147,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SkyBox Hybrid 8kW",
+      "productCode": "SkyBox Hybrid 8kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6f4b948d-f066-46a9-9d27-e0c529db52a8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SkyBox_Hybrid_8kW.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12257,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 34,
+        "type": "Hybrid Inverter",
+        "height": 1072,
+        "width": 1354,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 34
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22296,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SkyBox Off-grid 10kVA",
+      "productCode": "SkyBox Off-grid 10kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4ff3a84f-ca0f-490b-aa69-c6b47441a81c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SkyBox_Off-grid_10kVA.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11406,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 1072,
+        "width": 1354,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23004,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SkyBox Off-grid 5kVA",
+      "productCode": "SkyBox Off-grid 5kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3e0ac54a-a1be-4910-83e4-20e8641bc897.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SkyBox_Off-grid_5kVA.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12114,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1072,
+        "width": 1354,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22793,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 296,
+      "brandName": "Sky Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/30bfab29-958b-45dd-9331-7d82c05dadc6.png",
+      "productName": "SkyBox Off-grid 8kVA",
+      "productCode": "SkyBox Off-grid 8kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8e85cb2d-81ad-4ceb-8217-1e1a67049e5d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sky_Energy_SkyBox_Off-grid_8kVA.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11903,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 6400,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 1072,
+        "width": 1354,
+        "depth": 601,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 6400
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

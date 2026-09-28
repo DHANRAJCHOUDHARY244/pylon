@@ -1,0 +1,404 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Atess",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.195Z",
+  "items": [
+    {
+      "id": 20263,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1328,
+      "brandName": "Atess",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Atess+Power.png",
+      "productName": "HPS100",
+      "productCode": "HPS100",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e0b857f9-67d6-49d6-b945-9f7544d2283e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Atess_HPS100_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9373,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 480,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 380,
+        "type": "Hybrid Inverter",
+        "height": 1660,
+        "width": 700,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 150000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 480
+        },
+        "current_isc_max": {
+          "value": 380
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22012,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1328,
+      "brandName": "Atess",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Atess+Power.png",
+      "productName": "HPS120 (AS4777-2 2020)",
+      "productCode": "HPS120 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/87542e73-2e48-40c6-8e42-910e91e9cad2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Atess_HPS120_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11122,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 480,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 380,
+        "type": "Hybrid Inverter",
+        "height": 1660,
+        "width": 700,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 180000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 480
+        },
+        "current_isc_max": {
+          "value": 380
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22627,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1328,
+      "brandName": "Atess",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Atess+Power.png",
+      "productName": "HPS150 (AS4777-2 2020)",
+      "productCode": "HPS150 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/221f0e6a-4c07-4e14-939d-705856fc4192.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Atess_HPS150_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11737,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 480,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 380,
+        "type": "Hybrid Inverter",
+        "height": 1660,
+        "width": 700,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 225000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 480
+        },
+        "current_isc_max": {
+          "value": 380
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24636,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1328,
+      "brandName": "Atess",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Atess+Power.png",
+      "productName": "HPS30 (AS4777-2 2020)",
+      "productCode": "HPS30 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/439d29b8-a0f9-4dcb-b97a-eb26afd90de8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Atess_HPS30_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13746,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 480,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "Hybrid Inverter",
+        "height": 1660,
+        "width": 700,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 480
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23409,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1328,
+      "brandName": "Atess",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Atess+Power.png",
+      "productName": "HPS50 (AS4777-2 2020)",
+      "productCode": "HPS50 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/67685f4a-ccbd-40c5-af11-1cf22eecdda9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Atess_HPS50_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12519,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 480,
+        "mpptVoltageMin": 480,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 380,
+        "type": "Hybrid Inverter",
+        "height": 1660,
+        "width": 700,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 75000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 480
+        },
+        "current_isc_max": {
+          "value": 380
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 480
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

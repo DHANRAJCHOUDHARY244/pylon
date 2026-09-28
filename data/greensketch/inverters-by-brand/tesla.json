@@ -1,0 +1,2016 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Tesla",
+  "count": 22,
+  "exportedAt": "2026-09-23T06:39:31.849Z",
+  "items": [
+    {
+      "id": 127846,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-10 kVA (AS4777-2 2020)",
+      "productCode": "1707000-10 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-10 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28276,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127847,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-10 kVA-13.5 (AS4777-2 2020)",
+      "productCode": "1707000-10 kVA-13.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-10 kVA-13.5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28277,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127848,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-10 kVA-27 (AS4777-2 2020)",
+      "productCode": "1707000-10 kVA-27",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-10 kVA-27 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28278,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127849,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-10 kVA-40.5 (AS4777-2 2020)",
+      "productCode": "1707000-10 kVA-40.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-10 kVA-40.5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28279,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127856,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-10 kVA-54 (AS4777-2 2020)",
+      "productCode": "1707000-10 kVA-54",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2c954b19-4051-4675-b56f-590afdc5cdff.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/6435439a-7f4e-493a-93c5-c66590a27acf.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-10 kVA-54 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28286,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127850,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-11.04 kVA (AS4777-2 2020)",
+      "productCode": "1707000-11.04 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-11.04 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28280,
+        "companyProductId": null,
+        "maxAcPower": 11040,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 11040,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 11040
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127852,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-11.04 kVA-13.5 (AS4777-2 2020)",
+      "productCode": "1707000-11.04 kVA-13.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6ad969f5-1557-4e04-b623-f405764cb242.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/4c9929e5-ea79-4ed6-8b92-61bd506fc704.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 years",
+      "cecModelNumber": "1707000-11.04 kVA-13.5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28282,
+        "companyProductId": null,
+        "maxAcPower": 11040,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 11040,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 11040
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127851,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-11.04 kVA-27 (AS4777-2 2020)",
+      "productCode": "1707000-11.04 kVA-27",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6ad969f5-1557-4e04-b623-f405764cb242.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/4c9929e5-ea79-4ed6-8b92-61bd506fc704.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 years",
+      "cecModelNumber": "1707000-11.04 kVA-27 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28281,
+        "companyProductId": null,
+        "maxAcPower": 11040,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 11040,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 11040
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127853,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-11.04 kVA-40.5 (AS4777-2 2020)",
+      "productCode": "1707000-11.04 kVA-40.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6ad969f5-1557-4e04-b623-f405764cb242.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/4c9929e5-ea79-4ed6-8b92-61bd506fc704.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 years",
+      "cecModelNumber": "1707000-11.04 kVA-40.5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28283,
+        "companyProductId": null,
+        "maxAcPower": 11040,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 11040,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 11040
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127854,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-11.04 kVA-54 (AS4777-2 2020)",
+      "productCode": "1707000-11.04 kVA-54",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2c954b19-4051-4675-b56f-590afdc5cdff.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/6435439a-7f4e-493a-93c5-c66590a27acf.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-11.04 kVA-54 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28284,
+        "companyProductId": null,
+        "maxAcPower": 11040,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 11040,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 11040
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127842,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-5 kVA (AS4777-2 2020)",
+      "productCode": "1707000-5 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-5 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28272,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-5 kVA-13.5 (AS4777-2 2020)",
+      "productCode": "1707000-5 kVA-13.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-5 kVA-13.5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28273,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127844,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-5 kVA-27 (AS4777-2 2020)",
+      "productCode": "1707000-5 kVA-27",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-5 kVA-27 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28274,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127855,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-5 kVA-40.5 (AS4777-2 2020)",
+      "productCode": "1707000-5 kVA-40.5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2c954b19-4051-4675-b56f-590afdc5cdff.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/6435439a-7f4e-493a-93c5-c66590a27acf.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-5 kVA-40.5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28285,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127845,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "1707000-5 kVA-54 (AS4777-2 2020)",
+      "productCode": "1707000-5 kVA-54",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/db2c25b3-6381-4634-9fbd-0b979125ca6f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/f7222013-3d36-4396-9e7a-d71bd73fa01b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "1707000-5 kVA-54 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61000-6-1: 2016",
+        "IEC 61000-6-3: 2020",
+        "IEC 62477-1: 2022",
+        "IEC 62109-1: 2010",
+        "IEC 62109-2: 2011",
+        "IEC 62933-5-2: 2020",
+        "IEC 62619: 2022",
+        "UL 1973",
+        "UL 9540A",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28275,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1826,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Backup Gateway 2",
+      "productCode": "Backup Gateway 2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9599cd42-f2dc-4d0a-9fd8-3895373db67e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Tesla_Powerwall_3.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 454,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 585,
+        "width": 380,
+        "depth": 127,
+        "weight": 11.4,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": null,
+        "maxEfficiency": 0.1,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1091,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Powerwall 3",
+      "productCode": "Powerwall 3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a8502b8d-ad09-4dd6-83da-075cfb6a6eca.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Tesla_Powerwall_3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 33,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 1099,
+        "width": 609,
+        "depth": 193,
+        "weight": 130,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 26,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 127641,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Powerwall 3 (10 kW AC)",
+      "productCode": "Powerwall 3 (10 kW AC)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/c6274ff1-ccd3-4359-a71a-5be395292856.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/16ff18bc-3184-4495-9468-ecf85897dbcc.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UL 1741",
+        "UL 9540",
+        "UL 9540A",
+        "UL 3741",
+        "UL 1741 PCS",
+        "UL 1741 SA",
+        "UL 1741 SB",
+        "UL 1741 Multimode",
+        "UL 1973",
+        "UL 1699B",
+        "UL 1998",
+        "CSA C22.2 No. 0.8",
+        "CSA C22.2 No. 107.1",
+        "CSA C22.2 No. 330",
+        "CSA 22.3 No. 9",
+        "IEEE 1547",
+        "IEEE 1547A",
+        "IEEE 1547.1",
+        "CA Rule No.21",
+        "FCC Part 15 Class B",
+        "ICES 003",
+        "RoHS Directive 2011/65/EU",
+        "AC156",
+        "IEEE 693-2005 (high)",
+        "Meets the unit level performance criteria of UL 9540A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28211,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 127642,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Powerwall 3 (11.5 kW AC)",
+      "productCode": "Powerwall 3 (11.5 kW AC)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/c6274ff1-ccd3-4359-a71a-5be395292856.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/16ff18bc-3184-4495-9468-ecf85897dbcc.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UL 1741",
+        "UL 9540",
+        "UL 9540A",
+        "UL 3741",
+        "UL 1741 PCS",
+        "UL 1741 SA",
+        "UL 1741 SB",
+        "UL 1741 Multimode",
+        "UL 1973",
+        "UL 1699B",
+        "UL 1998",
+        "CSA C22.2 No. 0.8",
+        "CSA C22.2 No. 107.1",
+        "CSA C22.2 No. 330",
+        "CSA 22.3 No. 9",
+        "IEEE 1547",
+        "IEEE 1547A",
+        "IEEE 1547.1",
+        "CA Rule No.21",
+        "FCC Part 15 Class B",
+        "ICES 003",
+        "RoHS Directive 2011/65/EU",
+        "AC156",
+        "IEEE 693-2005 (high)",
+        "Meets the unit level performance criteria of UL 9540A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28212,
+        "companyProductId": null,
+        "maxAcPower": 11500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 11500,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 11500
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 127639,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Powerwall 3 (5.8 kW AC)",
+      "productCode": "Powerwall 3 (5.8 kW AC)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/c6274ff1-ccd3-4359-a71a-5be395292856.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/16ff18bc-3184-4495-9468-ecf85897dbcc.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UL 1741",
+        "UL 9540",
+        "UL 9540A",
+        "UL 3741",
+        "UL 1741 PCS",
+        "UL 1741 SA",
+        "UL 1741 SB",
+        "UL 1741 Multimode",
+        "UL 1973",
+        "UL 1699B",
+        "UL 1998",
+        "CSA C22.2 No. 0.8",
+        "CSA C22.2 No. 107.1",
+        "CSA C22.2 No. 330",
+        "CSA 22.3 No. 9",
+        "IEEE 1547",
+        "IEEE 1547A",
+        "IEEE 1547.1",
+        "CA Rule No.21",
+        "FCC Part 15 Class B",
+        "ICES 003",
+        "RoHS Directive 2011/65/EU",
+        "AC156",
+        "IEEE 693-2005 (high)",
+        "Meets the unit level performance criteria of UL 9540A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28209,
+        "companyProductId": null,
+        "maxAcPower": 5800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5800,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 5800
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 127640,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Powerwall 3 (7.6 kW AC)",
+      "productCode": "Powerwall 3 (7.6 kW AC)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/c6274ff1-ccd3-4359-a71a-5be395292856.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/16ff18bc-3184-4495-9468-ecf85897dbcc.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UL 1741",
+        "UL 9540",
+        "UL 9540A",
+        "UL 3741",
+        "UL 1741 PCS",
+        "UL 1741 SA",
+        "UL 1741 SB",
+        "UL 1741 Multimode",
+        "UL 1973",
+        "UL 1699B",
+        "UL 1998",
+        "CSA C22.2 No. 0.8",
+        "CSA C22.2 No. 107.1",
+        "CSA C22.2 No. 330",
+        "CSA 22.3 No. 9",
+        "IEEE 1547",
+        "IEEE 1547A",
+        "IEEE 1547.1",
+        "CA Rule No.21",
+        "FCC Part 15 Class B",
+        "ICES 003",
+        "RoHS Directive 2011/65/EU",
+        "AC156",
+        "IEEE 693-2005 (high)",
+        "Meets the unit level performance criteria of UL 9540A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28210,
+        "companyProductId": null,
+        "maxAcPower": 7600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 7600,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 1105,
+        "width": 609,
+        "depth": 193,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00975,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 7600
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 59497,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 258,
+      "brandName": "Tesla",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3145df77-8165-4d42-9118-b2857848428a.png",
+      "productName": "Tesla Solar Inverter(1538000-xx-y)",
+      "productCode": "Tesla Solar Inverter(1538000-xx-y)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/92b09594-b977-4a9a-886c-62a5ef7f25f5.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/29/24de0f59-a1c1-4cef-9416-a5986fe33e50.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 18995,
+        "companyProductId": null,
+        "maxAcPower": 7680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 7600,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 411,
+        "depth": 158,
+        "weight": 23.6,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 7600
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    }
+  ]
+}

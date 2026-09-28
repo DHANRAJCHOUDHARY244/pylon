@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "RCT Power",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.671Z",
+  "items": [
+    {
+      "id": 22914,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1444,
+      "brandName": "RCT Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/5875cf71-ae33-47f0-9710-b82c4a552730.png",
+      "productName": "RHS-6K-H (AS4777-2 2020)",
+      "productCode": "RHS-6K-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bfd8ed74-aaba-46e3-8e11-df9d28366703.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/RCT_Power_RHS-6K-H_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "RHS-6K-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12024,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 445,
+        "width": 605,
+        "depth": 165,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9300,
+        "dcInputs": 3,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

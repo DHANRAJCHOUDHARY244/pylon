@@ -1,0 +1,404 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Solavita",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.207Z",
+  "items": [
+    {
+      "id": 21090,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1416,
+      "brandName": "Solavita",
+      "brandLogo": null,
+      "productName": "SWH005KH-T1",
+      "productCode": "SWH005KH-T1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed2d7fe2-4ebd-4687-9bb7-56d2c70f46aa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solavita_SWH005KH-T1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10200,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 563,
+        "width": 498,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23501,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1416,
+      "brandName": "Solavita",
+      "brandLogo": null,
+      "productName": "SWH008KH-T1",
+      "productCode": "SWH008KH-T1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c336fb0d-3a13-4dcb-934c-671203599c1b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solavita_SWH008KH-T1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12611,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 563,
+        "width": 498,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22807,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1416,
+      "brandName": "Solavita",
+      "brandLogo": null,
+      "productName": "SWH010KH-T1",
+      "productCode": "SWH010KH-T1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3485862d-6ea6-46d2-a378-f60f21e25efa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solavita_SWH010KH-T1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11917,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 36,
+        "type": "Hybrid Inverter",
+        "height": 563,
+        "width": 498,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 36
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23150,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1416,
+      "brandName": "Solavita",
+      "brandLogo": null,
+      "productName": "SWH012KH-T1",
+      "productCode": "SWH012KH-T1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/875024ae-d7f2-43e2-8882-13a7ef590030.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solavita_SWH012KH-T1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12260,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 36,
+        "type": "Hybrid Inverter",
+        "height": 563,
+        "width": 498,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15600,
+        "dcInputs": 3,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 36
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21670,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1416,
+      "brandName": "Solavita",
+      "brandLogo": null,
+      "productName": "SWH015KH-T1",
+      "productCode": "SWH015KH-T1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cd0076cd-83b7-4cc8-96e6-b390256ca4f1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solavita_SWH015KH-T1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10780,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 36,
+        "type": "Hybrid Inverter",
+        "height": 563,
+        "width": 498,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18750,
+        "dcInputs": 3,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 36
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

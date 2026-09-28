@@ -1,0 +1,2221 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "JFY",
+  "count": 28,
+  "exportedAt": "2026-09-23T06:39:31.835Z",
+  "items": [
+    {
+      "id": 21643,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-1500TL",
+      "productCode": "JSI-1500TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9934bba1-b3d8-4f61-885d-2e473c13d0dd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-1500TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10753,
+        "companyProductId": null,
+        "maxAcPower": 1650,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 315,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1750,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.955,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23727,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-2000TL",
+      "productCode": "JSI-2000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b2335a52-7fb8-40f3-b6bf-859b9188c875.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-2000TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12837,
+        "companyProductId": null,
+        "maxAcPower": 2200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 355,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2300,
+        "dcInputs": 1,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23260,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-2500TL",
+      "productCode": "JSI-2500TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/124d624b-3635-40b7-a7c9-a3ac0b00d924.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-2500TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12370,
+        "companyProductId": null,
+        "maxAcPower": 2490,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 355,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2700,
+        "dcInputs": 2,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24273,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-3000TL",
+      "productCode": "JSI-3000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/61103da7-3c85-4e26-b8cd-99a12d1d0b02.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-3000TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13383,
+        "companyProductId": null,
+        "maxAcPower": 3400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 385,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3660,
+        "dcInputs": 2,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24032,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-3600TL",
+      "productCode": "JSI-3600TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3f57e988-ea45-4488-842c-29377be49a03.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-3600TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13142,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 385,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3750,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21383,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-5000TL",
+      "productCode": "JSI-5000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/660e4eaf-70d8-4a5f-93c3-f1767b831dec.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-5000TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10493,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "PV-only Inverter",
+        "height": 505,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5300,
+        "dcInputs": 3,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23535,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "JSI-6000TL",
+      "productCode": "JSI-6000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5e952550-d182-4653-9535-1f0918fc9b3b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_JSI-6000TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12645,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 34,
+        "type": "PV-only Inverter",
+        "height": 573,
+        "width": 345,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 3,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 34
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1426,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 1100TL",
+      "productCode": "SUNLEAF 1100TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1bcb6ab1-ee50-4029-b6f4-f1a42ab7cdf6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_1100TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 368,
+        "companyProductId": null,
+        "maxAcPower": 1100,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1100,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 295,
+        "width": 290,
+        "depth": 140,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1250,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.955,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1100
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1427,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 1500TL",
+      "productCode": "SUNLEAF 1500TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6f86c47f-d035-4c3d-b7ca-dbd45c7adef3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_1500TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 369,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 295,
+        "width": 290,
+        "depth": 140,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1600,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.955,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1428,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 2000TL",
+      "productCode": "SUNLEAF 2000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7d6a82a6-feef-45c1-8dce-fa5d321c65b9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_2000TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 370,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 295,
+        "width": 290,
+        "depth": 140,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2200,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1153,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 2500TL",
+      "productCode": "SUNLEAF 2500TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/08a84806-cfda-435b-a41f-eff57225d7c4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_2500TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 95,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 340,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2700,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1385,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 3000TL",
+      "productCode": "SUNLEAF 3000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/97a6cdee-ae25-4cf7-bab5-1e9564e722c0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_3000TL.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 327,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 340,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": null,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20859,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 3600TL",
+      "productCode": "SUNLEAF 3600TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ad77f28b-0102-49ce-8bd5-cb1c2d727743.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_3600TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9969,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 390,
+        "width": 364,
+        "depth": 164,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3960,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23669,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 4000TL",
+      "productCode": "SUNLEAF 4000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/470c8fc1-9a87-4c00-a0ba-6464f990e6ca.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_4000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12779,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 390,
+        "width": 364,
+        "depth": 164,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21134,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNLEAF 5000TL",
+      "productCode": "SUNLEAF 5000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1b6eccc5-3a8d-48e6-aa91-44edc64b316e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNLEAF_5000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10244,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 390,
+        "width": 364,
+        "depth": 164,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24599,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNSEED 3000TL",
+      "productCode": "SUNSEED 3000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8a34482f-9442-4a54-afe3-5d38d390143c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNSEED_3000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13709,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 380,
+        "width": 358,
+        "depth": 153,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3120,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.964,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20440,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNSEED 4000TL",
+      "productCode": "SUNSEED 4000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/78a763af-510e-47b1-aaa1-ff5a5b129719.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNSEED_4000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9550,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 380,
+        "width": 358,
+        "depth": 153,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4160,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23136,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNSEED 5000TL",
+      "productCode": "SUNSEED 5000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/449698ea-cde6-463c-a021-2352b81f9912.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNSEED_5000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12246,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "PV-only Inverter",
+        "height": 380,
+        "width": 358,
+        "depth": 153,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1429,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 10000TL+",
+      "productCode": "SUNTREE 10000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7ee8b038-4f91-4eb5-93b0-4560cb113453.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_10000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 371,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 209,
+        "width": 528,
+        "depth": 411,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 11200,
+        "dcInputs": null,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1241,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 12000TL+",
+      "productCode": "SUNTREE 12000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e3728c2d-bc8f-467a-b585-352611fcaf17.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_12000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 183,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 209,
+        "width": 528,
+        "depth": 411,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13300,
+        "dcInputs": null,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1288,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 15000TL+",
+      "productCode": "SUNTREE 15000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3e34c3f1-377a-4865-b112-d3c0d8e05b3a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_15000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 230,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 259,
+        "width": 688,
+        "depth": 486,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16500,
+        "dcInputs": null,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1154,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 20000TL+",
+      "productCode": "SUNTREE 20000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/038cc104-14f1-4f81-b4d4-4a166b030f43.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_20000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 96,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 259,
+        "width": 688,
+        "depth": 486,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22000,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1102,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 5000TL+",
+      "productCode": "SUNTREE 5000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8a8ed4b0-a32e-4faf-846d-a8e9e69ce92d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_5000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 44,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 720,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 180,
+        "width": 450,
+        "depth": 355,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5150,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1242,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 6000TL+",
+      "productCode": "SUNTREE 6000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/eec06bc9-8fb7-442d-a4be-00a1438d1375.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_6000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 184,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 720,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "PV-only Inverter",
+        "height": 180,
+        "width": 450,
+        "depth": 355,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6150,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.969,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1103,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "SUNTREE 8000TL+",
+      "productCode": "SUNTREE 8000TL+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bbd3cca9-5cfa-4e1f-9aea-1397b360c93d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JFY_SUNTREE_8000TL%2B.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 45,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 180,
+        "width": 450,
+        "depth": 355,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8200,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22462,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "Suntwins 3300TL",
+      "productCode": "Suntwins 3300TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c06c10ee-b35e-4676-8600-dc7b7dc00c5c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JYF_Suntwins_3300TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11572,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3450,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22718,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "Suntwins 4000TL",
+      "productCode": "Suntwins 4000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/790c1ed9-9c9a-4cea-869e-e5da0097af37.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JYF_Suntwins_4000TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11828,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4160,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23123,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 263,
+      "brandName": "JFY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/_logo.jpg",
+      "productName": "Suntwins 5000TL",
+      "productCode": "Suntwins 5000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/db4bd60f-ca16-4bf7-9388-a3985e38dc6e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/JYF_Suntwins_5000TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12233,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "PV-only Inverter",
+        "height": 435,
+        "width": 345,
+        "depth": 152,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

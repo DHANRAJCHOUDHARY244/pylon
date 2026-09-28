@@ -1,0 +1,720 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "KACO",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.117Z",
+  "items": [
+    {
+      "id": 21421,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "Powador 1501xi",
+      "productCode": "Powador 1501xi",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3d921b10-e330-40f2-88b8-086e12900f3a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_Powador_1501xi.pdf",
+      "productWarranty": "7",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10531,
+        "companyProductId": null,
+        "maxAcPower": 1650,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "PV-only Inverter",
+        "height": 450,
+        "width": 340,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20431,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "Powador 2501xi",
+      "productCode": "Powador 2501xi",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/75332b06-1a80-4a8b-b066-8df19168874c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_Powador_2501xi.pdf",
+      "productWarranty": "7",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9541,
+        "companyProductId": null,
+        "maxAcPower": 2750,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 29,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 340,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3100,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 29
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24591,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "Powador 3501xi",
+      "productCode": "Powador 3501xi",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1132bdd9-8644-40e0-85f9-2591ad1ea56d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_Powador_3501xi.pdf",
+      "productWarranty": "7",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13701,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 340,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21884,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "Powador 4501xi",
+      "productCode": "Powador 4501xi",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/581a5033-a71c-4b6f-b280-2c627b404512.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_Powador_4501xi.pdf",
+      "productWarranty": "7",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10994,
+        "companyProductId": null,
+        "maxAcPower": 5060,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 54,
+        "type": "PV-only Inverter",
+        "height": 650,
+        "width": 340,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 54
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21371,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "Powador 5001xi",
+      "productCode": "Powador 5001xi",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/03bac413-ff38-458b-b63f-0f8f5966cc46.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_Powador_5001xi.pdf",
+      "productWarranty": "7",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10481,
+        "companyProductId": null,
+        "maxAcPower": 5100,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 54,
+        "type": "PV-only Inverter",
+        "height": 650,
+        "width": 340,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 54
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23144,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "blueplanet 110 TL3",
+      "productCode": "blueplanet 110 TL3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3ae95692-4a16-487a-82e4-245b4246436d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_blueplanet_110_TL3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12254,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 730,
+        "minDcVoltageToStartFeedIn": 805,
+        "mpptVoltageMin": 705,
+        "mpptVoltageMax": 1300,
+        "nominalAcPower": 110000,
+        "maxShortCircuitCurrentPerMppt": 300,
+        "type": "PV-only Inverter",
+        "height": 719,
+        "width": 699,
+        "depth": 460,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 165000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.992,
+        "euroEfficiency": 0.99,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 730
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 805
+        },
+        "current_isc_max": {
+          "value": 300
+        },
+        "nominal_ac_power": {
+          "value": 110000
+        },
+        "mppt_voltage_min": {
+          "value": 705
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21866,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "blueplanet 125 TL3",
+      "productCode": "blueplanet 125 TL3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1a576a62-dfa6-4b59-b6ba-5b9baf54a409.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_blueplanet_125_TL3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10976,
+        "companyProductId": null,
+        "maxAcPower": 137500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 1000,
+        "mpptVoltageMin": 875,
+        "mpptVoltageMax": 1300,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 300,
+        "type": "PV-only Inverter",
+        "height": 719,
+        "width": 699,
+        "depth": 460,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 187500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.92,
+        "euroEfficiency": 0.99,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 1000
+        },
+        "current_isc_max": {
+          "value": 300
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 875
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20398,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "blueplanet 87.0 TL3",
+      "productCode": "blueplanet 87.0 TL3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4b7868fc-429b-469c-8fe6-6f8a10e55eb5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_blueplanet_87.0_TL3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9508,
+        "companyProductId": null,
+        "maxAcPower": 87000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 645,
+        "mpptVoltageMin": 563,
+        "mpptVoltageMax": 1300,
+        "nominalAcPower": 87000,
+        "maxShortCircuitCurrentPerMppt": 300,
+        "type": "PV-only Inverter",
+        "height": 719,
+        "width": 699,
+        "depth": 460,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 130500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": 0.986,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 645
+        },
+        "current_isc_max": {
+          "value": 300
+        },
+        "nominal_ac_power": {
+          "value": 87000
+        },
+        "mppt_voltage_min": {
+          "value": 563
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23713,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1352,
+      "brandName": "KACO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(3).svg",
+      "productName": "blueplanet 92.0 TL3",
+      "productCode": "blueplanet 92.0 TL3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/38fc364b-49de-4757-83c3-c37c277ea86e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KACO_blueplanet_92.0_TL3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12823,
+        "companyProductId": null,
+        "maxAcPower": 92000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 620,
+        "minDcVoltageToStartFeedIn": 675,
+        "mpptVoltageMin": 591,
+        "mpptVoltageMax": 1300,
+        "nominalAcPower": 92000,
+        "maxShortCircuitCurrentPerMppt": 300,
+        "type": "PV-only Inverter",
+        "height": 719,
+        "width": 699,
+        "depth": 460,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 138000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 620
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 675
+        },
+        "current_isc_max": {
+          "value": 300
+        },
+        "nominal_ac_power": {
+          "value": 92000
+        },
+        "mppt_voltage_min": {
+          "value": 591
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

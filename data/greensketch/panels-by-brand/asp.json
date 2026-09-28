@@ -1,0 +1,1522 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "ASP",
+  "count": 17,
+  "exportedAt": "2026-09-23T06:32:14.046Z",
+  "items": [
+    {
+      "id": 130090,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T00-105",
+      "productCode": "ASP-ST1-T00-105",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T00-105 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72484,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 105,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 1.36,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1458,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 1.36
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 105
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T00-105"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130091,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T05-99",
+      "productCode": "ASP-ST1-T05-99",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T05-99 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72485,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 99,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 1.29,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1375,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 1.29
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 99
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T05-99"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130092,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T10-94",
+      "productCode": "ASP-ST1-T10-94",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T10-94 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72486,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 94,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 1.22,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1306,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 1.22
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 94
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T10-94"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130093,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T15-89",
+      "productCode": "ASP-ST1-T15-89",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T15-89 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72487,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 89,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 1.16,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1236,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 1.16
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 89
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T15-89"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130094,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T20-84",
+      "productCode": "ASP-ST1-T20-84",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T20-84 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72488,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 84,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 1.09,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1167,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 1.09
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 84
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T20-84"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130095,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T25-78",
+      "productCode": "ASP-ST1-T25-78",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T25-78 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72489,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 78,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 1.02,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1083,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 1.02
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 78
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T25-78"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130096,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T30-73",
+      "productCode": "ASP-ST1-T30-73",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T30-73 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72490,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 73,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 0.95,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1014,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.95
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 73
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T30-73"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130097,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T35-68",
+      "productCode": "ASP-ST1-T35-68",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T35-68 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72491,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 68,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 0.88,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.88
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 68
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T35-68"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130098,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T40-63",
+      "productCode": "ASP-ST1-T40-63",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T40-63 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72492,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 63,
+        "stcVoltageAtMaximumPowerVmpp": 89,
+        "stcShortCircuitCurrentIsc": 0.82,
+        "stcOpenCircuitVoltageVoc": 119.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": null,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.82
+        },
+        "stc_voc": {
+          "value": 119.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 63
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T40-63"
+        },
+        "stc_vmpp": {
+          "value": 89
+        }
+      }
+    },
+    {
+      "id": 130106,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T45-60",
+      "productCode": "ASP-ST1-T45-60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T45-60 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72500,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 60,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.75,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": null,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.75
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 60
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T45-60"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130099,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T50-55",
+      "productCode": "ASP-ST1-T50-55",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T50-55 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72493,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 55,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.68,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.68
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 55
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T50-55"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130100,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T55-49",
+      "productCode": "ASP-ST1-T55-49",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T55-49 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72494,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 49,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.61,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.61
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 49
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T55-49"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130101,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T60-44",
+      "productCode": "ASP-ST1-T60-44",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T60-44 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72495,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 44,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.54,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.54
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 44
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T60-44"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130102,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T65-38",
+      "productCode": "ASP-ST1-T65-38",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T65-38 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72496,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 38,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.48,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.48
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 38
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T65-38"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130103,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T70-33",
+      "productCode": "ASP-ST1-T70-33",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T70-33 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72497,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 33,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.41,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.41
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 33
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T70-33"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130104,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T75-27",
+      "productCode": "ASP-ST1-T75-27",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T75-27 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72498,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 27,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.34,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.34
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 27
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T75-27"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    },
+    {
+      "id": 130105,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3144,
+      "brandName": "ASP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/f3604a99-02fd-4283-8d9c-fd7394636368.webp",
+      "productName": "ASP-ST1-T80-22",
+      "productCode": "ASP-ST1-T80-22",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcf67a29-2920-4340-9b18-bca83120e6d2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/13/954acfc1-84f0-42e0-a113-23a5624c062c.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "25 years power output guarantee for 90% of nominal output during first 10 years and 80% over 25 years.",
+      "cecModelNumber": "ASP-ST1-T80-22 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 72499,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 22,
+        "stcVoltageAtMaximumPowerVmpp": 91.8,
+        "stcShortCircuitCurrentIsc": 0.32,
+        "stcOpenCircuitVoltageVoc": 120.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.00211,
+        "temperatureCoefficientOfVoc": -0.00237,
+        "temperatureCoefficientOfIsc": 0.00019,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1200,
+        "width": 600,
+        "depth": 7,
+        "weight": 12,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin-film",
+        "cellTechnology": "CdTe",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.0944,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "TN-R05;TN-P05 OR TN-R02;TN-P02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.211
+        },
+        "stc_isc": {
+          "value": 0.32
+        },
+        "stc_voc": {
+          "value": 120.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.237
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.019
+        },
+        "power": {
+          "value": 22
+        },
+        "cec_model": {
+          "value": "ASP-ST1-T80-22"
+        },
+        "stc_vmpp": {
+          "value": 91.8
+        }
+      }
+    }
+  ]
+}

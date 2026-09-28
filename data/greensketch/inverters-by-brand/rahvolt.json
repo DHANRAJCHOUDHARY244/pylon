@@ -1,0 +1,641 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Rahvolt",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.131Z",
+  "items": [
+    {
+      "id": 21853,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV08kH-T3",
+      "productCode": "RV08kH-T3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e3680b72-f5dd-42ae-aec6-47bf6e5f48b3.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/a04b8097-2caa-4dbe-a074-2e9615c15ce7.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10963,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 205,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 465,
+        "width": 545,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 205
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23251,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV10kH-T3",
+      "productCode": "RV10kH-T3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7be84d81-e6aa-4778-a5d8-aad1d70720b7.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d1ca6cbd-5939-4e99-9767-44cd044fad8e.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12361,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 205,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 465,
+        "width": 545,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 205
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21032,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV12kH-T3",
+      "productCode": "RV12kH-T3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/df2d0d3d-22b4-4afd-8bff-a46f9d082b81.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/e6c56b77-e2d6-456d-bacc-ae399d0fb57e.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10142,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 205,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 465,
+        "width": 545,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 205
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21191,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV3000H-S2",
+      "productCode": "RV3000H-S2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c2a4bc6b-df6b-482c-a1c6-fd8b03a35a13.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Rahvolt_RV3000H-S2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10301,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 45,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 123,
+        "depth": 193.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 45
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21392,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV3680H-S2",
+      "productCode": "RV3680H-S2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9c2990a1-09ef-4222-b4ee-74a71d417f0f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Rahvolt_RV3680H-S2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10502,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 45,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 123,
+        "depth": 193.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6180,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 45
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24118,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV4000H-S2",
+      "productCode": "RV4000H-S2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/22feee88-6162-45a9-b626-7e43e887548c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Rahvolt_RV4000H-S2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13228,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 45,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 483,
+        "depth": 193.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 45
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23485,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV5000H-S2",
+      "productCode": "RV5000H-S2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f3487948-24cd-426e-8b4c-c5fc9204f496.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Rahvolt_RV5000H-S2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12595,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 45,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 483,
+        "depth": 193.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 45
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20732,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1387,
+      "brandName": "Rahvolt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/f7d87ccd-39a7-44a8-ba00-a404fcaf4862.png",
+      "productName": "RV6000H-S2",
+      "productCode": "RV6000H-S2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/12031f77-358b-40bd-b42d-360a66c957f2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Rahvolt_RV6000H-S2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9842,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 45,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 123,
+        "depth": 193.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 45
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "XESS Energy",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:39:52.574Z",
+  "items": [
+    {
+      "id": 22648,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1436,
+      "brandName": "XESS Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/XESS+Energy.png",
+      "productName": "XESSONE-1P2",
+      "productCode": "XESSONE-1P2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a4d9795c-ab4a-4f0c-a852-67292fc14c46.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/XESS_Energy_XESSONE-1P2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11758,
+        "companyProductId": null,
+        "maxAcPower": 4800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4800,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Battery-only",
+        "height": 1313,
+        "width": 660,
+        "depth": 122,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8062,
+        "dcInputs": 1,
+        "maxEfficiency": 0.937,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4800
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22081,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1436,
+      "brandName": "XESS Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/XESS+Energy.png",
+      "productName": "XESSONE-1P3",
+      "productCode": "XESSONE-1P3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a9c3331b-1810-42df-abcb-264720c0f659.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/XESS_Energy_XESSONE-1P3.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11191,
+        "companyProductId": null,
+        "maxAcPower": 7200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4800,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Battery-only",
+        "height": 1313,
+        "width": 660,
+        "depth": 122,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8062,
+        "dcInputs": 1,
+        "maxEfficiency": 0.937,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4800
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24036,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1436,
+      "brandName": "XESS Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/XESS+Energy.png",
+      "productName": "XESSONE-2P2",
+      "productCode": "XESSONE-2P2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/20377b8b-1c34-4e6b-8615-7f54b56a428c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/XESS_Energy_XESSONE-2P2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13146,
+        "companyProductId": null,
+        "maxAcPower": 7200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4800,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Battery-only",
+        "height": 1313,
+        "width": 660,
+        "depth": 122,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16128,
+        "dcInputs": 2,
+        "maxEfficiency": 0.937,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 4800
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22195,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1436,
+      "brandName": "XESS Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/XESS+Energy.png",
+      "productName": "XESSONE-2P4",
+      "productCode": "XESSONE-2P4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/89ee8f2a-375b-4ad8-b301-cc477883c3a6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/XESS_Energy_XESSONE-2P4.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11305,
+        "companyProductId": null,
+        "maxAcPower": 9600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 7200,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Battery-only",
+        "height": 1313,
+        "width": 660,
+        "depth": 122,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16128,
+        "dcInputs": 2,
+        "maxEfficiency": 0.937,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 7200
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

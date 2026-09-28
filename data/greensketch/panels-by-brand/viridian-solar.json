@@ -1,0 +1,988 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Viridian Solar",
+  "count": 11,
+  "exportedAt": "2026-09-23T06:32:14.058Z",
+  "items": [
+    {
+      "id": 18929,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "Clearline PV16-405",
+      "productCode": "Clearline PV16-405",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Viridian_Solar_PV16-405.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Viridian_Solar_PV16-405.pdf",
+      "productWarranty": "20",
+      "performanceWarranty": "25",
+      "cecModelNumber": "Clearline PV16-405 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5810,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 31.02,
+        "stcShortCircuitCurrentIsc": 13.62,
+        "stcOpenCircuitVoltageVoc": 37.05,
+        "stcCurrentAtMaximumPowerImpp": 13.06,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1722,
+        "width": 1134,
+        "depth": 70,
+        "weight": 25,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.62
+        },
+        "stc_voc": {
+          "value": 37.05
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "Clearline PV16-405"
+        },
+        "stc_vmpp": {
+          "value": 31.02
+        }
+      }
+    },
+    {
+      "id": 122484,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-335",
+      "productCode": "PV16-335",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/aa1604a2-3306-4baa-a7d7-f3b16cbd9a99.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/4707a165-35bc-4277-ad76-ee1c3ff1d051.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68720,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 335,
+        "stcVoltageAtMaximumPowerVmpp": 34.7,
+        "stcShortCircuitCurrentIsc": 10.3,
+        "stcOpenCircuitVoltageVoc": 42,
+        "stcCurrentAtMaximumPowerImpp": 9.7,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1686,
+        "width": 1000,
+        "depth": 69,
+        "weight": 21.7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.3
+        },
+        "stc_voc": {
+          "value": 42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 335
+        },
+        "cec_model": {
+          "value": "PV16-335"
+        },
+        "stc_vmpp": {
+          "value": 34.7
+        }
+      }
+    },
+    {
+      "id": 18391,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-335-G1",
+      "productCode": "PV16-335-G1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Viridian_Solar_PV16-335-G1.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Viridian_Solar_PV16-335-G1.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5272,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 335,
+        "stcVoltageAtMaximumPowerVmpp": 34.7,
+        "stcShortCircuitCurrentIsc": 10.3,
+        "stcOpenCircuitVoltageVoc": 42,
+        "stcCurrentAtMaximumPowerImpp": 9.7,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1686,
+        "width": 1000,
+        "depth": 69,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.3
+        },
+        "stc_voc": {
+          "value": 42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 335
+        },
+        "cec_model": {
+          "value": "PV16-335-G1"
+        },
+        "stc_vmpp": {
+          "value": 34.7
+        }
+      }
+    },
+    {
+      "id": 122483,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-340",
+      "productCode": "PV16-340",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/36a0d70f-80fb-428d-b7e7-74b5a6bc937a.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/681747aa-3f1e-43eb-8048-14cbbb65e0b7.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68719,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 340,
+        "stcVoltageAtMaximumPowerVmpp": 35,
+        "stcShortCircuitCurrentIsc": 10.4,
+        "stcOpenCircuitVoltageVoc": 42.4,
+        "stcCurrentAtMaximumPowerImpp": 9.7,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1686,
+        "width": 1000,
+        "depth": 69,
+        "weight": 21.7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.4
+        },
+        "stc_voc": {
+          "value": 42.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 340
+        },
+        "cec_model": {
+          "value": "PV16-340"
+        },
+        "stc_vmpp": {
+          "value": 35
+        }
+      }
+    },
+    {
+      "id": 33706,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-340-G1",
+      "productCode": "PV16-340-G1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Viridian_Solar_PV16-340-G1.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Viridian_Solar_PV16-340-G1.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11706,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 340,
+        "stcVoltageAtMaximumPowerVmpp": 35,
+        "stcShortCircuitCurrentIsc": 10.4,
+        "stcOpenCircuitVoltageVoc": 42.4,
+        "stcCurrentAtMaximumPowerImpp": 9.7,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1686,
+        "width": 1000,
+        "depth": 69,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 10.4
+        },
+        "stc_voc": {
+          "value": 42.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 340
+        },
+        "cec_model": {
+          "value": "PV16-340-G1"
+        },
+        "stc_vmpp": {
+          "value": 35
+        }
+      }
+    },
+    {
+      "id": 19734,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-400",
+      "productCode": "PV16-400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Viridian_Solar_PV16-400.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Viridian_Solar_PV16-400.pdf",
+      "productWarranty": "20",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6615,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 30.85,
+        "stcShortCircuitCurrentIsc": 13.52,
+        "stcOpenCircuitVoltageVoc": 36.87,
+        "stcCurrentAtMaximumPowerImpp": 12.97,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1722,
+        "width": 1134,
+        "depth": 70,
+        "weight": 25,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.52
+        },
+        "stc_voc": {
+          "value": 36.87
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "PV16-400"
+        },
+        "stc_vmpp": {
+          "value": 30.85
+        }
+      }
+    },
+    {
+      "id": 122482,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-400-M10",
+      "productCode": "PV16-400-M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/16d55fb1-483e-4c34-a426-6f5f08361678.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/5c461b3e-e48d-4a1c-885b-a672509160cf.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68718,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 30.85,
+        "stcShortCircuitCurrentIsc": 13.52,
+        "stcOpenCircuitVoltageVoc": 36.87,
+        "stcCurrentAtMaximumPowerImpp": 12.97,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00417,
+        "height": 1722,
+        "width": 1134,
+        "depth": 70,
+        "weight": 25,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.52
+        },
+        "stc_voc": {
+          "value": 36.87
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "PV16-400-M10"
+        },
+        "stc_vmpp": {
+          "value": 30.85
+        }
+      }
+    },
+    {
+      "id": 122481,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-405-M10",
+      "productCode": "PV16-405-M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/dd9c58c2-012a-4839-a184-e030c8afb74f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/219a7102-b7b9-4c87-bf9e-2cf99d2a0252.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68717,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 31.02,
+        "stcShortCircuitCurrentIsc": 13.62,
+        "stcOpenCircuitVoltageVoc": 37.05,
+        "stcCurrentAtMaximumPowerImpp": 13.06,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00417,
+        "height": 1722,
+        "width": 1134,
+        "depth": 70,
+        "weight": 25,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.62
+        },
+        "stc_voc": {
+          "value": 37.05
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "PV16-405-M10"
+        },
+        "stc_vmpp": {
+          "value": 31.02
+        }
+      }
+    },
+    {
+      "id": 19719,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-410",
+      "productCode": "PV16-410",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Viridian_Solar_PV16-410.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Viridian_Solar_PV16-410.pdf",
+      "productWarranty": "20",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6600,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.18,
+        "stcShortCircuitCurrentIsc": 13.72,
+        "stcOpenCircuitVoltageVoc": 37.23,
+        "stcCurrentAtMaximumPowerImpp": 13.15,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1722,
+        "width": 1134,
+        "depth": 70,
+        "weight": 25,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.72
+        },
+        "stc_voc": {
+          "value": 37.23
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "PV16-410"
+        },
+        "stc_vmpp": {
+          "value": 31.18
+        }
+      }
+    },
+    {
+      "id": 36661,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-415",
+      "productCode": "PV16-415",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Viridian_Solar_PV16-415.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Viridian_Solar_PV16-415.pdf",
+      "productWarranty": "20",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14661,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.35,
+        "stcShortCircuitCurrentIsc": 13.82,
+        "stcOpenCircuitVoltageVoc": 37.42,
+        "stcCurrentAtMaximumPowerImpp": 13.24,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1722,
+        "width": 1134,
+        "depth": 70,
+        "weight": 25,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.82
+        },
+        "stc_voc": {
+          "value": 37.42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "PV16-415"
+        },
+        "stc_vmpp": {
+          "value": 31.35
+        }
+      }
+    },
+    {
+      "id": 122480,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1268,
+      "brandName": "Viridian Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Viridian+Solar.png",
+      "productName": "PV16-445AG-M10",
+      "productCode": "PV16-445AG-M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/56d1eace-503a-4ebf-9ed9-243cc2b871b0.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/60c96bc0-0578-4047-bfdd-3367e8eb7427.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68716,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 33.02,
+        "stcShortCircuitCurrentIsc": 14.18,
+        "stcOpenCircuitVoltageVoc": 39.9,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.005,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 1722,
+        "weight": 28.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.236,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.18
+        },
+        "stc_voc": {
+          "value": 39.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "PV16-445AG-M10"
+        },
+        "stc_vmpp": {
+          "value": 33.02
+        }
+      }
+    }
+  ]
+}

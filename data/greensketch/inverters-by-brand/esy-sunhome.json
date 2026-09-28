@@ -1,0 +1,755 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "ESY SUNHOME",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.108Z",
+  "items": [
+    {
+      "id": 128396,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM10",
+      "productCode": "ESYSUNHOME HM10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5f327e4a-e7fe-41a5-8905-54158bf336e0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/25b6691d-7e44-4124-9e92-f1bbea3ca509.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ESYSUNHOME HM10 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1/-2",
+        "AS62109",
+        "EN 61000-6-1/-2/-3/-4",
+        "AS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28470,
+        "companyProductId": null,
+        "maxAcPower": 9990,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 9990,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 305,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 9990
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124232,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM10-H",
+      "productCode": "ESYSUNHOME HM10-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/aabc0a4c-095e-4102-a4b9-a10ba1dc1ede.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/d0581d14-16e7-4a30-893b-107cb2eb5b8d.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "ESYSUNHOME HM10-H (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26841,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 705,
+        "width": 270,
+        "depth": 660,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00982,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128397,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM12",
+      "productCode": "ESYSUNHOME HM12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5f327e4a-e7fe-41a5-8905-54158bf336e0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/25b6691d-7e44-4124-9e92-f1bbea3ca509.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ESYSUNHOME HM12 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1/-2",
+        "AS62109",
+        "EN 61000-6-1/-2/-3/-4",
+        "AS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28471,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 305,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124233,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM15",
+      "productCode": "ESYSUNHOME HM15",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/14883330-dd36-4b1d-b745-f1789229f039.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/cda9baf8-81b6-4a3b-9abf-a3afa41233fa.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "ESYSUNHOME HM15 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26842,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "Hybrid Inverter",
+        "height": 705,
+        "width": 270,
+        "depth": 660,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00982,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124234,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM20",
+      "productCode": "ESYSUNHOME HM20",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a11f2593-1654-4301-8b0d-734cc3bc198d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/b60dcf89-ed4e-4301-a644-1d665f104502.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "ESYSUNHOME HM20 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26843,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "Hybrid Inverter",
+        "height": 705,
+        "width": 270,
+        "depth": 660,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00982,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 119675,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM5",
+      "productCode": "ESYSUNHOME HM5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3ae68afe-7be2-4c69-b430-7b726c356eee.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/43c11e94-910a-4b97-80cf-e368d792cc86.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "ESYSUNHOME HM5 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26294,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 530,
+        "width": 305,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128395,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM5-MAX",
+      "productCode": "ESYSUNHOME HM5-MAX",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5f327e4a-e7fe-41a5-8905-54158bf336e0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/25b6691d-7e44-4124-9e92-f1bbea3ca509.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ESYSUNHOME HM5-MAX (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1/-2",
+        "AS62109",
+        "EN 61000-6-1/-2/-3/-4",
+        "AS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28469,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 305,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20424,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "ESYSUNHOME HM6",
+      "productCode": "ESYSUNHOME HM6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2845bb30-f9de-4e4f-b17a-cc78cc0daa12.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/ESY_SUNHOME_ESYSUNHOME_HM6_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "ESYSUNHOME HM6 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9534,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 778,
+        "width": 600,
+        "depth": 305,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127387,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1356,
+      "brandName": "ESY SUNHOME",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/899887ba-4470-4553-8e0a-2f727ea1719c.png",
+      "productName": "HM10",
+      "productCode": "HM10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6152fd14-d5a7-4013-89fd-1341ae4c3ac7.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/22/4d72b38e-cf29-4506-af4a-e3d7a96cdb96.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS 4777.2",
+        "CEC",
+        "IEC 62109-1",
+        "IEC 62109-2",
+        "IEC 62619:2022",
+        "ISO 13849",
+        "IEC/EN 62040-1",
+        "VDE 2510-050:2017",
+        "IEC 61000-6-1",
+        "IEC 61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28084,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 908,
+        "width": 600,
+        "depth": 305,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "ENJOY",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:39:42.153Z",
+  "items": [
+    {
+      "id": 128034,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS100-AM",
+      "productCode": "EPCS100-AM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS100-AM (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28342,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 620,
+        "width": 440,
+        "depth": 225,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 163,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128035,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS100-AM-F",
+      "productCode": "EPCS100-AM-F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS100-AM-F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28343,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 670,
+        "width": 500,
+        "depth": 270,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 163,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128036,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS105-AM",
+      "productCode": "EPCS105-AM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS105-AM (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28344,
+        "companyProductId": null,
+        "maxAcPower": 115500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 105000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 620,
+        "width": 440,
+        "depth": 225,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 171,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 105000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128037,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS105-AM-F",
+      "productCode": "EPCS105-AM-F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS105-AM-F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28345,
+        "companyProductId": null,
+        "maxAcPower": 115500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 105000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 670,
+        "width": 500,
+        "depth": 270,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 171,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 105000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128038,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS125-AM",
+      "productCode": "EPCS125-AM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS125-AM (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28346,
+        "companyProductId": null,
+        "maxAcPower": 138000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 725,
+        "width": 520,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 203,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128039,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS125-AM-F",
+      "productCode": "EPCS125-AM-F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS125-AM-F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28347,
+        "companyProductId": null,
+        "maxAcPower": 138000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 785,
+        "width": 520,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 203,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128040,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3199,
+      "brandName": "ENJOY",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf305e4f-7cd9-49f1-b9c5-b7e436320782.png",
+      "productName": "EPCS125-AM2S-M",
+      "productCode": "EPCS125-AM2S-M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/12d5c1f0-ca9f-46fd-972d-86d49d0a4e83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/04/24f91128-0a66-466f-84bc-761451efd010.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EPCS125-AM2S-M (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4417.1",
+        "EN 62477-1",
+        "EN IEC61000-6-2",
+        "EN IEC61000-6-4",
+        "IEC 62920"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28348,
+        "companyProductId": null,
+        "maxAcPower": 138000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 950,
+        "minDcVoltageToStartFeedIn": 615,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 790,
+        "width": 700,
+        "depth": 265,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 203,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 950
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 615
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

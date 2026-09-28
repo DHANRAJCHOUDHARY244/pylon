@@ -1,0 +1,1967 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "AMBRION",
+  "count": 22,
+  "exportedAt": "2026-09-23T06:39:31.851Z",
+  "items": [
+    {
+      "id": 129868,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-10K-T2-2 4G",
+      "productCode": "HS2-10K-T2-2 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/35095bb2-7e37-4965-8ba1-24dd9b13b53b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/94351d85-b072-4e17-bcdf-2c2243f37712.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Refer to Warranty Policy",
+      "cecModelNumber": "HS2-10K-T2-2 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28609,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129869,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-10K-T2-3 4G",
+      "productCode": "HS2-10K-T2-3 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/35095bb2-7e37-4965-8ba1-24dd9b13b53b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/94351d85-b072-4e17-bcdf-2c2243f37712.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Refer to Warranty Policy",
+      "cecModelNumber": "HS2-10K-T2-3 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28610,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129870,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-10K-T2-4 4G",
+      "productCode": "HS2-10K-T2-4 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/35095bb2-7e37-4965-8ba1-24dd9b13b53b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/94351d85-b072-4e17-bcdf-2c2243f37712.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Refer to Warranty Policy",
+      "cecModelNumber": "HS2-10K-T2-4 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28611,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129871,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-10K-T2-5 4G",
+      "productCode": "HS2-10K-T2-5 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/35095bb2-7e37-4965-8ba1-24dd9b13b53b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/94351d85-b072-4e17-bcdf-2c2243f37712.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Refer to Warranty Policy",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28612,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22311,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-3K-S2-1 4G (AS4777-2 2020)",
+      "productCode": "HS2-3K-S2-1 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4c433d20-9912-4ea9-b00c-04f3bbdb8bab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-3K-S2-1_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-3K-S2-1 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11421,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24522,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-3K-S2-2 4G (AS4777-2 2020)",
+      "productCode": "HS2-3K-S2-2 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bf857fe5-a6e3-4881-8bf0-070b1a1cf8a4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-3K-S2-2_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-3K-S2-2 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13632,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24288,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-S2-1 4G (AS4777-2 2020)",
+      "productCode": "HS2-5K-S2-1 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/148b141c-a129-474f-9b82-093d088c5521.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-5K-S2-1_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-S2-1 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13398,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21973,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-S2-2 4G (AS4777-2 2020)",
+      "productCode": "HS2-5K-S2-2 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/71225c3b-14de-4e1b-8b6b-3590b65dd503.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-5K-S2-2_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-S2-2 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11083,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20672,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-S2-3 4G (AS4777-2 2020)",
+      "productCode": "HS2-5K-S2-3 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/40c26290-53d5-4087-9d8b-8e8c15dd6aa8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-5K-S2-3_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-S2-3 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9782,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22410,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-S2-4 4G (AS4777-2 2020)",
+      "productCode": "HS2-5K-S2-4 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8f44406a-5bf2-41b4-b60c-261cf397c538.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-5K-S2-4_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-S2-4 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11520,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129855,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-T2-2 4G",
+      "productCode": "HS2-5K-T2-2 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/74626e40-c91b-4fc0-b1f8-3814c29d3672.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/815c6bfd-bd41-4929-9bb4-e39431909b20.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-T2-2 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777. 2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28601,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129856,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-T2-3 4G",
+      "productCode": "HS2-5K-T2-3 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/74626e40-c91b-4fc0-b1f8-3814c29d3672.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/cb949f6e-0e37-44ec-b97e-6447dba58678.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-T2-3 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777. 2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28602,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129857,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-T2-4 4G",
+      "productCode": "HS2-5K-T2-4 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/74626e40-c91b-4fc0-b1f8-3814c29d3672.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/d2334743-53a1-4765-b9ec-7356be66f22c.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-5K-T2-4 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777. 2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28603,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129858,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-5K-T2-5 4G",
+      "productCode": "HS2-5K-T2-5 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/74626e40-c91b-4fc0-b1f8-3814c29d3672.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3880a9d5-8685-4af2-8f8e-56866426e095.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777. 2",
+        "NBR16149",
+        "NBR 16150 VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28604,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21126,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-6K-S2-1 4G (AS4777-2 2020)",
+      "productCode": "HS2-6K-S2-1 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/36f44396-6384-4ec7-a7c2-a13f3f139864.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-6K-S2-1_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-6K-S2-1 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10236,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22832,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-6K-S2-2 4G (AS4777-2 2020)",
+      "productCode": "HS2-6K-S2-2 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3addc6ef-6371-4b5f-9b31-662753e06755.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-6K-S2-2_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-6K-S2-2 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11942,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23907,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-6K-S2-3 4G (AS4777-2 2020)",
+      "productCode": "HS2-6K-S2-3 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3d15e0f5-b1b6-42a3-ba83-8e88c85514fa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-6K-S2-3_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-6K-S2-3 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13017,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21627,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-6K-S2-4 4G (AS4777-2 2020)",
+      "productCode": "HS2-6K-S2-4 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6135c856-8f7f-4bf1-b1d1-48c02dcbe4dc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AMBRION_HS2-6K-S2-4_4G_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-6K-S2-4 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10737,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 354,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129864,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-8K-T2-2 4G",
+      "productCode": "HS2-8K-T2-2 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/deb6a75d-3b71-406d-873e-6bcb281f434d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5c8a0232-6507-4bf1-afa9-a8c82fc537a5.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-8K-T2-2 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150",
+        "VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28605,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129865,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-8K-T2-3 4G",
+      "productCode": "HS2-8K-T2-3 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/deb6a75d-3b71-406d-873e-6bcb281f434d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5c8a0232-6507-4bf1-afa9-a8c82fc537a5.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-8K-T2-3 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150",
+        "VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28606,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129866,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-8K-T2-4 4G",
+      "productCode": "HS2-8K-T2-4 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/deb6a75d-3b71-406d-873e-6bcb281f434d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5c8a0232-6507-4bf1-afa9-a8c82fc537a5.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HS2-8K-T2-4 4G (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150",
+        "VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28607,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129867,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1382,
+      "brandName": "AMBRION",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AMBRION.png",
+      "productName": "HS2-8K-T2-5 4G",
+      "productCode": "HS2-8K-T2-5 4G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/deb6a75d-3b71-406d-873e-6bcb281f434d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5c8a0232-6507-4bf1-afa9-a8c82fc537a5.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN62109-1/2",
+        "EN61000-6-2/4",
+        "EN50438",
+        "EN50549",
+        "C10/11",
+        "IEC62116",
+        "IEC61727",
+        "RD1699",
+        "RD413",
+        "UNE 206006",
+        "UNE 206007",
+        "NTS",
+        "CEI 0-16",
+        "AS4777.2",
+        "NBR16149",
+        "NBR 16150",
+        "VDE-AR-N 4015",
+        "VDE 0126-1-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28608,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 972,
+        "width": 626,
+        "depth": 365,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.976,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

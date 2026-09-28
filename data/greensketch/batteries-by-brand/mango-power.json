@@ -1,0 +1,63 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "MANGO POWER",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:23.029Z",
+  "items": [
+    {
+      "id": 126940,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 3131,
+      "brandName": "MANGO POWER",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/992cac23-c7d7-4e4e-8da9-bdd18766ddf7.webp",
+      "productName": "M LFP Battery 280Ah",
+      "productCode": "M LFP Battery 280Ah",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6141bac7-ef00-489a-b0f2-8888995e2466.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/07/49cb39fa-002a-42c4-b7dc-6d0144ecb6b5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "M LFP Battery 280Ah",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62619",
+        "UN38.3",
+        "EN 61000-6-1",
+        "EN 61000-6-3"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 15495,
+        "companyProductId": null,
+        "nominalEnergy": 14.3,
+        "usableEnergy": 13.585,
+        "depthOfDischarge": 0.95,
+        "roundTripEfficiency": 0.97,
+        "cycleLife": null,
+        "length": 297,
+        "width": 525,
+        "height": 935,
+        "batteryType": "LFP",
+        "weight": 99,
+        "ratedDcVoltage": null,
+        "maxAcPower": null,
+        "ipRating": "IP66",
+        "batteryChemistry": "LiFePO4",
+        "maxOutputPower": 7100,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}

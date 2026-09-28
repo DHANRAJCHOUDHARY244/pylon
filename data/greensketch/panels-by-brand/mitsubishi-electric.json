@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Mitsubishi Electric",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.469Z",
+  "items": [
+    {
+      "id": 18181,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1239,
+      "brandName": "Mitsubishi Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mitsubishi+Electric.png",
+      "productName": "PV-TJ210GA6",
+      "productCode": "PV-TJ210GA6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mitsubishi_Electric_PV-TJ210GA6.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mitsubishi_Electric_PV-TJ210GA6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5062,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 210,
+        "stcVoltageAtMaximumPowerVmpp": 29.2,
+        "stcShortCircuitCurrentIsc": 8,
+        "stcOpenCircuitVoltageVoc": 35.8,
+        "stcCurrentAtMaximumPowerImpp": 7.19,
+        "temperatureCoefficientOfPmax": -0.00452,
+        "temperatureCoefficientOfVoc": -0.00343,
+        "temperatureCoefficientOfIsc": 0.00054,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1658,
+        "width": 994,
+        "depth": 46,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.127,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.452
+        },
+        "stc_isc": {
+          "value": 8
+        },
+        "stc_voc": {
+          "value": 35.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.343
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.054
+        },
+        "power": {
+          "value": 210
+        },
+        "cec_model": {
+          "value": "PV-TJ210GA6"
+        },
+        "stc_vmpp": {
+          "value": 29.2
+        }
+      }
+    },
+    {
+      "id": 35077,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1239,
+      "brandName": "Mitsubishi Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mitsubishi+Electric.png",
+      "productName": "PV-TJ220GA6",
+      "productCode": "PV-TJ220GA6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mitsubishi_Electric_PV-TJ220GA6.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mitsubishi_Electric_PV-TJ220GA6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13077,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 220,
+        "stcVoltageAtMaximumPowerVmpp": 29.7,
+        "stcShortCircuitCurrentIsc": 8.2,
+        "stcOpenCircuitVoltageVoc": 36.2,
+        "stcCurrentAtMaximumPowerImpp": 7.39,
+        "temperatureCoefficientOfPmax": -0.00452,
+        "temperatureCoefficientOfVoc": -0.00343,
+        "temperatureCoefficientOfIsc": 0.00054,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1658,
+        "width": 994,
+        "depth": 46,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.133,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.452
+        },
+        "stc_isc": {
+          "value": 8.2
+        },
+        "stc_voc": {
+          "value": 36.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.343
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.054
+        },
+        "power": {
+          "value": 220
+        },
+        "cec_model": {
+          "value": "PV-TJ220GA6"
+        },
+        "stc_vmpp": {
+          "value": 29.7
+        }
+      }
+    },
+    {
+      "id": 39557,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1239,
+      "brandName": "Mitsubishi Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mitsubishi+Electric.png",
+      "productName": "PV-TJ225GA6",
+      "productCode": "PV-TJ225GA6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mitsubishi_Electric_PV-TJ225GA6.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mitsubishi_Electric_PV-TJ225GA6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17557,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 225,
+        "stcVoltageAtMaximumPowerVmpp": 30,
+        "stcShortCircuitCurrentIsc": 8.3,
+        "stcOpenCircuitVoltageVoc": 36.4,
+        "stcCurrentAtMaximumPowerImpp": 7.5,
+        "temperatureCoefficientOfPmax": -0.00452,
+        "temperatureCoefficientOfVoc": -0.00343,
+        "temperatureCoefficientOfIsc": 0.00054,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1658,
+        "width": 994,
+        "depth": 46,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.137,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.452
+        },
+        "stc_isc": {
+          "value": 8.3
+        },
+        "stc_voc": {
+          "value": 36.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.343
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.054
+        },
+        "power": {
+          "value": 225
+        },
+        "cec_model": {
+          "value": "PV-TJ225GA6"
+        },
+        "stc_vmpp": {
+          "value": 30
+        }
+      }
+    },
+    {
+      "id": 18526,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1239,
+      "brandName": "Mitsubishi Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mitsubishi+Electric.png",
+      "productName": "PV-TJ230GA6",
+      "productCode": "PV-TJ230GA6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mitsubishi_Electric_PV-TJ230GA6.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mitsubishi_Electric_PV-TJ230GA6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5407,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 230,
+        "stcVoltageAtMaximumPowerVmpp": 30.2,
+        "stcShortCircuitCurrentIsc": 8.39,
+        "stcOpenCircuitVoltageVoc": 36.6,
+        "stcCurrentAtMaximumPowerImpp": 7.62,
+        "temperatureCoefficientOfPmax": -0.00452,
+        "temperatureCoefficientOfVoc": -0.00343,
+        "temperatureCoefficientOfIsc": 0.00054,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1658,
+        "width": 994,
+        "depth": 46,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.14,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.452
+        },
+        "stc_isc": {
+          "value": 8.39
+        },
+        "stc_voc": {
+          "value": 36.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.343
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.054
+        },
+        "power": {
+          "value": 230
+        },
+        "cec_model": {
+          "value": "PV-TJ230GA6"
+        },
+        "stc_vmpp": {
+          "value": 30.2
+        }
+      }
+    },
+    {
+      "id": 19348,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1239,
+      "brandName": "Mitsubishi Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Mitsubishi+Electric.png",
+      "productName": "PV-TJ235GA6",
+      "productCode": "PV-TJ235GA6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Mitsubishi_Electric_PV-TJ235GA6.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Mitsubishi_Electric_PV-TJ235GA6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6229,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 235,
+        "stcVoltageAtMaximumPowerVmpp": 30.5,
+        "stcShortCircuitCurrentIsc": 8.49,
+        "stcOpenCircuitVoltageVoc": 36.8,
+        "stcCurrentAtMaximumPowerImpp": 7.71,
+        "temperatureCoefficientOfPmax": -0.00452,
+        "temperatureCoefficientOfVoc": -0.00343,
+        "temperatureCoefficientOfIsc": 0.00054,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1658,
+        "width": 994,
+        "depth": 46,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.143,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.452
+        },
+        "stc_isc": {
+          "value": 8.49
+        },
+        "stc_voc": {
+          "value": 36.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.343
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.054
+        },
+        "power": {
+          "value": 235
+        },
+        "cec_model": {
+          "value": "PV-TJ235GA6"
+        },
+        "stc_vmpp": {
+          "value": 30.5
+        }
+      }
+    }
+  ]
+}

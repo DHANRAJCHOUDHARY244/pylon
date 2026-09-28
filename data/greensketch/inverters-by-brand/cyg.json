@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "CYG",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.640Z",
+  "items": [
+    {
+      "id": 21502,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1428,
+      "brandName": "CYG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/CYG.png",
+      "productName": "Powermate-P3",
+      "productCode": "Powermate-P3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6ed72f59-e2f1-4737-9323-646b93b7937a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/CYG_Powermate-P3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10612,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 590,
+        "width": 540,
+        "depth": 240,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22520,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1428,
+      "brandName": "CYG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/CYG.png",
+      "productName": "Powermate-P5",
+      "productCode": "Powermate-P5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0234906e-5e99-487b-b1c2-ea457b98f492.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/CYG_Powermate-P5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11630,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 590,
+        "width": 540,
+        "depth": 240,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

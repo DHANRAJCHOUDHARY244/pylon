@@ -1,0 +1,632 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Austa",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:32:14.073Z",
+  "items": [
+    {
+      "id": 32222,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU550-36V-MHB",
+      "productCode": "AU550-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU550-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU550-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10222,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 550,
+        "stcVoltageAtMaximumPowerVmpp": 41.7,
+        "stcShortCircuitCurrentIsc": 13.93,
+        "stcOpenCircuitVoltageVoc": 50.41,
+        "stcCurrentAtMaximumPowerImpp": 13.19,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2129,
+        "noctMaximumPowerPmax": 414,
+        "noctVoltageAtMaximumPowerVmpp": 39.1,
+        "noctCurrentAtMaximumPowerImpp": 10.58,
+        "noctOpenCircuitVoltageVoc": 47.88,
+        "noctShortCircuitCurrentIsc": 11.25,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.93
+        },
+        "stc_voc": {
+          "value": 50.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 550
+        },
+        "cec_model": {
+          "value": "AU550-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 41.7
+        }
+      }
+    },
+    {
+      "id": 18513,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU555-36V-MHB",
+      "productCode": "AU555-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU555-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU555-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5394,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 555,
+        "stcVoltageAtMaximumPowerVmpp": 41.84,
+        "stcShortCircuitCurrentIsc": 14,
+        "stcOpenCircuitVoltageVoc": 50.54,
+        "stcCurrentAtMaximumPowerImpp": 13.26,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 417,
+        "noctVoltageAtMaximumPowerVmpp": 39.23,
+        "noctCurrentAtMaximumPowerImpp": 10.63,
+        "noctOpenCircuitVoltageVoc": 48.01,
+        "noctShortCircuitCurrentIsc": 11.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14
+        },
+        "stc_voc": {
+          "value": 50.54
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 555
+        },
+        "cec_model": {
+          "value": "AU555-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 41.84
+        }
+      }
+    },
+    {
+      "id": 19583,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU560-36V-MHB",
+      "productCode": "AU560-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU560-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU560-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6464,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 560,
+        "stcVoltageAtMaximumPowerVmpp": 41.87,
+        "stcShortCircuitCurrentIsc": 14.08,
+        "stcOpenCircuitVoltageVoc": 50.67,
+        "stcCurrentAtMaximumPowerImpp": 13.34,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.217,
+        "noctMaximumPowerPmax": 421,
+        "noctVoltageAtMaximumPowerVmpp": 39.35,
+        "noctCurrentAtMaximumPowerImpp": 10.7,
+        "noctOpenCircuitVoltageVoc": 48.13,
+        "noctShortCircuitCurrentIsc": 11.37,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.08
+        },
+        "stc_voc": {
+          "value": 50.67
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 560
+        },
+        "cec_model": {
+          "value": "AU560-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 41.87
+        }
+      }
+    },
+    {
+      "id": 36532,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU565-36V-MHB",
+      "productCode": "AU565-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU565-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU565-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14532,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 565,
+        "stcVoltageAtMaximumPowerVmpp": 42.12,
+        "stcShortCircuitCurrentIsc": 14.16,
+        "stcOpenCircuitVoltageVoc": 50.8,
+        "stcCurrentAtMaximumPowerImpp": 13.41,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2187,
+        "noctMaximumPowerPmax": 425,
+        "noctVoltageAtMaximumPowerVmpp": 39.49,
+        "noctCurrentAtMaximumPowerImpp": 10.75,
+        "noctOpenCircuitVoltageVoc": 48.25,
+        "noctShortCircuitCurrentIsc": 11.43,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.16
+        },
+        "stc_voc": {
+          "value": 50.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 565
+        },
+        "cec_model": {
+          "value": "AU565-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 42.12
+        }
+      }
+    },
+    {
+      "id": 39080,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU570-36V-MHB",
+      "productCode": "AU570-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU570-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU570-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17080,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 570,
+        "stcVoltageAtMaximumPowerVmpp": 42.27,
+        "stcShortCircuitCurrentIsc": 14.24,
+        "stcOpenCircuitVoltageVoc": 50.94,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2207,
+        "noctMaximumPowerPmax": 429,
+        "noctVoltageAtMaximumPowerVmpp": 39.63,
+        "noctCurrentAtMaximumPowerImpp": 10.81,
+        "noctOpenCircuitVoltageVoc": 48.39,
+        "noctShortCircuitCurrentIsc": 11.5,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.24
+        },
+        "stc_voc": {
+          "value": 50.94
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 570
+        },
+        "cec_model": {
+          "value": "AU570-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 42.27
+        }
+      }
+    },
+    {
+      "id": 20102,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU575-36V-MHB",
+      "productCode": "AU575-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU575-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU575-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6983,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 575,
+        "stcVoltageAtMaximumPowerVmpp": 42.42,
+        "stcShortCircuitCurrentIsc": 14.32,
+        "stcOpenCircuitVoltageVoc": 51.07,
+        "stcCurrentAtMaximumPowerImpp": 13.55,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 433,
+        "noctVoltageAtMaximumPowerVmpp": 39.77,
+        "noctCurrentAtMaximumPowerImpp": 10.88,
+        "noctOpenCircuitVoltageVoc": 48.52,
+        "noctShortCircuitCurrentIsc": 11.57,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.32
+        },
+        "stc_voc": {
+          "value": 51.07
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 575
+        },
+        "cec_model": {
+          "value": "AU575-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 42.42
+        }
+      }
+    },
+    {
+      "id": 37878,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1284,
+      "brandName": "Austa",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Austa.png",
+      "productName": "AU580-36V-MHB",
+      "productCode": "AU580-36V-MHB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Austa_AU580-36V-MHB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Austa_AU580-36V-MHB.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15878,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 580,
+        "stcVoltageAtMaximumPowerVmpp": 42.57,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 51.21,
+        "stcCurrentAtMaximumPowerImpp": 13.62,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2245,
+        "noctMaximumPowerPmax": 437,
+        "noctVoltageAtMaximumPowerVmpp": 39.91,
+        "noctCurrentAtMaximumPowerImpp": 10.95,
+        "noctOpenCircuitVoltageVoc": 48.65,
+        "noctShortCircuitCurrentIsc": 11.63,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 51.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 580
+        },
+        "cec_model": {
+          "value": "AU580-36V-MHB"
+        },
+        "stc_vmpp": {
+          "value": 42.57
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "HB",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:32:14.071Z",
+  "items": [
+    {
+      "id": 122628,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB290-60M",
+      "productCode": "HB290-60M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/93761932-db96-47b1-b3fe-7b08f91a4e26.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/11a13393-3da0-4222-9eb7-47944490a24e.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68864,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 290,
+        "stcVoltageAtMaximumPowerVmpp": 32.21,
+        "stcShortCircuitCurrentIsc": 9.5,
+        "stcOpenCircuitVoltageVoc": 39.51,
+        "stcCurrentAtMaximumPowerImpp": 9.01,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 1650,
+        "width": 991,
+        "depth": 35,
+        "weight": 18.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1828,
+        "noctMaximumPowerPmax": 216,
+        "noctVoltageAtMaximumPowerVmpp": 29.8,
+        "noctCurrentAtMaximumPowerImpp": 7.65,
+        "noctOpenCircuitVoltageVoc": 36.3,
+        "noctShortCircuitCurrentIsc": 7.65,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.5
+        },
+        "stc_voc": {
+          "value": 39.51
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 290
+        },
+        "cec_model": {
+          "value": "HB290-60M"
+        },
+        "stc_vmpp": {
+          "value": 32.21
+        }
+      }
+    },
+    {
+      "id": 122627,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB295-60M",
+      "productCode": "HB295-60M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/23b55d7e-f9f3-4805-8d18-e7c6eee3da50.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/1461ed04-ccb6-4629-b82f-3b67d98e86ae.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68863,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 295,
+        "stcVoltageAtMaximumPowerVmpp": 32.51,
+        "stcShortCircuitCurrentIsc": 9.55,
+        "stcOpenCircuitVoltageVoc": 39.7,
+        "stcCurrentAtMaximumPowerImpp": 9.07,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 1650,
+        "width": 991,
+        "depth": 35,
+        "weight": 18.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1853,
+        "noctMaximumPowerPmax": 219,
+        "noctVoltageAtMaximumPowerVmpp": 30.1,
+        "noctCurrentAtMaximumPowerImpp": 7.71,
+        "noctOpenCircuitVoltageVoc": 36.6,
+        "noctShortCircuitCurrentIsc": 7.71,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.55
+        },
+        "stc_voc": {
+          "value": 39.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 295
+        },
+        "cec_model": {
+          "value": "HB295-60M"
+        },
+        "stc_vmpp": {
+          "value": 32.51
+        }
+      }
+    },
+    {
+      "id": 122626,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB300-60M",
+      "productCode": "HB300-60M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/d7352881-4330-4e03-a0c2-cc4a2b9446ce.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/d4b08231-a067-4cbb-af69-ed7e20abaf62.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68862,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 300,
+        "stcVoltageAtMaximumPowerVmpp": 32.61,
+        "stcShortCircuitCurrentIsc": 9.64,
+        "stcOpenCircuitVoltageVoc": 39.91,
+        "stcCurrentAtMaximumPowerImpp": 9.19,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 1650,
+        "width": 991,
+        "depth": 35,
+        "weight": 18.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1879,
+        "noctMaximumPowerPmax": 223,
+        "noctVoltageAtMaximumPowerVmpp": 30.4,
+        "noctCurrentAtMaximumPowerImpp": 7.76,
+        "noctOpenCircuitVoltageVoc": 36.8,
+        "noctShortCircuitCurrentIsc": 7.76,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.64
+        },
+        "stc_voc": {
+          "value": 39.91
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 300
+        },
+        "cec_model": {
+          "value": "HB300-60M"
+        },
+        "stc_vmpp": {
+          "value": 32.61
+        }
+      }
+    },
+    {
+      "id": 19474,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB390-72MH",
+      "productCode": "HB390-72MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/HB_HB390-72MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/HB_HB390-72MH.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6355,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 40.1,
+        "stcShortCircuitCurrentIsc": 10.37,
+        "stcOpenCircuitVoltageVoc": 47.71,
+        "stcCurrentAtMaximumPowerImpp": 9.81,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 2019,
+        "width": 1000,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.188,
+        "noctMaximumPowerPmax": 283,
+        "noctVoltageAtMaximumPowerVmpp": 36.15,
+        "noctCurrentAtMaximumPowerImpp": 7.83,
+        "noctOpenCircuitVoltageVoc": 44.04,
+        "noctShortCircuitCurrentIsc": 8.35,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.37
+        },
+        "stc_voc": {
+          "value": 47.71
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "HB390-72MH"
+        },
+        "stc_vmpp": {
+          "value": 40.1
+        }
+      }
+    },
+    {
+      "id": 19580,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB395-72MH",
+      "productCode": "HB395-72MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/HB_HB395-72MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/HB_HB395-72MH.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6461,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 40.23,
+        "stcShortCircuitCurrentIsc": 10.45,
+        "stcOpenCircuitVoltageVoc": 47.81,
+        "stcCurrentAtMaximumPowerImpp": 9.89,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 2019,
+        "width": 1000,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.193,
+        "noctMaximumPowerPmax": 286.7,
+        "noctVoltageAtMaximumPowerVmpp": 36.42,
+        "noctCurrentAtMaximumPowerImpp": 7.91,
+        "noctOpenCircuitVoltageVoc": 44.13,
+        "noctShortCircuitCurrentIsc": 8.43,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.45
+        },
+        "stc_voc": {
+          "value": 47.81
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "HB395-72MH"
+        },
+        "stc_vmpp": {
+          "value": 40.23
+        }
+      }
+    },
+    {
+      "id": 39097,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB400-72MH",
+      "productCode": "HB400-72MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/HB_HB400-72MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/HB_HB400-72MH.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17097,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 40.33,
+        "stcShortCircuitCurrentIsc": 10.52,
+        "stcOpenCircuitVoltageVoc": 47.91,
+        "stcCurrentAtMaximumPowerImpp": 9.96,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 2019,
+        "width": 1000,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1956,
+        "noctMaximumPowerPmax": 290.3,
+        "noctVoltageAtMaximumPowerVmpp": 36.35,
+        "noctCurrentAtMaximumPowerImpp": 7.99,
+        "noctOpenCircuitVoltageVoc": 44.22,
+        "noctShortCircuitCurrentIsc": 8.51,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.52
+        },
+        "stc_voc": {
+          "value": 47.91
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "HB400-72MH"
+        },
+        "stc_vmpp": {
+          "value": 40.33
+        }
+      }
+    },
+    {
+      "id": 18157,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB405-72MH",
+      "productCode": "HB405-72MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/HB_HB405-72MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/HB_HB405-72MH.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5038,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 40.43,
+        "stcShortCircuitCurrentIsc": 10.6,
+        "stcOpenCircuitVoltageVoc": 48.41,
+        "stcCurrentAtMaximumPowerImpp": 10.04,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 2019,
+        "width": 1000,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.198,
+        "noctMaximumPowerPmax": 294,
+        "noctVoltageAtMaximumPowerVmpp": 36.49,
+        "noctCurrentAtMaximumPowerImpp": 8.06,
+        "noctOpenCircuitVoltageVoc": 44.32,
+        "noctShortCircuitCurrentIsc": 8.59,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.6
+        },
+        "stc_voc": {
+          "value": 48.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "HB405-72MH"
+        },
+        "stc_vmpp": {
+          "value": 40.43
+        }
+      }
+    },
+    {
+      "id": 36549,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1230,
+      "brandName": "HB",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(4).png",
+      "productName": "HB410-72MH",
+      "productCode": "HB410-72MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/HB_HB410-72MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/HB_HB410-72MH.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14549,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 40.63,
+        "stcShortCircuitCurrentIsc": 10.62,
+        "stcOpenCircuitVoltageVoc": 48.61,
+        "stcCurrentAtMaximumPowerImpp": 10.11,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 2019,
+        "width": 1000,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2006,
+        "noctMaximumPowerPmax": 297.7,
+        "noctVoltageAtMaximumPowerVmpp": 36.68,
+        "noctCurrentAtMaximumPowerImpp": 8.14,
+        "noctOpenCircuitVoltageVoc": 44.41,
+        "noctShortCircuitCurrentIsc": 8.67,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.62
+        },
+        "stc_voc": {
+          "value": 48.61
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "HB410-72MH"
+        },
+        "stc_vmpp": {
+          "value": 40.63
+        }
+      }
+    }
+  ]
+}

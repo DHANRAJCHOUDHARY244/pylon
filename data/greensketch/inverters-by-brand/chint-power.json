@@ -1,0 +1,799 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Chint Power",
+  "count": 10,
+  "exportedAt": "2026-09-23T06:39:42.085Z",
+  "items": [
+    {
+      "id": 24306,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA10KTL-PSM/EU",
+      "productCode": "CPS SCA10KTL-PSM/EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a643dac5-f2e9-4510-a8da-5a1088887dbf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chint_Power_CPS_SCA10KTL-PSM_EU_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13416,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 400,
+        "width": 450,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24131,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA10KTL-T1/EU",
+      "productCode": "CPS SCA10KTL-T1/EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/188f127f-7968-4e97-b725-d883c29e0146.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/791ab2d9-c716-4655-8f1f-c6bcfb6aecfc.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13241,
+        "companyProductId": null,
+        "maxAcPower": 11200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 398,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22320,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA15KTL-T1/EU (AS4777-2 2020)",
+      "productCode": "CPS SCA15KTL-T1/EU (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/35f4b30c-d6fc-4639-860a-efdb059e46ef.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/53265aa6-9c59-4102-88fb-0d847f0b62d9.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11430,
+        "companyProductId": null,
+        "maxAcPower": 16700,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 398,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20926,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA20KTL-T1/EU",
+      "productCode": "CPS SCA20KTL-T1/EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3253ba76-af8e-4b20-96aa-c8899379f823.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/0efb1eb1-2e48-4e09-9401-c97693149ae2.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10036,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 398,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23785,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA25KTL-T1/EU (AS4777-2 2020)",
+      "productCode": "CPS SCA25KTL-T1/EU (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6da3af3a-18f7-4687-aee0-ccab5f19175d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5c51a04c-4b53-4b06-842d-c1c2d46784ef.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12895,
+        "companyProductId": null,
+        "maxAcPower": 27500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 398,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 37500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24269,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA5KTL-PSM1/EU",
+      "productCode": "CPS SCA5KTL-PSM1/EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1ec4ceee-f9c5-4f38-9786-6a951b03ef9b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chint_Power_CPS_SCA5KTL-PSM1_EU_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13379,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 347,
+        "depth": 137,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23298,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA6KTL-PSM1/EU (AS4777-2 2020)",
+      "productCode": "CPS SCA6KTL-PSM1/EU (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d03d77c1-fe39-4c49-9c95-da63a9364301.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chint_Power_CPS_SCA6KTL-PSM1_EU_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12408,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 350,
+        "width": 347,
+        "depth": 137,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21178,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA6KTL-T1/EU",
+      "productCode": "CPS SCA6KTL-T1/EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e1184ac4-e690-4629-9097-9ec4e24790e6.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/38db40be-0dfa-47dc-b419-e2c94cfdfc82.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10288,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 398,
+        "depth": 190,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21667,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "CPS SCA8KTL-PSM/EU",
+      "productCode": "CPS SCA8KTL-PSM/EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6b158031-d3b7-48e4-9a64-1dd62b860382.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chint_Power_CPS_SCA8KTL-PSM_EU_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10777,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 400,
+        "width": 450,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 58368,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1408,
+      "brandName": "Chint Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chint.png",
+      "productName": "SCA50/60kW",
+      "productCode": "SCA50/60kW(CPS SCA50KTL-DO)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e9c76f44-23b5-4a76-a75e-f7f0a6dde46e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/29/a84b9a07-edb7-4b91-a170-b3d0d5877424.pdf",
+      "productWarranty": "5.0",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 17866,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 330,
+        "mpptVoltageMin": 540,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 103,
+        "type": "PV-only Inverter",
+        "height": 800,
+        "width": 600,
+        "depth": 230,
+        "weight": 60,
+        "display": "",
+        "maxDcPower": 67500,
+        "dcInputs": null,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 330
+        },
+        "current_isc_max": {
+          "value": 103
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 540
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

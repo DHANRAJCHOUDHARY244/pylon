@@ -1,0 +1,483 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Soluna",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:39:42.190Z",
+  "items": [
+    {
+      "id": 21988,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 302,
+      "brandName": "Soluna",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Soluna.png",
+      "productName": "S12 EU-A50",
+      "productCode": "S12 EU-A50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8ddb6faa-f18e-4872-be15-aa7cd446459b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Soluna_S12_EU-A50.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11098,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 1335,
+        "width": 750,
+        "depth": 565,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22277,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 302,
+      "brandName": "Soluna",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Soluna.png",
+      "productName": "S4 EU-A36",
+      "productCode": "S4 EU-A36",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ef928d80-6e64-41a6-b0ac-9a1610ff5e91.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Soluna_S4_EU-A36.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11387,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 1230,
+        "width": 700,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23647,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 302,
+      "brandName": "Soluna",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Soluna.png",
+      "productName": "S8 EU-A50",
+      "productCode": "S8 EU-A50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cb657fe9-8a02-469f-b056-d04d28b4ae15.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Soluna_S8_EU-A50.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12757,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 1335,
+        "width": 750,
+        "depth": 565,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22227,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 302,
+      "brandName": "Soluna",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Soluna.png",
+      "productName": "Soluna S12 EU-A50",
+      "productCode": "Soluna S12 EU-A50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8a02d78f-77e3-4c68-98fd-8f9279936f6c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Soluna_Soluna_S12_EU-A50.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11337,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 1335,
+        "width": 750,
+        "depth": 565,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22858,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 302,
+      "brandName": "Soluna",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Soluna.png",
+      "productName": "Soluna S4 EU-A36",
+      "productCode": "Soluna S4 EU-A36",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed0d3588-237b-41e1-a30f-d7d4617888b1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Soluna_Soluna_S4_EU-A36.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11968,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 1230,
+        "width": 700,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21986,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 302,
+      "brandName": "Soluna",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Soluna.png",
+      "productName": "Soluna S8 EU-A50",
+      "productCode": "Soluna S8 EU-A50",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/29aa462a-7df1-4219-8439-2f128dcfbacd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Soluna_Soluna_S8_EU-A50.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11096,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 1335,
+        "width": 750,
+        "depth": 565,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

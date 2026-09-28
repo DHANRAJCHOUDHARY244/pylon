@@ -1,0 +1,1510 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Hiconics",
+  "count": 19,
+  "exportedAt": "2026-09-23T06:39:31.857Z",
+  "items": [
+    {
+      "id": 23176,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "HEC-S 5000D",
+      "productCode": "HEC-S 5000D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bf57cda6-da95-4091-bff1-fc17120b0d4b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hiconics_HEC-S_5000D.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12286,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 590,
+        "width": 540,
+        "depth": 240,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23304,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "HEC-S 5K",
+      "productCode": "HEC-S 5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/68f04c11-af0f-48ad-9f61-5f1946380f6e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hiconics_HEC-S_5K.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12414,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 130,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Battery-only",
+        "height": 590,
+        "width": 540,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 130
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20837,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "HEC2-S3.8Hr2",
+      "productCode": "HEC2-S3.8Hr2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6554ec5f-918f-4d21-899a-ed7f0347bc5b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Hiconics_HEC2-S3.8Hr2_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HEC2-S3.8Hr2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9947,
+        "companyProductId": null,
+        "maxAcPower": 3800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 435,
+        "width": 800,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.95,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22726,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "HEC2-S5.0Hr2 (AS4777-2 2020)",
+      "productCode": "HEC2-S5.0Hr2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/41e49005-366b-41f9-8895-6bef26f9543d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/1cb91052-3bae-454d-a259-813c694d8a67.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HEC2-S5.0Hr2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11836,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 185,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 800,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.952,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 185
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24320,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "HEC2-S6.0Hr2",
+      "productCode": "HEC2-S6.0Hr2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/608b6a9f-f375-4205-9a3b-4114a785ad3f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/6b243ab9-b99f-4c83-85dc-530b9b1ada08.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "HEC2-S6.0Hr2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13430,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 225,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 800,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": 0.952,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 225
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129845,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV10.0-THE-AU",
+      "productCode": "MH-HYIV10.0-THE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4ccf483-7bc0-4dde-9326-2d364db267f8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/39e4eedb-1ef7-40aa-acbe-66d890b0f808.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV10.0-THE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28593,
+        "companyProductId": null,
+        "maxAcPower": 9900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 9900,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 495,
+        "width": 710,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 9900
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129846,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV12.0-THE-AU",
+      "productCode": "MH-HYIV12.0-THE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4ccf483-7bc0-4dde-9326-2d364db267f8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/39e4eedb-1ef7-40aa-acbe-66d890b0f808.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV12.0-THE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28594,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 495,
+        "width": 710,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.969,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 25,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129847,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV15.0-THE-AU",
+      "productCode": "MH-HYIV15.0-THE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4ccf483-7bc0-4dde-9326-2d364db267f8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/39e4eedb-1ef7-40aa-acbe-66d890b0f808.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV15.0-THE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28595,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 495,
+        "width": 710,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 25,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129834,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV3.0-SHE-AU",
+      "productCode": "MH-HYIV3.0-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV3.0-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28582,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.957,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129835,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV3.68-SHE-AU",
+      "productCode": "MH-HYIV3.68-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV3.68-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28583,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.962,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129836,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV3.8-SHE-AU",
+      "productCode": "MH-HYIV3.8-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV3.8-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28584,
+        "companyProductId": null,
+        "maxAcPower": 3800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3800,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.962,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3800
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129837,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV4.0-SHE-AU",
+      "productCode": "MH-HYIV4.0-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV4.0-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28585,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.966,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129838,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV4.6-SHE-AU",
+      "productCode": "MH-HYIV4.6-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV4.6-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28586,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.969,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129839,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV5.0-SHE-AU",
+      "productCode": "MH-HYIV5.0-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV5.0-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28587,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.969,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129842,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV5.0-THE-AU",
+      "productCode": "MH-HYIV5.0-THE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4ccf483-7bc0-4dde-9326-2d364db267f8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/39e4eedb-1ef7-40aa-acbe-66d890b0f808.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV5.0-THE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28590,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 495,
+        "width": 710,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.955,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 129840,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV6.0-SHE-AU",
+      "productCode": "MH-HYIV6.0-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV6.0-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28588,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.969,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV6.0-THE-AU",
+      "productCode": "MH-HYIV6.0-THE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4ccf483-7bc0-4dde-9326-2d364db267f8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/39e4eedb-1ef7-40aa-acbe-66d890b0f808.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV6.0-THE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28591,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 495,
+        "width": 710,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.959,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 25,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 129841,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV8.0-SHE-AU",
+      "productCode": "MH-HYIV8.0-SHE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1666fb3a-25e3-43de-82c2-5d5070feda98.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/cae78a3d-f30a-4511-b8ac-709999c08192.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV8.0-SHE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28589,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 395,
+        "width": 710,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.969,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 129844,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1399,
+      "brandName": "Hiconics",
+      "brandLogo": "https://file.greensketch.net/brands/logo/HICONICS1.png",
+      "productName": "MH-HYIV8.0-THE-AU",
+      "productCode": "MH-HYIV8.0-THE-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d4ccf483-7bc0-4dde-9326-2d364db267f8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/39e4eedb-1ef7-40aa-acbe-66d890b0f808.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "MH-HYIV8.0-THE-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28592,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 495,
+        "width": 710,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.965,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 25,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

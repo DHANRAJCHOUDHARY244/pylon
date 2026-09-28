@@ -1,0 +1,404 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "MPP Solar",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.197Z",
+  "items": [
+    {
+      "id": 22444,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1350,
+      "brandName": "MPP Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MPP+Solar.jpg",
+      "productName": "PIP-MS/MG PF1 Series 1012MS",
+      "productCode": "PIP-MS/MG PF1 Series 1012MS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a1f3762c-d38a-4e87-9b2c-98d3f3d99140.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MPP_Solar_PIP-MS_MG_PF1_Series_1012MS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11554,
+        "companyProductId": null,
+        "maxAcPower": 1000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 102,
+        "minDcVoltageToStartFeedIn": 15,
+        "mpptVoltageMin": 15,
+        "mpptVoltageMax": 80,
+        "nominalAcPower": 1000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 355,
+        "width": 272,
+        "depth": 100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 102
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 15
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 1000
+        },
+        "mppt_voltage_min": {
+          "value": 15
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20379,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1350,
+      "brandName": "MPP Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MPP+Solar.jpg",
+      "productName": "PIP-MS/MG PF1 Series 2024MS",
+      "productCode": "PIP-MS/MG PF1 Series 2024MS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b1bc5376-69e5-4a21-9168-0f48607b8a49.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MPP_Solar_PIP-MS_MG_PF1_Series_2024MS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9489,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 75,
+        "minDcVoltageToStartFeedIn": 30,
+        "mpptVoltageMin": 30,
+        "mpptVoltageMax": 66,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "Hybrid Inverter",
+        "height": 355,
+        "width": 272,
+        "depth": 100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 75
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 30
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 30
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24012,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1350,
+      "brandName": "MPP Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MPP+Solar.jpg",
+      "productName": "PIP-MS/MG PF1 Series 3024MS",
+      "productCode": "PIP-MS/MG PF1 Series 3024MS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fac359d4-8b1e-49ea-97f2-8cc55587bbf9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MPP_Solar_PIP-MS_MG_PF1_Series_3024MS.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13122,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 75,
+        "minDcVoltageToStartFeedIn": 30,
+        "mpptVoltageMin": 30,
+        "mpptVoltageMax": 66,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 355,
+        "width": 272,
+        "depth": 100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 75
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 30
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 30
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22450,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1350,
+      "brandName": "MPP Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MPP+Solar.jpg",
+      "productName": "PIP-MS/MG PF1 Series 5048MG",
+      "productCode": "PIP-MS/MG PF1 Series 5048MG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9cf5eb87-9772-4069-9852-1be228e17b4e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MPP_Solar_PIP-MS_MG_PF1_Series_5048MG.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11560,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 430,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 80,
+        "type": "Hybrid Inverter",
+        "height": 468,
+        "width": 295,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 80
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24648,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1350,
+      "brandName": "MPP Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MPP+Solar.jpg",
+      "productName": "PIP-MS/MG PF1 Series 5048MS(64V)",
+      "productCode": "PIP-MS/MG PF1 Series 5048MS(64V)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/dc99de2c-45da-40dd-bb37-83e007b1f482.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MPP_Solar_PIP-MS_MG_PF1_Series_5048MS(64V).pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13758,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 145,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 115,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 80,
+        "type": "Hybrid Inverter",
+        "height": 468,
+        "width": 295,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 145
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 80
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

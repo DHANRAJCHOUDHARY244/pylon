@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "GNETEK",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.641Z",
+  "items": [
+    {
+      "id": 65157,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1647,
+      "brandName": "GNETEK",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/46a1ec62-f3f1-46a4-95c9-009729c6e285.png",
+      "productName": "Queenbee-1P10K",
+      "productCode": "Queenbee-1P10K",
+      "displayName": null,
+      "productDescription": "Supports up to 16 parallel devices (parallel off grid mode); Maximum charging/discharging current 200A; 6 programmable charging and discharging time periods; Support parallel connection of multiple batteries; 2 MPPT; IP65",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2e30b767-c381-40cb-b9a5-8b66e80ce7a1.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/20eedb83-f384-4b85-a8f6-997370827ec9.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25166,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 565,
+        "width": 470,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 65156,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1647,
+      "brandName": "GNETEK",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/46a1ec62-f3f1-46a4-95c9-009729c6e285.png",
+      "productName": "Queenbee-1P8K",
+      "productCode": "Queenbee-1P8K",
+      "displayName": null,
+      "productDescription": "Supports up to 16 parallel devices (parallel off grid mode); Maximum charging/discharging current 200A; 6 programmable charging and discharging time periods; Support parallel connection of multiple batteries; 2 MPPT; IP65",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8b681fa8-b07c-499e-8270-66fcfe70cb79.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/26/37ec090c-90c3-4d42-9f92-acee0dfc4d50.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25165,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 44,
+        "type": "Hybrid Inverter",
+        "height": 565,
+        "width": 470,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 44
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

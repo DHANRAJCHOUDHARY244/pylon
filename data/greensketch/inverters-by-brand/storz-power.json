@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Storz Power",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.646Z",
+  "items": [
+    {
+      "id": 22538,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1442,
+      "brandName": "Storz Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/83e477e8-a20f-46f9-a086-7254597f37d0.png",
+      "productName": "15K Inverter (10332)",
+      "productCode": "15K Inverter (10332)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6e06617f-c1d9-4960-90e5-92f8aae5100a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Storz_Power_15K_Inverter_(10332).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11648,
+        "companyProductId": null,
+        "maxAcPower": 24000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 650,
+        "width": 450,
+        "depth": 260,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 19500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    }
+  ]
+}

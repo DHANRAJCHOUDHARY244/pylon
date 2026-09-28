@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "1KOMMA5°",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.578Z",
+  "items": [
+    {
+      "id": 20988,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1246,
+      "brandName": "1KOMMA5°",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1KOMMA5%C2%B0.png",
+      "productName": "1K5-1P-HI-10",
+      "productCode": "1K5-1P-HI-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/20c76002-567e-4115-9809-478cf5344467.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/1KOMMA5°_1K5-1P-HI-10.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10098,
+        "companyProductId": null,
+        "maxAcPower": 18000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 18000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 527,
+        "width": 450,
+        "depth": 208,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 18000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21685,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1246,
+      "brandName": "1KOMMA5°",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1KOMMA5%C2%B0.png",
+      "productName": "1K5-1P-HI-5",
+      "productCode": "1K5-1P-HI-5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/abca36be-5564-4126-9a2b-e1dbc623a688.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/1KOMMA5°_1K5-1P-HI-5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10795,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 418,
+        "width": 434,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24024,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1246,
+      "brandName": "1KOMMA5°",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1KOMMA5%C2%B0.png",
+      "productName": "1K5-1P-HI-8",
+      "productCode": "1K5-1P-HI-8",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/edd689f0-e706-41c1-8b68-fc9200821b20.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/1KOMMA5°_1K5-1P-HI-8.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13134,
+        "companyProductId": null,
+        "maxAcPower": 16000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 16000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 527,
+        "width": 450,
+        "depth": 208,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 16000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

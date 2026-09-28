@@ -1,0 +1,641 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Chelion",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.133Z",
+  "items": [
+    {
+      "id": 20965,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "SUN-29.9K-SG01HP3-AU-BM3",
+      "productCode": "SUN-29.9K-SG01HP3-AU-BM3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/eb1d5127-bd70-499f-abfc-d20a91c55e64.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_SUN-29.9K-SG01HP3-AU-BM3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10075,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 894,
+        "width": 527,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 44850,
+        "dcInputs": 6,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23879,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "SUN-35K-SG01HP3-AU-BM3",
+      "productCode": "SUN-35K-SG01HP3-AU-BM3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/31321380-62cd-4e3b-994a-989595bb1d24.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_SUN-35K-SG01HP3-AU-BM3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12989,
+        "companyProductId": null,
+        "maxAcPower": 35000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 35000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 894,
+        "width": 527,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 52500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 35000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20724,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "SUN-40K-SG01HP3-AU-BM4",
+      "productCode": "SUN-40K-SG01HP3-AU-BM4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2f7780bf-0bec-44cc-a322-dcf8ad3198b0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_SUN-40K-SG01HP3-AU-BM4.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9834,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 894,
+        "width": 527,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 60000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22999,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "SUN-50K-SG01HP3-AU-BM4",
+      "productCode": "SUN-50K-SG01HP3-AU-BM4",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9c813994-c8af-456e-b62f-250b4e367d25.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_SUN-50K-SG01HP3-AU-BM4.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12109,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 55,
+        "type": "PV-only Inverter",
+        "height": 894,
+        "width": 527,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 75000,
+        "dcInputs": 8,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 55
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23982,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "iHome-INV5K-H1H01 (AS4777-2 2020)",
+      "productCode": "iHome-INV5K-H1H01 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/28d5d3c9-d0ef-4fc5-b104-ceac776ba156.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_iHome-INV5K-H1H01_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13092,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 280,
+        "width": 800,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23130,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "iHome-INV5K-L1H02 (AS4777-2 2020)",
+      "productCode": "iHome-INV5K-L1H02 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/32d25fa4-c1b8-4537-bd6a-82a4ff6eda59.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_iHome-INV5K-L1H02_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12240,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21437,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "iHome-INV6K-H1H01 (AS4777-2 2020)",
+      "productCode": "iHome-INV6K-H1H01 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f42ce89c-2735-46ab-9fd0-317ee41f91de.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_iHome-INV6K-H1H01_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10547,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 280,
+        "width": 800,
+        "depth": 232,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20790,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1385,
+      "brandName": "Chelion",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Chelion.png",
+      "productName": "iHome-INV6K-L1H02",
+      "productCode": "iHome-INV6K-L1H02",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8a3eb080-2810-44a7-b988-e21860dbe5de.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Chelion_iHome-INV6K-L1H02_(AS4777-2_2020).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9900,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 425,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.5,
+        "type": "Hybrid Inverter",
+        "height": 433,
+        "width": 330,
+        "depth": 238,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 19.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

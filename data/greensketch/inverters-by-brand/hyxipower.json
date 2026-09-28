@@ -1,0 +1,1510 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "HYXiPOWER",
+  "count": 19,
+  "exportedAt": "2026-09-23T06:39:31.856Z",
+  "items": [
+    {
+      "id": 57639,
+      "oswProductId": 21675,
+      "productClassCode": "inverter",
+      "productType": 1,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H5K-HS (AS4777-2 2020)",
+      "productCode": "HYX-H5K-HS (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f550f79a-0420-4b80-964d-5182e6a7b8cb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H5K-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H5K-HS (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 2,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 19532,
+        "companyProductId": 57639,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127495,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H10K-HT",
+      "productCode": "HYX-H10K-HT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/04/27/0cd2eaa6-bccc-49be-92c2-4cc1e4177604.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/04/27/e9ba6d07-8a28-41d9-b82a-8d86689506c9.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H10K-HT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28122,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 478,
+        "width": 542,
+        "depth": 186,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 36,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127496,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H12K-HT",
+      "productCode": "HYX-H12K-HT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/04/27/0cd2eaa6-bccc-49be-92c2-4cc1e4177604.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/04/27/e9ba6d07-8a28-41d9-b82a-8d86689506c9.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H12K-HT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28123,
+        "companyProductId": null,
+        "maxAcPower": 13200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 478,
+        "width": 542,
+        "depth": 186,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 36,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22017,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H3K-HS",
+      "productCode": "HYX-H3K-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6fecfef4-448d-4190-ab24-1d20b82c622e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H3K-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11127,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23337,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H3K6-HS",
+      "productCode": "HYX-H3K6-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/aa8f37bd-75b9-416d-b063-200ab41f341f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H3K6-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12447,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22565,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H4K-HS",
+      "productCode": "HYX-H4K-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c827479a-2af8-458f-be09-8fdc7f16c9c5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H4K-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11675,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23307,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H4K6-HS",
+      "productCode": "HYX-H4K6-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a1a5ef0d-02d7-43ba-a3c9-e7dfc436cf96.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H4K6-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12417,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21675,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H5K-HS",
+      "productCode": "HYX-H5K-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f550f79a-0420-4b80-964d-5182e6a7b8cb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H5K-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H5K-HS (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10785,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127492,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H5K-HT",
+      "productCode": "HYX-H5K-HT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/04/27/0cd2eaa6-bccc-49be-92c2-4cc1e4177604.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/04/27/e9ba6d07-8a28-41d9-b82a-8d86689506c9.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H5K-HT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28119,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 478,
+        "width": 542,
+        "depth": 186,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22463,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H6K-HS",
+      "productCode": "HYX-H6K-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/991ad8b9-7992-42d3-9cde-370f21412bf4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H6K-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11573,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127493,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H6K-HT",
+      "productCode": "HYX-H6K-HT (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/04/27/0cd2eaa6-bccc-49be-92c2-4cc1e4177604.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/04/27/e9ba6d07-8a28-41d9-b82a-8d86689506c9.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H6K-HT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28120,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 478,
+        "width": 542,
+        "depth": 186,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21119,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H8K-HS",
+      "productCode": "HYX-H8K-HS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d91b6fc8-4f05-4a0e-b484-d49b1b5535f6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-H8K-HS_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10229,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 522,
+        "depth": 177.6,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127494,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-H8K-HT",
+      "productCode": "HYX-H8K-HT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/04/27/0cd2eaa6-bccc-49be-92c2-4cc1e4177604.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/04/27/e9ba6d07-8a28-41d9-b82a-8d86689506c9.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "HYX-H8K-HT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28121,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 980,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 478,
+        "width": 542,
+        "depth": 186,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23161,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-S3K-S",
+      "productCode": "HYX-S3K-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2ad9f7b7-01e9-4dd5-acfe-2888e4f4d173.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-S3K-S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12271,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 360,
+        "width": 340,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21917,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-S3K6-S",
+      "productCode": "HYX-S3K6-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/69b9e8ab-9c25-4200-8b7a-2922707ae1bb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-S3K6-S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11027,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 360,
+        "width": 340,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5760,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22591,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-S4K-S",
+      "productCode": "HYX-S4K-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e2ae4b6a-70fd-487b-8f6b-596b5bafee89.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-S4K-S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11701,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 360,
+        "width": 340,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23450,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-S4K6-S",
+      "productCode": "HYX-S4K6-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/834bb5b1-9b2c-4335-a4cc-3261a201e015.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-S4K6-S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12560,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 360,
+        "width": 340,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7360,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24020,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-S5K-S",
+      "productCode": "HYX-S5K-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c483c944-2c91-4db3-b957-d0c773ca397b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-S5K-S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13130,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 360,
+        "width": 340,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24596,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1417,
+      "brandName": "HYXiPOWER",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/e5290586-c4c0-49ec-81a7-83ae6f6ae80c.png",
+      "productName": "HYX-S6K-S",
+      "productCode": "HYX-S6K-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d819e9af-ae7b-4828-b60b-87382af62bc1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/HYXiPOWER_HYX-S6K-S_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13706,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 360,
+        "width": 340,
+        "depth": 136,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

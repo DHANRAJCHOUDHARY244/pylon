@@ -1,0 +1,799 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Pixii",
+  "count": 10,
+  "exportedAt": "2026-09-23T06:39:42.095Z",
+  "items": [
+    {
+      "id": 24448,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiBox 48/3300",
+      "productCode": "PixiiBox 48/3300",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cfe3dd3c-009c-421b-8907-211e6ca39bcd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiBox_48_3300.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiibox 48/3300 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13558,
+        "companyProductId": null,
+        "maxAcPower": 3330,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 265,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23447,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/10000",
+      "productCode": "PixiiShelf 48/10000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/807912e0-2593-4ef1-a821-edbf75cf004d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_10000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/10000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12557,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 44.45,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23537,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/20000",
+      "productCode": "PixiiShelf 48/20000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6926db60-6371-4a31-8e48-4f4b7f30bce9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_20000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/20000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12647,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 265,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23389,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/30000",
+      "productCode": "PixiiShelf 48/30000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8803ee19-329b-4b0f-8dc7-1e61704b8f50.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_30000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/30000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12499,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 133.1,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21378,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/3300",
+      "productCode": "PixiiShelf 48/3300",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6923b806-254b-4d9c-a263-ba64a4899599.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_3300.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/3300 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10488,
+        "companyProductId": null,
+        "maxAcPower": 3330,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 265,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21849,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/40000",
+      "productCode": "PixiiShelf 48/40000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/326e0750-ecc1-423a-ba4c-534a57e76ff8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_40000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/40000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10959,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 265,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20244,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/50000",
+      "productCode": "PixiiShelf 48/50000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b509c14d-3617-4053-8960-a70fd05d7bec.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_50000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/50000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9354,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 265,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23679,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PixiiShelf 48/60000",
+      "productCode": "PixiiShelf 48/60000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ea0f65b5-2a64-4d7d-95db-583fb149d044.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PixiiShelf_48_60000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "Pixiishelf 48/60000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12789,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 265,
+        "width": 213,
+        "depth": 45,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20414,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PowerShaper XD LFP 60kW/100kWh",
+      "productCode": "PowerShaper XD LFP 60kW/100kWh",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e4a449d3-f8f1-4c1b-a356-663a0d855e9e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PowerShaper_XD_LFP_60kW_100kWh.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9524,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 1155,
+        "width": 835,
+        "depth": 2300,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21623,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1325,
+      "brandName": "Pixii",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Pixii.png",
+      "productName": "PowerShaper XD NMC 60kW/145kWh",
+      "productCode": "PowerShaper XD NMC 60kW/145kWh",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7f6783ae-9453-41dd-b173-4f1f7dde0f65.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Pixii_PowerShaper_XD_NMC_60kW_145kWh.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10733,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 1155,
+        "width": 835,
+        "depth": 2300,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Wirentech",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.611Z",
+  "items": [
+    {
+      "id": 20641,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1359,
+      "brandName": "Wirentech",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/11565181-8852-4155-9ed7-56153577f05d.png",
+      "productName": "WeArk2.0-100P",
+      "productCode": "WeArk2.0-100P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d9aaa28e-2c5d-4940-bd6f-eabb014f028a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Wirentech_WeArk2.0-100P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9751,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "Hybrid Inverter",
+        "height": 2100,
+        "width": 1900,
+        "depth": 1230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 120000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21641,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1359,
+      "brandName": "Wirentech",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/11565181-8852-4155-9ed7-56153577f05d.png",
+      "productName": "WeArk2.0-30P",
+      "productCode": "WeArk2.0-30P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1764e58d-2068-4349-9fb0-8d42c895c505.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Wirentech_WeArk2.0-30P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10751,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "Hybrid Inverter",
+        "height": 2100,
+        "width": 1500,
+        "depth": 1230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20443,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1359,
+      "brandName": "Wirentech",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/11565181-8852-4155-9ed7-56153577f05d.png",
+      "productName": "WeArk2.0-60P",
+      "productCode": "WeArk2.0-60P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/669ad00a-9889-4ff4-a867-82b5f28f814f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Wirentech_WeArk2.0-60P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9553,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "Hybrid Inverter",
+        "height": 2100,
+        "width": 1900,
+        "depth": 1230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 120000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

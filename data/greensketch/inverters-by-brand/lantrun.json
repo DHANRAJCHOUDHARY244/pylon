@@ -1,0 +1,483 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Lantrun",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:39:42.167Z",
+  "items": [
+    {
+      "id": 22064,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1358,
+      "brandName": "Lantrun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/lantrun.jpg",
+      "productName": "Aegis 1500TL",
+      "productCode": "Aegis 1500TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cd0c2527-dbb4-4928-8f1d-f8ac88f6e0b3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Lantrun_Aegis_1500TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11174,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 259,
+        "depth": 138,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21387,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1358,
+      "brandName": "Lantrun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/lantrun.jpg",
+      "productName": "Aegis 2000TL",
+      "productCode": "Aegis 2000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3e6955fb-5fc5-41b4-a623-116790e6957a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Lantrun_Aegis_2000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10497,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 259,
+        "depth": 138,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20441,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1358,
+      "brandName": "Lantrun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/lantrun.jpg",
+      "productName": "Aegis 3000TL",
+      "productCode": "Aegis 3000TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/69b75b99-3e9a-4aef-8e15-b3b25cc6e555.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Lantrun_Aegis_3000TL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9551,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 328,
+        "width": 259,
+        "depth": 138,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22388,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1358,
+      "brandName": "Lantrun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/lantrun.jpg",
+      "productName": "Aegis 3600ES",
+      "productCode": "Aegis 3600ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0d4839fb-f77c-4e68-a34e-02bd7e69bad5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Lantrun_Aegis_3600ES.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11498,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "Hybrid Inverter",
+        "height": 420,
+        "width": 495,
+        "depth": 165,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23464,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1358,
+      "brandName": "Lantrun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/lantrun.jpg",
+      "productName": "Aegis 4600ES",
+      "productCode": "Aegis 4600ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b168efb5-0b8b-4c1f-804f-58589ebdee76.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Lantrun_Aegis_4600ES.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12574,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "Hybrid Inverter",
+        "height": 420,
+        "width": 495,
+        "depth": 165,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21441,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1358,
+      "brandName": "Lantrun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/lantrun.jpg",
+      "productName": "Aegis 5000ES",
+      "productCode": "Aegis 5000ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e3e355d4-d408-4fd8-876c-726125de7661.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Lantrun_Aegis_5000ES.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10551,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "Hybrid Inverter",
+        "height": 420,
+        "width": 495,
+        "depth": 165,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

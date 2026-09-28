@@ -1,0 +1,1949 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "GEP",
+  "count": 20,
+  "exportedAt": "2026-09-23T06:32:14.037Z",
+  "items": [
+    {
+      "id": 128781,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-CfMc485NH",
+      "productCode": "GEP-CfMc485NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/33fcaf3b-d0b5-42bc-aa8c-3301af3c8a9f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/1872b351-70b1-4fd9-8d06-a555930910a3.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year linear warranty",
+      "cecModelNumber": "GEP-CfMc485NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71596,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 485,
+        "stcVoltageAtMaximumPowerVmpp": 37.26,
+        "stcShortCircuitCurrentIsc": 14.19,
+        "stcOpenCircuitVoltageVoc": 43.86,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": 1950,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.224,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.19
+        },
+        "stc_voc": {
+          "value": 43.86
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 485
+        },
+        "cec_model": {
+          "value": "GEP-CfMc485NH"
+        },
+        "stc_vmpp": {
+          "value": 37.26
+        }
+      }
+    },
+    {
+      "id": 128782,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-CfMc490NH",
+      "productCode": "GEP-CfMc490NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/33fcaf3b-d0b5-42bc-aa8c-3301af3c8a9f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/1872b351-70b1-4fd9-8d06-a555930910a3.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year linear warranty",
+      "cecModelNumber": "GEP-CfMc490NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71597,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 490,
+        "stcVoltageAtMaximumPowerVmpp": 37.4,
+        "stcShortCircuitCurrentIsc": 14.27,
+        "stcOpenCircuitVoltageVoc": 43.98,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": 1950,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.226,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.27
+        },
+        "stc_voc": {
+          "value": 43.98
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 490
+        },
+        "cec_model": {
+          "value": "GEP-CfMc490NH"
+        },
+        "stc_vmpp": {
+          "value": 37.4
+        }
+      }
+    },
+    {
+      "id": 128783,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-CfMc495NH",
+      "productCode": "GEP-CfMc495NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/33fcaf3b-d0b5-42bc-aa8c-3301af3c8a9f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/1872b351-70b1-4fd9-8d06-a555930910a3.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year linear warranty",
+      "cecModelNumber": "GEP-CfMc495NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71598,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 495,
+        "stcVoltageAtMaximumPowerVmpp": 37.56,
+        "stcShortCircuitCurrentIsc": 14.35,
+        "stcOpenCircuitVoltageVoc": 44.11,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": 1950,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.35
+        },
+        "stc_voc": {
+          "value": 44.11
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 495
+        },
+        "cec_model": {
+          "value": "GEP-CfMc495NH"
+        },
+        "stc_vmpp": {
+          "value": 37.56
+        }
+      }
+    },
+    {
+      "id": 128784,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-CfMc500NH",
+      "productCode": "GEP-CfMc500NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/33fcaf3b-d0b5-42bc-aa8c-3301af3c8a9f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/1872b351-70b1-4fd9-8d06-a555930910a3.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year linear warranty",
+      "cecModelNumber": "GEP-CfMc500NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71599,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 500,
+        "stcVoltageAtMaximumPowerVmpp": 37.68,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 44.23,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": 1950,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 44.23
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 500
+        },
+        "cec_model": {
+          "value": "GEP-CfMc500NH"
+        },
+        "stc_vmpp": {
+          "value": 37.68
+        }
+      }
+    },
+    {
+      "id": 128785,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-DfMc585NH",
+      "productCode": "GEP-DfMc585NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/63362de6-fd62-4901-966f-4d4a3a9c4da4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/cc1d070b-e52f-48c6-90e2-5ef9eaa41e47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty; 1% First year power degradation; 0.4% Linear power decay",
+      "cecModelNumber": "GEP-DfMc585NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215",
+        "TÜV Rheinland CERTIFIED IEC 61730",
+        "TÜV Rheinland ID 1111296783",
+        "CE"
+      ],
+      "panel": {
+        "id": 71600,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 585,
+        "stcVoltageAtMaximumPowerVmpp": 44.79,
+        "stcShortCircuitCurrentIsc": 14.22,
+        "stcOpenCircuitVoltageVoc": 52.63,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32,
+        "palletWeight": 1152,
+        "palletDimensionLength": 2310,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.226,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.22
+        },
+        "stc_voc": {
+          "value": 52.63
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 585
+        },
+        "cec_model": {
+          "value": "GEP-DfMc585NH"
+        },
+        "stc_vmpp": {
+          "value": 44.79
+        }
+      }
+    },
+    {
+      "id": 128786,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-DfMc590NH",
+      "productCode": "GEP-DfMc590NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/63362de6-fd62-4901-966f-4d4a3a9c4da4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/cc1d070b-e52f-48c6-90e2-5ef9eaa41e47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty; 1% First year power degradation; 0.4% Linear power decay",
+      "cecModelNumber": "GEP-DfMc590NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215",
+        "TÜV Rheinland CERTIFIED IEC 61730",
+        "TÜV Rheinland ID 1111296783",
+        "CE"
+      ],
+      "panel": {
+        "id": 71601,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 590,
+        "stcVoltageAtMaximumPowerVmpp": 44.93,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 52.78,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32,
+        "palletWeight": 1152,
+        "palletDimensionLength": 2310,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 52.78
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 590
+        },
+        "cec_model": {
+          "value": "GEP-DfMc590NH"
+        },
+        "stc_vmpp": {
+          "value": 44.93
+        }
+      }
+    },
+    {
+      "id": 128787,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-DfMc595NH",
+      "productCode": "GEP-DfMc595NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/63362de6-fd62-4901-966f-4d4a3a9c4da4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/cc1d070b-e52f-48c6-90e2-5ef9eaa41e47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty; 1% First year power degradation; 0.4% Linear power decay",
+      "cecModelNumber": "GEP-DfMc595NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215",
+        "TÜV Rheinland CERTIFIED IEC 61730",
+        "TÜV Rheinland ID 1111296783",
+        "CE"
+      ],
+      "panel": {
+        "id": 71602,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 595,
+        "stcVoltageAtMaximumPowerVmpp": 45.07,
+        "stcShortCircuitCurrentIsc": 14.34,
+        "stcOpenCircuitVoltageVoc": 52.93,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32,
+        "palletWeight": 1152,
+        "palletDimensionLength": 2310,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.34
+        },
+        "stc_voc": {
+          "value": 52.93
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 595
+        },
+        "cec_model": {
+          "value": "GEP-DfMc595NH"
+        },
+        "stc_vmpp": {
+          "value": 45.07
+        }
+      }
+    },
+    {
+      "id": 128788,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-DfMc600NH",
+      "productCode": "GEP-DfMc600NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/63362de6-fd62-4901-966f-4d4a3a9c4da4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/cc1d070b-e52f-48c6-90e2-5ef9eaa41e47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty; 1% First year power degradation; 0.4% Linear power decay",
+      "cecModelNumber": "GEP-DfMc600NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215",
+        "TÜV Rheinland CERTIFIED IEC 61730",
+        "TÜV Rheinland ID 1111296783",
+        "CE"
+      ],
+      "panel": {
+        "id": 71603,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 45.22,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 53.08,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32,
+        "palletWeight": 1152,
+        "palletDimensionLength": 2310,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 53.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "GEP-DfMc600NH"
+        },
+        "stc_vmpp": {
+          "value": 45.22
+        }
+      }
+    },
+    {
+      "id": 128789,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-GfMc535NH",
+      "productCode": "GEP-GfMc535NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/36e84c10-f169-4ad1-9d51-1345a232e204.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/6a7077c1-9e48-469c-bc5f-f9572cd6737e.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% first year power degradation, 0.4% linear power decay",
+      "cecModelNumber": "GEP-GfMc535NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71604,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.04,
+        "stcShortCircuitCurrentIsc": 14.25,
+        "stcOpenCircuitVoltageVoc": 48.24,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2094,
+        "width": 1134,
+        "depth": 30,
+        "weight": 29.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 2120,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.25
+        },
+        "stc_voc": {
+          "value": 48.24
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "GEP-GfMc535NH"
+        },
+        "stc_vmpp": {
+          "value": 41.04
+        }
+      }
+    },
+    {
+      "id": 128790,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-GfMc540NH",
+      "productCode": "GEP-GfMc540NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/36e84c10-f169-4ad1-9d51-1345a232e204.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/6a7077c1-9e48-469c-bc5f-f9572cd6737e.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% first year power degradation, 0.4% linear power decay",
+      "cecModelNumber": "GEP-GfMc540NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71605,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 41.18,
+        "stcShortCircuitCurrentIsc": 14.3,
+        "stcOpenCircuitVoltageVoc": 48.38,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2094,
+        "width": 1134,
+        "depth": 30,
+        "weight": 29.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 2120,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.3
+        },
+        "stc_voc": {
+          "value": 48.38
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "GEP-GfMc540NH"
+        },
+        "stc_vmpp": {
+          "value": 41.18
+        }
+      }
+    },
+    {
+      "id": 128791,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-GfMc545NH",
+      "productCode": "GEP-GfMc545NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/36e84c10-f169-4ad1-9d51-1345a232e204.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/6a7077c1-9e48-469c-bc5f-f9572cd6737e.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% first year power degradation, 0.4% linear power decay",
+      "cecModelNumber": "GEP-GfMc545NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71606,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 545,
+        "stcVoltageAtMaximumPowerVmpp": 41.31,
+        "stcShortCircuitCurrentIsc": 14.35,
+        "stcOpenCircuitVoltageVoc": 48.52,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2094,
+        "width": 1134,
+        "depth": 30,
+        "weight": 29.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 2120,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.35
+        },
+        "stc_voc": {
+          "value": 48.52
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 545
+        },
+        "cec_model": {
+          "value": "GEP-GfMc545NH"
+        },
+        "stc_vmpp": {
+          "value": 41.31
+        }
+      }
+    },
+    {
+      "id": 128792,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-GfMc550NH",
+      "productCode": "GEP-GfMc550NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/36e84c10-f169-4ad1-9d51-1345a232e204.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/6a7077c1-9e48-469c-bc5f-f9572cd6737e.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% first year power degradation, 0.4% linear power decay",
+      "cecModelNumber": "GEP-GfMc550NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015: Quality Management System",
+        "ISO14001:2015: Environmental Management System",
+        "ISO45001:2018: Occupational Health and Safety Management System",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71607,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 550,
+        "stcVoltageAtMaximumPowerVmpp": 41.45,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 48.65,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2094,
+        "width": 1134,
+        "depth": 30,
+        "weight": 29.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 2120,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 48.65
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 550
+        },
+        "cec_model": {
+          "value": "GEP-GfMc550NH"
+        },
+        "stc_vmpp": {
+          "value": 41.45
+        }
+      }
+    },
+    {
+      "id": 128872,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-HfMc635NH",
+      "productCode": "GEP-HfMc635NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44dc1c1e-5337-44c0-8614-68002813ba83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/19/e535b95d-6d0f-4791-8c34-4f0b1220b6af.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear power warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-HfMc635NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 71677,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 635,
+        "stcVoltageAtMaximumPowerVmpp": 48.51,
+        "stcShortCircuitCurrentIsc": 14.22,
+        "stcOpenCircuitVoltageVoc": 57.02,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.2,
+        "palletWeight": null,
+        "palletDimensionLength": 2495,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.22
+        },
+        "stc_voc": {
+          "value": 57.02
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 635
+        },
+        "cec_model": {
+          "value": "GEP-HfMc635NH"
+        },
+        "stc_vmpp": {
+          "value": 48.51
+        }
+      }
+    },
+    {
+      "id": 128873,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-HfMc640NH",
+      "productCode": "GEP-HfMc640NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44dc1c1e-5337-44c0-8614-68002813ba83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/19/e535b95d-6d0f-4791-8c34-4f0b1220b6af.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear power warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-HfMc640NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 71678,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 640,
+        "stcVoltageAtMaximumPowerVmpp": 48.67,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 57.18,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.2,
+        "palletWeight": null,
+        "palletDimensionLength": 2495,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 57.18
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 640
+        },
+        "cec_model": {
+          "value": "GEP-HfMc640NH"
+        },
+        "stc_vmpp": {
+          "value": 48.67
+        }
+      }
+    },
+    {
+      "id": 128874,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-HfMc645NH",
+      "productCode": "GEP-HfMc645NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44dc1c1e-5337-44c0-8614-68002813ba83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/19/e535b95d-6d0f-4791-8c34-4f0b1220b6af.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear power warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-HfMc645NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 71679,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 645,
+        "stcVoltageAtMaximumPowerVmpp": 48.83,
+        "stcShortCircuitCurrentIsc": 14.34,
+        "stcOpenCircuitVoltageVoc": 57.34,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.2,
+        "palletWeight": null,
+        "palletDimensionLength": 2495,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.34
+        },
+        "stc_voc": {
+          "value": 57.34
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 645
+        },
+        "cec_model": {
+          "value": "GEP-HfMc645NH"
+        },
+        "stc_vmpp": {
+          "value": 48.83
+        }
+      }
+    },
+    {
+      "id": 128875,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-HfMc650NH",
+      "productCode": "GEP-HfMc650NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44dc1c1e-5337-44c0-8614-68002813ba83.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/19/e535b95d-6d0f-4791-8c34-4f0b1220b6af.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear power warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-HfMc650NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 71680,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 650,
+        "stcVoltageAtMaximumPowerVmpp": 48.99,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 57.5,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2465,
+        "width": 1134,
+        "depth": 30,
+        "weight": 34.2,
+        "palletWeight": null,
+        "palletDimensionLength": 2495,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 156,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 57.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 650
+        },
+        "cec_model": {
+          "value": "GEP-HfMc650NH"
+        },
+        "stc_vmpp": {
+          "value": 48.99
+        }
+      }
+    },
+    {
+      "id": 128793,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-JfMc435NH",
+      "productCode": "GEP-JfMc435NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/a621c6d9-5787-4159-b227-d96f486fb408.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/9a89472a-d6ed-4847-82c4-8958d3a43a47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-JfMc435NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71608,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 33.28,
+        "stcShortCircuitCurrentIsc": 14.22,
+        "stcOpenCircuitVoltageVoc": 39.47,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 1750,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.22
+        },
+        "stc_voc": {
+          "value": 39.47
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "GEP-JfMc435NH"
+        },
+        "stc_vmpp": {
+          "value": 33.28
+        }
+      }
+    },
+    {
+      "id": 128794,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-JfMc440NH",
+      "productCode": "GEP-JfMc440NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/a621c6d9-5787-4159-b227-d96f486fb408.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/9a89472a-d6ed-4847-82c4-8958d3a43a47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-JfMc440NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71609,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.5,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 39.59,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 1750,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 39.59
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "GEP-JfMc440NH"
+        },
+        "stc_vmpp": {
+          "value": 33.5
+        }
+      }
+    },
+    {
+      "id": 128795,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-JfMc445NH",
+      "productCode": "GEP-JfMc445NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/a621c6d9-5787-4159-b227-d96f486fb408.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/9a89472a-d6ed-4847-82c4-8958d3a43a47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-JfMc445NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71610,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 33.72,
+        "stcShortCircuitCurrentIsc": 14.34,
+        "stcOpenCircuitVoltageVoc": 39.7,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 1750,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.34
+        },
+        "stc_voc": {
+          "value": 39.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "GEP-JfMc445NH"
+        },
+        "stc_vmpp": {
+          "value": 33.72
+        }
+      }
+    },
+    {
+      "id": 128796,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2061,
+      "brandName": "GEP",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/5d80c366-fe39-4e6c-972d-4764439fcb9b.png",
+      "productName": "GEP-JfMc450NH",
+      "productCode": "GEP-JfMc450NH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/19/a621c6d9-5787-4159-b227-d96f486fb408.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/19/9a89472a-d6ed-4847-82c4-8958d3a43a47.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30-year linear warranty, 1% First year power degradation, 0.4% Linear power decay",
+      "cecModelNumber": "GEP-JfMc450NH (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland CERTIFIED IEC 61215 IEC 61730",
+        "CE"
+      ],
+      "panel": {
+        "id": 71611,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.92,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 39.81,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.6,
+        "palletWeight": 0,
+        "palletDimensionLength": 1750,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1251,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-ZPJ030A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 39.81
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "GEP-JfMc450NH"
+        },
+        "stc_vmpp": {
+          "value": 33.92
+        }
+      }
+    }
+  ]
+}

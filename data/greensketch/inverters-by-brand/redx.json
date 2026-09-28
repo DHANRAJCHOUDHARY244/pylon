@@ -1,0 +1,1429 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Redx",
+  "count": 17,
+  "exportedAt": "2026-09-23T06:39:31.868Z",
+  "items": [
+    {
+      "id": 128138,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-196k",
+      "productCode": "RX-196k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/15a7d1b1-2657-498b-9ef8-c76a22bf40f0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/36ad043f-f2c9-42a2-8ec8-2acb5815c5ad.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "RX-196k (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Austrade listed supplier",
+        "Clean Energy Council Member",
+        "Smart Energy Council Member"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28377,
+        "companyProductId": null,
+        "maxAcPower": 100,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 864,
+        "minDcVoltageToStartFeedIn": 648,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 100,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 2180,
+        "width": 1300,
+        "depth": 1362,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 864
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 648
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 100
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 128139,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-215k",
+      "productCode": "RX-215k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/15a7d1b1-2657-498b-9ef8-c76a22bf40f0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/36ad043f-f2c9-42a2-8ec8-2acb5815c5ad.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "RX-215k (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Austrade listed supplier",
+        "Clean Energy Council Member",
+        "Smart Energy Council Member"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28378,
+        "companyProductId": null,
+        "maxAcPower": 100,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 864,
+        "minDcVoltageToStartFeedIn": 648,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 100,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 2180,
+        "width": 1300,
+        "depth": 1362,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 864
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 648
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 100
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 21237,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-2505AC",
+      "productCode": "RX-2505AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bd0d2a72-ea18-4d0b-9e14-9d37aac066c0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redx_RX-2505AC_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX-2505AC (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10347,
+        "companyProductId": null,
+        "maxAcPower": 2750,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 55,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 900,
+        "width": 600,
+        "depth": 145,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 55
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23211,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-2505PW (AS4777-2 2020)",
+      "productCode": "RX-2505PW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b878665c-3b03-4cc3-928e-1a1c07fe658b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redx_RX-2505PW_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX-2505PW (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12321,
+        "companyProductId": null,
+        "maxAcPower": 2750,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 55,
+        "minDcVoltageToStartFeedIn": 48,
+        "mpptVoltageMin": 48,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "PV-only Inverter",
+        "height": 900,
+        "width": 600,
+        "depth": 145,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 55
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 48
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 48
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21159,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-5000AC (AS4777-2 2020)",
+      "productCode": "RX-5000AC (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/270cab78-6645-45e5-853e-20eb5e909894.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redx_RX-5000AC_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10269,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 445,
+        "width": 510,
+        "depth": 177,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23013,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-5000HY (AS4777-2 2020)",
+      "productCode": "RX-5000HY (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/15cf7e93-7bed-4c01-886e-45e7f2acda60.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redx_RX-5000HY_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12123,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 800,
+        "width": 400,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124280,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-5006PLUS",
+      "productCode": "RX-5006PLUS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7732914c-6ed8-45e0-9fa8-9bad66686869.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/8f5c1554-02d3-43c4-8cad-c0f0275e9409.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10+5 Years Warranty",
+      "cecModelNumber": "RX-5006Plus (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26877,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1232,
+        "width": 764,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124281,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-5010PLUS",
+      "productCode": "RX-5010PLUS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e9d3fe01-8eb6-4c48-8042-e3555deee113.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/07dc8898-23ef-4639-bf0a-293681b2dc24.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10+5 Years Warranty",
+      "cecModelNumber": "RX-5010Plus (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26878,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1482,
+        "width": 764,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124282,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-5013PLUS",
+      "productCode": "RX-5013PLUS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2b44866e-706d-4d58-987f-b4642694a8e3.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/066a159e-3846-4835-b0a9-3d4444d4213b.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10+5 Years Warranty",
+      "cecModelNumber": "RX-5013Plus (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26879,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1689,
+        "width": 764,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23890,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-7000HY",
+      "productCode": "RX-7000HY",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/624a361e-7cad-4c74-93f6-f869c5afed85.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redx_RX-7000HY.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX-7000HY (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13000,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 400,
+        "width": 620,
+        "depth": 162,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124283,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-7006Plus (5kW, 2 Battery Modules)",
+      "productCode": "RX-7006Plus",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/38eaae17-9c66-4561-bd6c-6435fcf99cff.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/42665983-00d5-4b96-ab2d-618abacfc5d0.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "RX-7006Plus (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26880,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1040,
+        "width": 750,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00966,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124284,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-7010Plus (7kW, 3 Battery Modules)",
+      "productCode": "RX-7010Plus",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cd107f81-e27e-4998-996a-38fd8839f3d1.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/0f61ef4a-82e5-46f7-8b7c-73483ada332e.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "RX-7010Plus (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26881,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1290,
+        "width": 750,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.0097,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124285,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-7013Plus (AS4777-2 2020)",
+      "productCode": "RX-7013Plus (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1eca6ede-6ac5-424d-98d3-0e275cfe718f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/6ffaedfc-e293-4ea6-9b35-6f45489c4eaf.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "RX-7013Plus (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26882,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 7000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 1540,
+        "width": 750,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00968,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 7000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 128135,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-P25k",
+      "productCode": "RX-P25k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f8e4975b-91cf-4e19-8da2-13e5e1203863.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/0591a711-acf8-4a0c-8887-dd99e4d13976.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX-P25k (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ce",
+        "iec62019",
+        "iec62477",
+        "iec6100",
+        "en50549"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28374,
+        "companyProductId": null,
+        "maxAcPower": 27.5,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 25,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "Hybrid Inverter",
+        "height": 183,
+        "width": 440,
+        "depth": 560,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 25,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 25
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128137,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-P25k-AC",
+      "productCode": "RX -P25k -AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f8e4975b-91cf-4e19-8da2-13e5e1203863.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/0591a711-acf8-4a0c-8887-dd99e4d13976.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX -P25k -AC (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ce",
+        "iec62019",
+        "iec62477",
+        "iec6100",
+        "en50549"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28376,
+        "companyProductId": null,
+        "maxAcPower": 27.5,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": null,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 25,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 183,
+        "width": 440,
+        "depth": 560,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 25
+        },
+        "mppt_voltage_min": {
+          "value": null
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 128134,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-P30k",
+      "productCode": "RX-P30k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f8e4975b-91cf-4e19-8da2-13e5e1203863.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/0591a711-acf8-4a0c-8887-dd99e4d13976.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX-P30k (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ce",
+        "iec62019",
+        "iec62477",
+        "iec6100",
+        "en50549"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28373,
+        "companyProductId": null,
+        "maxAcPower": 33,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "Hybrid Inverter",
+        "height": 183,
+        "width": 440,
+        "depth": 560,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 30
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128136,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1418,
+      "brandName": "Redx",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/36141d25-80b4-4573-b234-5ee1a3eea22b.png",
+      "productName": "RX-P30k-AC",
+      "productCode": "RX -P30k -AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f8e4975b-91cf-4e19-8da2-13e5e1203863.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/0591a711-acf8-4a0c-8887-dd99e4d13976.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RX -P30k -AC (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ce",
+        "iec62019",
+        "iec62477",
+        "iec6100",
+        "en50549"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28375,
+        "companyProductId": null,
+        "maxAcPower": 33,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 0,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": null,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 30,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 183,
+        "width": 440,
+        "depth": 560,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 0
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 30
+        },
+        "mppt_voltage_min": {
+          "value": null
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    }
+  ]
+}

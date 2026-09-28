@@ -1,0 +1,1499 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "8 Star Energy",
+  "count": 16,
+  "exportedAt": "2026-09-23T06:32:14.050Z",
+  "items": [
+    {
+      "id": 128049,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3440BF (440W)",
+      "productCode": "ENSP48NDG3440BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/03c70e04-0c83-47b9-a012-45d15191a78d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/1db6d957-bebc-4711-9db3-39648af66650.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3440BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC",
+        "UL",
+        "CE",
+        "ISO",
+        "TÜV",
+        "Class C Fire Rating"
+      ],
+      "panel": {
+        "id": 71183,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 30.06,
+        "stcShortCircuitCurrentIsc": 15.47,
+        "stcOpenCircuitVoltageVoc": 36.09,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.47
+        },
+        "stc_voc": {
+          "value": 36.09
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3440BF"
+        },
+        "stc_vmpp": {
+          "value": 30.06
+        }
+      }
+    },
+    {
+      "id": 128140,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3440BL",
+      "productCode": "ENSP48NDG3440BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/66c74d27-7298-4036-b92b-53b9f9b2f8e5.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/a59a64b9-cf62-40f8-9411-bd8d7592d6a6.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3440BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc"
+      ],
+      "panel": {
+        "id": 71244,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 30.24,
+        "stcShortCircuitCurrentIsc": 15.4,
+        "stcOpenCircuitVoltageVoc": 36.26,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.4
+        },
+        "stc_voc": {
+          "value": 36.26
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3440BL"
+        },
+        "stc_vmpp": {
+          "value": 30.24
+        }
+      }
+    },
+    {
+      "id": 128050,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3445BF (445W)",
+      "productCode": "ENSP48NDG3445BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/03c70e04-0c83-47b9-a012-45d15191a78d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/1db6d957-bebc-4711-9db3-39648af66650.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3445BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC",
+        "UL",
+        "CE",
+        "ISO",
+        "TÜV",
+        "Class C Fire Rating"
+      ],
+      "panel": {
+        "id": 71184,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 30.2,
+        "stcShortCircuitCurrentIsc": 15.57,
+        "stcOpenCircuitVoltageVoc": 36.25,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.57
+        },
+        "stc_voc": {
+          "value": 36.25
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3445BF"
+        },
+        "stc_vmpp": {
+          "value": 30.2
+        }
+      }
+    },
+    {
+      "id": 128141,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3445BL",
+      "productCode": "ENSP48NDG3445BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/66c74d27-7298-4036-b92b-53b9f9b2f8e5.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/a59a64b9-cf62-40f8-9411-bd8d7592d6a6.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3445BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc"
+      ],
+      "panel": {
+        "id": 71245,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 30.38,
+        "stcShortCircuitCurrentIsc": 15.5,
+        "stcOpenCircuitVoltageVoc": 36.42,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.5
+        },
+        "stc_voc": {
+          "value": 36.42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3445BL"
+        },
+        "stc_vmpp": {
+          "value": 30.38
+        }
+      }
+    },
+    {
+      "id": 128051,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3450BF (450W)",
+      "productCode": "ENSP48NDG3450BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/03c70e04-0c83-47b9-a012-45d15191a78d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/1db6d957-bebc-4711-9db3-39648af66650.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3450BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC",
+        "UL",
+        "CE",
+        "ISO",
+        "TÜV",
+        "Class C Fire Rating"
+      ],
+      "panel": {
+        "id": 71185,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 30.33,
+        "stcShortCircuitCurrentIsc": 15.68,
+        "stcOpenCircuitVoltageVoc": 36.42,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.68
+        },
+        "stc_voc": {
+          "value": 36.42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3450BF"
+        },
+        "stc_vmpp": {
+          "value": 30.33
+        }
+      }
+    },
+    {
+      "id": 128142,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3450BL",
+      "productCode": "ENSP48NDG3450BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/66c74d27-7298-4036-b92b-53b9f9b2f8e5.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/a59a64b9-cf62-40f8-9411-bd8d7592d6a6.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3450BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc"
+      ],
+      "panel": {
+        "id": 71246,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 30.51,
+        "stcShortCircuitCurrentIsc": 15.61,
+        "stcOpenCircuitVoltageVoc": 36.59,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.61
+        },
+        "stc_voc": {
+          "value": 36.59
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3450BL"
+        },
+        "stc_vmpp": {
+          "value": 30.51
+        }
+      }
+    },
+    {
+      "id": 128052,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3455BF (455W)",
+      "productCode": "ENSP48NDG3455BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/03c70e04-0c83-47b9-a012-45d15191a78d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/1db6d957-bebc-4711-9db3-39648af66650.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3455BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC",
+        "UL",
+        "CE",
+        "ISO",
+        "T��V",
+        "Class C Fire Rating"
+      ],
+      "panel": {
+        "id": 71186,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 30.47,
+        "stcShortCircuitCurrentIsc": 15.78,
+        "stcOpenCircuitVoltageVoc": 36.58,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.78
+        },
+        "stc_voc": {
+          "value": 36.58
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3455BF"
+        },
+        "stc_vmpp": {
+          "value": 30.47
+        }
+      }
+    },
+    {
+      "id": 128143,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP48NDG3455BL",
+      "productCode": "ENSP48NDG3455BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/66c74d27-7298-4036-b92b-53b9f9b2f8e5.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/a59a64b9-cf62-40f8-9411-bd8d7592d6a6.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDG3455BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc"
+      ],
+      "panel": {
+        "id": 71247,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 30.65,
+        "stcShortCircuitCurrentIsc": 15.71,
+        "stcOpenCircuitVoltageVoc": 36.75,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.71
+        },
+        "stc_voc": {
+          "value": 36.75
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "ENSP48NDG3455BL"
+        },
+        "stc_vmpp": {
+          "value": 30.65
+        }
+      }
+    },
+    {
+      "id": 128144,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDG3500BF",
+      "productCode": "ENSP54NDG3500BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e02bad38-da58-401f-8717-6b364d128a7b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/b8f7fc2b-102e-4459-8a5c-67b399e28771.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP54NDG3500BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc",
+        "Tier 1",
+        "Green Building",
+        "AAA Manufactured"
+      ],
+      "panel": {
+        "id": 71248,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 500,
+        "stcVoltageAtMaximumPowerVmpp": 34.02,
+        "stcShortCircuitCurrentIsc": 15.52,
+        "stcOpenCircuitVoltageVoc": 40.89,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.4,
+        "palletWeight": 1035,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.52
+        },
+        "stc_voc": {
+          "value": 40.89
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 500
+        },
+        "cec_model": {
+          "value": "ENSP54NDG3500BF"
+        },
+        "stc_vmpp": {
+          "value": 34.02
+        }
+      }
+    },
+    {
+      "id": 128145,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDG3505BF",
+      "productCode": "ENSP54NDG3505BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e02bad38-da58-401f-8717-6b364d128a7b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/b8f7fc2b-102e-4459-8a5c-67b399e28771.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP54NDG3505BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc",
+        "Tier 1",
+        "Green Building",
+        "AAA Manufactured"
+      ],
+      "panel": {
+        "id": 71249,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 505,
+        "stcVoltageAtMaximumPowerVmpp": 34.15,
+        "stcShortCircuitCurrentIsc": 15.61,
+        "stcOpenCircuitVoltageVoc": 41.05,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.4,
+        "palletWeight": 1035,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.61
+        },
+        "stc_voc": {
+          "value": 41.05
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 505
+        },
+        "cec_model": {
+          "value": "ENSP54NDG3505BF"
+        },
+        "stc_vmpp": {
+          "value": 34.15
+        }
+      }
+    },
+    {
+      "id": 128146,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDG3510BF",
+      "productCode": "ENSP54NDG3510BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e02bad38-da58-401f-8717-6b364d128a7b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/b8f7fc2b-102e-4459-8a5c-67b399e28771.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP54NDG3510BF (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc",
+        "Tier 1",
+        "Green Building",
+        "AAA Manufactured"
+      ],
+      "panel": {
+        "id": 71250,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 510,
+        "stcVoltageAtMaximumPowerVmpp": 34.29,
+        "stcShortCircuitCurrentIsc": 15.7,
+        "stcOpenCircuitVoltageVoc": 41.21,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27.4,
+        "palletWeight": 1035,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "Half-cut",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.7
+        },
+        "stc_voc": {
+          "value": 41.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 510
+        },
+        "cec_model": {
+          "value": "ENSP54NDG3510BF"
+        },
+        "stc_vmpp": {
+          "value": 34.29
+        }
+      }
+    },
+    {
+      "id": 128053,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDGT2S435",
+      "productCode": "ENSP54NDGT2S435",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/86fdf0b8-d4e5-4812-a282-2f6328e2b816.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/eeaffdb7-a589-4bcb-abd5-13a17cd825f1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Fire Class Rating Class A"
+      ],
+      "panel": {
+        "id": 71187,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 32.88,
+        "stcShortCircuitCurrentIsc": 14.01,
+        "stcOpenCircuitVoltageVoc": 38.8,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": 819,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 327.1,
+        "noctVoltageAtMaximumPowerVmpp": 30.95,
+        "noctCurrentAtMaximumPowerImpp": 10.57,
+        "noctOpenCircuitVoltageVoc": 36.85,
+        "noctShortCircuitCurrentIsc": 11.31,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.01
+        },
+        "stc_voc": {
+          "value": 38.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S435"
+        },
+        "stc_vmpp": {
+          "value": 32.88
+        }
+      }
+    },
+    {
+      "id": 128054,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDGT2S440",
+      "productCode": "ENSP54NDGT2S440",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/86fdf0b8-d4e5-4812-a282-2f6328e2b816.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/eeaffdb7-a589-4bcb-abd5-13a17cd825f1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Fire Class Rating Class A"
+      ],
+      "panel": {
+        "id": 71188,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.05,
+        "stcShortCircuitCurrentIsc": 14.1,
+        "stcOpenCircuitVoltageVoc": 39,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": 819,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 330.9,
+        "noctVoltageAtMaximumPowerVmpp": 31.11,
+        "noctCurrentAtMaximumPowerImpp": 10.64,
+        "noctOpenCircuitVoltageVoc": 37.04,
+        "noctShortCircuitCurrentIsc": 11.38,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.1
+        },
+        "stc_voc": {
+          "value": 39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S440"
+        },
+        "stc_vmpp": {
+          "value": 33.05
+        }
+      }
+    },
+    {
+      "id": 128055,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDGT2S445",
+      "productCode": "ENSP54NDGT2S445",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/86fdf0b8-d4e5-4812-a282-2f6328e2b816.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/eeaffdb7-a589-4bcb-abd5-13a17cd825f1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Fire Class Rating Class A"
+      ],
+      "panel": {
+        "id": 71189,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 33.22,
+        "stcShortCircuitCurrentIsc": 14.19,
+        "stcOpenCircuitVoltageVoc": 39.2,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": 819,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 334.6,
+        "noctVoltageAtMaximumPowerVmpp": 31.27,
+        "noctCurrentAtMaximumPowerImpp": 10.7,
+        "noctOpenCircuitVoltageVoc": 37.23,
+        "noctShortCircuitCurrentIsc": 11.46,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.19
+        },
+        "stc_voc": {
+          "value": 39.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S445"
+        },
+        "stc_vmpp": {
+          "value": 33.22
+        }
+      }
+    },
+    {
+      "id": 128056,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDGT2S450",
+      "productCode": "ENSP54NDGT2S450",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/86fdf0b8-d4e5-4812-a282-2f6328e2b816.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/eeaffdb7-a589-4bcb-abd5-13a17cd825f1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Fire Class Rating Class A"
+      ],
+      "panel": {
+        "id": 71190,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.39,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 39.4,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": 819,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 338.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.43,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 37.42,
+        "noctShortCircuitCurrentIsc": 11.54,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 39.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S450"
+        },
+        "stc_vmpp": {
+          "value": 33.39
+        }
+      }
+    },
+    {
+      "id": 128057,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3143,
+      "brandName": "8 Star Energy",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a6784ac1-0db4-41cc-9e7c-90787aff24ae.webp",
+      "productName": "ENSP54NDGT2S455",
+      "productCode": "ENSP54NDGT2S455",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/86fdf0b8-d4e5-4812-a282-2f6328e2b816.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/eeaffdb7-a589-4bcb-abd5-13a17cd825f1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP54NDGT2s455 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Fire Class Rating Class A"
+      ],
+      "panel": {
+        "id": 71191,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 33.56,
+        "stcShortCircuitCurrentIsc": 14.36,
+        "stcOpenCircuitVoltageVoc": 39.6,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": 819,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 342.2,
+        "noctVoltageAtMaximumPowerVmpp": 31.59,
+        "noctCurrentAtMaximumPowerImpp": 10.83,
+        "noctOpenCircuitVoltageVoc": 37.61,
+        "noctShortCircuitCurrentIsc": 11.59,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.36
+        },
+        "stc_voc": {
+          "value": 39.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S455"
+        },
+        "stc_vmpp": {
+          "value": 33.56
+        }
+      }
+    }
+  ]
+}

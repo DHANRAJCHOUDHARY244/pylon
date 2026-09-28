@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Duracell",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.651Z",
+  "items": [
+    {
+      "id": 21344,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1403,
+      "brandName": "Duracell",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Duracell.png",
+      "productName": "DEB3-RF-5.0kW-I (AS4777-2 2020)",
+      "productCode": "DEB3-RF-5.0kW-I (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a8cd967b-e78b-4c2e-a9e4-8f774467b4ad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Duracell_DEB3-RF-5.0kW-I_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10454,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 400,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 476,
+        "width": 455,
+        "depth": 181,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.956,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 400
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

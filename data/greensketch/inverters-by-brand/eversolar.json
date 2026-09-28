@@ -1,0 +1,641 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Eversolar",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.135Z",
+  "items": [
+    {
+      "id": 20294,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL3200",
+      "productCode": "TL3200",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/39b71f6a-e613-48bf-b5dd-ef5aa121edad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL3200.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9404,
+        "companyProductId": null,
+        "maxAcPower": 3080,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 2800,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 2800
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24365,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL3200AS",
+      "productCode": "TL3200AS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4ed834a4-7885-409a-bbdc-46f5d9597dcc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL3200AS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13475,
+        "companyProductId": null,
+        "maxAcPower": 3080,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 2800,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 2800
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22960,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL4000",
+      "productCode": "TL4000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c7b38666-9ef9-45cd-998f-2de09dbe0eda.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL4000.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12070,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 680,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 680
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22093,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL4000AS",
+      "productCode": "TL4000AS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/75b66501-a7fc-4ad0-9b82-cf02a97bacde.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL4000AS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11203,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 680,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 680
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20412,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL4600",
+      "productCode": "TL4600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/64c090bf-2d22-44be-947b-c4b75114aea7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL4600.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9522,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20706,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL4600AS",
+      "productCode": "TL4600AS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/33667a52-d631-4000-87ff-48908171ca2b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL4600AS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9816,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20374,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL5400",
+      "productCode": "TL5400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/026b715c-aa96-4a5b-8998-672ab326f5df.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL5400.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9484,
+        "companyProductId": null,
+        "maxAcPower": 5060,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 31.5,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 31.5
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22445,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1338,
+      "brandName": "Eversolar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/b52eeb11-f0a8-481c-8660-8f24e341a101.png",
+      "productName": "TL5400AS",
+      "productCode": "TL5400AS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5e7716cb-8954-4f9a-a766-c2265c4b14a0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Eversolar_TL5400AS.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11555,
+        "companyProductId": null,
+        "maxAcPower": 5060,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 530,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 31.5,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 344,
+        "depth": 166,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 31.5
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

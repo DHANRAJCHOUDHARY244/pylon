@@ -1,0 +1,721 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "MiaSolé",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:32:14.071Z",
+  "items": [
+    {
+      "id": 33837,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 260NL",
+      "productCode": "FLEX-03 260NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_260NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_260NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11837,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 260,
+        "stcVoltageAtMaximumPowerVmpp": 67.2,
+        "stcShortCircuitCurrentIsc": 4.66,
+        "stcOpenCircuitVoltageVoc": 85.6,
+        "stcCurrentAtMaximumPowerImpp": 3.89,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.144,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.66
+        },
+        "stc_voc": {
+          "value": 85.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.008
+        },
+        "power": {
+          "value": 260
+        },
+        "cec_model": {
+          "value": "FLEX-03 260NL"
+        },
+        "stc_vmpp": {
+          "value": 67.2
+        }
+      }
+    },
+    {
+      "id": 37307,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 270NL",
+      "productCode": "FLEX-03 270NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_270NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_270NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15307,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 270,
+        "stcVoltageAtMaximumPowerVmpp": 69,
+        "stcShortCircuitCurrentIsc": 4.62,
+        "stcOpenCircuitVoltageVoc": 87.1,
+        "stcCurrentAtMaximumPowerImpp": 3.93,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.15,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.62
+        },
+        "stc_voc": {
+          "value": 87.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.008
+        },
+        "power": {
+          "value": 270
+        },
+        "cec_model": {
+          "value": "FLEX-03 270NL"
+        },
+        "stc_vmpp": {
+          "value": 69
+        }
+      }
+    },
+    {
+      "id": 33125,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 280NL",
+      "productCode": "FLEX-03 280NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_280NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_280NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11125,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 280,
+        "stcVoltageAtMaximumPowerVmpp": 70.8,
+        "stcShortCircuitCurrentIsc": 4.59,
+        "stcOpenCircuitVoltageVoc": 88.7,
+        "stcCurrentAtMaximumPowerImpp": 3.96,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.155,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.59
+        },
+        "stc_voc": {
+          "value": 88.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.008
+        },
+        "power": {
+          "value": 280
+        },
+        "cec_model": {
+          "value": "FLEX-03 280NL"
+        },
+        "stc_vmpp": {
+          "value": 70.8
+        }
+      }
+    },
+    {
+      "id": 32337,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 290NL",
+      "productCode": "FLEX-03 290NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_290NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_290NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10337,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 290,
+        "stcVoltageAtMaximumPowerVmpp": 72.6,
+        "stcShortCircuitCurrentIsc": 4.55,
+        "stcOpenCircuitVoltageVoc": 90.2,
+        "stcCurrentAtMaximumPowerImpp": 4,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.161,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.55
+        },
+        "stc_voc": {
+          "value": 90.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.008
+        },
+        "power": {
+          "value": 290
+        },
+        "cec_model": {
+          "value": "FLEX-03 290NL"
+        },
+        "stc_vmpp": {
+          "value": 72.6
+        }
+      }
+    },
+    {
+      "id": 19164,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 300NL",
+      "productCode": "FLEX-03 300NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_300NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_300NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6045,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 300,
+        "stcVoltageAtMaximumPowerVmpp": 74.5,
+        "stcShortCircuitCurrentIsc": 4.51,
+        "stcOpenCircuitVoltageVoc": 91.8,
+        "stcCurrentAtMaximumPowerImpp": 4.03,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.167,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.51
+        },
+        "stc_voc": {
+          "value": 91.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.08
+        },
+        "power": {
+          "value": 300
+        },
+        "cec_model": {
+          "value": "FLEX-03 300NL"
+        },
+        "stc_vmpp": {
+          "value": 74.5
+        }
+      }
+    },
+    {
+      "id": 35566,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 310NL",
+      "productCode": "FLEX-03 310NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_310NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_310NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13566,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 310,
+        "stcVoltageAtMaximumPowerVmpp": 76.3,
+        "stcShortCircuitCurrentIsc": 4.48,
+        "stcOpenCircuitVoltageVoc": 93.3,
+        "stcCurrentAtMaximumPowerImpp": 4.07,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.172,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.48
+        },
+        "stc_voc": {
+          "value": 93.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.008
+        },
+        "power": {
+          "value": 310
+        },
+        "cec_model": {
+          "value": "FLEX-03 310NL"
+        },
+        "stc_vmpp": {
+          "value": 76.3
+        }
+      }
+    },
+    {
+      "id": 19299,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 320NL",
+      "productCode": "FLEX-03 320NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_320NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_320NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6180,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 320,
+        "stcVoltageAtMaximumPowerVmpp": 78.1,
+        "stcShortCircuitCurrentIsc": 4.44,
+        "stcOpenCircuitVoltageVoc": 94.9,
+        "stcCurrentAtMaximumPowerImpp": 4.1,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.178,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.44
+        },
+        "stc_voc": {
+          "value": 94.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.08
+        },
+        "power": {
+          "value": 320
+        },
+        "cec_model": {
+          "value": "FLEX-03 320NL"
+        },
+        "stc_vmpp": {
+          "value": 78.1
+        }
+      }
+    },
+    {
+      "id": 18437,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1275,
+      "brandName": "MiaSolé",
+      "brandLogo": "https://file.greensketch.net/brands/logo/miasole-only-logo.png",
+      "productName": "FLEX-03 330NL",
+      "productCode": "FLEX-03 330NL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/MiaSolé_FLEX-03_330NL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/MiaSolé_FLEX-03_330NL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5318,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 330,
+        "stcVoltageAtMaximumPowerVmpp": 80,
+        "stcShortCircuitCurrentIsc": 4.41,
+        "stcOpenCircuitVoltageVoc": 96.4,
+        "stcCurrentAtMaximumPowerImpp": 4.14,
+        "temperatureCoefficientOfPmax": -0.0038,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0008,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 5905,
+        "width": 348,
+        "depth": 17,
+        "weight": 3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.38
+        },
+        "stc_isc": {
+          "value": 4.41
+        },
+        "stc_voc": {
+          "value": 96.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.08
+        },
+        "power": {
+          "value": 330
+        },
+        "cec_model": {
+          "value": "FLEX-03 330NL"
+        },
+        "stc_vmpp": {
+          "value": 80
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "APS",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:32:14.066Z",
+  "items": [
+    {
+      "id": 121982,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSM6-230/60",
+      "productCode": "APSM6-230/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/dfef8c43-d719-40e1-aef4-76d241330a25.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/b0b45341-ebdb-4205-ba66-9b5aec36ceb6.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68218,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 230,
+        "stcVoltageAtMaximumPowerVmpp": 29.6,
+        "stcShortCircuitCurrentIsc": 8.46,
+        "stcOpenCircuitVoltageVoc": 36.7,
+        "stcCurrentAtMaximumPowerImpp": 7.78,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.00733,
+        "subsequentAnnualPowerDegradation": 0.00589,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.144,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.46
+        },
+        "stc_voc": {
+          "value": 36.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 230
+        },
+        "cec_model": {
+          "value": "APSM6-230/60"
+        },
+        "stc_vmpp": {
+          "value": 29.6
+        }
+      }
+    },
+    {
+      "id": 121979,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSM6-235/60",
+      "productCode": "APSM6-235/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/4833d039-a519-42e8-989d-5ddf37899c21.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/1fb46152-b7af-4782-b447-52b4d271a82a.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68215,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 235,
+        "stcVoltageAtMaximumPowerVmpp": 30,
+        "stcShortCircuitCurrentIsc": 8.51,
+        "stcOpenCircuitVoltageVoc": 36.91,
+        "stcCurrentAtMaximumPowerImpp": 7.84,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.00733,
+        "subsequentAnnualPowerDegradation": 0.00589,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.156,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.51
+        },
+        "stc_voc": {
+          "value": 36.91
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 235
+        },
+        "cec_model": {
+          "value": "APSM6-235/60"
+        },
+        "stc_vmpp": {
+          "value": 30
+        }
+      }
+    },
+    {
+      "id": 121977,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSM6-250/60",
+      "productCode": "APSM6-250/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/ee793260-4208-450b-a364-956f5129b069.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/40431b37-213e-49f9-b835-12a325f6b775.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68213,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 250,
+        "stcVoltageAtMaximumPowerVmpp": 30.4,
+        "stcShortCircuitCurrentIsc": 8.97,
+        "stcOpenCircuitVoltageVoc": 37.3,
+        "stcCurrentAtMaximumPowerImpp": 8.24,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.00733,
+        "subsequentAnnualPowerDegradation": 0.00589,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.154,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.97
+        },
+        "stc_voc": {
+          "value": 37.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 250
+        },
+        "cec_model": {
+          "value": "APSM6-250/60"
+        },
+        "stc_vmpp": {
+          "value": 30.4
+        }
+      }
+    },
+    {
+      "id": 121975,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSM6-260/60",
+      "productCode": "APSM6-260/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/5df1c0d1-11ed-4998-b862-6a47cc61e403.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/9aee3b7d-0b2e-475c-9fe5-47e815d98ee8.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68211,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 260,
+        "stcVoltageAtMaximumPowerVmpp": 30.8,
+        "stcShortCircuitCurrentIsc": 8.94,
+        "stcOpenCircuitVoltageVoc": 37.2,
+        "stcCurrentAtMaximumPowerImpp": 8.46,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.00733,
+        "subsequentAnnualPowerDegradation": 0.00589,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.16,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.94
+        },
+        "stc_voc": {
+          "value": 37.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 260
+        },
+        "cec_model": {
+          "value": "APSM6-260/60"
+        },
+        "stc_vmpp": {
+          "value": 30.8
+        }
+      }
+    },
+    {
+      "id": 121981,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSP6-230/60",
+      "productCode": "APSP6-230/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/d8822c8d-1b21-416a-8f27-b845740ead44.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/c33f7224-0e61-44be-894d-a71c903f50de.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68217,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 230,
+        "stcVoltageAtMaximumPowerVmpp": 30.4,
+        "stcShortCircuitCurrentIsc": 8.98,
+        "stcOpenCircuitVoltageVoc": 37.35,
+        "stcCurrentAtMaximumPowerImpp": 8.24,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00566,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Polycrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.154,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.98
+        },
+        "stc_voc": {
+          "value": 37.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 230
+        },
+        "cec_model": {
+          "value": "APSP6-230/60"
+        },
+        "stc_vmpp": {
+          "value": 30.4
+        }
+      }
+    },
+    {
+      "id": 121980,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSP6-235/60",
+      "productCode": "APSP6-235/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/04191615-7a46-4d75-b4d0-85463fa03064.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/824932d9-99ef-440d-b29a-ac4772a53f74.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68216,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 235,
+        "stcVoltageAtMaximumPowerVmpp": 30.2,
+        "stcShortCircuitCurrentIsc": 8.78,
+        "stcOpenCircuitVoltageVoc": 37.35,
+        "stcCurrentAtMaximumPowerImpp": 8.12,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00566,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Polycrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.152,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.78
+        },
+        "stc_voc": {
+          "value": 37.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 235
+        },
+        "cec_model": {
+          "value": "APSP6-235/60"
+        },
+        "stc_vmpp": {
+          "value": 30.2
+        }
+      }
+    },
+    {
+      "id": 121978,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSP6-245/60",
+      "productCode": "APSP6-245/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/fa6445ca-6fb5-4496-b6c8-a89ddfee677f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/f4fc56fa-1317-423a-947a-a0cddaaaab72.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68214,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 245,
+        "stcVoltageAtMaximumPowerVmpp": 29.8,
+        "stcShortCircuitCurrentIsc": 8.44,
+        "stcOpenCircuitVoltageVoc": 36.8,
+        "stcCurrentAtMaximumPowerImpp": 7.82,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00566,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Polycrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.148,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.44
+        },
+        "stc_voc": {
+          "value": 36.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 245
+        },
+        "cec_model": {
+          "value": "APSP6-245/60"
+        },
+        "stc_vmpp": {
+          "value": 29.8
+        }
+      }
+    },
+    {
+      "id": 121976,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2186,
+      "brandName": "APS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/45a3a2b9-e032-4971-b351-7f5ab0b023bd.png",
+      "productName": "APSP6-250/60",
+      "productCode": "APSP6-250/60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/49fb8ad1-529f-4090-b05f-32d71301ff37.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/e41fed35-8d32-4deb-8ae5-3748911c23d0.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68212,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 250,
+        "stcVoltageAtMaximumPowerVmpp": 29.6,
+        "stcShortCircuitCurrentIsc": 8.34,
+        "stcOpenCircuitVoltageVoc": 36.8,
+        "stcCurrentAtMaximumPowerImpp": 7.78,
+        "temperatureCoefficientOfPmax": -0.0048,
+        "temperatureCoefficientOfVoc": -0.0035,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00566,
+        "height": 1640,
+        "width": 992,
+        "depth": 35,
+        "weight": 17.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Polycrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.144,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.48
+        },
+        "stc_isc": {
+          "value": 8.34
+        },
+        "stc_voc": {
+          "value": 36.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.35
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 250
+        },
+        "cec_model": {
+          "value": "APSP6-250/60"
+        },
+        "stc_vmpp": {
+          "value": 29.6
+        }
+      }
+    }
+  ]
+}

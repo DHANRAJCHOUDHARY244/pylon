@@ -1,0 +1,404 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "AERL",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.204Z",
+  "items": [
+    {
+      "id": 23861,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1430,
+      "brandName": "AERL",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AERL.png",
+      "productName": "SRX 600/30-120",
+      "productCode": "SRX 600/30-120",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8dd8bcdf-5946-4d4c-8605-9d11317f1ec9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AERL_SRX_600_30-120.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12971,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 0,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 24,
+        "mpptVoltageMin": 215,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "PV-only Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6480,
+        "dcInputs": 1,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 24
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 215
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21631,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1430,
+      "brandName": "AERL",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AERL.png",
+      "productName": "SRX 600/55-48",
+      "productCode": "SRX 600/55-48",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c1090e25-51bb-46b8-a039-161489585c70.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AERL_SRX_600_55-48.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SRX 600/55-48",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10741,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 0,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 24,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 1584,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 432,
+        "width": 192,
+        "depth": 83,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 24
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 1584
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23491,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1430,
+      "brandName": "AERL",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AERL.png",
+      "productName": "SRX 600/70-48",
+      "productCode": "SRX 600/70-48",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e5ba4f7d-8d36-4a39-9acf-f11635e272a3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AERL_SRX_600_70-48.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SRX 600/70-48",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12601,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 0,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 24,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 432,
+        "width": 192,
+        "depth": 83,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 24
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22970,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1430,
+      "brandName": "AERL",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AERL.png",
+      "productName": "SRX-R 600/30-120",
+      "productCode": "SRX-R 600/30-120",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/347ecd7a-79d0-4ac8-9158-3e0d584a8ad6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AERL_SRX-R_600_30-120.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12080,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 215,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 215
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21662,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1430,
+      "brandName": "AERL",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AERL.png",
+      "productName": "SRX-R 600/60-48",
+      "productCode": "SRX-R 600/60-48",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/121f4f71-28aa-4792-948b-b1cb2e7767ff.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/AERL_SRX-R_600_60-48.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SRX-R 600/60-48",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10772,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 170,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 170
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

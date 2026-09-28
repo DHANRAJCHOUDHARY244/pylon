@@ -1,0 +1,63 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "Hengtong ESS",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:23.017Z",
+  "items": [
+    {
+      "id": 129163,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 3125,
+      "brandName": "Hengtong ESS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cf601ee0-969e-4212-90e6-55e41bec0692.webp",
+      "productName": "HELIOS H5000 HTBP-48V100",
+      "productCode": "HTBP-48V100",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7e152d00-474d-40aa-8815-13f4c60c6b53.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/24/9e50d06e-18be-4e75-95cd-fadc9b8e0cd6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10 years (@80%DoD@0.2C@25°C)",
+      "cecModelNumber": "HTBP-48V100",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UN38.3",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 62040"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 16027,
+        "companyProductId": null,
+        "nominalEnergy": 5.12,
+        "usableEnergy": 4.1,
+        "depthOfDischarge": 0.80078125,
+        "roundTripEfficiency": 0.95,
+        "cycleLife": null,
+        "length": 152,
+        "width": 652,
+        "height": 365,
+        "batteryType": "High-Performance Battery Cell",
+        "weight": 45,
+        "ratedDcVoltage": 51.2,
+        "maxAcPower": null,
+        "ipRating": "IP54",
+        "batteryChemistry": "",
+        "maxOutputPower": 2560,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}

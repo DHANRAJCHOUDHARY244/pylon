@@ -1,0 +1,2145 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "First Solar",
+  "count": 24,
+  "exportedAt": "2026-09-23T06:32:14.028Z",
+  "items": [
+    {
+      "id": 36194,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6455-P",
+      "productCode": "FS-6455-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6455-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6455-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14194,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 2.42,
+        "stcShortCircuitCurrentIsc": 222,
+        "stcOpenCircuitVoltageVoc": 2.58,
+        "stcCurrentAtMaximumPowerImpp": 187.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.181,
+        "noctMaximumPowerPmax": 343.6,
+        "noctVoltageAtMaximumPowerVmpp": 1.95,
+        "noctCurrentAtMaximumPowerImpp": 176.2,
+        "noctOpenCircuitVoltageVoc": 2.08,
+        "noctShortCircuitCurrentIsc": 209.6,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 222
+        },
+        "stc_voc": {
+          "value": 2.58
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "FS-6455-P"
+        },
+        "stc_vmpp": {
+          "value": 2.42
+        }
+      }
+    },
+    {
+      "id": 33309,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6455-P-I",
+      "productCode": "FS-6455-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6455-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6455-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11309,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 2.42,
+        "stcShortCircuitCurrentIsc": 222,
+        "stcOpenCircuitVoltageVoc": 2.58,
+        "stcCurrentAtMaximumPowerImpp": 187.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.181,
+        "noctMaximumPowerPmax": 343.6,
+        "noctVoltageAtMaximumPowerVmpp": 1.95,
+        "noctCurrentAtMaximumPowerImpp": 176.2,
+        "noctOpenCircuitVoltageVoc": 2.08,
+        "noctShortCircuitCurrentIsc": 209.6,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 222
+        },
+        "stc_voc": {
+          "value": 2.58
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "FS-6455-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.42
+        }
+      }
+    },
+    {
+      "id": 37902,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6455A-P",
+      "productCode": "FS-6455A-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6455A-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6455A-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15902,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 2.42,
+        "stcShortCircuitCurrentIsc": 222,
+        "stcOpenCircuitVoltageVoc": 2.58,
+        "stcCurrentAtMaximumPowerImpp": 187.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.181,
+        "noctMaximumPowerPmax": 343.6,
+        "noctVoltageAtMaximumPowerVmpp": 1.95,
+        "noctCurrentAtMaximumPowerImpp": 176.2,
+        "noctOpenCircuitVoltageVoc": 2.08,
+        "noctShortCircuitCurrentIsc": 209.6,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 222
+        },
+        "stc_voc": {
+          "value": 2.58
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "FS-6455A-P"
+        },
+        "stc_vmpp": {
+          "value": 2.42
+        }
+      }
+    },
+    {
+      "id": 19116,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6455A-P-I",
+      "productCode": "FS-6455A-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6455A-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6455A-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5997,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 2.42,
+        "stcShortCircuitCurrentIsc": 222,
+        "stcOpenCircuitVoltageVoc": 2.58,
+        "stcCurrentAtMaximumPowerImpp": 187.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.181,
+        "noctMaximumPowerPmax": 343.6,
+        "noctVoltageAtMaximumPowerVmpp": 1.95,
+        "noctCurrentAtMaximumPowerImpp": 176.2,
+        "noctOpenCircuitVoltageVoc": 2.08,
+        "noctShortCircuitCurrentIsc": 209.6,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 222
+        },
+        "stc_voc": {
+          "value": 2.58
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "FS-6455A-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.42
+        }
+      }
+    },
+    {
+      "id": 37204,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6460-P",
+      "productCode": "FS-6460-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6460-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6460-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15204,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 2.44,
+        "stcShortCircuitCurrentIsc": 2.59,
+        "stcOpenCircuitVoltageVoc": 222.9,
+        "stcCurrentAtMaximumPowerImpp": 188.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 347.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.97,
+        "noctCurrentAtMaximumPowerImpp": 176.3,
+        "noctOpenCircuitVoltageVoc": 2.09,
+        "noctShortCircuitCurrentIsc": 210.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.59
+        },
+        "stc_voc": {
+          "value": 222.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "FS-6460-P"
+        },
+        "stc_vmpp": {
+          "value": 2.44
+        }
+      }
+    },
+    {
+      "id": 34542,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6460-P-I",
+      "productCode": "FS-6460-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6460-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6460-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12542,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 2.44,
+        "stcShortCircuitCurrentIsc": 2.59,
+        "stcOpenCircuitVoltageVoc": 222.9,
+        "stcCurrentAtMaximumPowerImpp": 188.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 347.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.97,
+        "noctCurrentAtMaximumPowerImpp": 176.3,
+        "noctOpenCircuitVoltageVoc": 2.09,
+        "noctShortCircuitCurrentIsc": 210.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.59
+        },
+        "stc_voc": {
+          "value": 222.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "FS-6460-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.44
+        }
+      }
+    },
+    {
+      "id": 32841,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6460A-P",
+      "productCode": "FS-6460A-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6460A-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6460A-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10841,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 2.44,
+        "stcShortCircuitCurrentIsc": 2.59,
+        "stcOpenCircuitVoltageVoc": 222.9,
+        "stcCurrentAtMaximumPowerImpp": 188.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 347.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.97,
+        "noctCurrentAtMaximumPowerImpp": 176.3,
+        "noctOpenCircuitVoltageVoc": 2.09,
+        "noctShortCircuitCurrentIsc": 210.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.59
+        },
+        "stc_voc": {
+          "value": 222.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "FS-6460A-P"
+        },
+        "stc_vmpp": {
+          "value": 2.44
+        }
+      }
+    },
+    {
+      "id": 33639,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6460A-P-I",
+      "productCode": "FS-6460A-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6460A-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6460A-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11639,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 2.44,
+        "stcShortCircuitCurrentIsc": 2.59,
+        "stcOpenCircuitVoltageVoc": 222.9,
+        "stcCurrentAtMaximumPowerImpp": 188.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 347.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.97,
+        "noctCurrentAtMaximumPowerImpp": 176.3,
+        "noctOpenCircuitVoltageVoc": 2.09,
+        "noctShortCircuitCurrentIsc": 210.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.59
+        },
+        "stc_voc": {
+          "value": 222.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "FS-6460A-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.44
+        }
+      }
+    },
+    {
+      "id": 36317,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6465-P",
+      "productCode": "FS-6465-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6465-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6465-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14317,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 2.45,
+        "stcShortCircuitCurrentIsc": 2.6,
+        "stcOpenCircuitVoltageVoc": 223.8,
+        "stcCurrentAtMaximumPowerImpp": 189.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.185,
+        "noctMaximumPowerPmax": 351.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 177.4,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.6
+        },
+        "stc_voc": {
+          "value": 223.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "FS-6465-P"
+        },
+        "stc_vmpp": {
+          "value": 2.45
+        }
+      }
+    },
+    {
+      "id": 33368,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6465-P-I",
+      "productCode": "FS-6465-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6465-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6465-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11368,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 2.45,
+        "stcShortCircuitCurrentIsc": 2.6,
+        "stcOpenCircuitVoltageVoc": 223.8,
+        "stcCurrentAtMaximumPowerImpp": 189.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.185,
+        "noctMaximumPowerPmax": 351.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 177.4,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.6
+        },
+        "stc_voc": {
+          "value": 223.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "FS-6465-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.45
+        }
+      }
+    },
+    {
+      "id": 38266,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6465A-P",
+      "productCode": "FS-6465A-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6465A-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6465A-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16266,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 2.45,
+        "stcShortCircuitCurrentIsc": 2.6,
+        "stcOpenCircuitVoltageVoc": 223.8,
+        "stcCurrentAtMaximumPowerImpp": 189.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.185,
+        "noctMaximumPowerPmax": 351.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 177.4,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.6
+        },
+        "stc_voc": {
+          "value": 223.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "FS-6465A-P"
+        },
+        "stc_vmpp": {
+          "value": 2.45
+        }
+      }
+    },
+    {
+      "id": 34867,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6465A-P-I",
+      "productCode": "FS-6465A-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6465A-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6465A-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12867,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 2.45,
+        "stcShortCircuitCurrentIsc": 2.6,
+        "stcOpenCircuitVoltageVoc": 223.8,
+        "stcCurrentAtMaximumPowerImpp": 189.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.185,
+        "noctMaximumPowerPmax": 351.3,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 177.4,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.6
+        },
+        "stc_voc": {
+          "value": 223.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "FS-6465A-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.45
+        }
+      }
+    },
+    {
+      "id": 38332,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6470-P",
+      "productCode": "FS-6470-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6470-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6470-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16332,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 470,
+        "stcVoltageAtMaximumPowerVmpp": 2.46,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.3,
+        "stcCurrentAtMaximumPowerImpp": 191.1,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.187,
+        "noctMaximumPowerPmax": 355,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 179.3,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.8,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 470
+        },
+        "cec_model": {
+          "value": "FS-6470-P"
+        },
+        "stc_vmpp": {
+          "value": 2.46
+        }
+      }
+    },
+    {
+      "id": 37559,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6470-P-I",
+      "productCode": "FS-6470-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6470-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6470-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15559,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 470,
+        "stcVoltageAtMaximumPowerVmpp": 2.46,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.3,
+        "stcCurrentAtMaximumPowerImpp": 191.1,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.187,
+        "noctMaximumPowerPmax": 355,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 179.3,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.8,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 470
+        },
+        "cec_model": {
+          "value": "FS-6470-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.46
+        }
+      }
+    },
+    {
+      "id": 35208,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6470A-P",
+      "productCode": "FS-6470A-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6470A-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6470A-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13208,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 470,
+        "stcVoltageAtMaximumPowerVmpp": 2.46,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.3,
+        "stcCurrentAtMaximumPowerImpp": 191.1,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.187,
+        "noctMaximumPowerPmax": 355,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 179.3,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.8,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 470
+        },
+        "cec_model": {
+          "value": "FS-6470A-P"
+        },
+        "stc_vmpp": {
+          "value": 2.46
+        }
+      }
+    },
+    {
+      "id": 34553,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6470A-P-I",
+      "productCode": "FS-6470A-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6470A-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6470A-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12553,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 470,
+        "stcVoltageAtMaximumPowerVmpp": 2.46,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.3,
+        "stcCurrentAtMaximumPowerImpp": 191.1,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.187,
+        "noctMaximumPowerPmax": 355,
+        "noctVoltageAtMaximumPowerVmpp": 1.98,
+        "noctCurrentAtMaximumPowerImpp": 179.3,
+        "noctOpenCircuitVoltageVoc": 2.1,
+        "noctShortCircuitCurrentIsc": 211.8,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 470
+        },
+        "cec_model": {
+          "value": "FS-6470A-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.46
+        }
+      }
+    },
+    {
+      "id": 35033,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6475-P",
+      "productCode": "FS-6475-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6475-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6475-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13033,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 475,
+        "stcVoltageAtMaximumPowerVmpp": 2.48,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.8,
+        "stcCurrentAtMaximumPowerImpp": 191.5,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.189,
+        "noctMaximumPowerPmax": 358.8,
+        "noctVoltageAtMaximumPowerVmpp": 2,
+        "noctCurrentAtMaximumPowerImpp": 179.4,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 475
+        },
+        "cec_model": {
+          "value": "FS-6475-P"
+        },
+        "stc_vmpp": {
+          "value": 2.48
+        }
+      }
+    },
+    {
+      "id": 36284,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6475-P-I",
+      "productCode": "FS-6475-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6475-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6475-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14284,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 475,
+        "stcVoltageAtMaximumPowerVmpp": 2.48,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.8,
+        "stcCurrentAtMaximumPowerImpp": 191.5,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.189,
+        "noctMaximumPowerPmax": 358.8,
+        "noctVoltageAtMaximumPowerVmpp": 2,
+        "noctCurrentAtMaximumPowerImpp": 179.4,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 475
+        },
+        "cec_model": {
+          "value": "FS-6475-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.48
+        }
+      }
+    },
+    {
+      "id": 37248,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6475A-P",
+      "productCode": "FS-6475A-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6475A-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6475A-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15248,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 475,
+        "stcVoltageAtMaximumPowerVmpp": 2.48,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.8,
+        "stcCurrentAtMaximumPowerImpp": 191.5,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.189,
+        "noctMaximumPowerPmax": 358.8,
+        "noctVoltageAtMaximumPowerVmpp": 2,
+        "noctCurrentAtMaximumPowerImpp": 179.4,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 475
+        },
+        "cec_model": {
+          "value": "FS-6475A-P"
+        },
+        "stc_vmpp": {
+          "value": 2.48
+        }
+      }
+    },
+    {
+      "id": 19511,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6475A-P-I",
+      "productCode": "FS-6475A-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6475A-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6475A-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6392,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 475,
+        "stcVoltageAtMaximumPowerVmpp": 2.48,
+        "stcShortCircuitCurrentIsc": 2.61,
+        "stcOpenCircuitVoltageVoc": 224.8,
+        "stcCurrentAtMaximumPowerImpp": 191.5,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.189,
+        "noctMaximumPowerPmax": 358.8,
+        "noctVoltageAtMaximumPowerVmpp": 2,
+        "noctCurrentAtMaximumPowerImpp": 179.4,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.3,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.61
+        },
+        "stc_voc": {
+          "value": 224.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 475
+        },
+        "cec_model": {
+          "value": "FS-6475A-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.48
+        }
+      }
+    },
+    {
+      "id": 37587,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6480-P",
+      "productCode": "FS-6480-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6480-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6480-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15587,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 480,
+        "stcVoltageAtMaximumPowerVmpp": 2.49,
+        "stcShortCircuitCurrentIsc": 2.62,
+        "stcOpenCircuitVoltageVoc": 225.4,
+        "stcCurrentAtMaximumPowerImpp": 192.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Thin film",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.19,
+        "noctMaximumPowerPmax": 362.4,
+        "noctVoltageAtMaximumPowerVmpp": 2.01,
+        "noctCurrentAtMaximumPowerImpp": 180.3,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.7,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.62
+        },
+        "stc_voc": {
+          "value": 225.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 480
+        },
+        "cec_model": {
+          "value": "FS-6480-P"
+        },
+        "stc_vmpp": {
+          "value": 2.49
+        }
+      }
+    },
+    {
+      "id": 37716,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6480-P-I",
+      "productCode": "FS-6480-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6480-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6480-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15716,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 480,
+        "stcVoltageAtMaximumPowerVmpp": 2.49,
+        "stcShortCircuitCurrentIsc": 2.62,
+        "stcOpenCircuitVoltageVoc": 225.4,
+        "stcCurrentAtMaximumPowerImpp": 192.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.19,
+        "noctMaximumPowerPmax": 362.4,
+        "noctVoltageAtMaximumPowerVmpp": 2.01,
+        "noctCurrentAtMaximumPowerImpp": 180.3,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.7,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.62
+        },
+        "stc_voc": {
+          "value": 225.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 480
+        },
+        "cec_model": {
+          "value": "FS-6480-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.49
+        }
+      }
+    },
+    {
+      "id": 35955,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6480A-P",
+      "productCode": "FS-6480A-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6480A-P.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6480A-P.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13955,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 480,
+        "stcVoltageAtMaximumPowerVmpp": 2.49,
+        "stcShortCircuitCurrentIsc": 2.62,
+        "stcOpenCircuitVoltageVoc": 225.4,
+        "stcCurrentAtMaximumPowerImpp": 192.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.19,
+        "noctMaximumPowerPmax": 362.4,
+        "noctVoltageAtMaximumPowerVmpp": 2.01,
+        "noctCurrentAtMaximumPowerImpp": 180.3,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.7,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.62
+        },
+        "stc_voc": {
+          "value": 225.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 480
+        },
+        "cec_model": {
+          "value": "FS-6480A-P"
+        },
+        "stc_vmpp": {
+          "value": 2.49
+        }
+      }
+    },
+    {
+      "id": 36261,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1311,
+      "brandName": "First Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/first_solar_logo.jpg",
+      "productName": "FS-6480A-P-I",
+      "productCode": "FS-6480A-P-I",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/First_Solar_FS-6480A-P-I.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/First_Solar_FS-6480A-P-I.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14261,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 480,
+        "stcVoltageAtMaximumPowerVmpp": 2.49,
+        "stcShortCircuitCurrentIsc": 2.62,
+        "stcOpenCircuitVoltageVoc": 225.4,
+        "stcCurrentAtMaximumPowerImpp": 192.8,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2024,
+        "width": 1245,
+        "depth": 49,
+        "weight": 33,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.19,
+        "noctMaximumPowerPmax": 362.4,
+        "noctVoltageAtMaximumPowerVmpp": 2.01,
+        "noctCurrentAtMaximumPowerImpp": 180.3,
+        "noctOpenCircuitVoltageVoc": 2.11,
+        "noctShortCircuitCurrentIsc": 212.7,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 2.62
+        },
+        "stc_voc": {
+          "value": 225.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 480
+        },
+        "cec_model": {
+          "value": "FS-6480A-P-I"
+        },
+        "stc_vmpp": {
+          "value": 2.49
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Canadian Solar",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:32:24.486Z",
+  "items": [
+    {
+      "id": 51253,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": 2,
+      "brandId": null,
+      "brandName": "Canadian Solar",
+      "brandLogo": "https://greensketch.s3.ap-southeast-2.amazonaws.com/brands/logo/CSI.png",
+      "productName": "CS6L-460MS (IEC1500V)",
+      "productCode": "CS6L-460MS (IEC1500V)",
+      "displayName": null,
+      "productDescription": "CS6L-460MS (IEC1500V)",
+      "photo": "https://assets.solarbrain.com.au/uploads/solar_user_product_photo/file/58efaf10-b290-491a-a77e-49b066dc2405/bcf1f461028107f06d7f81d29513076c.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/solar_user_product_datasheet/file/3366a1aa-e432-4bd5-88ac-88ae4e66f01c/810be3ba0741e1d9db11d7b20cd354d2.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 2,
+      "certifications": [],
+      "panel": {
+        "id": 18407,
+        "companyProductId": 51253,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 34.8,
+        "stcShortCircuitCurrentIsc": 14,
+        "stcOpenCircuitVoltageVoc": 41.4,
+        "stcCurrentAtMaximumPowerImpp": 13.24,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1903,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 345,
+        "noctVoltageAtMaximumPowerVmpp": 32.6,
+        "noctCurrentAtMaximumPowerImpp": 10.58,
+        "noctOpenCircuitVoltageVoc": 39.1,
+        "noctShortCircuitCurrentIsc": 11.29,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": [
+          "stcMaximumPowerPmax",
+          "frameColor"
+        ]
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14
+        },
+        "stc_voc": {
+          "value": 41.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "CS6L-460MS (IEC1500V)"
+        },
+        "stc_vmpp": {
+          "value": 34.8
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "PV Power Tech",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.459Z",
+  "items": [
+    {
+      "id": 33383,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1286,
+      "brandName": "PV Power Tech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/pv-powertech-logo-3.png",
+      "productName": "ECO 380MH",
+      "productCode": "ECO 380MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/PV_Power_Tech_ECO_380MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/PV_Power_Tech_ECO_380MH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11383,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 380,
+        "stcVoltageAtMaximumPowerVmpp": 39.8,
+        "stcShortCircuitCurrentIsc": 9.9,
+        "stcOpenCircuitVoltageVoc": 48.65,
+        "stcCurrentAtMaximumPowerImpp": 9.55,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.00708,
+        "height": 1986,
+        "width": 1001,
+        "depth": 35,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 72,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1911,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 9.9
+        },
+        "stc_voc": {
+          "value": 48.65
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 380
+        },
+        "cec_model": {
+          "value": "ECO 380MH"
+        },
+        "stc_vmpp": {
+          "value": 39.8
+        }
+      }
+    },
+    {
+      "id": 32980,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1286,
+      "brandName": "PV Power Tech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/pv-powertech-logo-3.png",
+      "productName": "ECO 385MH",
+      "productCode": "ECO 385MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/PV_Power_Tech_ECO_385MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/PV_Power_Tech_ECO_385MH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10980,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 385,
+        "stcVoltageAtMaximumPowerVmpp": 40.03,
+        "stcShortCircuitCurrentIsc": 10.02,
+        "stcOpenCircuitVoltageVoc": 48.72,
+        "stcCurrentAtMaximumPowerImpp": 9.63,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.00708,
+        "height": 1986,
+        "width": 1001,
+        "depth": 35,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 72,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1937,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 10.02
+        },
+        "stc_voc": {
+          "value": 48.72
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 385
+        },
+        "cec_model": {
+          "value": "ECO 385MH"
+        },
+        "stc_vmpp": {
+          "value": 40.03
+        }
+      }
+    },
+    {
+      "id": 36731,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1286,
+      "brandName": "PV Power Tech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/pv-powertech-logo-3.png",
+      "productName": "ECO 390MH",
+      "productCode": "ECO 390MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/PV_Power_Tech_ECO_390MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/PV_Power_Tech_ECO_390MH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14731,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 40.27,
+        "stcShortCircuitCurrentIsc": 10.11,
+        "stcOpenCircuitVoltageVoc": 48.85,
+        "stcCurrentAtMaximumPowerImpp": 9.69,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.00708,
+        "height": 1986,
+        "width": 1001,
+        "depth": 35,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 72,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1962,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 10.11
+        },
+        "stc_voc": {
+          "value": 48.85
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "ECO 390MH"
+        },
+        "stc_vmpp": {
+          "value": 40.27
+        }
+      }
+    },
+    {
+      "id": 18542,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1286,
+      "brandName": "PV Power Tech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/pv-powertech-logo-3.png",
+      "productName": "ECO 395MH",
+      "productCode": "ECO 395MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/PV_Power_Tech_ECO_395MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/PV_Power_Tech_ECO_395MH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5423,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 40.39,
+        "stcShortCircuitCurrentIsc": 10.15,
+        "stcOpenCircuitVoltageVoc": 49.04,
+        "stcCurrentAtMaximumPowerImpp": 9.78,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.00708,
+        "height": 1986,
+        "width": 1001,
+        "depth": 35,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 72,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.199,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 10.15
+        },
+        "stc_voc": {
+          "value": 49.04
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "ECO 395MH"
+        },
+        "stc_vmpp": {
+          "value": 40.39
+        }
+      }
+    },
+    {
+      "id": 32859,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1286,
+      "brandName": "PV Power Tech",
+      "brandLogo": "https://file.greensketch.net/brands/logo/pv-powertech-logo-3.png",
+      "productName": "ECO 400MH",
+      "productCode": "ECO 400MH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/PV_Power_Tech_ECO_400MH.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/PV_Power_Tech_ECO_400MH.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10859,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 40.47,
+        "stcShortCircuitCurrentIsc": 10.2,
+        "stcOpenCircuitVoltageVoc": 49.28,
+        "stcCurrentAtMaximumPowerImpp": 9.89,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0.03,
+        "subsequentAnnualPowerDegradation": 0.00708,
+        "height": 1986,
+        "width": 1001,
+        "depth": 35,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 72,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2012,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 10.2
+        },
+        "stc_voc": {
+          "value": 49.28
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "ECO 400MH"
+        },
+        "stc_vmpp": {
+          "value": 40.47
+        }
+      }
+    }
+  ]
+}

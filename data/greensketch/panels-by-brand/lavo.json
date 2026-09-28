@@ -1,0 +1,187 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "LAVO",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:32:24.484Z",
+  "items": [
+    {
+      "id": 38772,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1348,
+      "brandName": "LAVO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(8).png",
+      "productName": "PV-415WMP-YL",
+      "productCode": "PV-415WMP-YL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/LAVO_PV-415WMP-YL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/LAVO_PV-415WMP-YL.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16772,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.1,
+        "stcShortCircuitCurrentIsc": 14.02,
+        "stcOpenCircuitVoltageVoc": 37.39,
+        "stcCurrentAtMaximumPowerImpp": 13.35,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2125,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.02
+        },
+        "stc_voc": {
+          "value": 37.39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "PV-415WMP-YL"
+        },
+        "stc_vmpp": {
+          "value": 31.1
+        }
+      }
+    },
+    {
+      "id": 33053,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1348,
+      "brandName": "LAVO",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(8).png",
+      "productName": "PV-440WMP-YL",
+      "productCode": "PV-440WMP-YL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/LAVO_PV-440WMP-YL.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/LAVO_PV-440WMP-YL.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11053,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 32.26,
+        "stcShortCircuitCurrentIsc": 14.4,
+        "stcOpenCircuitVoltageVoc": 38.86,
+        "stcCurrentAtMaximumPowerImpp": 13.64,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2253,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.4
+        },
+        "stc_voc": {
+          "value": 38.86
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "PV-440WMP-YL"
+        },
+        "stc_vmpp": {
+          "value": 32.26
+        }
+      }
+    }
+  ]
+}

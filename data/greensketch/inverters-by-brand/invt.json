@@ -1,0 +1,3880 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "INVT",
+  "count": 49,
+  "exportedAt": "2026-09-23T06:39:31.808Z",
+  "items": [
+    {
+      "id": 22466,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD100KTR-P",
+      "productCode": "BD100KTR-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/775fa0cb-4e7d-4c3b-b1d3-1572530fa22a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD100KTR-P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11576,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 2050,
+        "width": 1200,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 120000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 1377,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD10KTR-RH3",
+      "productCode": "BD10KTR-RH3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1922d665-c7d1-4cac-a815-5fb122a2d87d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD10KTR-RH3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 319,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 530,
+        "depth": 200,
+        "weight": 29,
+        "display": "LCD",
+        "maxDcPower": 13000,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15.9,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1380,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD12KTR-RH3",
+      "productCode": "BD12KTR-RH3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1483d7fa-7974-42b5-83f0-c6b8628f41a9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD12KTR-RH3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 322,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 530,
+        "depth": 200,
+        "weight": 29,
+        "display": "LCD",
+        "maxDcPower": 15600,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 19.1,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20771,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD30KTR-P",
+      "productCode": "BD30KTR-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d63fb1dc-0f38-490e-94ce-fd87298c411e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD30KTR-P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9881,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 1900,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 60000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20250,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD3K6TL-RL1",
+      "productCode": "BD3K6TL-RL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/47f92c47-c94a-44d2-b0c2-5d6ac383741e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD3K6TL-RL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9360,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24350,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD3KTL-RL1",
+      "productCode": "BD3KTL-RL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7ea65d43-00c1-46d3-83ca-8300a563bef9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD3KTL-RL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13460,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23875,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD4K6TL-RL1",
+      "productCode": "BD4K6TL-RL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d8123326-f8fa-4190-ba28-ec129d6017ee.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD4K6TL-RL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12985,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20704,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD4KTL-RL1",
+      "productCode": "BD4KTL-RL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/17112fe3-9006-49f0-b813-7469310bc760.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD4KTL-RL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9814,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24404,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD50KTR-P",
+      "productCode": "BD50KTR-P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/56c7a842-dab7-4f3b-96e6-56d6d7f22470.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD50KTR-P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13514,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 1900,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 60000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23524,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD5KTL-RL1",
+      "productCode": "BD5KTL-RL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/65d60e91-b95b-44d2-b00c-886efa49a8eb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD5KTL-RL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12634,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21447,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD6KTL-RL1",
+      "productCode": "BD6KTL-RL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/77ac077a-8a92-4e9f-b256-858f12890b23.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD6KTL-RL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10557,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1281,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BD8KTR-RH3",
+      "productCode": "BD8KTR-RH3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/dbfc2f81-2dfd-4582-9ee3-10c7f5daeb29.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BD8KTR-RH3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 223,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 530,
+        "depth": 200,
+        "weight": 29,
+        "display": "LCD",
+        "maxDcPower": 10400,
+        "dcInputs": null,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23782,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG10KTR",
+      "productCode": "BG10KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9d55ed9a-f9c1-49aa-a13d-a9ca6d88c3f3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG10KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12892,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 575,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1040,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21465,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG12KTR",
+      "productCode": "BG12KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f00a6820-c718-4387-814b-0cac7dcdb3be.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG12KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10575,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 480,
+        "depth": 204,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20712,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG15KTR",
+      "productCode": "BG15KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ae3524ec-f2f1-486c-a068-9b6fba35039e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG15KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9822,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 27,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 480,
+        "depth": 204,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24000,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG17KTR",
+      "productCode": "BG17KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/96b5c9e0-ad4f-41b7-8222-af311c6c275e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG17KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13110,
+        "companyProductId": null,
+        "maxAcPower": 17000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 17000,
+        "maxShortCircuitCurrentPerMppt": 29,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 480,
+        "depth": 204,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 17500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 29
+        },
+        "nominal_ac_power": {
+          "value": 17000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24089,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG20KTR",
+      "productCode": "BG20KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/28f68150-22d1-4f07-801b-3827a7d8d6de.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG20KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13199,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 32,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 480,
+        "depth": 204,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 32
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20721,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG25KTR",
+      "productCode": "BG25KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f2f4e6e8-8d61-48a2-a4b5-47945ab58dff.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG25KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9831,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 32,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 525,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 26000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 32
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21118,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG30KTR",
+      "productCode": "BG30KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/549b05b5-1303-47a8-b4e7-3a25267d6bb2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG30KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10228,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 525,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 31200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22736,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG40KTR",
+      "productCode": "BG40KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d99d0cd3-2cb6-4e8c-8760-dee4a9ce14e7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG40KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11846,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 570,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 93,
+        "type": "PV-only Inverter",
+        "height": 810,
+        "width": 645,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.989,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 570
+        },
+        "current_isc_max": {
+          "value": 93
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24359,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG50KTR",
+      "productCode": "BG50KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0ef09686-d563-42ac-82e4-adb5eae8bc6c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG50KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13469,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 570,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 113,
+        "type": "PV-only Inverter",
+        "height": 810,
+        "width": 645,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.989,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 570
+        },
+        "current_isc_max": {
+          "value": 113
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22258,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG60KTR",
+      "productCode": "BG60KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3a70339b-033a-4e7a-ba91-9a661b76756a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG60KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11368,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 570,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 150,
+        "type": "PV-only Inverter",
+        "height": 810,
+        "width": 645,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 570
+        },
+        "current_isc_max": {
+          "value": 150
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22001,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG6KTR",
+      "productCode": "BG6KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/692bcaae-1796-46d3-a7f0-3aef81b01132.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG6KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11111,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 530,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21044,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG70KTR",
+      "productCode": "BG70KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/abfc13d9-3d0b-4052-ba68-12ec6389fcd7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG70KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10154,
+        "companyProductId": null,
+        "maxAcPower": 66000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 570,
+        "mpptVoltageMin": 570,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 66000,
+        "maxShortCircuitCurrentPerMppt": 150,
+        "type": "PV-only Inverter",
+        "height": 810,
+        "width": 645,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 570
+        },
+        "current_isc_max": {
+          "value": 150
+        },
+        "nominal_ac_power": {
+          "value": 66000
+        },
+        "mppt_voltage_min": {
+          "value": 570
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23320,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "BG8KTR",
+      "productCode": "BG8KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6493cb05-85a9-4a48-9fd3-1ca335f7e986.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_BG8KTR.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12430,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 12.5,
+        "type": "PV-only Inverter",
+        "height": 530,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 12.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20983,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG1K5TL",
+      "productCode": "MG1K5TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f76fea04-7242-4fbe-8712-a1581106ca75.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG1K5TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10093,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 280,
+        "width": 300,
+        "depth": 138,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1700,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.961,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24222,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG2KTL",
+      "productCode": "MG2KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e608ddf8-32bf-40e2-853d-fad4646a6f9a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG2KTL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13332,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "PV-only Inverter",
+        "height": 280,
+        "width": 300,
+        "depth": 138,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.961,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20366,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG3KTL",
+      "productCode": "MG3KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/eccf3376-02e3-4fa0-bce4-f4dd3054effb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG3KTL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9476,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 450,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 280,
+        "width": 300,
+        "depth": 138,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21034,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG3KTL-2M",
+      "productCode": "MG3KTL-2M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/552ed27e-74fa-4ffe-85be-7ec40598ba12.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG3KTL-2M.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10144,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 360,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22008,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG4K6TL",
+      "productCode": "MG4K6TL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0cead04b-047a-42ca-a361-a4a5ecd5d65b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG4K6TL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11118,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4200,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 405,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 4200
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22596,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG4K6TL-2M",
+      "productCode": "MG4K6TL-2M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a8749df1-bc58-4a4b-a465-ee17672590e2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG4K6TL-2M.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11706,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4200,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 4200
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21019,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG4KTL",
+      "productCode": "MG4KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4524fe08-b863-470a-818c-bab155d33941.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG4KTL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10129,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 405,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22365,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG4KTL-2M",
+      "productCode": "MG4KTL-2M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2cb86e5e-bd7c-40c1-8b84-0891d82cd0a7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG4KTL-2M.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11475,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24021,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG5KTL",
+      "productCode": "MG5KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d2047ab2-144b-498c-9c3b-755415fced4e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG5KTL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13131,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 405,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20780,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG5KTL-2M",
+      "productCode": "MG5KTL-2M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ae2cb283-1e8d-4fff-8853-81e4565e4b8f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG5KTL-2M.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9890,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 460,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22117,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "MG6KTL-2M",
+      "productCode": "MG6KTL-2M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3f3856e5-c38c-4f62-89b6-27a95a0c3726.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_MG6KTL-2M.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11227,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 462,
+        "width": 360,
+        "depth": 150,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6300,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23208,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG10KTR",
+      "productCode": "XG10KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/69e8c09c-8d0f-421f-8714-e55f1c506a51.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG10KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12318,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24378,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG11KTR",
+      "productCode": "XG11KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b01a4190-f56e-4d65-b5b4-83253d6cbd47.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG11KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13488,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 11000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 17600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 11000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23753,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG12KTR",
+      "productCode": "XG12KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/83d96e9c-8167-4d3f-9185-ad7bc64b1f85.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG12KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12863,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 19200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21272,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG15KTR1",
+      "productCode": "XG15KTR1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7d460a90-8c35-4073-b390-009d6144f520.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG15KTR1.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10382,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 24000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23847,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG3KTR",
+      "productCode": "XG3KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a720eb4d-a8a3-4d07-b2cc-bf66f45623aa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG3KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12957,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23290,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG4KTR",
+      "productCode": "XG4KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3f322471-fdf5-4e4a-b546-93d25f6fc170.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG4KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12400,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24304,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG5KTR",
+      "productCode": "XG5KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cef7d5d8-139a-4c17-81de-cc6832590f9a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG5KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13414,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23525,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG6KTR",
+      "productCode": "XG6KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/07209abf-fafc-40e3-af74-2876919ab488.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG6KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12635,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22140,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG8KTR",
+      "productCode": "XG8KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/201e69bf-a490-4fc5-8d45-bf6f47cfafac.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG8KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11250,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21078,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "XG9KTR",
+      "productCode": "XG9KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/11e78c3c-cc41-4984-a237-560eb1f92003.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_XG9KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10188,
+        "companyProductId": null,
+        "maxAcPower": 9000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 9000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 395,
+        "width": 481,
+        "depth": 195,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 14400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 9000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21890,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "iMars BG20KTR",
+      "productCode": "iMars BG20KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f9a043d0-028e-42b7-be83-2dde2e65f5b7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_iMars_BG20KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11000,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 525,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22506,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "iMars BG25KTR",
+      "productCode": "iMars BG25KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/13f1bb46-b7cc-4421-a611-74e0dbb5f3fd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_iMars_BG25KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11616,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 32,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 525,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 26000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 32
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23704,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 281,
+      "brandName": "INVT",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(2).svg",
+      "productName": "iMars BG30KTR",
+      "productCode": "iMars BG30KTR",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cf9d1d38-0025-4097-af8c-0264db2eab0e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/INVT_iMars_BG30KTR.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12814,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 33,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 525,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 31200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 33
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

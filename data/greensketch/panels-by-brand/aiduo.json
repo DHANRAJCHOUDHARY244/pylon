@@ -1,0 +1,632 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Aiduo",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:32:14.073Z",
+  "items": [
+    {
+      "id": 39298,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "AD290-60S",
+      "productCode": "AD290-60S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_AD290-60S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_AD290-60S.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17298,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 290,
+        "stcVoltageAtMaximumPowerVmpp": 32.2,
+        "stcShortCircuitCurrentIsc": 9.66,
+        "stcOpenCircuitVoltageVoc": 38.9,
+        "stcCurrentAtMaximumPowerImpp": 9.01,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0042,
+        "height": 1650,
+        "width": 992,
+        "depth": 35,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.177,
+        "noctMaximumPowerPmax": 216,
+        "noctVoltageAtMaximumPowerVmpp": 29.9,
+        "noctCurrentAtMaximumPowerImpp": 7.23,
+        "noctOpenCircuitVoltageVoc": 36.7,
+        "noctShortCircuitCurrentIsc": 7.67,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.66
+        },
+        "stc_voc": {
+          "value": 38.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 290
+        },
+        "cec_model": {
+          "value": "AD290-60S"
+        },
+        "stc_vmpp": {
+          "value": 32.2
+        }
+      }
+    },
+    {
+      "id": 33907,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "AD295-60S",
+      "productCode": "AD295-60S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_AD295-60S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_AD295-60S.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11907,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 295,
+        "stcVoltageAtMaximumPowerVmpp": 32.5,
+        "stcShortCircuitCurrentIsc": 9.68,
+        "stcOpenCircuitVoltageVoc": 39.6,
+        "stcCurrentAtMaximumPowerImpp": 9.08,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0042,
+        "height": 1650,
+        "width": 992,
+        "depth": 35,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.18,
+        "noctMaximumPowerPmax": 220,
+        "noctVoltageAtMaximumPowerVmpp": 30.2,
+        "noctCurrentAtMaximumPowerImpp": 7.28,
+        "noctOpenCircuitVoltageVoc": 36.9,
+        "noctShortCircuitCurrentIsc": 7.71,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.68
+        },
+        "stc_voc": {
+          "value": 39.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 295
+        },
+        "cec_model": {
+          "value": "AD295-60S"
+        },
+        "stc_vmpp": {
+          "value": 32.5
+        }
+      }
+    },
+    {
+      "id": 19636,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "AD300-60S",
+      "productCode": "AD300-60S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_AD300-60S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_AD300-60S.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6517,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 300,
+        "stcVoltageAtMaximumPowerVmpp": 32.6,
+        "stcShortCircuitCurrentIsc": 9.77,
+        "stcOpenCircuitVoltageVoc": 39.8,
+        "stcCurrentAtMaximumPowerImpp": 9.19,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0042,
+        "height": 1650,
+        "width": 992,
+        "depth": 35,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 223,
+        "noctVoltageAtMaximumPowerVmpp": 30.4,
+        "noctCurrentAtMaximumPowerImpp": 7.35,
+        "noctOpenCircuitVoltageVoc": 37.1,
+        "noctShortCircuitCurrentIsc": 7.78,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.77
+        },
+        "stc_voc": {
+          "value": 39.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 300
+        },
+        "cec_model": {
+          "value": "AD300-60S"
+        },
+        "stc_vmpp": {
+          "value": 32.6
+        }
+      }
+    },
+    {
+      "id": 35320,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "AD305-60S",
+      "productCode": "AD305-60S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_AD305-60S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_AD305-60S.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13320,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 305,
+        "stcVoltageAtMaximumPowerVmpp": 32.9,
+        "stcShortCircuitCurrentIsc": 9.85,
+        "stcOpenCircuitVoltageVoc": 40,
+        "stcCurrentAtMaximumPowerImpp": 9.28,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0042,
+        "height": 1650,
+        "width": 992,
+        "depth": 35,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.186,
+        "noctMaximumPowerPmax": 227,
+        "noctVoltageAtMaximumPowerVmpp": 30.6,
+        "noctCurrentAtMaximumPowerImpp": 7.42,
+        "noctOpenCircuitVoltageVoc": 37.3,
+        "noctShortCircuitCurrentIsc": 7.84,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.85
+        },
+        "stc_voc": {
+          "value": 40
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 305
+        },
+        "cec_model": {
+          "value": "AD305-60S"
+        },
+        "stc_vmpp": {
+          "value": 32.9
+        }
+      }
+    },
+    {
+      "id": 19018,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "AD310-60S",
+      "productCode": "AD310-60S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_AD310-60S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_AD310-60S.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5899,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 310,
+        "stcVoltageAtMaximumPowerVmpp": 33.1,
+        "stcShortCircuitCurrentIsc": 9.81,
+        "stcOpenCircuitVoltageVoc": 40.4,
+        "stcCurrentAtMaximumPowerImpp": 9.37,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0042,
+        "height": 1650,
+        "width": 992,
+        "depth": 35,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.189,
+        "noctMaximumPowerPmax": 231,
+        "noctVoltageAtMaximumPowerVmpp": 30.9,
+        "noctCurrentAtMaximumPowerImpp": 7.49,
+        "noctOpenCircuitVoltageVoc": 37.5,
+        "noctShortCircuitCurrentIsc": 7.91,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.81
+        },
+        "stc_voc": {
+          "value": 40.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 310
+        },
+        "cec_model": {
+          "value": "AD310-60S"
+        },
+        "stc_vmpp": {
+          "value": 33.1
+        }
+      }
+    },
+    {
+      "id": 36687,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "BIPV-AD100-20S",
+      "productCode": "BIPV-AD100-20S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_BIPV-AD100-20S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_BIPV-AD100-20S.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14687,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 100,
+        "stcVoltageAtMaximumPowerVmpp": 10.4,
+        "stcShortCircuitCurrentIsc": 10.6,
+        "stcOpenCircuitVoltageVoc": 12.6,
+        "stcCurrentAtMaximumPowerImpp": 9.68,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 932,
+        "width": 686,
+        "depth": 9,
+        "weight": 13,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.152,
+        "noctMaximumPowerPmax": 74.7,
+        "noctVoltageAtMaximumPowerVmpp": 9.63,
+        "noctCurrentAtMaximumPowerImpp": 7.74,
+        "noctOpenCircuitVoltageVoc": 11.7,
+        "noctShortCircuitCurrentIsc": 8.54,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.6
+        },
+        "stc_voc": {
+          "value": 12.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 100
+        },
+        "cec_model": {
+          "value": "BIPV-AD100-20S"
+        },
+        "stc_vmpp": {
+          "value": 10.4
+        }
+      }
+    },
+    {
+      "id": 18562,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1288,
+      "brandName": "Aiduo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Aiduo.jpg",
+      "productName": "BIPV-AD50-10S",
+      "productCode": "BIPV-AD50-10S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Aiduo_BIPV-AD50-10S.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Aiduo_BIPV-AD50-10S.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5443,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 50,
+        "stcVoltageAtMaximumPowerVmpp": 5.16,
+        "stcShortCircuitCurrentIsc": 10.5,
+        "stcOpenCircuitVoltageVoc": 6.12,
+        "stcCurrentAtMaximumPowerImpp": 9.73,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0068,
+        "height": 932,
+        "width": 381,
+        "depth": 9,
+        "weight": 7,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.152,
+        "noctMaximumPowerPmax": 37.3,
+        "noctVoltageAtMaximumPowerVmpp": 4.8,
+        "noctCurrentAtMaximumPowerImpp": 7.78,
+        "noctOpenCircuitVoltageVoc": 5.69,
+        "noctShortCircuitCurrentIsc": 8.47,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 10.5
+        },
+        "stc_voc": {
+          "value": 6.12
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 50
+        },
+        "cec_model": {
+          "value": "BIPV-AD50-10S"
+        },
+        "stc_vmpp": {
+          "value": 5.16
+        }
+      }
+    }
+  ]
+}

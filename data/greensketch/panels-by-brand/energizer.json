@@ -1,0 +1,4390 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Energizer",
+  "count": 49,
+  "exportedAt": "2026-09-23T06:32:06.985Z",
+  "items": [
+    {
+      "id": 53193,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "Beam N-DG 420-450W Black Frame",
+      "productCode": "ENSP54NDG2440",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a1d7de4d-6574-4fae-aebc-e06229d5551e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/f532c605-9389-437e-8953-a8d847663ab3.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDG2440 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29992,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.12,
+        "stcShortCircuitCurrentIsc": 14.08,
+        "stcOpenCircuitVoltageVoc": 39.41,
+        "stcCurrentAtMaximumPowerImpp": 13.29,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.8,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 330.9,
+        "noctVoltageAtMaximumPowerVmpp": 31.17,
+        "noctCurrentAtMaximumPowerImpp": 10.61,
+        "noctOpenCircuitVoltageVoc": 37.44,
+        "noctShortCircuitCurrentIsc": 11.37,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.08
+        },
+        "stc_voc": {
+          "value": 39.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2440"
+        },
+        "stc_vmpp": {
+          "value": 33.12
+        }
+      }
+    },
+    {
+      "id": 53194,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "Beam N-DG 420-450W Black Frame",
+      "productCode": "ENSP54NDG2450",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5661d999-477d-4ec4-912d-5a9a5c9aaac8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/1a7a13f0-b11b-459d-be15-c1cd7e77344e.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDG2450 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29993,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.37,
+        "stcShortCircuitCurrentIsc": 14.29,
+        "stcOpenCircuitVoltageVoc": 39.71,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.8,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 338.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.41,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 37.72,
+        "noctShortCircuitCurrentIsc": 11.54,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.29
+        },
+        "stc_voc": {
+          "value": 39.71
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2450"
+        },
+        "stc_vmpp": {
+          "value": 33.37
+        }
+      }
+    },
+    {
+      "id": 53175,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "Beam N-DG 435-455W Bifacial Black Profile",
+      "productCode": "ENSP54NDGT2S440BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a179b457-f578-48af-934c-4f9d7e5ad82f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/edbe7ecb-7ae5-4646-8a44-c61d3e762d45.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDGT2s440BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29974,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.05,
+        "stcShortCircuitCurrentIsc": 14.1,
+        "stcOpenCircuitVoltageVoc": 39,
+        "stcCurrentAtMaximumPowerImpp": 13.31,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 330.9,
+        "noctVoltageAtMaximumPowerVmpp": 31.11,
+        "noctCurrentAtMaximumPowerImpp": 10.64,
+        "noctOpenCircuitVoltageVoc": 37.04,
+        "noctShortCircuitCurrentIsc": 11.38,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.1
+        },
+        "stc_voc": {
+          "value": 39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S440BL"
+        },
+        "stc_vmpp": {
+          "value": 33.05
+        }
+      }
+    },
+    {
+      "id": 127731,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP48NDGT3440BL",
+      "productCode": "ENSP48NDGT3440BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4e4424b5-4d08-4193-b2a7-9e96eff334db.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/b6e087f0-354d-4be0-a981-fe174bd26059.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "LINEAR POWER OUTPUT WARRANTY (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDGT3440BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ctc",
+        "Tier 1",
+        "Green Building",
+        "AAA Manufactured"
+      ],
+      "panel": {
+        "id": 71140,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 30.1,
+        "stcShortCircuitCurrentIsc": 15.45,
+        "stcOpenCircuitVoltageVoc": 36.14,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 28,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.45
+        },
+        "stc_voc": {
+          "value": 36.14
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP48NDGT3440BL"
+        },
+        "stc_vmpp": {
+          "value": 30.1
+        }
+      }
+    },
+    {
+      "id": 127728,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP48NDGT3445BL",
+      "productCode": "ENSP48NDGT3445BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6acaa2f9-31cc-41eb-ad6a-6ed9b569bfeb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/720d12c3-d260-45a5-b38d-f2081ff8fecb.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDGT3445BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Green Building",
+        "AAA",
+        "ctc"
+      ],
+      "panel": {
+        "id": 71137,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 30.24,
+        "stcShortCircuitCurrentIsc": 15.56,
+        "stcOpenCircuitVoltageVoc": 36.3,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 28,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.56
+        },
+        "stc_voc": {
+          "value": 36.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "ENSP48NDGT3445BL"
+        },
+        "stc_vmpp": {
+          "value": 30.24
+        }
+      }
+    },
+    {
+      "id": 127729,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP48NDGT3450BL",
+      "productCode": "ENSP48NDGT3450BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6acaa2f9-31cc-41eb-ad6a-6ed9b569bfeb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/720d12c3-d260-45a5-b38d-f2081ff8fecb.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDGT3450BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Green Building",
+        "AAA",
+        "ctc"
+      ],
+      "panel": {
+        "id": 71138,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 30.37,
+        "stcShortCircuitCurrentIsc": 15.66,
+        "stcOpenCircuitVoltageVoc": 36.46,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 28,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.66
+        },
+        "stc_voc": {
+          "value": 36.46
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP48NDGT3450BL"
+        },
+        "stc_vmpp": {
+          "value": 30.37
+        }
+      }
+    },
+    {
+      "id": 127730,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP48NDGT3455BL",
+      "productCode": "ENSP48NDGT3455BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6acaa2f9-31cc-41eb-ad6a-6ed9b569bfeb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/13/720d12c3-d260-45a5-b38d-f2081ff8fecb.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "Linear power output warranty (1st year ≤ 1.0%, 2nd~30th years ≤ 0.4% / year)",
+      "cecModelNumber": "ENSP48NDGT3455BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Tier 1",
+        "Green Building",
+        "AAA",
+        "ctc"
+      ],
+      "panel": {
+        "id": 71139,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 30.51,
+        "stcShortCircuitCurrentIsc": 15.76,
+        "stcOpenCircuitVoltageVoc": 36.62,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.4,
+        "palletWeight": 923,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 28,
+        "qtyPerPallet": 36,
+        "connectorType": "PV-HCB40 / PV-KST4-EVO2A / PV-KBT4-EVO2A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.76
+        },
+        "stc_voc": {
+          "value": 36.62
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "ENSP48NDGT3455BL"
+        },
+        "stc_vmpp": {
+          "value": 30.51
+        }
+      }
+    },
+    {
+      "id": 37739,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54M2390",
+      "productCode": "ENSP54M2390",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54M2390.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54M2390.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15739,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 30.76,
+        "stcShortCircuitCurrentIsc": 13.4,
+        "stcOpenCircuitVoltageVoc": 36.6,
+        "stcCurrentAtMaximumPowerImpp": 12.68,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1708,
+        "width": 1133,
+        "depth": 35,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.202,
+        "noctMaximumPowerPmax": 291.5,
+        "noctVoltageAtMaximumPowerVmpp": 28.66,
+        "noctCurrentAtMaximumPowerImpp": 10.17,
+        "noctOpenCircuitVoltageVoc": 34.59,
+        "noctShortCircuitCurrentIsc": 10.87,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.4
+        },
+        "stc_voc": {
+          "value": 36.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "ENSP54M2390"
+        },
+        "stc_vmpp": {
+          "value": 30.76
+        }
+      }
+    },
+    {
+      "id": 18183,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54M2395",
+      "productCode": "ENSP54M2395",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54M2395.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54M2395.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5064,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 30.92,
+        "stcShortCircuitCurrentIsc": 13.52,
+        "stcOpenCircuitVoltageVoc": 36.8,
+        "stcCurrentAtMaximumPowerImpp": 12.77,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1708,
+        "width": 1133,
+        "depth": 35,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.204,
+        "noctMaximumPowerPmax": 295.2,
+        "noctVoltageAtMaximumPowerVmpp": 28.82,
+        "noctCurrentAtMaximumPowerImpp": 10.24,
+        "noctOpenCircuitVoltageVoc": 34.78,
+        "noctShortCircuitCurrentIsc": 10.97,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.52
+        },
+        "stc_voc": {
+          "value": 36.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "ENSP54M2395"
+        },
+        "stc_vmpp": {
+          "value": 30.92
+        }
+      }
+    },
+    {
+      "id": 34176,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54M2400",
+      "productCode": "ENSP54M2400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54M2400.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54M2400.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12176,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 31.09,
+        "stcShortCircuitCurrentIsc": 13.65,
+        "stcOpenCircuitVoltageVoc": 37,
+        "stcCurrentAtMaximumPowerImpp": 12.86,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1708,
+        "width": 1133,
+        "depth": 35,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 298.9,
+        "noctVoltageAtMaximumPowerVmpp": 28.98,
+        "noctCurrentAtMaximumPowerImpp": 10.32,
+        "noctOpenCircuitVoltageVoc": 34.97,
+        "noctShortCircuitCurrentIsc": 11.07,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.65
+        },
+        "stc_voc": {
+          "value": 37
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "ENSP54M2400"
+        },
+        "stc_vmpp": {
+          "value": 31.09
+        }
+      }
+    },
+    {
+      "id": 35295,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54M2405",
+      "productCode": "ENSP54M2405",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54M2405.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54M2405.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13295,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 31.26,
+        "stcShortCircuitCurrentIsc": 13.76,
+        "stcOpenCircuitVoltageVoc": 37.2,
+        "stcCurrentAtMaximumPowerImpp": 12.96,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1708,
+        "width": 1133,
+        "depth": 35,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 302.7,
+        "noctVoltageAtMaximumPowerVmpp": 29.13,
+        "noctCurrentAtMaximumPowerImpp": 10.39,
+        "noctOpenCircuitVoltageVoc": 35.15,
+        "noctShortCircuitCurrentIsc": 11.17,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.76
+        },
+        "stc_voc": {
+          "value": 37.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "ENSP54M2405"
+        },
+        "stc_vmpp": {
+          "value": 31.26
+        }
+      }
+    },
+    {
+      "id": 35677,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54M2410",
+      "productCode": "ENSP54M2410",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54M2410.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54M2410.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13677,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.43,
+        "stcShortCircuitCurrentIsc": 13.88,
+        "stcOpenCircuitVoltageVoc": 37.4,
+        "stcCurrentAtMaximumPowerImpp": 13.05,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1708,
+        "width": 1133,
+        "depth": 35,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 306.4,
+        "noctVoltageAtMaximumPowerVmpp": 29.29,
+        "noctCurrentAtMaximumPowerImpp": 10.46,
+        "noctOpenCircuitVoltageVoc": 35.34,
+        "noctShortCircuitCurrentIsc": 11.26,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.88
+        },
+        "stc_voc": {
+          "value": 37.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "ENSP54M2410"
+        },
+        "stc_vmpp": {
+          "value": 31.43
+        }
+      }
+    },
+    {
+      "id": 38409,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54N2415BF",
+      "productCode": "ENSP54N2415BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54N2415BF.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54N2415BF.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16409,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.76,
+        "stcShortCircuitCurrentIsc": 13.76,
+        "stcOpenCircuitVoltageVoc": 37.8,
+        "stcCurrentAtMaximumPowerImpp": 13.06,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 312.2,
+        "noctVoltageAtMaximumPowerVmpp": 29.9,
+        "noctCurrentAtMaximumPowerImpp": 10.44,
+        "noctOpenCircuitVoltageVoc": 35.91,
+        "noctShortCircuitCurrentIsc": 11.11,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.76
+        },
+        "stc_voc": {
+          "value": 37.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "ENSP54N2415BF"
+        },
+        "stc_vmpp": {
+          "value": 31.76
+        }
+      }
+    },
+    {
+      "id": 34717,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54N2420BF",
+      "productCode": "ENSP54N2420BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54N2420BF.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54N2420BF.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12717,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 31.93,
+        "stcShortCircuitCurrentIsc": 13.87,
+        "stcOpenCircuitVoltageVoc": 38,
+        "stcCurrentAtMaximumPowerImpp": 13.15,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 315.8,
+        "noctVoltageAtMaximumPowerVmpp": 30.06,
+        "noctCurrentAtMaximumPowerImpp": 10.51,
+        "noctOpenCircuitVoltageVoc": 36.1,
+        "noctShortCircuitCurrentIsc": 11.2,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.87
+        },
+        "stc_voc": {
+          "value": 38
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "ENSP54N2420BF"
+        },
+        "stc_vmpp": {
+          "value": 31.93
+        }
+      }
+    },
+    {
+      "id": 38998,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54N2425BF",
+      "productCode": "ENSP54N2425BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54N2425BF.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54N2425BF.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16998,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 425,
+        "stcVoltageAtMaximumPowerVmpp": 32.1,
+        "stcShortCircuitCurrentIsc": 13.98,
+        "stcOpenCircuitVoltageVoc": 38.2,
+        "stcCurrentAtMaximumPowerImpp": 13.24,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.217,
+        "noctMaximumPowerPmax": 319.6,
+        "noctVoltageAtMaximumPowerVmpp": 30.21,
+        "noctCurrentAtMaximumPowerImpp": 10.58,
+        "noctOpenCircuitVoltageVoc": 36.29,
+        "noctShortCircuitCurrentIsc": 11.28,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.98
+        },
+        "stc_voc": {
+          "value": 38.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 425
+        },
+        "cec_model": {
+          "value": "ENSP54N2425BF"
+        },
+        "stc_vmpp": {
+          "value": 32.1
+        }
+      }
+    },
+    {
+      "id": 37628,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NBT2410BF",
+      "productCode": "ENSP54NBT2410BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NBT2410BF.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NBT2410BF.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15628,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.85,
+        "stcShortCircuitCurrentIsc": 13.39,
+        "stcOpenCircuitVoltageVoc": 37.9,
+        "stcCurrentAtMaximumPowerImpp": 12.87,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 312.1,
+        "noctVoltageAtMaximumPowerVmpp": 30.14,
+        "noctCurrentAtMaximumPowerImpp": 10.36,
+        "noctOpenCircuitVoltageVoc": 36.19,
+        "noctShortCircuitCurrentIsc": 11.06,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.39
+        },
+        "stc_voc": {
+          "value": 37.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "ENSP54NBT2410BF"
+        },
+        "stc_vmpp": {
+          "value": 31.85
+        }
+      }
+    },
+    {
+      "id": 36873,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NBT2415BF",
+      "productCode": "ENSP54NBT2415BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NBT2415BF.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NBT2415BF.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14873,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 32.02,
+        "stcShortCircuitCurrentIsc": 13.47,
+        "stcOpenCircuitVoltageVoc": 38.1,
+        "stcCurrentAtMaximumPowerImpp": 12.96,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 315.8,
+        "noctVoltageAtMaximumPowerVmpp": 30.29,
+        "noctCurrentAtMaximumPowerImpp": 10.43,
+        "noctOpenCircuitVoltageVoc": 36.38,
+        "noctShortCircuitCurrentIsc": 11.15,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.47
+        },
+        "stc_voc": {
+          "value": 38.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "ENSP54NBT2415BF"
+        },
+        "stc_vmpp": {
+          "value": 32.02
+        }
+      }
+    },
+    {
+      "id": 19212,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NBT2420BF",
+      "productCode": "ENSP54NBT2420BF",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NBT2420BF.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NBT2420BF.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6093,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 32.18,
+        "stcShortCircuitCurrentIsc": 13.81,
+        "stcOpenCircuitVoltageVoc": 38.3,
+        "stcCurrentAtMaximumPowerImpp": 13.05,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 319.6,
+        "noctVoltageAtMaximumPowerVmpp": 30.45,
+        "noctCurrentAtMaximumPowerImpp": 10.5,
+        "noctOpenCircuitVoltageVoc": 36.57,
+        "noctShortCircuitCurrentIsc": 11.24,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.81
+        },
+        "stc_voc": {
+          "value": 38.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "ENSP54NBT2420BF"
+        },
+        "stc_vmpp": {
+          "value": 32.18
+        }
+      }
+    },
+    {
+      "id": 35366,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2410",
+      "productCode": "ENSP54NDG2410",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDG2410.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDG2410.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13366,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.68,
+        "stcShortCircuitCurrentIsc": 13.65,
+        "stcOpenCircuitVoltageVoc": 37.7,
+        "stcCurrentAtMaximumPowerImpp": 12.94,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 308.3,
+        "noctVoltageAtMaximumPowerVmpp": 29.82,
+        "noctCurrentAtMaximumPowerImpp": 10.34,
+        "noctOpenCircuitVoltageVoc": 35.81,
+        "noctShortCircuitCurrentIsc": 11.02,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.65
+        },
+        "stc_voc": {
+          "value": 37.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2410"
+        },
+        "stc_vmpp": {
+          "value": 31.68
+        }
+      }
+    },
+    {
+      "id": 35151,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2415",
+      "productCode": "ENSP54NDG2415",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDG2415.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDG2415.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13151,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.85,
+        "stcShortCircuitCurrentIsc": 13.76,
+        "stcOpenCircuitVoltageVoc": 37.9,
+        "stcCurrentAtMaximumPowerImpp": 13.03,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 312.1,
+        "noctVoltageAtMaximumPowerVmpp": 29.98,
+        "noctCurrentAtMaximumPowerImpp": 10.41,
+        "noctOpenCircuitVoltageVoc": 36,
+        "noctShortCircuitCurrentIsc": 11.11,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.76
+        },
+        "stc_voc": {
+          "value": 37.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2415"
+        },
+        "stc_vmpp": {
+          "value": 31.85
+        }
+      }
+    },
+    {
+      "id": 33979,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2420",
+      "productCode": "ENSP54NDG2420",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDG2420.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDG2420.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11979,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 32.02,
+        "stcShortCircuitCurrentIsc": 13.87,
+        "stcOpenCircuitVoltageVoc": 38.1,
+        "stcCurrentAtMaximumPowerImpp": 13.12,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 315.8,
+        "noctVoltageAtMaximumPowerVmpp": 30.14,
+        "noctCurrentAtMaximumPowerImpp": 10.48,
+        "noctOpenCircuitVoltageVoc": 36.19,
+        "noctShortCircuitCurrentIsc": 11.19,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.87
+        },
+        "stc_voc": {
+          "value": 38.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2420"
+        },
+        "stc_vmpp": {
+          "value": 32.02
+        }
+      }
+    },
+    {
+      "id": 19643,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2425",
+      "productCode": "ENSP54NDG2425",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDG2425.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDG2425.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6524,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 425,
+        "stcVoltageAtMaximumPowerVmpp": 32.18,
+        "stcShortCircuitCurrentIsc": 13.98,
+        "stcOpenCircuitVoltageVoc": 38.8,
+        "stcCurrentAtMaximumPowerImpp": 13.2,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 319.6,
+        "noctVoltageAtMaximumPowerVmpp": 30.29,
+        "noctCurrentAtMaximumPowerImpp": 10.55,
+        "noctOpenCircuitVoltageVoc": 36.38,
+        "noctShortCircuitCurrentIsc": 11.28,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.98
+        },
+        "stc_voc": {
+          "value": 38.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 425
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2425"
+        },
+        "stc_vmpp": {
+          "value": 32.18
+        }
+      }
+    },
+    {
+      "id": 53186,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2S440",
+      "productCode": "ENSP54NDG2S440",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/d8aa2fbd-710a-4520-9fda-4cc4e8e52c94.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/40b589aa-c729-438c-950c-048b281029f4.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDG2s440 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29985,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 32.61,
+        "stcShortCircuitCurrentIsc": 14.18,
+        "stcOpenCircuitVoltageVoc": 38.8,
+        "stcCurrentAtMaximumPowerImpp": 13.49,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 330.9,
+        "noctVoltageAtMaximumPowerVmpp": 30.69,
+        "noctCurrentAtMaximumPowerImpp": 10.78,
+        "noctOpenCircuitVoltageVoc": 36.85,
+        "noctShortCircuitCurrentIsc": 11.44,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.18
+        },
+        "stc_voc": {
+          "value": 38.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2S440"
+        },
+        "stc_vmpp": {
+          "value": 32.61
+        }
+      }
+    },
+    {
+      "id": 53183,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2S440BL",
+      "productCode": "ENSP54NDG2S440BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/ba96b4cb-f2ba-492e-bea3-da2a283339b0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/a77372f2-b473-468f-b680-b0053b01c84f.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDG2s440BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29982,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.05,
+        "stcShortCircuitCurrentIsc": 14.1,
+        "stcOpenCircuitVoltageVoc": 39,
+        "stcCurrentAtMaximumPowerImpp": 13.31,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 330.9,
+        "noctVoltageAtMaximumPowerVmpp": 31.11,
+        "noctCurrentAtMaximumPowerImpp": 10.64,
+        "noctOpenCircuitVoltageVoc": 37.04,
+        "noctShortCircuitCurrentIsc": 11.38,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.1
+        },
+        "stc_voc": {
+          "value": 39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2S440BL"
+        },
+        "stc_vmpp": {
+          "value": 33.05
+        }
+      }
+    },
+    {
+      "id": 53188,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2S450",
+      "productCode": "ENSP54NDG2S450",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/8a909f4f-3173-4164-b9d0-d575fdba3d16.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/b04d3ebe-e3bd-4349-8e10-6ca916c0be75.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDG2s450 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29987,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 32.94,
+        "stcShortCircuitCurrentIsc": 14.35,
+        "stcOpenCircuitVoltageVoc": 39.2,
+        "stcCurrentAtMaximumPowerImpp": 13.66,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 338.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.01,
+        "noctCurrentAtMaximumPowerImpp": 10.91,
+        "noctOpenCircuitVoltageVoc": 37.23,
+        "noctShortCircuitCurrentIsc": 11.58,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.35
+        },
+        "stc_voc": {
+          "value": 39.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2S450"
+        },
+        "stc_vmpp": {
+          "value": 32.94
+        }
+      }
+    },
+    {
+      "id": 53185,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDG2S450BL",
+      "productCode": "ENSP54NDG2S450BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/da008bef-4154-4d2d-a028-7840baeb0897.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/78043ab6-11b2-40bc-9fa2-4a1afe3fc2f5.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDG2s450BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29984,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.39,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 39.4,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 338.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.43,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 37.42,
+        "noctShortCircuitCurrentIsc": 11.54,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 39.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP54NDG2S450BL"
+        },
+        "stc_vmpp": {
+          "value": 33.39
+        }
+      }
+    },
+    {
+      "id": 33441,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S430",
+      "productCode": "ENSP54NDGT2S430",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDGT2S430.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDGT2S430.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11441,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 430,
+        "stcVoltageAtMaximumPowerVmpp": 32.71,
+        "stcShortCircuitCurrentIsc": 13.92,
+        "stcOpenCircuitVoltageVoc": 38.6,
+        "stcCurrentAtMaximumPowerImpp": 13.15,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 323.4,
+        "noctVoltageAtMaximumPowerVmpp": 30.79,
+        "noctCurrentAtMaximumPowerImpp": 10.5,
+        "noctOpenCircuitVoltageVoc": 36.67,
+        "noctShortCircuitCurrentIsc": 11.24,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.92
+        },
+        "stc_voc": {
+          "value": 38.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 430
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S430"
+        },
+        "stc_vmpp": {
+          "value": 32.71
+        }
+      }
+    },
+    {
+      "id": 32807,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S435",
+      "productCode": "ENSP54NDGT2S435",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDGT2S435.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDGT2S435.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10807,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 32.88,
+        "stcShortCircuitCurrentIsc": 14.01,
+        "stcOpenCircuitVoltageVoc": 38.8,
+        "stcCurrentAtMaximumPowerImpp": 13.23,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 327.1,
+        "noctVoltageAtMaximumPowerVmpp": 30.95,
+        "noctCurrentAtMaximumPowerImpp": 10.57,
+        "noctOpenCircuitVoltageVoc": 36.85,
+        "noctShortCircuitCurrentIsc": 11.31,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.01
+        },
+        "stc_voc": {
+          "value": 38.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S435"
+        },
+        "stc_vmpp": {
+          "value": 32.88
+        }
+      }
+    },
+    {
+      "id": 33449,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S440",
+      "productCode": "ENSP54NDGT2S440",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDGT2S440.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDGT2S440.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": "ENSP54NDGT2s440 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11449,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.05,
+        "stcShortCircuitCurrentIsc": 14.1,
+        "stcOpenCircuitVoltageVoc": 39,
+        "stcCurrentAtMaximumPowerImpp": 13.31,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 330.9,
+        "noctVoltageAtMaximumPowerVmpp": 31.11,
+        "noctCurrentAtMaximumPowerImpp": 10.64,
+        "noctOpenCircuitVoltageVoc": 37.04,
+        "noctShortCircuitCurrentIsc": 11.38,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.1
+        },
+        "stc_voc": {
+          "value": 39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S440"
+        },
+        "stc_vmpp": {
+          "value": 33.05
+        }
+      }
+    },
+    {
+      "id": 38443,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S445",
+      "productCode": "ENSP54NDGT2S445",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDGT2S445.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDGT2S445.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16443,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 33.22,
+        "stcShortCircuitCurrentIsc": 14.19,
+        "stcOpenCircuitVoltageVoc": 39.2,
+        "stcCurrentAtMaximumPowerImpp": 13.4,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 334.6,
+        "noctVoltageAtMaximumPowerVmpp": 31.27,
+        "noctCurrentAtMaximumPowerImpp": 10.7,
+        "noctOpenCircuitVoltageVoc": 37.23,
+        "noctShortCircuitCurrentIsc": 11.46,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.19
+        },
+        "stc_voc": {
+          "value": 39.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S445"
+        },
+        "stc_vmpp": {
+          "value": 33.22
+        }
+      }
+    },
+    {
+      "id": 35493,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S450",
+      "productCode": "ENSP54NDGT2S450",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP54NDGT2S450.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP54NDGT2S450.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": "ENSP54NDGT2s450 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13493,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.39,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 39.4,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 338.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.43,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 37.42,
+        "noctShortCircuitCurrentIsc": 11.53,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 39.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S450"
+        },
+        "stc_vmpp": {
+          "value": 33.39
+        }
+      }
+    },
+    {
+      "id": 53177,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S450BL",
+      "productCode": "ENSP54NDGT2S450BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/f3ae6f26-7d43-4393-a759-b9189c1eed32.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/6b52990e-525c-400a-9411-f28a15f98ad7.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDGT2s450BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29976,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.39,
+        "stcShortCircuitCurrentIsc": 14.28,
+        "stcOpenCircuitVoltageVoc": 39.4,
+        "stcCurrentAtMaximumPowerImpp": 13.48,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 338.4,
+        "noctVoltageAtMaximumPowerVmpp": 31.43,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 37.42,
+        "noctShortCircuitCurrentIsc": 11.54,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.28
+        },
+        "stc_voc": {
+          "value": 39.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S450BL"
+        },
+        "stc_vmpp": {
+          "value": 33.39
+        }
+      }
+    },
+    {
+      "id": 53178,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP54NDGT2S455BL",
+      "productCode": "ENSP54NDGT2S455BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/3cdbeddd-7de5-452f-b5ab-a301eb8bd471.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/9c5a4119-abfb-4c0c-aa55-0840450aa521.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP54NDGT2s455BL (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29977,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 33.56,
+        "stcShortCircuitCurrentIsc": 14.36,
+        "stcOpenCircuitVoltageVoc": 39.6,
+        "stcCurrentAtMaximumPowerImpp": 13.56,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 342.2,
+        "noctVoltageAtMaximumPowerVmpp": 31.59,
+        "noctCurrentAtMaximumPowerImpp": 10.83,
+        "noctOpenCircuitVoltageVoc": 37.61,
+        "noctShortCircuitCurrentIsc": 11.59,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.36
+        },
+        "stc_voc": {
+          "value": 39.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "ENSP54NDGT2S455BL"
+        },
+        "stc_vmpp": {
+          "value": 33.56
+        }
+      }
+    },
+    {
+      "id": 36113,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60M1365",
+      "productCode": "ENSP60M1365",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP60M1365.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP60M1365.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14113,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 33.73,
+        "stcShortCircuitCurrentIsc": 11.29,
+        "stcOpenCircuitVoltageVoc": 40.41,
+        "stcCurrentAtMaximumPowerImpp": 10.82,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1755,
+        "width": 1038,
+        "depth": 35,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2,
+        "noctMaximumPowerPmax": 272.2,
+        "noctVoltageAtMaximumPowerVmpp": 31.45,
+        "noctCurrentAtMaximumPowerImpp": 8.65,
+        "noctOpenCircuitVoltageVoc": 37.99,
+        "noctShortCircuitCurrentIsc": 9.08,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.29
+        },
+        "stc_voc": {
+          "value": 40.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "ENSP60M1365"
+        },
+        "stc_vmpp": {
+          "value": 33.73
+        }
+      }
+    },
+    {
+      "id": 34723,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60M1370",
+      "productCode": "ENSP60M1370",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP60M1370.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP60M1370.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12723,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 370,
+        "stcVoltageAtMaximumPowerVmpp": 33.98,
+        "stcShortCircuitCurrentIsc": 11.35,
+        "stcOpenCircuitVoltageVoc": 40.75,
+        "stcCurrentAtMaximumPowerImpp": 10.89,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1755,
+        "width": 1038,
+        "depth": 35,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.203,
+        "noctMaximumPowerPmax": 275.9,
+        "noctVoltageAtMaximumPowerVmpp": 31.68,
+        "noctCurrentAtMaximumPowerImpp": 8.71,
+        "noctOpenCircuitVoltageVoc": 38.31,
+        "noctShortCircuitCurrentIsc": 9.13,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.35
+        },
+        "stc_voc": {
+          "value": 40.75
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 370
+        },
+        "cec_model": {
+          "value": "ENSP60M1370"
+        },
+        "stc_vmpp": {
+          "value": 33.98
+        }
+      }
+    },
+    {
+      "id": 34532,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60M1375",
+      "productCode": "ENSP60M1375",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP60M1375.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP60M1375.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12532,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 375,
+        "stcVoltageAtMaximumPowerVmpp": 34.28,
+        "stcShortCircuitCurrentIsc": 11.42,
+        "stcOpenCircuitVoltageVoc": 41.05,
+        "stcCurrentAtMaximumPowerImpp": 10.94,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1755,
+        "width": 1038,
+        "depth": 35,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.206,
+        "noctMaximumPowerPmax": 279.6,
+        "noctVoltageAtMaximumPowerVmpp": 31.96,
+        "noctCurrentAtMaximumPowerImpp": 8.75,
+        "noctOpenCircuitVoltageVoc": 38.59,
+        "noctShortCircuitCurrentIsc": 9.19,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.42
+        },
+        "stc_voc": {
+          "value": 41.05
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 375
+        },
+        "cec_model": {
+          "value": "ENSP60M1375"
+        },
+        "stc_vmpp": {
+          "value": 34.28
+        }
+      }
+    },
+    {
+      "id": 18966,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60M1380",
+      "productCode": "ENSP60M1380",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP60M1380.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP60M1380.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5847,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 380,
+        "stcVoltageAtMaximumPowerVmpp": 34.51,
+        "stcShortCircuitCurrentIsc": 11.49,
+        "stcOpenCircuitVoltageVoc": 41.34,
+        "stcCurrentAtMaximumPowerImpp": 11.01,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1755,
+        "width": 1038,
+        "depth": 35,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 283.4,
+        "noctVoltageAtMaximumPowerVmpp": 32.18,
+        "noctCurrentAtMaximumPowerImpp": 8.81,
+        "noctOpenCircuitVoltageVoc": 38.87,
+        "noctShortCircuitCurrentIsc": 9.24,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.49
+        },
+        "stc_voc": {
+          "value": 41.34
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 380
+        },
+        "cec_model": {
+          "value": "ENSP60M1380"
+        },
+        "stc_vmpp": {
+          "value": 34.51
+        }
+      }
+    },
+    {
+      "id": 53179,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60NDG2475",
+      "productCode": "ENSP60NDG2475",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/1d76ad43-c8c3-44e6-ad69-c5a37e687f4a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/a496fdcf-fbcc-4e41-9055-c9d506877270.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP60NDG2475 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29978,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 475,
+        "stcVoltageAtMaximumPowerVmpp": 36.39,
+        "stcShortCircuitCurrentIsc": 13.8,
+        "stcOpenCircuitVoltageVoc": 43.31,
+        "stcCurrentAtMaximumPowerImpp": 13.05,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1908,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 357.2,
+        "noctVoltageAtMaximumPowerVmpp": 34.26,
+        "noctCurrentAtMaximumPowerImpp": 10.43,
+        "noctOpenCircuitVoltageVoc": 41.14,
+        "noctShortCircuitCurrentIsc": 11.14,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.8
+        },
+        "stc_voc": {
+          "value": 43.31
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 475
+        },
+        "cec_model": {
+          "value": "ENSP60NDG2475"
+        },
+        "stc_vmpp": {
+          "value": 36.39
+        }
+      }
+    },
+    {
+      "id": 53180,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60NDG2480",
+      "productCode": "ENSP60NDG2480",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/46b07ef8-cd2b-425a-9fe7-f2da6168915b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/8a1150bc-c9b9-4f42-ba78-19d2baa29c13.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP60NDG2480 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29979,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 480,
+        "stcVoltageAtMaximumPowerVmpp": 36.52,
+        "stcShortCircuitCurrentIsc": 13.91,
+        "stcOpenCircuitVoltageVoc": 43.46,
+        "stcCurrentAtMaximumPowerImpp": 13.14,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1908,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.222,
+        "noctMaximumPowerPmax": 361,
+        "noctVoltageAtMaximumPowerVmpp": 34.37,
+        "noctCurrentAtMaximumPowerImpp": 10.5,
+        "noctOpenCircuitVoltageVoc": 41.28,
+        "noctShortCircuitCurrentIsc": 11.23,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 13.91
+        },
+        "stc_voc": {
+          "value": 43.46
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 480
+        },
+        "cec_model": {
+          "value": "ENSP60NDG2480"
+        },
+        "stc_vmpp": {
+          "value": 36.52
+        }
+      }
+    },
+    {
+      "id": 53181,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60NDG2490",
+      "productCode": "ENSP60NDG2490",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/c26960f3-9617-4bbc-85b7-1ca922940814.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/f06e3994-88b7-4137-98ea-f6e13196443f.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP60NDG2490 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29980,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 490,
+        "stcVoltageAtMaximumPowerVmpp": 36.77,
+        "stcShortCircuitCurrentIsc": 14.12,
+        "stcOpenCircuitVoltageVoc": 43.76,
+        "stcCurrentAtMaximumPowerImpp": 13.33,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1908,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.226,
+        "noctMaximumPowerPmax": 368.5,
+        "noctVoltageAtMaximumPowerVmpp": 34.61,
+        "noctCurrentAtMaximumPowerImpp": 10.65,
+        "noctOpenCircuitVoltageVoc": 41.56,
+        "noctShortCircuitCurrentIsc": 11.4,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.12
+        },
+        "stc_voc": {
+          "value": 43.76
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 490
+        },
+        "cec_model": {
+          "value": "ENSP60NDG2490"
+        },
+        "stc_vmpp": {
+          "value": 36.77
+        }
+      }
+    },
+    {
+      "id": 53182,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP60NDG2495",
+      "productCode": "ENSP60NDG2495",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/e3701b8d-e6c2-4372-a4ca-5f16e5de3437.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/27046b0e-e7ce-472e-bbac-052a4a086d5d.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "ENSP60NDG2495 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29981,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 495,
+        "stcVoltageAtMaximumPowerVmpp": 36.9,
+        "stcShortCircuitCurrentIsc": 14.22,
+        "stcOpenCircuitVoltageVoc": 43.91,
+        "stcCurrentAtMaximumPowerImpp": 13.42,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00043,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1908,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 372.2,
+        "noctVoltageAtMaximumPowerVmpp": 34.73,
+        "noctCurrentAtMaximumPowerImpp": 10.72,
+        "noctOpenCircuitVoltageVoc": 41.71,
+        "noctShortCircuitCurrentIsc": 11.48,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 14.22
+        },
+        "stc_voc": {
+          "value": 43.91
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.043
+        },
+        "power": {
+          "value": 495
+        },
+        "cec_model": {
+          "value": "ENSP60NDG2495"
+        },
+        "stc_vmpp": {
+          "value": 36.9
+        }
+      }
+    },
+    {
+      "id": 18648,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M1445",
+      "productCode": "ENSP72M1445",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M1445.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M1445.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5529,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 41.05,
+        "stcShortCircuitCurrentIsc": 11.3,
+        "stcOpenCircuitVoltageVoc": 48.8,
+        "stcCurrentAtMaximumPowerImpp": 10.84,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2094,
+        "width": 1038,
+        "depth": 35,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.205,
+        "noctMaximumPowerPmax": 330.8,
+        "noctVoltageAtMaximumPowerVmpp": 38.12,
+        "noctCurrentAtMaximumPowerImpp": 8.68,
+        "noctOpenCircuitVoltageVoc": 45.7,
+        "noctShortCircuitCurrentIsc": 9.1,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.3
+        },
+        "stc_voc": {
+          "value": 48.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "ENSP72M1445"
+        },
+        "stc_vmpp": {
+          "value": 41.05
+        }
+      }
+    },
+    {
+      "id": 39600,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M1450",
+      "productCode": "ENSP72M1450",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M1450.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M1450.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17600,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 41.32,
+        "stcShortCircuitCurrentIsc": 11.37,
+        "stcOpenCircuitVoltageVoc": 49.05,
+        "stcCurrentAtMaximumPowerImpp": 10.89,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2094,
+        "width": 1038,
+        "depth": 35,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 334.5,
+        "noctVoltageAtMaximumPowerVmpp": 38.37,
+        "noctCurrentAtMaximumPowerImpp": 8.72,
+        "noctOpenCircuitVoltageVoc": 45.94,
+        "noctShortCircuitCurrentIsc": 9.16,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.37
+        },
+        "stc_voc": {
+          "value": 49.05
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "ENSP72M1450"
+        },
+        "stc_vmpp": {
+          "value": 41.32
+        }
+      }
+    },
+    {
+      "id": 19295,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M1455",
+      "productCode": "ENSP72M1455",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M1455.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M1455.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6176,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 41.51,
+        "stcShortCircuitCurrentIsc": 11.44,
+        "stcOpenCircuitVoltageVoc": 49.35,
+        "stcCurrentAtMaximumPowerImpp": 10.96,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2094,
+        "width": 1038,
+        "depth": 35,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 338.2,
+        "noctVoltageAtMaximumPowerVmpp": 35.55,
+        "noctCurrentAtMaximumPowerImpp": 8.78,
+        "noctOpenCircuitVoltageVoc": 46.22,
+        "noctShortCircuitCurrentIsc": 9.22,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 11.44
+        },
+        "stc_voc": {
+          "value": 49.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "ENSP72M1455"
+        },
+        "stc_vmpp": {
+          "value": 41.51
+        }
+      }
+    },
+    {
+      "id": 35793,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M2530",
+      "productCode": "ENSP72M2530",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M2530.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M2530.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13793,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 530,
+        "stcVoltageAtMaximumPowerVmpp": 41.43,
+        "stcShortCircuitCurrentIsc": 13.52,
+        "stcOpenCircuitVoltageVoc": 49.3,
+        "stcCurrentAtMaximumPowerImpp": 12.79,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2256,
+        "width": 1133,
+        "depth": 35,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 396.1,
+        "noctVoltageAtMaximumPowerVmpp": 38.61,
+        "noctCurrentAtMaximumPowerImpp": 10.26,
+        "noctOpenCircuitVoltageVoc": 46.59,
+        "noctShortCircuitCurrentIsc": 10.97,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.52
+        },
+        "stc_voc": {
+          "value": 49.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 530
+        },
+        "cec_model": {
+          "value": "ENSP72M2530"
+        },
+        "stc_vmpp": {
+          "value": 41.43
+        }
+      }
+    },
+    {
+      "id": 34322,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M2535",
+      "productCode": "ENSP72M2535",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M2535.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M2535.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12322,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.6,
+        "stcShortCircuitCurrentIsc": 13.61,
+        "stcOpenCircuitVoltageVoc": 49.5,
+        "stcCurrentAtMaximumPowerImpp": 12.86,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2256,
+        "width": 1133,
+        "depth": 35,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 399.8,
+        "noctVoltageAtMaximumPowerVmpp": 38.77,
+        "noctCurrentAtMaximumPowerImpp": 10.31,
+        "noctOpenCircuitVoltageVoc": 46.78,
+        "noctShortCircuitCurrentIsc": 11.04,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.61
+        },
+        "stc_voc": {
+          "value": 49.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "ENSP72M2535"
+        },
+        "stc_vmpp": {
+          "value": 41.6
+        }
+      }
+    },
+    {
+      "id": 34011,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M2540",
+      "productCode": "ENSP72M2540",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M2540.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M2540.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12011,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 41.76,
+        "stcShortCircuitCurrentIsc": 13.72,
+        "stcOpenCircuitVoltageVoc": 49.7,
+        "stcCurrentAtMaximumPowerImpp": 12.93,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2256,
+        "width": 1133,
+        "depth": 35,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.211,
+        "noctMaximumPowerPmax": 403.5,
+        "noctVoltageAtMaximumPowerVmpp": 38.92,
+        "noctCurrentAtMaximumPowerImpp": 10.37,
+        "noctOpenCircuitVoltageVoc": 46.97,
+        "noctShortCircuitCurrentIsc": 11.13,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.72
+        },
+        "stc_voc": {
+          "value": 49.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "ENSP72M2540"
+        },
+        "stc_vmpp": {
+          "value": 41.76
+        }
+      }
+    },
+    {
+      "id": 39094,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M2545",
+      "productCode": "ENSP72M2545",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M2545.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M2545.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17094,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 545,
+        "stcVoltageAtMaximumPowerVmpp": 41.93,
+        "stcShortCircuitCurrentIsc": 13.81,
+        "stcOpenCircuitVoltageVoc": 49.9,
+        "stcCurrentAtMaximumPowerImpp": 13,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2256,
+        "width": 1133,
+        "depth": 35,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 407.3,
+        "noctVoltageAtMaximumPowerVmpp": 39.08,
+        "noctCurrentAtMaximumPowerImpp": 10.42,
+        "noctOpenCircuitVoltageVoc": 47.16,
+        "noctShortCircuitCurrentIsc": 11.2,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.81
+        },
+        "stc_voc": {
+          "value": 49.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 545
+        },
+        "cec_model": {
+          "value": "ENSP72M2545"
+        },
+        "stc_vmpp": {
+          "value": 41.93
+        }
+      }
+    },
+    {
+      "id": 36240,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 290,
+      "brandName": "Energizer",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Energizer+Solar.png",
+      "productName": "ENSP72M2550",
+      "productCode": "ENSP72M2550",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Energizer_Solar_ENSP72M2550.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Energizer_Solar_ENSP72M2550.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14240,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 550,
+        "stcVoltageAtMaximumPowerVmpp": 42.1,
+        "stcShortCircuitCurrentIsc": 13.9,
+        "stcOpenCircuitVoltageVoc": 50.1,
+        "stcCurrentAtMaximumPowerImpp": 13.06,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2256,
+        "width": 1133,
+        "depth": 35,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 411,
+        "noctVoltageAtMaximumPowerVmpp": 39.24,
+        "noctCurrentAtMaximumPowerImpp": 10.48,
+        "noctOpenCircuitVoltageVoc": 47.34,
+        "noctShortCircuitCurrentIsc": 11.27,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.9
+        },
+        "stc_voc": {
+          "value": 50.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 550
+        },
+        "cec_model": {
+          "value": "ENSP72M2550"
+        },
+        "stc_vmpp": {
+          "value": 42.1
+        }
+      }
+    }
+  ]
+}

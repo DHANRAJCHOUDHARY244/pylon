@@ -1,0 +1,3643 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "EVVO Solar",
+  "count": 46,
+  "exportedAt": "2026-09-23T06:39:31.811Z",
+  "items": [
+    {
+      "id": 21286,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVH 10KTL-3PH",
+      "productCode": "EVH 10KTL-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cb7e5ad5-110f-4efe-a7e4-1a1a6febdcd7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVH_10KTL-3PH.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10396,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 571.4,
+        "width": 515,
+        "depth": 264.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23461,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVH 5KTL-3PH",
+      "productCode": "EVH 5KTL-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f1d50f2c-46e7-470f-a6d3-1ec2f445898e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVH_5KTL-3PH.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12571,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 571.4,
+        "depth": 264.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23254,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVH 6KTL-3PH",
+      "productCode": "EVH 6KTL-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a010d80f-7a2b-4917-8a66-9fc3f91667a8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVH_6KTL-3PH.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12364,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 571.4,
+        "depth": 264.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23999,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 10000TL3P",
+      "productCode": "EVVO 10000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/223f27eb-208a-4ec6-bcc9-e85a603aab5b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_10000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13109,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23203,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 100KTL",
+      "productCode": "EVVO 100KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/68f198cc-5cee-42d4-b877-caf6b0c8ec5e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_100KTL.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12313,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 10,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 1051,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 100000,
+        "dcInputs": 20,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": 23038,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 100KTL-HV",
+      "productCode": "EVVO 100KTL-HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/41bbc22f-57e1-4946-930b-a5f603a7633d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_100KTL-HV.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12148,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 10,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 1051,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 100000,
+        "dcInputs": 20,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": 21233,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 1100TL-AV",
+      "productCode": "EVVO 1100TL-AV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7196ad6e-f166-41ea-9ced-bb5781afc4d2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_1100TL-AV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10343,
+        "companyProductId": null,
+        "maxAcPower": 1100,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 1100,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 303,
+        "width": 260.5,
+        "depth": 118,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.969,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 1100
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22011,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 110KTL",
+      "productCode": "EVVO 110KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a9d6b0c0-fd99-4d83-8a2c-4b3bf2f5d836.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_110KTL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11121,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 10,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 110000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 663.5,
+        "width": 995.5,
+        "depth": 368,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 20,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 110000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": 21503,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 12000TL3P",
+      "productCode": "EVVO 12000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3f964613-f51e-489a-a043-90168980b4ae.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_12000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10613,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 14400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24177,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 15000TLG23P",
+      "productCode": "EVVO 15000TLG23P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cc8213c3-92eb-4485-b931-38990a800526.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_15000TLG23P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13287,
+        "companyProductId": null,
+        "maxAcPower": 16500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 16500,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 666,
+        "width": 512,
+        "depth": 254,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 18000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 16500
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20349,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 15KTL-3PH",
+      "productCode": "EVVO 15KTL-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/15424401-886f-4380-8c75-efccd9b5cdc1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVH_15KTL-3PH.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9459,
+        "companyProductId": null,
+        "maxAcPower": 16500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 571.4,
+        "depth": 264.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22318,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 15KTLX-G3",
+      "productCode": "EVVO 15KTLX-G3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bc171590-23bb-41d3-97b1-62035193c163.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_15KTLX-G3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11428,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 36,
+        "type": "PV-only Inverter",
+        "height": 520,
+        "width": 430,
+        "depth": 189,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 36
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23500,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 1600TL-AV",
+      "productCode": "EVVO 1600TL-AV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b0050938-5d31-46f5-b4b5-d5fef5f23a3b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_1600TL-AV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12610,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 260.5,
+        "width": 303,
+        "depth": 11,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.969,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22160,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 20000TLG23P",
+      "productCode": "EVVO 20000TLG23P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/71edda86-8e05-4c54-bceb-cdda1a8995f0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_20000TLG23P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11270,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "PV-only Inverter",
+        "height": 666,
+        "width": 512,
+        "depth": 254,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 26000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20919,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 20KTL-3PH",
+      "productCode": "EVVO 20KTL-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bd558e1a-c7e2-41bb-9ae5-0f37fdd3a3e6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVH_20KTL-3PH.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10029,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 571.4,
+        "depth": 264.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23763,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 2200TL-AV",
+      "productCode": "EVVO 2200TL-AV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5e68bc5b-f8b8-49c7-aa7d-36a4b261d613.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_2200TL-AV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12873,
+        "companyProductId": null,
+        "maxAcPower": 2200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 2200,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 260.5,
+        "width": 303,
+        "depth": 11,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 2200
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23143,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 25000TLG23P",
+      "productCode": "EVVO 25000TLG23P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4b5bc818-fd2a-4d18-b618-54f30e3002ed.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_25000TLG23P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12253,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "PV-only Inverter",
+        "height": 666,
+        "width": 512,
+        "depth": 254,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 32500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22337,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 255KTL",
+      "productCode": "EVVO 255KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d11a97bd-d22f-42a2-9a2f-e4366089baa9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_255KTL.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11447,
+        "companyProductId": null,
+        "maxAcPower": 255000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 12,
+        "maxDcVoltage": 1500,
+        "minDcVoltageToStartFeedIn": 500,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 1500,
+        "nominalAcPower": 255,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "PV-only Inverter",
+        "height": 1051,
+        "width": 660,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 24,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": 0.985,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 500
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 255
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 12
+        }
+      }
+    },
+    {
+      "id": 20499,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 2700TL-AV",
+      "productCode": "EVVO 2700TL-AV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c41590e3-8c1e-49e0-bc5a-6d1b815926d8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_2700TL-AV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9609,
+        "companyProductId": null,
+        "maxAcPower": 2700,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 2700,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 321,
+        "width": 260.5,
+        "depth": 131,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3700,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 2700
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20442,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 30000TLG23P",
+      "productCode": "EVVO 30000TLG23P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c6b74152-7cc4-47b4-9ace-f0484f86460a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_30000TLG23P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9552,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 666,
+        "width": 512,
+        "depth": 254,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 39000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22794,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 3000TL-AV",
+      "productCode": "EVVO 3000TL-AV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/71fd20e5-9c19-42c9-b8e7-060e13738a32.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_3000TL-AV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11904,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 260.5,
+        "width": 321,
+        "depth": 131.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4100,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20331,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 3000TL3P",
+      "productCode": "EVVO 3000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/58872ad2-fc31-431d-b10b-14c3f92ac96a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_3000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9441,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22535,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 3200TL-AV",
+      "productCode": "EVVO 3200TL-AV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/39a5cb31-6ba0-418e-8069-b2d1d5e8432a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_3200TL-AV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11645,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 50,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 260.5,
+        "width": 321,
+        "depth": 131.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 50
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22461,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 33000TLG23P",
+      "productCode": "EVVO 33000TLG23P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/66aef517-780b-4992-a5cd-f0d7e11daca6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_33000TLG23P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11571,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 666,
+        "width": 512,
+        "depth": 254,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 42900,
+        "dcInputs": 6,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24069,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 3680-EP",
+      "productCode": "EVVO 3680-EP",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/72e5f69b-6f3f-419c-848c-20cc1371ee8c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_HYD_3680-EP.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13179,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 503,
+        "width": 482,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22073,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 4000TL-G2",
+      "productCode": "EVVO 4000TL-G2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8aef8ae0-cacb-459c-a883-d40258ea2ab4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_4000TL-G2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11183,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 13.2,
+        "type": "PV-only Inverter",
+        "height": 344,
+        "width": 478,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.2
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24398,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 4000TL3P",
+      "productCode": "EVVO 4000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8c0a4c3f-ace8-4048-81a6-2a21f8e11d26.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_4000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13508,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4800,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24279,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 50000TL3P",
+      "productCode": "EVVO 50000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9296bc70-94fa-429d-bc65-fc29e06adf0b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_50000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13389,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "PV-only Inverter",
+        "height": 737,
+        "width": 713,
+        "depth": 297,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 60000,
+        "dcInputs": 10,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 24110,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 5000TL-G2",
+      "productCode": "EVVO 5000TL-G2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/82a32bdf-4a0b-4457-923f-17eaffe88cd0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_5000TL-G2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13220,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13.2,
+        "type": "PV-only Inverter",
+        "height": 478,
+        "width": 344,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.2
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23596,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 5000TL3P",
+      "productCode": "EVVO 5000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/798d2b03-aecc-4098-98e1-5048e61ae7e6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_5000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12706,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23404,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 5500-EP",
+      "productCode": "EVVO 5500-EP",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7c15f36c-bcb9-47a6-8fe5-d63374c41bf9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_HYD_5500-EP.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12514,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 503,
+        "width": 482,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23436,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 60000TL3P",
+      "productCode": "EVVO 60000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fcdcf51a-fbbb-480f-aa16-dbe26aedd1c9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_60000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12546,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "PV-only Inverter",
+        "height": 737,
+        "width": 713,
+        "depth": 297,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 72000,
+        "dcInputs": 12,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.984,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22471,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 6000TL-G2",
+      "productCode": "EVVO 6000TL-G2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e96c7fed-1fa5-4fe8-884e-b6aa65794889.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_6000TL-G2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11581,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 13.2,
+        "type": "PV-only Inverter",
+        "height": 478,
+        "width": 344,
+        "depth": 170,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.2
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24573,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 6000TL3P",
+      "productCode": "EVVO 6000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/376ede1e-b861-4f24-9563-68946ea6ff02.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_6000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13683,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21483,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 70000TL3P-HV",
+      "productCode": "EVVO 70000TL3P-HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/584fe884-00f5-4dea-a2a3-e19958b8626d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_70000TL3P-HV.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10593,
+        "companyProductId": null,
+        "maxAcPower": 70000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 70000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 713,
+        "width": 737,
+        "depth": 297,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 77000,
+        "dcInputs": 12,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.984,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 70000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23235,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 8000TL3P",
+      "productCode": "EVVO 8000TL3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/999ffb07-44f6-4021-b00c-519570ceda3e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_8000TL3P.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12345,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 483,
+        "width": 452,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23373,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 80KTL",
+      "productCode": "EVVO 80KTL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/39a8b21c-3d21-4732-aeb6-378ca506d77a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_80KTL.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12483,
+        "companyProductId": null,
+        "maxAcPower": 80000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 8,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 80000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 1051,
+        "depth": 340,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 80000,
+        "dcInputs": 16,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.982,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 80000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 8
+        }
+      }
+    },
+    {
+      "id": 20266,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 8KTL-3PH",
+      "productCode": "EVVO 8KTL-3PH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/21413b16-fad6-40b1-a457-a489536aa358.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVH_8KTL-3PH.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9376,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 960,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 571.4,
+        "depth": 264.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20670,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 3000-EP",
+      "productCode": "EVVO HYD 3000-EP",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cfedf1d7-db3b-4256-acb5-b9c2eaebc067.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_HYD_3000-EP.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9780,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 482,
+        "width": 503,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21924,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 3000-ES",
+      "productCode": "EVVO HYD 3000-ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2bb50f48-0171-4c76-ad42-53b993bc0696.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/8835a59b-da23-41a6-b30a-9a409de3bd42.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11034,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 394,
+        "width": 566,
+        "depth": 173,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23204,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 4000-EP",
+      "productCode": "EVVO HYD 4000-EP",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f4618e5e-25e4-43fb-80b3-6d713775e07a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_HYD_4000-EP.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12314,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 482,
+        "width": 503,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22930,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 4000-ES",
+      "productCode": "EVVO HYD 4000-ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2e77d189-19d6-4698-b114-1b733c9b4ec7.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/43efd0eb-1cc2-431a-9027-f8a5a526c0ed.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12040,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 566,
+        "width": 394,
+        "depth": 173,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22144,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 4600-EP",
+      "productCode": "EVVO HYD 4600-EP",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/71382e8d-2017-4f69-955c-23849fc9e546.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_HYD_4600-EP.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11254,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 482,
+        "width": 503,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6900,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22936,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 5000-ES",
+      "productCode": "EVVO HYD 5000-ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e11deba4-2cae-4731-952e-c960f030e891.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/19fa0e75-e5cf-4297-988a-82c3b15ba8ae.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12046,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 566,
+        "width": 394,
+        "depth": 173,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21234,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 6000-EP",
+      "productCode": "EVVO HYD 6000-EP",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f3b788f7-c5d5-465d-95cd-04f8f2cd26c2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVVO_EVVO_HYD_6000-EP.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10344,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 482,
+        "width": 503,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20569,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO HYD 6000-ES",
+      "productCode": "EVVO HYD 6000-ES",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d6867e24-9a09-42b5-a8d3-1efbfa1aa130.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/d4ea7f7c-a38a-4888-a55a-28e63045f25a.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9679,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 580,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 394,
+        "width": 566,
+        "depth": 173,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6600,
+        "dcInputs": 2,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

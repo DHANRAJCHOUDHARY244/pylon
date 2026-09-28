@@ -1,0 +1,721 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Tongwei Solar",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:32:14.067Z",
+  "items": [
+    {
+      "id": 29626,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-405W",
+      "productCode": "AS-M108-405W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8283,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 33.6,
+        "stcShortCircuitCurrentIsc": 10.92,
+        "stcOpenCircuitVoltageVoc": 40.08,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.205,
+        "noctMaximumPowerPmax": 323.7,
+        "noctVoltageAtMaximumPowerVmpp": 33.6,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 36.98,
+        "noctShortCircuitCurrentIsc": 9.02,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 10.92
+        },
+        "stc_voc": {
+          "value": 40.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "AS-M108-405W"
+        },
+        "stc_vmpp": {
+          "value": 33.6
+        }
+      }
+    },
+    {
+      "id": 29627,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-410W",
+      "productCode": "AS-M108-410W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8284,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 33.79,
+        "stcShortCircuitCurrentIsc": 10.97,
+        "stcOpenCircuitVoltageVoc": 40.28,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 327.7,
+        "noctVoltageAtMaximumPowerVmpp": 33.79,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 37.16,
+        "noctShortCircuitCurrentIsc": 9.07,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 10.97
+        },
+        "stc_voc": {
+          "value": 40.28
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "AS-M108-410W"
+        },
+        "stc_vmpp": {
+          "value": 33.79
+        }
+      }
+    },
+    {
+      "id": 29628,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-415W",
+      "productCode": "AS-M108-415W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8285,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 33.98,
+        "stcShortCircuitCurrentIsc": 11.02,
+        "stcOpenCircuitVoltageVoc": 40.48,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 331.7,
+        "noctVoltageAtMaximumPowerVmpp": 33.98,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 37.36,
+        "noctShortCircuitCurrentIsc": 9.12,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 11.02
+        },
+        "stc_voc": {
+          "value": 40.48
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "AS-M108-415W"
+        },
+        "stc_vmpp": {
+          "value": 33.98
+        }
+      }
+    },
+    {
+      "id": 29629,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-420W",
+      "productCode": "AS-M108-420W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8286,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 34.17,
+        "stcShortCircuitCurrentIsc": 11.07,
+        "stcOpenCircuitVoltageVoc": 40.68,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 335.7,
+        "noctVoltageAtMaximumPowerVmpp": 34.17,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 37.56,
+        "noctShortCircuitCurrentIsc": 9.17,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 11.07
+        },
+        "stc_voc": {
+          "value": 40.68
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "AS-M108-420W"
+        },
+        "stc_vmpp": {
+          "value": 34.17
+        }
+      }
+    },
+    {
+      "id": 29630,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-425W",
+      "productCode": "AS-M108-425W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8287,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 425,
+        "stcVoltageAtMaximumPowerVmpp": 34.36,
+        "stcShortCircuitCurrentIsc": 11.12,
+        "stcOpenCircuitVoltageVoc": 40.88,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.214,
+        "noctMaximumPowerPmax": 339.7,
+        "noctVoltageAtMaximumPowerVmpp": 34.36,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 37.76,
+        "noctShortCircuitCurrentIsc": 9.22,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 11.12
+        },
+        "stc_voc": {
+          "value": 40.88
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 425
+        },
+        "cec_model": {
+          "value": "AS-M108-425W"
+        },
+        "stc_vmpp": {
+          "value": 34.36
+        }
+      }
+    },
+    {
+      "id": 29631,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-430W",
+      "productCode": "AS-M108-430W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8288,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 430,
+        "stcVoltageAtMaximumPowerVmpp": 34.55,
+        "stcShortCircuitCurrentIsc": 11.17,
+        "stcOpenCircuitVoltageVoc": 41.08,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.217,
+        "noctMaximumPowerPmax": 343.7,
+        "noctVoltageAtMaximumPowerVmpp": 34.55,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 37.96,
+        "noctShortCircuitCurrentIsc": 9.27,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 11.17
+        },
+        "stc_voc": {
+          "value": 41.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 430
+        },
+        "cec_model": {
+          "value": "AS-M108-430W"
+        },
+        "stc_vmpp": {
+          "value": 34.55
+        }
+      }
+    },
+    {
+      "id": 29632,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-435W",
+      "productCode": "AS-M108-435W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/1486/056db5c084763b6dc6fe386ebf60bdfc.jpg",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8289,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 34.74,
+        "stcShortCircuitCurrentIsc": 11.22,
+        "stcOpenCircuitVoltageVoc": 41.28,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.004,
+        "temperatureCoefficientOfVoc": -0.003,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.219,
+        "noctMaximumPowerPmax": 347.7,
+        "noctVoltageAtMaximumPowerVmpp": 34.74,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 38.16,
+        "noctShortCircuitCurrentIsc": 9.32,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.4
+        },
+        "stc_isc": {
+          "value": 11.22
+        },
+        "stc_voc": {
+          "value": 41.28
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.3
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "AS-M108-435W"
+        },
+        "stc_vmpp": {
+          "value": 34.74
+        }
+      }
+    },
+    {
+      "id": 29633,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 215,
+      "brandName": "Tongwei Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/WechatIMG216.png",
+      "productName": "AS-M108-440W",
+      "productCode": "AS-M108-440W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/98b0c3aa-5b96-44b0-93a7-15b17f2893fa.png",
+      "datasheet": "https://assets.solarbrain.com.au/uploads/attachment/file/1780/41d37d1ea798a1be61c6d726bea7c122.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 Year Linear Power Output Warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 8290,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 34.93,
+        "stcShortCircuitCurrentIsc": 11.27,
+        "stcOpenCircuitVoltageVoc": 41.48,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.006,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 20.5,
+        "palletWeight": 1020,
+        "palletDimensionLength": 1760,
+        "palletDimensionWidth": 1130,
+        "palletDimensionHeight": 1140,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.222,
+        "noctMaximumPowerPmax": 351.7,
+        "noctVoltageAtMaximumPowerVmpp": 34.93,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": 38.36,
+        "noctShortCircuitCurrentIsc": 9.37,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 11.27
+        },
+        "stc_voc": {
+          "value": 41.48
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "AS-M108-440W"
+        },
+        "stc_vmpp": {
+          "value": 34.93
+        }
+      }
+    }
+  ]
+}

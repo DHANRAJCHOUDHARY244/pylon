@@ -1,0 +1,3597 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "GoodWe",
+  "count": 40,
+  "exportedAt": "2026-09-23T06:32:06.991Z",
+  "items": [
+    {
+      "id": 130596,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/080A(375W)",
+      "productCode": "BMT-G3/080A(375W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b147051c-eeb7-4ba1-a548-378e978da90c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/28/de07b2a1-d51f-4806-bce0-a97b5c4c8697.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30年間の発電性能保証: 初年度1%減衰、2年目以降年間0.4%減衰、30年後99%出力保証",
+      "cecModelNumber": "BMT-G3/080A(375W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TÜV Rheinland",
+        "CE"
+      ],
+      "panel": {
+        "id": 72899,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 375,
+        "stcVoltageAtMaximumPowerVmpp": 25.22,
+        "stcShortCircuitCurrentIsc": 15.54,
+        "stcOpenCircuitVoltageVoc": 29.52,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2409,
+        "width": 777,
+        "depth": 3.5,
+        "weight": 10.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 80,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 66,
+        "connectorType": "Unknown",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 15.54
+        },
+        "stc_voc": {
+          "value": 29.52
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 375
+        },
+        "cec_model": {
+          "value": "BMT-G3/080A(375W)"
+        },
+        "stc_vmpp": {
+          "value": 25.22
+        }
+      }
+    },
+    {
+      "id": 19867,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/088A",
+      "productCode": "BMT-G3/088A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-G3_088A.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-G3_088A.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6748,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 315,
+        "stcVoltageAtMaximumPowerVmpp": 25.65,
+        "stcShortCircuitCurrentIsc": 12.9,
+        "stcOpenCircuitVoltageVoc": 30.53,
+        "stcCurrentAtMaximumPowerImpp": 12.3,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2116,
+        "width": 777,
+        "depth": 3,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.174,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 12.9
+        },
+        "stc_voc": {
+          "value": 30.53
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 315
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A"
+        },
+        "stc_vmpp": {
+          "value": 25.65
+        }
+      }
+    },
+    {
+      "id": 122643,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/088A(310W)",
+      "productCode": "BMT-G3/088A(310W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/bfdfb2fe-ff09-4ffb-9f5a-209818d4de89.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/65cef01e-53f8-4428-b4b9-04f36e9c4c4e.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(310W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68879,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 310,
+        "stcVoltageAtMaximumPowerVmpp": 25.44,
+        "stcShortCircuitCurrentIsc": 12.82,
+        "stcOpenCircuitVoltageVoc": 30.27,
+        "stcCurrentAtMaximumPowerImpp": 12.21,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.172,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 12.82
+        },
+        "stc_voc": {
+          "value": 30.27
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 310
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(310W)"
+        },
+        "stc_vmpp": {
+          "value": 25.44
+        }
+      }
+    },
+    {
+      "id": 122641,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/088A(315W)",
+      "productCode": "BMT-G3/088A(315W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/98352c79-1c4f-4c1c-bcc3-9fc6c0eab1ce.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/5c6791ed-afd9-4a4f-a0be-2a053bf00638.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(315W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68877,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 315,
+        "stcVoltageAtMaximumPowerVmpp": 25.65,
+        "stcShortCircuitCurrentIsc": 12.9,
+        "stcOpenCircuitVoltageVoc": 30.53,
+        "stcCurrentAtMaximumPowerImpp": 12.3,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.174,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 12.9
+        },
+        "stc_voc": {
+          "value": 30.53
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 315
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(315W)"
+        },
+        "stc_vmpp": {
+          "value": 25.65
+        }
+      }
+    },
+    {
+      "id": 122639,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/088A(330W)",
+      "productCode": "BMT-G3/088A(330W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/b9236160-7561-4a51-95da-10b6e99f1e34.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/f57226b7-c395-4cf0-aa3d-6ad2055ce315.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(330W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68875,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 330,
+        "stcVoltageAtMaximumPowerVmpp": 25.62,
+        "stcShortCircuitCurrentIsc": 13.51,
+        "stcOpenCircuitVoltageVoc": 30.51,
+        "stcCurrentAtMaximumPowerImpp": 12.9,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.183,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.51
+        },
+        "stc_voc": {
+          "value": 30.51
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 330
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(330W)"
+        },
+        "stc_vmpp": {
+          "value": 25.62
+        }
+      }
+    },
+    {
+      "id": 122637,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/088A(340W)",
+      "productCode": "BMT-G3/088A(340W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/db8b9ab4-8d8a-4175-90a1-0b848f0c6f49.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/6604e82d-9cdb-4c1a-9de4-192e08b9f291.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(340W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68873,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 340,
+        "stcVoltageAtMaximumPowerVmpp": 26.14,
+        "stcShortCircuitCurrentIsc": 13.62,
+        "stcOpenCircuitVoltageVoc": 31.02,
+        "stcCurrentAtMaximumPowerImpp": 13.01,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.192,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.62
+        },
+        "stc_voc": {
+          "value": 31.02
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 340
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(340W)"
+        },
+        "stc_vmpp": {
+          "value": 26.14
+        }
+      }
+    },
+    {
+      "id": 122636,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G3/088A(350W)",
+      "productCode": "BMT-G3/088A(350W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/a910d428-5fd6-44d2-b516-e12ae5ca2d8f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/f288c2d6-b035-429e-aa92-70eeeadb2d4e.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(350W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68872,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 350,
+        "stcVoltageAtMaximumPowerVmpp": 26.7,
+        "stcShortCircuitCurrentIsc": 13.72,
+        "stcOpenCircuitVoltageVoc": 31.58,
+        "stcCurrentAtMaximumPowerImpp": 13.11,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.198,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.72
+        },
+        "stc_voc": {
+          "value": 31.58
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 350
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(350W)"
+        },
+        "stc_vmpp": {
+          "value": 26.7
+        }
+      }
+    },
+    {
+      "id": 130595,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G4/080A(375W)",
+      "productCode": "BMT-G4/080A(375W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b147051c-eeb7-4ba1-a548-378e978da90c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/28/de07b2a1-d51f-4806-bce0-a97b5c4c8697.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30年間の発電性能保証: 初年度1%減衰、2年目以降年間0.4%減衰、30年後99%出力保証",
+      "cecModelNumber": "BMT-G4/080A(375W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TÜV Rheinland",
+        "CE"
+      ],
+      "panel": {
+        "id": 72898,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 375,
+        "stcVoltageAtMaximumPowerVmpp": 25.22,
+        "stcShortCircuitCurrentIsc": 15.54,
+        "stcOpenCircuitVoltageVoc": 29.52,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2212,
+        "width": 780,
+        "depth": 3.7,
+        "weight": 9.7,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 80,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.217,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 62,
+        "connectorType": "Unknown",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 15.54
+        },
+        "stc_voc": {
+          "value": 29.52
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 375
+        },
+        "cec_model": {
+          "value": "BMT-G4/080A(375W)"
+        },
+        "stc_vmpp": {
+          "value": 25.22
+        }
+      }
+    },
+    {
+      "id": 128531,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-G4/108A 415W",
+      "productCode": "BMT-G4/108A 415W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/15/65e07e19-d46f-442e-bee8-810d55bde5ee.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/15/2b482c98-cb5b-4801-951f-997b97b8a720.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year power generation performance guarantee, 2% degradation in the first year, 0.55% decay per year",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 61215",
+        "IEC 61730",
+        "GB/T36584",
+        "GB 8624",
+        "TÜV Rheinland",
+        "CE"
+      ],
+      "panel": {
+        "id": 71416,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.68,
+        "stcShortCircuitCurrentIsc": 13.93,
+        "stcOpenCircuitVoltageVoc": 37.63,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2275,
+        "width": 897,
+        "depth": 4,
+        "weight": 11.4,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.203,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.93
+        },
+        "stc_voc": {
+          "value": 37.63
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "BMT-G4/108A 415W"
+        },
+        "stc_vmpp": {
+          "value": 31.68
+        }
+      }
+    },
+    {
+      "id": 36720,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/096A",
+      "productCode": "BMT-P2/096A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_096A.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_096A.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14720,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 27.44,
+        "stcShortCircuitCurrentIsc": 14.18,
+        "stcOpenCircuitVoltageVoc": 33.23,
+        "stcCurrentAtMaximumPowerImpp": 13.3,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2323,
+        "width": 819,
+        "depth": 31,
+        "weight": 24,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.19185,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.18
+        },
+        "stc_voc": {
+          "value": 33.23
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "BMT-P2/096A"
+        },
+        "stc_vmpp": {
+          "value": 27.44
+        }
+      }
+    },
+    {
+      "id": 38612,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/132A",
+      "productCode": "BMT-P2/132A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_132A.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16612,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 505,
+        "stcVoltageAtMaximumPowerVmpp": 38.79,
+        "stcShortCircuitCurrentIsc": 14.15,
+        "stcOpenCircuitVoltageVoc": 45.67,
+        "stcCurrentAtMaximumPowerImpp": 13.02,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2142,
+        "width": 1165,
+        "depth": 30,
+        "weight": 30,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.20237,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.15
+        },
+        "stc_voc": {
+          "value": 45.67
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 505
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A"
+        },
+        "stc_vmpp": {
+          "value": 38.79
+        }
+      }
+    },
+    {
+      "id": 37533,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/132A(505W)",
+      "productCode": "BMT-P2/132A(505W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A(505W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_132A(505W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/132A(505W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15533,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 505,
+        "stcVoltageAtMaximumPowerVmpp": 38.79,
+        "stcShortCircuitCurrentIsc": 14.15,
+        "stcOpenCircuitVoltageVoc": 45.67,
+        "stcCurrentAtMaximumPowerImpp": 13.02,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2142,
+        "width": 1165,
+        "depth": 29,
+        "weight": 30,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.205,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.15
+        },
+        "stc_voc": {
+          "value": 45.67
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 505
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A(505W)"
+        },
+        "stc_vmpp": {
+          "value": 38.79
+        }
+      }
+    },
+    {
+      "id": 19466,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/132A(525W)",
+      "productCode": "BMT-P2/132A(525W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A(525W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_132A(525W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/132A(525W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6347,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 525,
+        "stcVoltageAtMaximumPowerVmpp": 41.02,
+        "stcShortCircuitCurrentIsc": 13.5,
+        "stcOpenCircuitVoltageVoc": 47.78,
+        "stcCurrentAtMaximumPowerImpp": 12.8,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2142,
+        "width": 1165,
+        "depth": 29,
+        "weight": 30,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.5
+        },
+        "stc_voc": {
+          "value": 47.78
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 525
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A(525W)"
+        },
+        "stc_vmpp": {
+          "value": 41.02
+        }
+      }
+    },
+    {
+      "id": 33628,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/132A(600W)",
+      "productCode": "BMT-P2/132A(600W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A(600W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_132A(600W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/132A(600W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11628,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 40.41,
+        "stcShortCircuitCurrentIsc": 15.75,
+        "stcOpenCircuitVoltageVoc": 48.5,
+        "stcCurrentAtMaximumPowerImpp": 14.85,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2142,
+        "width": 1165,
+        "depth": 29,
+        "weight": 30,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 15.75
+        },
+        "stc_voc": {
+          "value": 48.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A(600W)"
+        },
+        "stc_vmpp": {
+          "value": 40.41
+        }
+      }
+    },
+    {
+      "id": 36413,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/132A(605W)",
+      "productCode": "BMT-P2/132A(605W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A(605W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_132A(605W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/132A(605W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14413,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 605,
+        "stcVoltageAtMaximumPowerVmpp": 40.61,
+        "stcShortCircuitCurrentIsc": 15.8,
+        "stcOpenCircuitVoltageVoc": 48.7,
+        "stcCurrentAtMaximumPowerImpp": 14.9,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2142,
+        "width": 1165,
+        "depth": 29,
+        "weight": 30,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.214,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 15.8
+        },
+        "stc_voc": {
+          "value": 48.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 605
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A(605W)"
+        },
+        "stc_vmpp": {
+          "value": 40.61
+        }
+      }
+    },
+    {
+      "id": 38145,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A (550W)",
+      "productCode": "BMT-P2/144A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(550W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(550W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(550W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16145,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 550,
+        "stcVoltageAtMaximumPowerVmpp": 41.35,
+        "stcShortCircuitCurrentIsc": 14.18,
+        "stcOpenCircuitVoltageVoc": 49.84,
+        "stcCurrentAtMaximumPowerImpp": 13.3,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": 2155,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1175,
+        "palletDimensionHeight": 2217,
+        "cell": 144,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.204,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 63,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.18
+        },
+        "stc_voc": {
+          "value": 49.84
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 550
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A"
+        },
+        "stc_vmpp": {
+          "value": 41.35
+        }
+      }
+    },
+    {
+      "id": 18148,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A(555W)",
+      "productCode": "BMT-P2/144A(555W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(555W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2/144A(555W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(555W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5029,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 555,
+        "stcVoltageAtMaximumPowerVmpp": 41.55,
+        "stcShortCircuitCurrentIsc": 14.25,
+        "stcOpenCircuitVoltageVoc": 50.04,
+        "stcCurrentAtMaximumPowerImpp": 13.36,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.206,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.25
+        },
+        "stc_voc": {
+          "value": 50.04
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 555
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(555W)"
+        },
+        "stc_vmpp": {
+          "value": 41.55
+        }
+      }
+    },
+    {
+      "id": 38211,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A(570W)",
+      "productCode": "BMT-P2/144A(570W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(570W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(570W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(570W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16211,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 570,
+        "stcVoltageAtMaximumPowerVmpp": 44.54,
+        "stcShortCircuitCurrentIsc": 13.5,
+        "stcOpenCircuitVoltageVoc": 51.89,
+        "stcCurrentAtMaximumPowerImpp": 12.8,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.212,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.5
+        },
+        "stc_voc": {
+          "value": 51.89
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 570
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(570W)"
+        },
+        "stc_vmpp": {
+          "value": 44.54
+        }
+      }
+    },
+    {
+      "id": 38830,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A(585W)",
+      "productCode": "BMT-P2/144A(585W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(585W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(585W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A (585W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16830,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 585,
+        "stcVoltageAtMaximumPowerVmpp": 45.18,
+        "stcShortCircuitCurrentIsc": 13.65,
+        "stcOpenCircuitVoltageVoc": 52.95,
+        "stcCurrentAtMaximumPowerImpp": 12.95,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2327,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.217,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.65
+        },
+        "stc_voc": {
+          "value": 52.95
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 585
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(585W)"
+        },
+        "stc_vmpp": {
+          "value": 45.18
+        }
+      }
+    },
+    {
+      "id": 37692,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A(600W)",
+      "productCode": "BMT-P2/144A(600W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(600W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(600W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(600W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15692,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 43.42,
+        "stcShortCircuitCurrentIsc": 14.52,
+        "stcOpenCircuitVoltageVoc": 50.9,
+        "stcCurrentAtMaximumPowerImpp": 13.82,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.52
+        },
+        "stc_voc": {
+          "value": 50.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(600W)"
+        },
+        "stc_vmpp": {
+          "value": 43.42
+        }
+      }
+    },
+    {
+      "id": 35841,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A(605W)",
+      "productCode": "BMT-P2/144A(605W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(605W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(605W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(605W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13841,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 605,
+        "stcVoltageAtMaximumPowerVmpp": 43.62,
+        "stcShortCircuitCurrentIsc": 14.57,
+        "stcOpenCircuitVoltageVoc": 51.08,
+        "stcCurrentAtMaximumPowerImpp": 13.97,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.57
+        },
+        "stc_voc": {
+          "value": 51.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 605
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(605W)"
+        },
+        "stc_vmpp": {
+          "value": 43.62
+        }
+      }
+    },
+    {
+      "id": 33327,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "BMT-P2/144A(610W)",
+      "productCode": "BMT-P2/144A(610W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(610W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(610W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(610W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11327,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 610,
+        "stcVoltageAtMaximumPowerVmpp": 43.83,
+        "stcShortCircuitCurrentIsc": 14.62,
+        "stcOpenCircuitVoltageVoc": 51.27,
+        "stcCurrentAtMaximumPowerImpp": 13.92,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.226,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.62
+        },
+        "stc_voc": {
+          "value": 51.27
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 610
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(610W)"
+        },
+        "stc_vmpp": {
+          "value": 43.83
+        }
+      }
+    },
+    {
+      "id": 122642,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy",
+      "productCode": "BMT-G3/088A(360W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/f79ef415-3de3-445a-98cf-d331c45b6964.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/05a27a44-be40-4529-9e85-235d71f3ab48.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(360W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68878,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 310,
+        "stcVoltageAtMaximumPowerVmpp": 27.26,
+        "stcShortCircuitCurrentIsc": 13.82,
+        "stcOpenCircuitVoltageVoc": 32.14,
+        "stcCurrentAtMaximumPowerImpp": 13.21,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": 1452,
+        "palletDimensionLength": 2460,
+        "palletDimensionWidth": 1123,
+        "palletDimensionHeight": 1970,
+        "cell": 183,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.172,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.82
+        },
+        "stc_voc": {
+          "value": 32.14
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 310
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(360W)"
+        },
+        "stc_vmpp": {
+          "value": 27.26
+        }
+      }
+    },
+    {
+      "id": 122634,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy",
+      "productCode": "BMT-G4/088A(360W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/4f1be4f2-a28b-4029-a786-f69f7263dfa3.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/7ed52083-a78c-4c2f-a8b9-01ebc3b0d05c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G4/088A(360W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68870,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 360,
+        "stcVoltageAtMaximumPowerVmpp": 27.26,
+        "stcShortCircuitCurrentIsc": 13.82,
+        "stcOpenCircuitVoltageVoc": 32.14,
+        "stcCurrentAtMaximumPowerImpp": 13.21,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00029,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2138,
+        "width": 780,
+        "depth": 5,
+        "weight": 9.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 88,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TOPCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.216,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.82
+        },
+        "stc_voc": {
+          "value": 32.14
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.029
+        },
+        "power": {
+          "value": 360
+        },
+        "cec_model": {
+          "value": "BMT-G4/088A(360W)"
+        },
+        "stc_vmpp": {
+          "value": 27.26
+        }
+      }
+    },
+    {
+      "id": 122640,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G3/088A(320W)",
+      "productCode": "BMT-G3/088A(320W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/6d75972f-81b1-480c-8d3c-18d00313f70e.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/99290671-ebd0-41a4-bc56-263564fff5d1.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(320W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68876,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 320,
+        "stcVoltageAtMaximumPowerVmpp": 25.86,
+        "stcShortCircuitCurrentIsc": 12.98,
+        "stcOpenCircuitVoltageVoc": 30.78,
+        "stcCurrentAtMaximumPowerImpp": 12.38,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": 1720,
+        "palletDimensionLength": 2460,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 1970,
+        "cell": 88,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.177,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 132,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 12.98
+        },
+        "stc_voc": {
+          "value": 30.78
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 320
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(320W)"
+        },
+        "stc_vmpp": {
+          "value": 25.86
+        }
+      }
+    },
+    {
+      "id": 122638,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G3/088A(335W)",
+      "productCode": "BMT-G3/088A(335W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/fcf1329a-7a22-45ea-8856-cc267cfde43f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/386f6ca0-7d7e-4c02-9646-3d13a9846645.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(335W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68874,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 335,
+        "stcVoltageAtMaximumPowerVmpp": 25.85,
+        "stcShortCircuitCurrentIsc": 13.57,
+        "stcOpenCircuitVoltageVoc": 30.74,
+        "stcCurrentAtMaximumPowerImpp": 12.96,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2319,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": 1720,
+        "palletDimensionLength": 2460,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 1970,
+        "cell": 88,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.186,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 132,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.57
+        },
+        "stc_voc": {
+          "value": 30.74
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 335
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(335W)"
+        },
+        "stc_vmpp": {
+          "value": 25.85
+        }
+      }
+    },
+    {
+      "id": 122635,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G3/088A(355W)",
+      "productCode": "BMT-G3/088A(355W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/0b20860a-bca3-4209-9641-56285291695f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/565dc948-3f73-4f7e-96a9-ce34df020b37.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G3/088A(355W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68871,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 355,
+        "stcVoltageAtMaximumPowerVmpp": 26.98,
+        "stcShortCircuitCurrentIsc": 13.77,
+        "stcOpenCircuitVoltageVoc": 31.86,
+        "stcCurrentAtMaximumPowerImpp": 13.16,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2335,
+        "width": 777,
+        "depth": 4,
+        "weight": 11,
+        "palletWeight": 1720,
+        "palletDimensionLength": 2460,
+        "palletDimensionWidth": 1185,
+        "palletDimensionHeight": 1970,
+        "cell": 88,
+        "cellType": "Monocrystalline silicon solar cells",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.201,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 132,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.77
+        },
+        "stc_voc": {
+          "value": 31.86
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 355
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(355W)"
+        },
+        "stc_vmpp": {
+          "value": 26.98
+        }
+      }
+    },
+    {
+      "id": 128554,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G3/088A(365W)",
+      "productCode": "BMT-G3/088A(365W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/195fc688-549f-4ae6-b7be-7e4ebbe37d1f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/15/40e7925d-4dc9-4a8d-bf33-412e0bf73b2b.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year power guarantee",
+      "cecModelNumber": "BMT-G3/088A(365W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TÜV Rheinland CERTIFIED",
+        "CE"
+      ],
+      "panel": {
+        "id": 71439,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 27.53,
+        "stcShortCircuitCurrentIsc": 13.87,
+        "stcOpenCircuitVoltageVoc": 32.42,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2335,
+        "width": 777,
+        "depth": 3.5,
+        "weight": 10.2,
+        "palletWeight": 1452,
+        "palletDimensionLength": 2460,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 1970,
+        "cell": 88,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": 132,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.87
+        },
+        "stc_voc": {
+          "value": 32.42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "BMT-G3/088A(365W)"
+        },
+        "stc_vmpp": {
+          "value": 27.53
+        }
+      }
+    },
+    {
+      "id": 37689,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G4/088A(335W)",
+      "productCode": "BMT-G4/088A(335W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c2912f61-d87c-44da-b377-1eab7fb4304c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-G4_088A.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-G4/088A(335W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15689,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 335,
+        "stcVoltageAtMaximumPowerVmpp": 25.68,
+        "stcShortCircuitCurrentIsc": 13.88,
+        "stcOpenCircuitVoltageVoc": 30.47,
+        "stcCurrentAtMaximumPowerImpp": 13.05,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2116,
+        "width": 777,
+        "depth": 3,
+        "weight": 9,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.204,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.88
+        },
+        "stc_voc": {
+          "value": 30.47
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 335
+        },
+        "cec_model": {
+          "value": "BMT-G4/088A(335W)"
+        },
+        "stc_vmpp": {
+          "value": 25.68
+        }
+      }
+    },
+    {
+      "id": 124459,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G4/088A(365W)",
+      "productCode": "BMT-G4/088A(365W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/081f8e1f-0fb0-4a76-8202-c1d16a67490d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/6393296f-6a34-48dc-a6c4-b00f4b51ec39.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year power generation performance guarantee: 1% degradation in the first year, 0.4% decay per year, 87.4% power output at 30 years.",
+      "cecModelNumber": "BMT-G4/088A(365W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ACE",
+        "TÜV Rheinland CERTIFIED"
+      ],
+      "panel": {
+        "id": 70019,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 27.53,
+        "stcShortCircuitCurrentIsc": 13.87,
+        "stcOpenCircuitVoltageVoc": 32.42,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2138,
+        "width": 780,
+        "depth": 5,
+        "weight": 9.3,
+        "palletWeight": 1560,
+        "palletDimensionLength": 2380,
+        "palletDimensionWidth": 1136,
+        "palletDimensionHeight": 1970,
+        "cell": 88,
+        "cellType": "N-Type Topcon Half Cells(88pcs)",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": 124,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.87
+        },
+        "stc_voc": {
+          "value": 32.42
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "BMT-G4/088A(365W)"
+        },
+        "stc_vmpp": {
+          "value": 27.53
+        }
+      }
+    },
+    {
+      "id": 44856,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G4/108A(440W)",
+      "productCode": "BMT-G4/108A(440W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/859b88fe-da74-4e85-a052-33c3baf5ed9a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/37eebd17-2596-49da-b27c-ceffe9e42bb1.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "BMT-G4/108A(440W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 21655,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.26,
+        "stcShortCircuitCurrentIsc": 13.9,
+        "stcOpenCircuitVoltageVoc": 39.32,
+        "stcCurrentAtMaximumPowerImpp": 13.23,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2275,
+        "width": 905,
+        "depth": 3.5,
+        "weight": 11.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.214,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.9
+        },
+        "stc_voc": {
+          "value": 39.32
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "BMT-G4/108A(440W)"
+        },
+        "stc_vmpp": {
+          "value": 33.26
+        }
+      }
+    },
+    {
+      "id": 129891,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G5/120A(565W)",
+      "productCode": "BMT-G5/120A(565W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/25a12fe2-0e10-4fc3-a746-af2bd11fcd46.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/1341dd51-f7d3-4117-bc03-8819cf51f325.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year power guarantee",
+      "cecModelNumber": "BMT-G5/120A(565W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TÜV Rheinland",
+        "CE"
+      ],
+      "panel": {
+        "id": 72324,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 565,
+        "stcVoltageAtMaximumPowerVmpp": 37.92,
+        "stcShortCircuitCurrentIsc": 15.57,
+        "stcOpenCircuitVoltageVoc": 44.34,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2173,
+        "width": 1132,
+        "depth": 29,
+        "weight": 16.8,
+        "palletWeight": 1400,
+        "palletDimensionLength": 2194,
+        "palletDimensionWidth": 1120,
+        "palletDimensionHeight": 2516,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2297,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 29,
+        "qtyPerPallet": 72,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 15.57
+        },
+        "stc_voc": {
+          "value": 44.34
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 565
+        },
+        "cec_model": {
+          "value": "BMT-G5/120A(565W)"
+        },
+        "stc_vmpp": {
+          "value": 37.92
+        }
+      }
+    },
+    {
+      "id": 129892,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G5/120A(570W)",
+      "productCode": "BMT-G5/120A(570W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/25a12fe2-0e10-4fc3-a746-af2bd11fcd46.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/1341dd51-f7d3-4117-bc03-8819cf51f325.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year power guarantee",
+      "cecModelNumber": "BMT-G5/120A(570W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TÜV Rheinland",
+        "CE"
+      ],
+      "panel": {
+        "id": 72325,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 570,
+        "stcVoltageAtMaximumPowerVmpp": 38.13,
+        "stcShortCircuitCurrentIsc": 15.62,
+        "stcOpenCircuitVoltageVoc": 44.55,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2173,
+        "width": 1132,
+        "depth": 29,
+        "weight": 16.8,
+        "palletWeight": 1400,
+        "palletDimensionLength": 2194,
+        "palletDimensionWidth": 1120,
+        "palletDimensionHeight": 2516,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2317,
+        "noctMaximumPowerPmax": 570,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 29,
+        "qtyPerPallet": 72,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/XY / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 15.62
+        },
+        "stc_voc": {
+          "value": 44.55
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 570
+        },
+        "cec_model": {
+          "value": "BMT-G5/120A(570W)"
+        },
+        "stc_vmpp": {
+          "value": 38.13
+        }
+      }
+    },
+    {
+      "id": 129893,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Galaxy BMT-G5/120A(575W)",
+      "productCode": "BMT-G5/120A(575W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/25a12fe2-0e10-4fc3-a746-af2bd11fcd46.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/1341dd51-f7d3-4117-bc03-8819cf51f325.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30-year power guarantee",
+      "cecModelNumber": "BMT-G5/120A(575W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "TÜV Rheinland",
+        "CE"
+      ],
+      "panel": {
+        "id": 72326,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 575,
+        "stcVoltageAtMaximumPowerVmpp": 38.34,
+        "stcShortCircuitCurrentIsc": 15.67,
+        "stcOpenCircuitVoltageVoc": 44.76,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2173,
+        "width": 1132,
+        "depth": 29,
+        "weight": 16.8,
+        "palletWeight": 1400,
+        "palletDimensionLength": 2194,
+        "palletDimensionWidth": 1120,
+        "palletDimensionHeight": 2516,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2338,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 29,
+        "qtyPerPallet": 72,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 15.67
+        },
+        "stc_voc": {
+          "value": 44.76
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 575
+        },
+        "cec_model": {
+          "value": "BMT-G5/120A(575W)"
+        },
+        "stc_vmpp": {
+          "value": 38.34
+        }
+      }
+    },
+    {
+      "id": 19043,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Polaris BMT-P2/132A (535W)",
+      "productCode": "BMT-P2/132A (535W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A(535W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2/132A(535W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/132A (535W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5924,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.47,
+        "stcShortCircuitCurrentIsc": 13.6,
+        "stcOpenCircuitVoltageVoc": 48.21,
+        "stcCurrentAtMaximumPowerImpp": 12.9,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2142,
+        "width": 1165,
+        "depth": 29,
+        "weight": 30,
+        "palletWeight": 2035,
+        "palletDimensionLength": 2210,
+        "palletDimensionWidth": 1175,
+        "palletDimensionHeight": 2217,
+        "cell": 132,
+        "cellType": "Monocrystalline Half Cells",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.214,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 63,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.6
+        },
+        "stc_voc": {
+          "value": 48.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A (535W)"
+        },
+        "stc_vmpp": {
+          "value": 41.47
+        }
+      }
+    },
+    {
+      "id": 123713,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Polaris BMT-P2/132A(535W)",
+      "productCode": "BMT-P2/132A(535W)",
+      "displayName": null,
+      "productDescription": "Polaris Series is designed to meet the needs of a variety of applications. Whether installing it as the carport or sun shed, Polaris is adaptable and versatile. The hoop installation feature facilitates easy replacement and swift deployment. Each pan",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/19/0a5eafeb-cad3-4da7-9c9c-823710d977c9.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/19/584f3746-20e7-4f08-8c16-6ab9d1e66bd4.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year power generation performance guarantee",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69659,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.47,
+        "stcShortCircuitCurrentIsc": 13.6,
+        "stcOpenCircuitVoltageVoc": 48.21,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.00029,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2142,
+        "width": 1160,
+        "depth": 29.6,
+        "weight": 30.1,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 29,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.6
+        },
+        "stc_voc": {
+          "value": 48.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.029
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A(535W)"
+        },
+        "stc_vmpp": {
+          "value": 41.47
+        }
+      }
+    },
+    {
+      "id": 18461,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Polaris BMT-P2/132A(540W)",
+      "productCode": "BMT-P2/132A(540W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_132A(540W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2/132A(540W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5342,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 41.7,
+        "stcShortCircuitCurrentIsc": 13.65,
+        "stcOpenCircuitVoltageVoc": 48.43,
+        "stcCurrentAtMaximumPowerImpp": 12.95,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2142,
+        "width": 1165,
+        "depth": 29,
+        "weight": 30,
+        "palletWeight": 2035,
+        "palletDimensionLength": 2210,
+        "palletDimensionWidth": 1175,
+        "palletDimensionHeight": 2217,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.216,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 63,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.65
+        },
+        "stc_voc": {
+          "value": 48.43
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "BMT-P2/132A(540W)"
+        },
+        "stc_vmpp": {
+          "value": 41.7
+        }
+      }
+    },
+    {
+      "id": 38981,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Polaris BMT-P2/144A(550W)",
+      "productCode": "BMT-P2/144A(550W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16981,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 550,
+        "stcVoltageAtMaximumPowerVmpp": 41.35,
+        "stcShortCircuitCurrentIsc": 14.18,
+        "stcOpenCircuitVoltageVoc": 49.84,
+        "stcCurrentAtMaximumPowerImpp": 13.3,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2327,
+        "width": 1160,
+        "depth": 30,
+        "weight": 32,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.20376,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 14.18
+        },
+        "stc_voc": {
+          "value": 49.84
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 550
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(550W)"
+        },
+        "stc_vmpp": {
+          "value": 41.35
+        }
+      }
+    },
+    {
+      "id": 33598,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Polaris BMT-P2/144A(575W)",
+      "productCode": "BMT-P2/144A(575W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(575W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(575W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(575W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11598,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 575,
+        "stcVoltageAtMaximumPowerVmpp": 44.75,
+        "stcShortCircuitCurrentIsc": 13.55,
+        "stcOpenCircuitVoltageVoc": 52.08,
+        "stcCurrentAtMaximumPowerImpp": 12.85,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": 2155,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1175,
+        "palletDimensionHeight": 2217,
+        "cell": 144,
+        "cellType": "Monoctystalline Half Cells",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 63,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.55
+        },
+        "stc_voc": {
+          "value": 52.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 575
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(575W)"
+        },
+        "stc_vmpp": {
+          "value": 44.75
+        }
+      }
+    },
+    {
+      "id": 34385,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 254,
+      "brandName": "GoodWe",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/21/f8f33a66-32c4-4f9f-8368-c8ab764a6c41.webp",
+      "productName": "Polaris BMT-P2/144A(580W)",
+      "productCode": "BMT-P2/144A(580W)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/GoodWe_BMT-P2_144A(580W).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/GoodWe_BMT-P2_144A(580W).pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": "BMT-P2/144A(580W) (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12385,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 580,
+        "stcVoltageAtMaximumPowerVmpp": 44.97,
+        "stcShortCircuitCurrentIsc": 13.6,
+        "stcOpenCircuitVoltageVoc": 52.28,
+        "stcCurrentAtMaximumPowerImpp": 12.9,
+        "temperatureCoefficientOfPmax": -0.0035,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0045,
+        "height": 2383,
+        "width": 1160,
+        "depth": 29,
+        "weight": 34,
+        "palletWeight": 2155,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1175,
+        "palletDimensionHeight": 2217,
+        "cell": 144,
+        "cellType": "Mono-144 Half Cell",
+        "cellTechnology": "TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": 63,
+        "connectorType": "PV-GZX1500 / PV-KST4-EVO2/X / PV-XT101.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.35
+        },
+        "stc_isc": {
+          "value": 13.6
+        },
+        "stc_voc": {
+          "value": 52.28
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 580
+        },
+        "cec_model": {
+          "value": "BMT-P2/144A(580W)"
+        },
+        "stc_vmpp": {
+          "value": 44.97
+        }
+      }
+    }
+  ]
+}

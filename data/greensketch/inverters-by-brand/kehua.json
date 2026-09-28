@@ -1,0 +1,2695 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "KEHUA",
+  "count": 34,
+  "exportedAt": "2026-09-23T06:39:31.824Z",
+  "items": [
+    {
+      "id": 22279,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPH2000-B",
+      "productCode": "SPH2000-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/135addab-eb73-47d2-bc77-1d496be69d70.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPH2000-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11389,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 480,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 144,
+        "width": 480,
+        "depth": 438,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 480
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20995,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPH3000-B",
+      "productCode": "SPH3000-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/76ce07f0-0b8a-4618-b5b9-01ef36f3ada9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPH3000-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10105,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 480,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 144,
+        "width": 480,
+        "depth": 438,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 480
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20462,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPH3600-B",
+      "productCode": "SPH3600-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ec34f22c-7ab6-414e-8cc0-8c459c1c4c60.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPH3600-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9572,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 480,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 144,
+        "width": 480,
+        "depth": 438,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.948,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 480
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21529,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPH3600-BL",
+      "productCode": "SPH3600-BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6303be8c-6355-4291-84bf-be180dcd3a4f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPH3600-BL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10639,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "Hybrid Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23473,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPH5000-B",
+      "productCode": "SPH5000-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f5c3f453-d356-4426-a434-31163a9aad6a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPH5000-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12583,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 480,
+        "minDcVoltageToStartFeedIn": 140,
+        "mpptVoltageMin": 160,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "Hybrid Inverter",
+        "height": 184,
+        "width": 480,
+        "depth": 520,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.93,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 480
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 140
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 160
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24095,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPH5000-BL",
+      "productCode": "SPH5000-BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bef01d8d-8a60-4af0-8ef5-a195bfd31c94.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPH5000-BL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13205,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "Hybrid Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 185,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23876,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI100K-B",
+      "productCode": "SPI100K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c1c422f8-7270-434f-ab34-433d15f49795.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI100K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12986,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 9,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 100,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 1030,
+        "depth": 345,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 18,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 100
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 9
+        }
+      }
+    },
+    {
+      "id": 24344,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI10K-B",
+      "productCode": "SPI10K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/85e5815d-e758-4f6e-8163-9ed0f97cf112.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI10K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13454,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23540,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI110K-B",
+      "productCode": "SPI110K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3a1bafea-4a05-4216-88f3-6be34d067b8f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI110K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12650,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 9,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 110,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 1030,
+        "depth": 345,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 18,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 110
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 9
+        }
+      }
+    },
+    {
+      "id": 22173,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI125K-B",
+      "productCode": "SPI125K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/146f5a33-bce8-4b0a-b60a-47602b02230c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI125K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11283,
+        "companyProductId": null,
+        "maxAcPower": 125000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 9,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 125,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 610,
+        "width": 1030,
+        "depth": 345,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 18,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 125
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 9
+        }
+      }
+    },
+    {
+      "id": 22659,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI12K-BL",
+      "productCode": "SPI12K-BL",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e7f0cfad-b15f-4e07-a687-573e11240abf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI12K-BL.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11769,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20964,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI1500-B2",
+      "productCode": "SPI1500-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6c1f21f9-b5d4-4103-b2b7-52c838bf8f94.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI1500-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10074,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2025,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24262,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI15K-B",
+      "productCode": "SPI15K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e9a31063-a670-4cdc-bede-01b680ca9405.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI15K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13372,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24277,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI17K-B",
+      "productCode": "SPI17K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0cffd0cb-575b-4874-bb4c-39383e4a236b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI17K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13387,
+        "companyProductId": null,
+        "maxAcPower": 17000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 17000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 17000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23703,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI2000-B2",
+      "productCode": "SPI2000-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2829df14-f2bb-49c3-bafe-cf32fc1a0825.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI2000-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12813,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2700,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20596,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI20K-B",
+      "productCode": "SPI20K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f89b5ea7-8b8b-4630-a06e-7530941efd70.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI20K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9706,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 27.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 27.5
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21351,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI3000-B2",
+      "productCode": "SPI3000-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e5ce0865-aa5c-4c40-aeda-b3a008855db2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI3000-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10461,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4050,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.977,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22216,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI30K-B",
+      "productCode": "SPI30K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/199924d0-a756-43f3-a675-c8f8119fa3fa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI30K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11326,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 860,
+        "width": 600,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 6,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22973,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI33K-B",
+      "productCode": "SPI33K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b9904b4f-47bb-4961-aa45-83928d96bf6a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI33K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12083,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 33000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 860,
+        "width": 600,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 6,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 33000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23239,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI3600-B2",
+      "productCode": "SPI3600-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e15c28e2-3748-47ff-80e3-0ab1b4bed15e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI3600-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12349,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4860,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24004,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI36K-B",
+      "productCode": "SPI36K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/703a65d8-950b-4a19-bce7-865e2beccf82.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI36K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13114,
+        "companyProductId": null,
+        "maxAcPower": 36000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 36000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 860,
+        "width": 600,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 6,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 36000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24563,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI4000-B2",
+      "productCode": "SPI4000-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bd968e04-d863-4a63-bd88-88e1c28459e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI4000-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13673,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20587,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI40K-B",
+      "productCode": "SPI40K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ae96a9e4-652d-468a-ad25-5ba05cb5e37e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI40K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9697,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 860,
+        "width": 600,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 9,
+        "maxEfficiency": 0.988,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22628,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI4600-B2",
+      "productCode": "SPI4600-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/84baef9c-f355-4620-a5fc-c05ae413064b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI4600-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11738,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6210,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24330,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI5000-B2",
+      "productCode": "SPI5000-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2b45a8cd-ff71-4d58-900d-f9e735436108.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI5000-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13440,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6750,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21628,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI50K-B",
+      "productCode": "SPI50K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b2e80670-c1c0-4ec2-8807-88c6e653369d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI50K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10738,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 860,
+        "width": 600,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 12,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21889,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI5K-B",
+      "productCode": "SPI5K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2093ad2d-c96f-4256-89d3-32037f99883d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI5K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10999,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23851,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI6000-B2",
+      "productCode": "SPI6000-B2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6c8d65c4-6447-4868-a911-7359bb56d778.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI6000-B2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12961,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 360,
+        "depth": 125,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8100,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.979,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22569,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI60K-B",
+      "productCode": "SPI60K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1560dc6d-9057-42e1-90da-a79885d2d438.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_SPI60K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11679,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 860,
+        "width": 600,
+        "depth": 294,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 12,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23617,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI6K-B",
+      "productCode": "SPI6K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e757a468-89d5-4167-8f28-29a08514337f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI6K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12727,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21579,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "SPI8K-B",
+      "productCode": "SPI8K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/015ddb10-8acb-41e1-ab9b-dfee12650b17.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Kehua_SPI8K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10689,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 420,
+        "width": 480,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22665,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "iStoragE3600",
+      "productCode": "iStoragE3600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e4fabebd-f430-4fc3-be50-38756ceb29c8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_iStoragE3600.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11775,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 1120,
+        "width": 580,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21903,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "iStoragE5000",
+      "productCode": "iStoragE5000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d7c596dc-aa46-42e4-b7ff-1c39959fcb5d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_iStoragE5000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11013,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 1120,
+        "width": 580,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23997,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1362,
+      "brandName": "KEHUA",
+      "brandLogo": "https://file.greensketch.net/brands/logo/1716280046192.svg",
+      "productName": "iStoragE6000",
+      "productCode": "iStoragE6000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b78e8c6a-628e-45b3-880c-c01c6e61979c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/KEHUA_iStoragE6000.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13107,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 1120,
+        "width": 580,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

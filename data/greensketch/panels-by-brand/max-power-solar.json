@@ -1,0 +1,632 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Max Power Solar",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:32:14.074Z",
+  "items": [
+    {
+      "id": 33632,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-370M60",
+      "productCode": "MPS-370M60",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Max_Power_Solar_MPS-370M60.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Max_Power_Solar_MPS-370M60.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11632,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 370,
+        "stcVoltageAtMaximumPowerVmpp": 34.42,
+        "stcShortCircuitCurrentIsc": 11.24,
+        "stcOpenCircuitVoltageVoc": 41.28,
+        "stcCurrentAtMaximumPowerImpp": 10.75,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.00295,
+        "temperatureCoefficientOfIsc": 0.00039,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.006,
+        "height": 1755,
+        "width": 1038,
+        "depth": 35,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.203,
+        "noctMaximumPowerPmax": 274,
+        "noctVoltageAtMaximumPowerVmpp": 31.64,
+        "noctCurrentAtMaximumPowerImpp": 8.66,
+        "noctOpenCircuitVoltageVoc": 37.94,
+        "noctShortCircuitCurrentIsc": 9.06,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 11.24
+        },
+        "stc_voc": {
+          "value": 41.28
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.295
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.039
+        },
+        "power": {
+          "value": 370
+        },
+        "cec_model": {
+          "value": "MPS-370M60"
+        },
+        "stc_vmpp": {
+          "value": 34.42
+        }
+      }
+    },
+    {
+      "id": 38898,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-390N",
+      "productCode": "MPS-390N",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Max_Power_Solar_MPS-390N.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Max_Power_Solar_MPS-390N.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16898,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 35.3,
+        "stcShortCircuitCurrentIsc": 11.69,
+        "stcOpenCircuitVoltageVoc": 42.2,
+        "stcCurrentAtMaximumPowerImpp": 11.04,
+        "temperatureCoefficientOfPmax": -0.0031,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1756,
+        "width": 1039,
+        "depth": 30,
+        "weight": 23,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2123,
+        "noctMaximumPowerPmax": 286,
+        "noctVoltageAtMaximumPowerVmpp": 33.2,
+        "noctCurrentAtMaximumPowerImpp": 8.91,
+        "noctOpenCircuitVoltageVoc": 40.3,
+        "noctShortCircuitCurrentIsc": 9.43,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.31
+        },
+        "stc_isc": {
+          "value": 11.69
+        },
+        "stc_voc": {
+          "value": 42.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "MPS-390N"
+        },
+        "stc_vmpp": {
+          "value": 35.3
+        }
+      }
+    },
+    {
+      "id": 19060,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-400BB",
+      "productCode": "MPS-400BB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Max_Power_Solar_MPS-400BB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Max_Power_Solar_MPS-400BB.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5941,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 37.12,
+        "stcShortCircuitCurrentIsc": 12.99,
+        "stcOpenCircuitVoltageVoc": 30.81,
+        "stcCurrentAtMaximumPowerImpp": 13.6,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 28,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.205,
+        "noctMaximumPowerPmax": 301,
+        "noctVoltageAtMaximumPowerVmpp": 34.64,
+        "noctCurrentAtMaximumPowerImpp": 10.99,
+        "noctOpenCircuitVoltageVoc": 28.82,
+        "noctShortCircuitCurrentIsc": 10.44,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 12.99
+        },
+        "stc_voc": {
+          "value": 30.81
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "MPS-400BB"
+        },
+        "stc_vmpp": {
+          "value": 37.12
+        }
+      }
+    },
+    {
+      "id": 32908,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-405BB",
+      "productCode": "MPS-405BB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Max_Power_Solar_MPS-405BB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Max_Power_Solar_MPS-405BB.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10908,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 37.22,
+        "stcShortCircuitCurrentIsc": 13.1,
+        "stcOpenCircuitVoltageVoc": 30.93,
+        "stcCurrentAtMaximumPowerImpp": 13.7,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 28,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2074,
+        "noctMaximumPowerPmax": 304,
+        "noctVoltageAtMaximumPowerVmpp": 34.73,
+        "noctCurrentAtMaximumPowerImpp": 11.07,
+        "noctOpenCircuitVoltageVoc": 28.91,
+        "noctShortCircuitCurrentIsc": 10.51,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.1
+        },
+        "stc_voc": {
+          "value": 30.93
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "MPS-405BB"
+        },
+        "stc_vmpp": {
+          "value": 37.22
+        }
+      }
+    },
+    {
+      "id": 19328,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-410BB",
+      "productCode": "MPS-410BB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Max_Power_Solar_MPS-410BB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Max_Power_Solar_MPS-410BB.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6209,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 37.32,
+        "stcShortCircuitCurrentIsc": 13.21,
+        "stcOpenCircuitVoltageVoc": 31.05,
+        "stcCurrentAtMaximumPowerImpp": 13.8,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 28,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 308,
+        "noctVoltageAtMaximumPowerVmpp": 34.81,
+        "noctCurrentAtMaximumPowerImpp": 11.15,
+        "noctOpenCircuitVoltageVoc": 29.05,
+        "noctShortCircuitCurrentIsc": 10.59,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.21
+        },
+        "stc_voc": {
+          "value": 31.05
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "MPS-410BB"
+        },
+        "stc_vmpp": {
+          "value": 37.32
+        }
+      }
+    },
+    {
+      "id": 37772,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-415BB",
+      "productCode": "MPS-415BB",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Max_Power_Solar_MPS-415BB.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Max_Power_Solar_MPS-415BB.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15772,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 37.42,
+        "stcShortCircuitCurrentIsc": 13.32,
+        "stcOpenCircuitVoltageVoc": 31.16,
+        "stcCurrentAtMaximumPowerImpp": 13.9,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0026,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 28,
+        "weight": 18,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2125,
+        "noctMaximumPowerPmax": 311,
+        "noctVoltageAtMaximumPowerVmpp": 34.9,
+        "noctCurrentAtMaximumPowerImpp": 11.23,
+        "noctOpenCircuitVoltageVoc": 29.19,
+        "noctShortCircuitCurrentIsc": 10.66,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.32
+        },
+        "stc_voc": {
+          "value": 31.16
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.26
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "MPS-415BB"
+        },
+        "stc_vmpp": {
+          "value": 37.42
+        }
+      }
+    },
+    {
+      "id": 122391,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1309,
+      "brandName": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "productName": "MPS-440NBBK",
+      "productCode": "MPS-440NBBK",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/e9eff2bd-8a49-4b47-9adb-1b627cdc1558.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/7495bd08-7093-4178-b781-6c352a9da628.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": "MPS-440NBBK (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68627,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 29.41,
+        "stcShortCircuitCurrentIsc": 15.8,
+        "stcOpenCircuitVoltageVoc": 35.38,
+        "stcCurrentAtMaximumPowerImpp": 14.97,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00046,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.9,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2202,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.8
+        },
+        "stc_voc": {
+          "value": 35.38
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.046
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "MPS-440NBBK"
+        },
+        "stc_vmpp": {
+          "value": 29.41
+        }
+      }
+    }
+  ]
+}

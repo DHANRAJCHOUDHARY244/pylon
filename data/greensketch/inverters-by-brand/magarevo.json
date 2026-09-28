@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Magarevo",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.600Z",
+  "items": [
+    {
+      "id": 21330,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1341,
+      "brandName": "Magarevo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Magarevo.png",
+      "productName": "MPS0030",
+      "productCode": "MPS0030",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a8d8dc80-490b-441e-b6f1-78dbc0aee9ab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Magarevo_MPS0030.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10440,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 130,
+        "type": "PV-only Inverter",
+        "height": 1900,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 130
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22097,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1341,
+      "brandName": "Magarevo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Magarevo.png",
+      "productName": "MPS0050",
+      "productCode": "MPS0050",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5b1e8d1b-8a5e-40a8-93d9-72b4be54e406.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Magarevo_MPS0050.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11207,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 130,
+        "type": "PV-only Inverter",
+        "height": 800,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 130
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24551,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1341,
+      "brandName": "Magarevo",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Magarevo.png",
+      "productName": "MPS0100",
+      "productCode": "MPS0100",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e8549e56-eb9d-442a-b191-400662389153.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Magarevo_MPS0100.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13661,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 250,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 130,
+        "type": "PV-only Inverter",
+        "height": 2050,
+        "width": 1200,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 4,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 250
+        },
+        "current_isc_max": {
+          "value": 130
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    }
+  ]
+}

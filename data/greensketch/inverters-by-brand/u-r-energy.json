@@ -1,0 +1,483 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "U R Energy",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:39:42.192Z",
+  "items": [
+    {
+      "id": 21737,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1407,
+      "brandName": "U R Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/k37t20tj.png",
+      "productName": "URE-10K",
+      "productCode": "URE-10K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cedb2567-8513-4578-9000-a45e3492d9b9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/U_R_Energy_URE-10K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10847,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 330,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 600,
+        "width": 430,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 11500,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 330
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22026,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1407,
+      "brandName": "U R Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/k37t20tj.png",
+      "productName": "URE-15K",
+      "productCode": "URE-15K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/92f03670-4597-42d6-8208-3e845307faeb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/U_R_Energy_URE-15K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11136,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 330,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 613,
+        "width": 430,
+        "depth": 269,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 17200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 330
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23601,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1407,
+      "brandName": "U R Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/k37t20tj.png",
+      "productName": "URE-20K",
+      "productCode": "URE-20K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9064624e-8dd0-463f-8200-d2ae7b82087a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/U_R_Energy_URE-20K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12711,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "PV-only Inverter",
+        "height": 700,
+        "width": 530,
+        "depth": 356,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 23000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22222,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1407,
+      "brandName": "U R Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/k37t20tj.png",
+      "productName": "URE-25K",
+      "productCode": "URE-25K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1ca98db7-86ad-4002-97d7-17d17f9b94b6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/U_R_Energy_URE-25K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11332,
+        "companyProductId": null,
+        "maxAcPower": 27500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 330,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 700,
+        "width": 530,
+        "depth": 356.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 28000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 330
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22200,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1407,
+      "brandName": "U R Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/k37t20tj.png",
+      "productName": "URE-30K",
+      "productCode": "URE-30K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/80f8366d-3d12-49ff-80d4-aebf480d8895.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/U_R_Energy_URE-30K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11310,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 330,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 700,
+        "width": 530,
+        "depth": 356.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 34000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 330
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 20917,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1407,
+      "brandName": "U R Energy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/k37t20tj.png",
+      "productName": "URE-33K",
+      "productCode": "URE-33K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed09b90d-f637-4292-a139-dd7366d4055b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/U_R_Energy_URE-33K.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10027,
+        "companyProductId": null,
+        "maxAcPower": 33000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 330,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 33000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "PV-only Inverter",
+        "height": 700,
+        "width": 530,
+        "depth": 356.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 46000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 330
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 33000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    }
+  ]
+}

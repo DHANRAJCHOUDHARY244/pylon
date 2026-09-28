@@ -1,0 +1,641 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Aquila Power",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.121Z",
+  "items": [
+    {
+      "id": 22890,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP/(SPS/OFF/MICROGRID)-100/3",
+      "productCode": "AP/(SPS/OFF/MICROGRID)-100/3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/39d4f9b0-a42b-4870-ae88-a55bfff33079.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP_(SPS_OFF_MICROGRID)-100_3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12000,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 400,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 300,
+        "type": "PV-only Inverter",
+        "height": 2100,
+        "width": 1200,
+        "depth": 900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 110000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 400
+        },
+        "current_isc_max": {
+          "value": 300
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24049,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP/(SPS/OFF/MICROGRID)-40/3",
+      "productCode": "AP/(SPS/OFF/MICROGRID)-40/3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7a5219a2-c015-4b93-815a-39c57cbadea4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP_(SPS_OFF_MICROGRID)-40_3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13159,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 400,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 120,
+        "type": "PV-only Inverter",
+        "height": 2100,
+        "width": 1200,
+        "depth": 900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 44000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 400
+        },
+        "current_isc_max": {
+          "value": 120
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23844,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP/(SPS/OFF/MICROGRID)-50/3",
+      "productCode": "AP/(SPS/OFF/MICROGRID)-50/3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1677f084-535a-4f04-90ff-bcfca91f649f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP_(SPS_OFF_MICROGRID)-50_3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12954,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 400,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 150,
+        "type": "PV-only Inverter",
+        "height": 900,
+        "width": 1200,
+        "depth": 2100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 55000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 400
+        },
+        "current_isc_max": {
+          "value": 150
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24611,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP/(SPS/OFF/MICROGRID)-60/3",
+      "productCode": "AP/(SPS/OFF/MICROGRID)-60/3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/11a1fba4-4555-41cf-9d69-1eca5cee7931.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP_(SPS_OFF_MICROGRID)-60_3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13721,
+        "companyProductId": null,
+        "maxAcPower": 60000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 400,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 180,
+        "type": "PV-only Inverter",
+        "height": 900,
+        "width": 1200,
+        "depth": 2100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 66000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 400
+        },
+        "current_isc_max": {
+          "value": 180
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23012,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP/(SPS/OFF/MICROGRID)-75/3",
+      "productCode": "AP/(SPS/OFF/MICROGRID)-75/3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d677cdfc-9f28-4d67-8f78-e938742e673c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP_(SPS_OFF_MICROGRID)-75_3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12122,
+        "companyProductId": null,
+        "maxAcPower": 75000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 400,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 225,
+        "type": "PV-only Inverter",
+        "height": 2100,
+        "width": 1200,
+        "depth": 900,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 82500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 400
+        },
+        "current_isc_max": {
+          "value": 225
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23781,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP20",
+      "productCode": "AP20",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e6739915-34dc-4adb-9abb-86e00ee0dc42.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP20.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12891,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 352,
+        "mpptVoltageMin": 352,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 62,
+        "type": "PV-only Inverter",
+        "height": 830,
+        "width": 450,
+        "depth": 1100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 31820,
+        "dcInputs": 0,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 352
+        },
+        "current_isc_max": {
+          "value": 62
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 352
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21592,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP25",
+      "productCode": "AP25",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/96adef66-2558-4ae3-91b5-aadfe5cf09d5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP25.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10702,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 352,
+        "mpptVoltageMin": 352,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 79,
+        "type": "PV-only Inverter",
+        "height": 830,
+        "width": 450,
+        "depth": 1100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 27800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 352
+        },
+        "current_isc_max": {
+          "value": 79
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 352
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20828,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1398,
+      "brandName": "Aquila Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/0c8f7c7a-c0e7-423f-9a8d-d5d12bdc4090.png",
+      "productName": "AP30",
+      "productCode": "AP30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/05ddb5b6-a49e-4683-8d5c-2d2c4344361b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Aquila_Power_AP30.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9938,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 352,
+        "mpptVoltageMin": 352,
+        "mpptVoltageMax": 705,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 94,
+        "type": "PV-only Inverter",
+        "height": 830,
+        "width": 450,
+        "depth": 1100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 33000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 352
+        },
+        "current_isc_max": {
+          "value": 94
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 352
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

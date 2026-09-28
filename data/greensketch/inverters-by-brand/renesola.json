@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "ReneSola",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.674Z",
+  "items": [
+    {
+      "id": 21873,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1260,
+      "brandName": "ReneSola",
+      "brandLogo": "https://file.greensketch.net/brands/logo/ReneSola.png",
+      "productName": "Replus-250",
+      "productCode": "Replus-250",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/11b2726f-0cf5-4f5d-91b5-95bc2f2b2ebb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/ReneSola_Replus-250.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10983,
+        "companyProductId": null,
+        "maxAcPower": 220,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 55,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 22,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 220,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "PV-only Inverter",
+        "height": 138,
+        "width": 230,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 250,
+        "dcInputs": 1,
+        "maxEfficiency": 0.963,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 55
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 220
+        },
+        "mppt_voltage_min": {
+          "value": 22
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

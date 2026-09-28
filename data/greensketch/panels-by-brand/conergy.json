@@ -1,0 +1,365 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Conergy",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:32:24.479Z",
+  "items": [
+    {
+      "id": 19663,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1317,
+      "brandName": "Conergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Conergy.png",
+      "productName": "P 190M",
+      "productCode": "P 190M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Conergy_P_190M.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Conergy_P_190M.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6544,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 190,
+        "stcVoltageAtMaximumPowerVmpp": 35.8,
+        "stcShortCircuitCurrentIsc": 5.78,
+        "stcOpenCircuitVoltageVoc": 44.8,
+        "stcCurrentAtMaximumPowerImpp": 5.33,
+        "temperatureCoefficientOfPmax": -0.0044,
+        "temperatureCoefficientOfVoc": -0.00148,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.0833,
+        "subsequentAnnualPowerDegradation": 0.00769,
+        "height": 1580,
+        "width": 808,
+        "depth": 35,
+        "weight": 13,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.149,
+        "noctMaximumPowerPmax": 130,
+        "noctVoltageAtMaximumPowerVmpp": 31.9,
+        "noctCurrentAtMaximumPowerImpp": 4.09,
+        "noctOpenCircuitVoltageVoc": 40.8,
+        "noctShortCircuitCurrentIsc": 4.53,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.44
+        },
+        "stc_isc": {
+          "value": 5.78
+        },
+        "stc_voc": {
+          "value": 44.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.148
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 190
+        },
+        "cec_model": {
+          "value": "P 190M"
+        },
+        "stc_vmpp": {
+          "value": 35.8
+        }
+      }
+    },
+    {
+      "id": 38358,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1317,
+      "brandName": "Conergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Conergy.png",
+      "productName": "P 195M",
+      "productCode": "P 195M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Conergy_P_195M.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Conergy_P_195M.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16358,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 195,
+        "stcVoltageAtMaximumPowerVmpp": 36,
+        "stcShortCircuitCurrentIsc": 5.85,
+        "stcOpenCircuitVoltageVoc": 45,
+        "stcCurrentAtMaximumPowerImpp": 5.42,
+        "temperatureCoefficientOfPmax": 0.0044,
+        "temperatureCoefficientOfVoc": 0.00148,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.00833,
+        "subsequentAnnualPowerDegradation": 0.00769,
+        "height": 1580,
+        "width": 808,
+        "depth": 35,
+        "weight": 13,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.153,
+        "noctMaximumPowerPmax": 133,
+        "noctVoltageAtMaximumPowerVmpp": 32,
+        "noctCurrentAtMaximumPowerImpp": 4.17,
+        "noctOpenCircuitVoltageVoc": 41,
+        "noctShortCircuitCurrentIsc": 4.6,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": 0.44
+        },
+        "stc_isc": {
+          "value": 5.85
+        },
+        "stc_voc": {
+          "value": 45
+        },
+        "temperature_coefficient_of_voc": {
+          "value": 0.148
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 195
+        },
+        "cec_model": {
+          "value": "P 195M"
+        },
+        "stc_vmpp": {
+          "value": 36
+        }
+      }
+    },
+    {
+      "id": 36767,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1317,
+      "brandName": "Conergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Conergy.png",
+      "productName": "P 200M",
+      "productCode": "P 200M",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Conergy_P_200M.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Conergy_P_200M.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14767,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 200,
+        "stcVoltageAtMaximumPowerVmpp": 36.2,
+        "stcShortCircuitCurrentIsc": 5.93,
+        "stcOpenCircuitVoltageVoc": 45.2,
+        "stcCurrentAtMaximumPowerImpp": 5.52,
+        "temperatureCoefficientOfPmax": 0.0044,
+        "temperatureCoefficientOfVoc": 0.00148,
+        "temperatureCoefficientOfIsc": 0.0003,
+        "firstYearPowerDegradation": 0.00833,
+        "subsequentAnnualPowerDegradation": 0.00769,
+        "height": 1580,
+        "width": 808,
+        "depth": 35,
+        "weight": 13,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.157,
+        "noctMaximumPowerPmax": 137,
+        "noctVoltageAtMaximumPowerVmpp": 32.2,
+        "noctCurrentAtMaximumPowerImpp": 4.26,
+        "noctOpenCircuitVoltageVoc": 41.2,
+        "noctShortCircuitCurrentIsc": 4.68,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": 0.44
+        },
+        "stc_isc": {
+          "value": 5.93
+        },
+        "stc_voc": {
+          "value": 45.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": 0.148
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.03
+        },
+        "power": {
+          "value": 200
+        },
+        "cec_model": {
+          "value": "P 200M"
+        },
+        "stc_vmpp": {
+          "value": 36.2
+        }
+      }
+    },
+    {
+      "id": 37865,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1317,
+      "brandName": "Conergy",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Conergy.png",
+      "productName": "PowerPlus230M-TD",
+      "productCode": "PowerPlus230M-TD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Conergy_PowerPlus230M-TD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Conergy_PowerPlus230M-TD.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "5",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15865,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 230,
+        "stcVoltageAtMaximumPowerVmpp": 30.14,
+        "stcShortCircuitCurrentIsc": 8.22,
+        "stcOpenCircuitVoltageVoc": 37.03,
+        "stcCurrentAtMaximumPowerImpp": 7.68,
+        "temperatureCoefficientOfPmax": -0.0045,
+        "temperatureCoefficientOfVoc": -0.00123,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.00667,
+        "subsequentAnnualPowerDegradation": 0.00923,
+        "height": 1651,
+        "width": 986,
+        "depth": 46,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1413,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.45
+        },
+        "stc_isc": {
+          "value": 8.22
+        },
+        "stc_voc": {
+          "value": 37.03
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.123
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 230
+        },
+        "cec_model": {
+          "value": "PowerPlus230M-TD"
+        },
+        "stc_vmpp": {
+          "value": 30.14
+        }
+      }
+    }
+  ]
+}

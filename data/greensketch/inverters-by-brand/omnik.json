@@ -1,0 +1,483 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Omnik",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:39:42.184Z",
+  "items": [
+    {
+      "id": 1170,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 276,
+      "brandName": "Omnik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Omnik+New+Energy+logo.png",
+      "productName": "Omniksol-3k-TL2",
+      "productCode": "Omniksol-3k-TL2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e4072987-69c6-4c61-9581-7ae66c07f631.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Omnik_Omniksol-3k-TL2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 112,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 590,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 421,
+        "width": 352,
+        "depth": 162.5,
+        "weight": 16.5,
+        "display": "3 LED, Backlight, 20 x 4 Character LCD",
+        "maxDcPower": 3400,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.973,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 12,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 590
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1440,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 276,
+      "brandName": "Omnik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Omnik+New+Energy+logo.png",
+      "productName": "Omniksol-4k-TL2",
+      "productCode": "Omniksol-4k-TL2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/927ece40-3d38-43f1-ad5a-58c31ea4a66b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Omnik_Omniksol-4k-TL2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 382,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 590,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 421,
+        "width": 352,
+        "depth": 162.5,
+        "weight": 16.5,
+        "display": "3 LED, Backlight, 20 x 4 Character LCD",
+        "maxDcPower": 4500,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 590
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21442,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 276,
+      "brandName": "Omnik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Omnik+New+Energy+logo.png",
+      "productName": "Omniksol-4k-TL2-TH",
+      "productCode": "Omniksol-4k-TL2-TH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/950e6b5b-c8e8-4b85-8b73-2af402d6c5fd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Omnik_Omniksol-4k-TL2-TH.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10552,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 431,
+        "width": 354,
+        "depth": 154.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4150,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 1346,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 276,
+      "brandName": "Omnik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Omnik+New+Energy+logo.png",
+      "productName": "Omniksol-5k-TL2",
+      "productCode": "Omniksol-5k-TL2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4521a727-e36e-4174-8e83-7e3814f8b24a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Omnik_Omniksol-5k-TL2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 288,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 590,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 421,
+        "width": 352,
+        "depth": 162.5,
+        "weight": 16.5,
+        "display": "3 LED, Backlight, 20 x 4 Character LCD",
+        "maxDcPower": 5200,
+        "dcInputs": null,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 590
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21340,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 276,
+      "brandName": "Omnik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Omnik+New+Energy+logo.png",
+      "productName": "Omniksol-5k-TL2-TH",
+      "productCode": "Omniksol-5k-TL2-TH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/435a7741-5c84-4548-9bb1-6de75b21300f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Omnik_Omniksol-5k-TL2-TH.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10450,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 431,
+        "width": 354,
+        "depth": 154.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21038,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 276,
+      "brandName": "Omnik",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Omnik+New+Energy+logo.png",
+      "productName": "Omniksol-6k-TL2-TH",
+      "productCode": "Omniksol-6k-TL2-TH",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1cfd036f-dbf6-4b02-a00b-53a7e45f55ee.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Omnik_Omniksol-6k-TL2-TH.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10148,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 220,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 431,
+        "width": 354,
+        "depth": 154.5,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6300,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 220
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

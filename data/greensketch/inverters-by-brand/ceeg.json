@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "CEEG",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.589Z",
+  "items": [
+    {
+      "id": 128751,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2839,
+      "brandName": "CEEG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/9558d1f8-3b1b-4afb-aa41-3babf5b2e5b3.png",
+      "productName": "CHCI-3.6K",
+      "productCode": "CHCI-3.6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b7fb8ff8-9850-4376-b3ec-dbd03b8fa838.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/18/b5e7df31-4000-4703-ae6f-cedbbf4c8eca.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28540,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1125,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128752,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2839,
+      "brandName": "CEEG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/9558d1f8-3b1b-4afb-aa41-3babf5b2e5b3.png",
+      "productName": "CHCI-5.0K",
+      "productCode": "CHCI-5.0K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b7fb8ff8-9850-4376-b3ec-dbd03b8fa838.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/18/b5e7df31-4000-4703-ae6f-cedbbf4c8eca.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28541,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1125,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 128753,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2839,
+      "brandName": "CEEG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/9558d1f8-3b1b-4afb-aa41-3babf5b2e5b3.png",
+      "productName": "CHCI-6.0K",
+      "productCode": "CHCI-6.0K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b7fb8ff8-9850-4376-b3ec-dbd03b8fa838.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/18/b5e7df31-4000-4703-ae6f-cedbbf4c8eca.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28542,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1750,
+        "width": 550,
+        "depth": 233,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 12.5,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "IMEON ENERGY",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.627Z",
+  "items": [
+    {
+      "id": 23166,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1386,
+      "brandName": "IMEON ENERGY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/imeon-energy.png",
+      "productName": "IMEON 3.6",
+      "productCode": "IMEON 3.6",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fbd2db60-4abc-472b-a192-bb7d8ee809fc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/IMEON_ENERGY_IMEON_3.6.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12276,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 560,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 580,
+        "width": 440,
+        "depth": 165,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": 0.945,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 560
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20729,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1386,
+      "brandName": "IMEON ENERGY",
+      "brandLogo": "https://file.greensketch.net/brands/logo/imeon-energy.png",
+      "productName": "IMEON 9.12",
+      "productCode": "IMEON 9.12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/671b229d-ab90-4e59-aa52-932a47f515e8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/IMEON_ENERGY_IMEON_9.12.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9839,
+        "companyProductId": null,
+        "maxAcPower": 9000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 850,
+        "minDcVoltageToStartFeedIn": 380,
+        "mpptVoltageMin": 380,
+        "mpptVoltageMax": 750,
+        "nominalAcPower": 9000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 800,
+        "width": 580,
+        "depth": 240,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": 0.945,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 850
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 380
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 9000
+        },
+        "mppt_voltage_min": {
+          "value": 380
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1821 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Alpha Solar Tech",
+  "count": 20,
+  "exportedAt": "2026-09-23T06:32:14.036Z",
+  "items": [
+    {
+      "id": 128147,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST170TC-48-S",
+      "productCode": "AST170TC-48-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/351a8628-7cf0-497a-a9d2-997f65325073.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/3f765b02-ae45-440c-ae98-583b8b978289.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Linear power warranty 30 years, 1st year degradation <1%, 30th year degradation ≤12%",
+      "cecModelNumber": "AST170TC-48-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 71251,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 170,
+        "stcVoltageAtMaximumPowerVmpp": 27.6,
+        "stcShortCircuitCurrentIsc": 6.58,
+        "stcOpenCircuitVoltageVoc": 32.57,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0038,
+        "height": 1450,
+        "width": 802.2,
+        "depth": 13.5,
+        "weight": 40.2,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1461,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.58
+        },
+        "stc_voc": {
+          "value": 32.57
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 170
+        },
+        "cec_model": {
+          "value": "AST170TC-48-S"
+        },
+        "stc_vmpp": {
+          "value": 27.6
+        }
+      }
+    },
+    {
+      "id": 128058,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST220TC-56-S",
+      "productCode": "AST220TC-56-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/1307e76c-f9c7-43d9-a4fa-23711e38ef27.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/a187c118-255d-4c5d-a4b8-d6da459fe066.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years linear power warranty, 1st year degradation <1%, 30th year degradation ≤12%",
+      "cecModelNumber": "AST220TC-56-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71192,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 220,
+        "stcVoltageAtMaximumPowerVmpp": 32.29,
+        "stcShortCircuitCurrentIsc": 7.26,
+        "stcOpenCircuitVoltageVoc": 38.02,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793,
+        "height": 1358.4,
+        "width": 1080,
+        "depth": 13.5,
+        "weight": 50.7,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.15,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 13,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 7.26
+        },
+        "stc_voc": {
+          "value": 38.02
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 220
+        },
+        "cec_model": {
+          "value": "AST220TC-56-S"
+        },
+        "stc_vmpp": {
+          "value": 32.29
+        }
+      }
+    },
+    {
+      "id": 128193,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST225TC-72-S",
+      "productCode": "AST225TC-72-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/bd5dbda5-6f64-429e-bd7e-d65b2527142c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/1db2dcec-c8be-4334-b08b-6346896c61e4.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Linear power warranty: 30 years. 1st year degradation ≤1%, 30th year degradation ≤12%.",
+      "cecModelNumber": "AST225TC-72-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 71289,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 225,
+        "stcVoltageAtMaximumPowerVmpp": 41.23,
+        "stcShortCircuitCurrentIsc": 5.85,
+        "stcOpenCircuitVoltageVoc": 48.81,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00379,
+        "height": 1729.2,
+        "width": 1080,
+        "depth": 13.5,
+        "weight": 64.54,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1205,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 13,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.85
+        },
+        "stc_voc": {
+          "value": 48.81
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 225
+        },
+        "cec_model": {
+          "value": "AST225TC-72-S"
+        },
+        "stc_vmpp": {
+          "value": 41.23
+        }
+      }
+    },
+    {
+      "id": 128155,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST260TC-96-S",
+      "productCode": "AST260TC-96-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/05/63f3dc59-b180-428e-8aac-a487af58216b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/05/f8a811c7-7973-4f20-8ef8-4bc73a1cfbd2.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST260TC-96-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71252,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 260,
+        "stcVoltageAtMaximumPowerVmpp": 54.55,
+        "stcShortCircuitCurrentIsc": 5.13,
+        "stcOpenCircuitVoltageVoc": 64.98,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0037931,
+        "height": 1820,
+        "width": 1173,
+        "depth": 13.5,
+        "weight": 73.78,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1218,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.13
+        },
+        "stc_voc": {
+          "value": 64.98
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 260
+        },
+        "cec_model": {
+          "value": "AST260TC-96-S"
+        },
+        "stc_vmpp": {
+          "value": 54.55
+        }
+      }
+    },
+    {
+      "id": 128059,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST270TC-108-S",
+      "productCode": "AST270TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/fbce39cf-acf3-4aea-8d59-a781b26a1d20.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/266b9f92-3166-467e-a2a7-81ce101553a1.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Linear power warranty 30 years",
+      "cecModelNumber": "AST270TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71193,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 270,
+        "stcVoltageAtMaximumPowerVmpp": 61.11,
+        "stcShortCircuitCurrentIsc": 4.77,
+        "stcOpenCircuitVoltageVoc": 73.03,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.0038,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1077,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 4.77
+        },
+        "stc_voc": {
+          "value": 73.03
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 270
+        },
+        "cec_model": {
+          "value": "AST270TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.11
+        }
+      }
+    },
+    {
+      "id": 128060,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST280TC-108-S",
+      "productCode": "AST280TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/e2f16fc2-4060-4496-a8e6-5d0aa285f281.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/27dcfa0f-e34f-40d8-a9b1-ef1a56250e56.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years linear power warranty, 1st year degradation <1%, 30th year degradation ≤12%",
+      "cecModelNumber": "AST280TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Fire resistance class ClassA"
+      ],
+      "panel": {
+        "id": 71194,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 280,
+        "stcVoltageAtMaximumPowerVmpp": 61.19,
+        "stcShortCircuitCurrentIsc": 4.93,
+        "stcOpenCircuitVoltageVoc": 73.06,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1117,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 13,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 4.93
+        },
+        "stc_voc": {
+          "value": 73.06
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 280
+        },
+        "cec_model": {
+          "value": "AST280TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.19
+        }
+      }
+    },
+    {
+      "id": 128061,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST285TC-108-S",
+      "productCode": "AST285TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/116e8845-5c7a-4a2b-8c78-12611f9bde0d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/52644825-1edf-4519-9385-23cb03b37622.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST285TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71195,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 285,
+        "stcVoltageAtMaximumPowerVmpp": 61.24,
+        "stcShortCircuitCurrentIsc": 5.02,
+        "stcOpenCircuitVoltageVoc": 73.07,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00379,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1137,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.02
+        },
+        "stc_voc": {
+          "value": 73.07
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 285
+        },
+        "cec_model": {
+          "value": "AST285TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.24
+        }
+      }
+    },
+    {
+      "id": 128156,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST290TC-108-S 290W",
+      "productCode": "AST290TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/05/c33a6e04-5e96-45f3-abe5-e5efa9cd5758.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/05/103d2fab-0fb3-430b-bd68-ad1da8187232.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Linear power warranty 30 years; 1st year degradation <1%; 30th year degradation ≤12%",
+      "cecModelNumber": "AST290TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71253,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 290,
+        "stcVoltageAtMaximumPowerVmpp": 61.28,
+        "stcShortCircuitCurrentIsc": 5.1,
+        "stcOpenCircuitVoltageVoc": 73.08,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1450,
+        "width": 1729.2,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1157,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.1
+        },
+        "stc_voc": {
+          "value": 73.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 290
+        },
+        "cec_model": {
+          "value": "AST290TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.28
+        }
+      }
+    },
+    {
+      "id": 128231,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST295TC-108-S",
+      "productCode": "AST295TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/046f224c-04fd-4c9c-affd-e0b26af25ffc.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/0333e425-fc22-49f3-b871-9024624372d2.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST295TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71290,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 295,
+        "stcVoltageAtMaximumPowerVmpp": 61.32,
+        "stcShortCircuitCurrentIsc": 5.18,
+        "stcOpenCircuitVoltageVoc": 73.09,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00397,
+        "height": 1450,
+        "width": 1729.2,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1177,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 13,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.18
+        },
+        "stc_voc": {
+          "value": 73.09
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 295
+        },
+        "cec_model": {
+          "value": "AST295TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.32
+        }
+      }
+    },
+    {
+      "id": 128062,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST300TC-108-S",
+      "productCode": "AST300TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/e2b88380-e999-4098-b8d8-c77d258a25c4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/ff3e8a06-82b6-403d-aab1-887d22371884.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years linear power warranty, 1st year degradation <1%, 30th year degradation ≤12%",
+      "cecModelNumber": "AST300TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71196,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 300,
+        "stcVoltageAtMaximumPowerVmpp": 61.37,
+        "stcShortCircuitCurrentIsc": 5.26,
+        "stcOpenCircuitVoltageVoc": 73.1,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1196,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 13,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.26
+        },
+        "stc_voc": {
+          "value": 73.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 300
+        },
+        "cec_model": {
+          "value": "AST300TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.37
+        }
+      }
+    },
+    {
+      "id": 128232,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST305TC-108-S",
+      "productCode": "AST305TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1dd7ea7e-97bd-4070-b932-b7b956a4c0d7.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/5ebe6b4d-22ef-47ee-991d-dc814ef477bc.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST305TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 71291,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 305,
+        "stcVoltageAtMaximumPowerVmpp": 61.41,
+        "stcShortCircuitCurrentIsc": 5.34,
+        "stcOpenCircuitVoltageVoc": 73.11,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00379,
+        "height": 1450,
+        "width": 1729.2,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1216,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 13,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.34
+        },
+        "stc_voc": {
+          "value": 73.11
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 305
+        },
+        "cec_model": {
+          "value": "AST305TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.41
+        }
+      }
+    },
+    {
+      "id": 128157,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST315TC-108-S",
+      "productCode": "AST315TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/05/e4477fd7-490c-4eba-bd4b-856993569f40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/05/306fad95-5f74-4338-98b5-ee8bfce7722d.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "1st year degradation <1%, 30th year degradation ≤12%, Linear power warranty 30 years",
+      "cecModelNumber": "AST315TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71254,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 315,
+        "stcVoltageAtMaximumPowerVmpp": 61.5,
+        "stcShortCircuitCurrentIsc": 5.51,
+        "stcOpenCircuitVoltageVoc": 73.13,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1256,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 13,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.51
+        },
+        "stc_voc": {
+          "value": 73.13
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 315
+        },
+        "cec_model": {
+          "value": "AST315TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.5
+        }
+      }
+    },
+    {
+      "id": 128063,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST335TC-108-S",
+      "productCode": "AST335TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/b037401c-101a-4c20-bc12-5d0516b86410.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/3cba708d-e97d-4f01-bce9-003655c76725.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years linear power warranty, with <1% degradation in the 1st year and ≤12% degradation by the 30th year.",
+      "cecModelNumber": "AST335TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71197,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 335,
+        "stcVoltageAtMaximumPowerVmpp": 61.67,
+        "stcShortCircuitCurrentIsc": 5.83,
+        "stcOpenCircuitVoltageVoc": 73.18,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 108,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1336,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 13,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.83
+        },
+        "stc_voc": {
+          "value": 73.18
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 335
+        },
+        "cec_model": {
+          "value": "AST335TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 61.67
+        }
+      }
+    },
+    {
+      "id": 128158,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST360TC-96-S",
+      "productCode": "AST360TC-96-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/05/376bbc8c-4aa9-4869-8aa7-0cfe9bf72166.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/05/dc884a05-51e9-43eb-a123-1b93482d1fd9.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years linear power warranty, 30th year degradation ≤12%",
+      "cecModelNumber": "AST360TC-96-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 71255,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 360,
+        "stcVoltageAtMaximumPowerVmpp": 55.32,
+        "stcShortCircuitCurrentIsc": 6.94,
+        "stcOpenCircuitVoltageVoc": 65.16,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793,
+        "height": 1820,
+        "width": 1358.4,
+        "depth": 13.5,
+        "weight": 85.44,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1456,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 0,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.94
+        },
+        "stc_voc": {
+          "value": 65.16
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 360
+        },
+        "cec_model": {
+          "value": "AST360TC-96-S"
+        },
+        "stc_vmpp": {
+          "value": 55.32
+        }
+      }
+    },
+    {
+      "id": 128159,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST380TC-108-S",
+      "productCode": "AST380TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/05/49f4c5a8-386a-46a2-a347-e74a274255ad.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/05/55b0e865-e701-4d02-90f4-b90c7f170376.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "1st year degradation ≤1%\n30th year degradation ≤12%\nLinear power warranty 30 years",
+      "cecModelNumber": "AST380TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71256,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 380,
+        "stcVoltageAtMaximumPowerVmpp": 62.06,
+        "stcShortCircuitCurrentIsc": 6.54,
+        "stcOpenCircuitVoltageVoc": 73.27,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793,
+        "height": 1450,
+        "width": 1729.2,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1516,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 13,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.54
+        },
+        "stc_voc": {
+          "value": 73.27
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 380
+        },
+        "cec_model": {
+          "value": "AST380TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 62.06
+        }
+      }
+    },
+    {
+      "id": 128160,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST390TC-108-S",
+      "productCode": "AST390TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/05/395f5489-e8b9-43d0-96e6-cedce5d569c8.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/05/631d9bdf-3e20-4278-8d1e-8d36579c6825.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "1st year degradation <1%, 30th year degradation ≤12%, Linear power warranty 30 years",
+      "cecModelNumber": "AST390TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71257,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 62.14,
+        "stcShortCircuitCurrentIsc": 6.7,
+        "stcOpenCircuitVoltageVoc": 73.29,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1450,
+        "width": 1729.2,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1555,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 13,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.7
+        },
+        "stc_voc": {
+          "value": 73.29
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "AST390TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 62.14
+        }
+      }
+    },
+    {
+      "id": 128064,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST395TC-108-S",
+      "productCode": "AST395TC-108-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/066edf1d-0aec-4e59-8f4e-1d2085856814.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/e0159257-d175-4cc2-b280-0662ab5f0bde.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST395TC-108-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71198,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 62.19,
+        "stcShortCircuitCurrentIsc": 6.78,
+        "stcOpenCircuitVoltageVoc": 73.3,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793103,
+        "height": 1729.2,
+        "width": 1450,
+        "depth": 13.5,
+        "weight": 86.65,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1575,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 13,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.78
+        },
+        "stc_voc": {
+          "value": 73.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "AST395TC-108-S"
+        },
+        "stc_vmpp": {
+          "value": 62.19
+        }
+      }
+    },
+    {
+      "id": 128235,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST75TC-24-S",
+      "productCode": "AST75TC-24-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1e90f37b-13bb-46b9-ac39-7ac8faddf322.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/f86c52fd-f556-4adb-b3d6-1b195eeff4c6.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST75TC-24-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA"
+      ],
+      "panel": {
+        "id": 71292,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 75,
+        "stcVoltageAtMaximumPowerVmpp": 13.78,
+        "stcShortCircuitCurrentIsc": 5.82,
+        "stcOpenCircuitVoltageVoc": 16.21,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00379,
+        "height": 1450,
+        "width": 431.4,
+        "depth": 8,
+        "weight": 12.81,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1199,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 8,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 5.82
+        },
+        "stc_voc": {
+          "value": 16.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 75
+        },
+        "cec_model": {
+          "value": "AST75TC-24-S"
+        },
+        "stc_vmpp": {
+          "value": 13.78
+        }
+      }
+    },
+    {
+      "id": 130597,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST80TC-24-S",
+      "productCode": "AST80TC-24-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/9a815dad-1684-48ab-bcd2-6d91e444f000.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/29/d2e552a3-a349-4469-bf7f-7411a3843b6c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30 years",
+      "cecModelNumber": "AST80TC-24-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA (Fire resistance class)"
+      ],
+      "panel": {
+        "id": 72900,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 80,
+        "stcVoltageAtMaximumPowerVmpp": 13.79,
+        "stcShortCircuitCurrentIsc": 6.2,
+        "stcOpenCircuitVoltageVoc": 16.21,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0,
+        "height": 1450,
+        "width": 431.4,
+        "depth": 8,
+        "weight": 12.81,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1279,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 8,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.2
+        },
+        "stc_voc": {
+          "value": 16.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 80
+        },
+        "cec_model": {
+          "value": "AST80TC-24-S"
+        },
+        "stc_vmpp": {
+          "value": 13.79
+        }
+      }
+    },
+    {
+      "id": 128065,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 3145,
+      "brandName": "Alpha Solar Tech",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/0b9bb711-a452-4bc4-a65a-d144122d2cc2.webp",
+      "productName": "AST90TC-24-S",
+      "productCode": "AST90TC-24-S",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/06/04/4d076b45-8687-484d-8c90-2d698516cf64.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/06/04/5e4ffc35-9cfe-4edc-a79a-d01b03b18c82.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "1st year degradation <1%, 30th year degradation ≤12%, Linear power warranty 30 years",
+      "cecModelNumber": "AST90TC-24-S (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "ClassA Fire resistance class"
+      ],
+      "panel": {
+        "id": 71199,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 90,
+        "stcVoltageAtMaximumPowerVmpp": 13.81,
+        "stcShortCircuitCurrentIsc": 6.96,
+        "stcOpenCircuitVoltageVoc": 16.22,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0032,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00055,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003793,
+        "height": 1450,
+        "width": 431.4,
+        "depth": 8,
+        "weight": 12.81,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 0,
+        "cellType": "",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.1439,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 8,
+        "qtyPerPallet": 0,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.32
+        },
+        "stc_isc": {
+          "value": 6.96
+        },
+        "stc_voc": {
+          "value": 16.22
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.055
+        },
+        "power": {
+          "value": 90
+        },
+        "cec_model": {
+          "value": "AST90TC-24-S"
+        },
+        "stc_vmpp": {
+          "value": 13.81
+        }
+      }
+    }
+  ]
+}

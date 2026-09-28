@@ -1,0 +1,63 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "KIJO",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:23.019Z",
+  "items": [
+    {
+      "id": 127681,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 2621,
+      "brandName": "KIJO",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/b90be3aa-232f-426e-b827-6e59203cfdce.png",
+      "productName": "KJ 48V100Ah",
+      "productCode": "KJ LFP48-100",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/8849cd60-da94-4900-b1ed-3ae03913a133.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/81a5691b-48b1-4b6f-990d-4adb673274f3.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "KJ LFP48-100",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UN38.3",
+        "UL1642 & IEC62133",
+        "UN 3480, CLASS 9"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 15630,
+        "companyProductId": null,
+        "nominalEnergy": 5.12,
+        "usableEnergy": 5.12,
+        "depthOfDischarge": 1,
+        "roundTripEfficiency": 0.0095,
+        "cycleLife": null,
+        "length": 440,
+        "width": 442,
+        "height": 222.5,
+        "batteryType": "LITHIUM IRON PHOSPHATE BATTERY",
+        "weight": 40.98,
+        "ratedDcVoltage": 51.2,
+        "maxAcPower": 0,
+        "ipRating": "IP20",
+        "batteryChemistry": "LiFePO4",
+        "maxOutputPower": 5120,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}

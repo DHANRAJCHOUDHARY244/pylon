@@ -1,0 +1,3011 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "GE",
+  "count": 38,
+  "exportedAt": "2026-09-23T06:39:31.821Z",
+  "items": [
+    {
+      "id": 21983,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH10-1U-10 (AS4777-2 2020)",
+      "productCode": "GEH10-1U-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/inverters/61b2e375-4774-482b-9881-a3f5913fdccf/GEH10-1U-10_(AS4777-2_2020).png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/61b2e375-4774-482b-9881-a3f5913fdccf/GEH10-1U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11093,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 95,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 495,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "Hybrid Inverter",
+        "height": 791,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 95
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 24064,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH15-3U-10",
+      "productCode": "GEH15-3U-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a145a409-b4d8-47d0-83e8-bacd67df82e7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEH15-3U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13174,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 520,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 4,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22104,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH20-3U-10",
+      "productCode": "GEH20-3U-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/adc629e8-54e0-4fb3-9e36-88dee3c167bb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEH20-3U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11214,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 520,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23084,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH25-3U-10 (AS4777-2 2020)",
+      "productCode": "GEH25-3U-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0318783b-0f75-4c4d-b5ae-84482688b037.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEH25-3U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12194,
+        "companyProductId": null,
+        "maxAcPower": 27500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 520,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 37500,
+        "dcInputs": 6,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21922,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH29.9-3U-10",
+      "productCode": "GEH29.9-3U-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/211869ad-4572-4a27-9d74-0e02b73c667a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEH29.9-3U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11032,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 400,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 660,
+        "width": 520,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 400
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21626,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH5.0-1U-10 (AS4777-2 2020)",
+      "productCode": "GEH5.0-1U-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/260f1d92-9051-4b1c-97b3-511d655da5b8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEH5.0-1U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10736,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 95,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 495,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "Hybrid Inverter",
+        "height": 791,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 95
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21713,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEH8.6-1U-10 (AS4777-2 2020)",
+      "productCode": "GEH8.6-1U-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4fdade71-98ce-47b4-9d6c-651c4c6dbee7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/51273bfa-38ff-4496-ac54-588c73352e03/GEH8.6-1U-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10823,
+        "companyProductId": null,
+        "maxAcPower": 8600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 95,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 495,
+        "nominalAcPower": 8600,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "Hybrid Inverter",
+        "height": 791,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12900,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 95
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 8600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22720,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP10-1-10 (AS4777-2 2020)",
+      "productCode": "GEP10-1-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/inverters/8eb1157d-5e9d-4f2a-8723-ac85498f1af9/GEP10-1-10_(AS4777-2_2020).png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP10-1-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11830,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 415,
+        "width": 511,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21133,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP10-1C-30",
+      "productCode": "GEP10-1C-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/inverters/331ad303-2e22-4ee7-ba2c-e2244e97480f/GEP10-1C-30_(AS4777-2_2020).png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/331ad303-2e22-4ee7-ba2c-e2244e97480f/GEP10-1C-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP10-1C-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10243,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 507,
+        "width": 441,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22644,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP10-3-10 (AS4777-2 2020)",
+      "productCode": "GEP10-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1e7bab60-55c1-4a55-b84e-c9754d353f7c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP10-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11754,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 18.7,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 18.7
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22700,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP10-3-AU10 (AS4777-2 2020)",
+      "productCode": "GEP10-3-AU10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/82377d07-635f-4433-96d7-fc2a942d1d30.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/8dd31e33-fbb5-4a90-b432-0a2481389182/GEP10-3-AU10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11810,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21639,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP100-10",
+      "productCode": "GEP100-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/27ddbf88-837e-4c57-b148-54339c4e6453.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP100-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10749,
+        "companyProductId": null,
+        "maxAcPower": 99990,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 10,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 99990,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 678,
+        "width": 1008,
+        "depth": 343,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 150000,
+        "dcInputs": 20,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 99990
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": 20604,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP110-10",
+      "productCode": "GEP110-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fbecddd8-c7f4-4445-b175-5088350d0992.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP110-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9714,
+        "companyProductId": null,
+        "maxAcPower": 121000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 12,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 110000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 678,
+        "width": 1008,
+        "depth": 343,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 165000,
+        "dcInputs": 24,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 110000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 12
+        }
+      }
+    },
+    {
+      "id": 23420,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP12-3-10 (AS4777-2 2020)",
+      "productCode": "GEP12-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b41c8f5e-4a03-4bc0-8f28-5e5a1c110e43.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP12-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12530,
+        "companyProductId": null,
+        "maxAcPower": 13200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 24000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23482,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP120-10 (AS4777-2 2020)",
+      "productCode": "GEP120-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2e5e189b-f1ad-47bb-85a0-1fd20f8b61c9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP120-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12592,
+        "companyProductId": null,
+        "maxAcPower": 132000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 12,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 120000,
+        "maxShortCircuitCurrentPerMppt": 45,
+        "type": "PV-only Inverter",
+        "height": 678,
+        "width": 1008,
+        "depth": 343,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 180000,
+        "dcInputs": 24,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 45
+        },
+        "nominal_ac_power": {
+          "value": 120000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 12
+        }
+      }
+    },
+    {
+      "id": 20823,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP15-3-10 (AS4777-2 2020)",
+      "productCode": "GEP15-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/86663b90-4bfb-4d30-9706-9de58b6f904b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/20c1632a-414a-455c-aeaf-f1ac1d0c9c46/GEP15-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9933,
+        "companyProductId": null,
+        "maxAcPower": 16500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24184,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP20-3-10 (AS4777-2 2020)",
+      "productCode": "GEP20-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/2e30fffe-b733-4b7a-a02d-facc9b4806b4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/e321727e-7239-4a96-8842-4b1feeef16e6/GEP20-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13294,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 40000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21673,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP29.9-10",
+      "productCode": "GEP29.9-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c2b05440-3be8-4610-8b17-5c14d164b30a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/4f19c837-7027-4b4c-9b7f-1e9e33847eba/GEP29.9-10.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10783,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 33,
+        "type": "PV-only Inverter",
+        "height": 590,
+        "width": 480,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 6,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 33
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21444,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP3.6-1-10 (AS4777-2 2020)",
+      "productCode": "GEP3.6-1-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a3d2accb-366f-45d0-878a-4469d507474a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP3.6-1-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10554,
+        "companyProductId": null,
+        "maxAcPower": 3960,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 400,
+        "width": 336,
+        "depth": 124,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23219,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP3.6-1-30 (AS4777-2 2020)",
+      "productCode": "GEP3.6-1-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/77bfa905-75bc-4f1e-b659-474c893ca500.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP3.6-1-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP3.6-1-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12329,
+        "companyProductId": null,
+        "maxAcPower": 3960,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "PV-only Inverter",
+        "height": 410,
+        "width": 350,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23036,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP4.0-3-10",
+      "productCode": "GEP4.0-3-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/be5e992c-28bf-4b94-84f6-2e65e73767a5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP4.0-3-10.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12146,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 18.7,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 18.7
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20747,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP4.2-1-10 (AS4777-2 2020)",
+      "productCode": "GEP4.2-1-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/26b89aaa-a5b6-486d-99d8-4ed4cd2f41cd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP4.2-1-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9857,
+        "companyProductId": null,
+        "maxAcPower": 4620,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4200,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 400,
+        "width": 336,
+        "depth": 124,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6300,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 4200
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24002,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP4.2-1-30",
+      "productCode": "GEP4.2-1-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cdf803d7-c249-4711-99bd-ba80524f78ae.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP4.2-1-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP4.2-1-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13112,
+        "companyProductId": null,
+        "maxAcPower": 4620,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 4200,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "PV-only Inverter",
+        "height": 410,
+        "width": 350,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6300,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 4200
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20330,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP5.0-1-10",
+      "productCode": "GEP5.0-1-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7e2cbb40-7fce-44fa-9157-3781ad9cbee1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP5.0-1-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9440,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 16.3,
+        "type": "PV-only Inverter",
+        "height": 400,
+        "width": 336,
+        "depth": 124,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 16.3
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22715,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP5.0-1-30 (AS4777-2 2020)",
+      "productCode": "GEP5.0-1-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/inverters/8e93853c-5f1c-40d5-88c4-af5eb2d10a1d/GEP5.0-1-30_(AS4777-2_2020).png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/8e93853c-5f1c-40d5-88c4-af5eb2d10a1d/GEP5.0-1-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP5.0-1-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11825,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "PV-only Inverter",
+        "height": 410,
+        "width": 350,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22389,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP5.0-1C-10 (AS4777-2 2020)",
+      "productCode": "GEP5.0-1C-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a08d567a-93a0-4bea-8e1b-7720cb9e3e27.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP5.0-1C-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11499,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 415,
+        "width": 511,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23049,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP5.0-1C-30 (AS4777-2 2020)",
+      "productCode": "GEP5.0-1C-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1ed9f531-41d0-4f19-8858-8d542c500d3c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP5.0-1C-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP5.0-1C-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12159,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 507,
+        "width": 441,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7750,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22184,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP5.0-3-10 (AS4777-2 2020)",
+      "productCode": "GEP5.0-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7f5c9c02-a449-4579-9920-a34536bbf786.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/6d388e0a-a8c9-40d8-a43e-69d85cfec3e3/GEP5.0-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11294,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18.7,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 198,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 18.7
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24074,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP50-10 (AS4777-2 2020)",
+      "productCode": "GEP50-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/09b11898-2099-40fc-b7e7-e5c9b2c4605b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/dbed8851-a551-47a4-a5ea-ffdf5360f2ff/GEP50-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13184,
+        "companyProductId": null,
+        "maxAcPower": 55000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 5,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 33,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 520,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 75000,
+        "dcInputs": 10,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 33
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 5
+        }
+      }
+    },
+    {
+      "id": 24119,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP6.0-1-30",
+      "productCode": "GEP6.0-1-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e9cbb462-e683-4da8-aac8-ca82dfacc500.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP6.0-1-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP6.0-1-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13229,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "PV-only Inverter",
+        "height": 410,
+        "width": 350,
+        "depth": 143,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24602,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP6.0-3-10 (AS4777-2 2020)",
+      "productCode": "GEP6.0-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6fbeaa06-fa6b-40fe-a470-7eb5eb5e09fa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP6.0-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13712,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18.7,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 18.7
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22650,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP60-10 (AS4777-2 2020)",
+      "productCode": "GEP60-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/749c0232-22eb-4ae9-8cc8-0a25acdf5ec3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP60-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11760,
+        "companyProductId": null,
+        "maxAcPower": 66000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 60000,
+        "maxShortCircuitCurrentPerMppt": 33,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 520,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 90000,
+        "dcInputs": 12,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.98,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 33
+        },
+        "nominal_ac_power": {
+          "value": 60000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 21293,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP8-3-AU10 (AS4777-2 2020)",
+      "productCode": "GEP8-3-AU10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d18ff0b0-69b7-43c2-9cc1-c4b67b793f3b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/3c3fba30-f91b-4897-8aa1-3f521499e140/GEP8-3-AU10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10403,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22586,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP8.0-3-10 (AS4777-2 2020)",
+      "productCode": "GEP8.0-3-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/418d7bde-8c0b-4376-a7b9-5fcba8e9ee59.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP8.0-3-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11696,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 18.7,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 18.7
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24005,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP8.5-1-10 (AS4777-2 2020)",
+      "productCode": "GEP8.5-1-10 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/88c2e8d7-3e8d-4187-8232-49e2a2217d4c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP8.5-1-10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13115,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 80,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 8500,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 415,
+        "width": 511,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 80
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8500
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22795,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP8.5-1C-30 (AS4777-2 2020)",
+      "productCode": "GEP8.5-1C-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/inverters/92aad0e4-d26a-41fa-8c54-9d9bfd9910d4/GEP8.5-1C-30_(AS4777-2_2020).png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/92aad0e4-d26a-41fa-8c54-9d9bfd9910d4/GEP8.5-1C-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP8.5-1C-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11905,
+        "companyProductId": null,
+        "maxAcPower": 9350,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 8500,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 507,
+        "width": 441,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13175,
+        "dcInputs": 3,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 8500
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21828,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP9.9-1C-30",
+      "productCode": "GEP9.9-1C-30",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/790327a0-90fd-4520-a9ab-7ac9e90bd202.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP9.9-1C-30_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP9.9-1C-30 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10938,
+        "companyProductId": null,
+        "maxAcPower": 9900,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 50,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 560,
+        "nominalAcPower": 9900,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 507,
+        "width": 441,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 50
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 9900
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20937,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1334,
+      "brandName": "GE",
+      "brandLogo": "https://assets.solarbrain.com.au/uploads/photo_attachment/photo/211/logo_86ea9621133e640e6e01e34cdba12fda.png",
+      "productName": "GEP9.9-3-AU10",
+      "productCode": "GEP9.9-3-AU10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/01c6f0c0-3d6e-411c-b9b4-833ed7ec7836.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/GE_GEP9.9-3-AU10_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "GEP9.9-3-AU10 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10047,
+        "companyProductId": null,
+        "maxAcPower": 9900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 37.5,
+        "type": "PV-only Inverter",
+        "height": 511,
+        "width": 415,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 37.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

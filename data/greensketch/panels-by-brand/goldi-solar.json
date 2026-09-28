@@ -1,0 +1,1433 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Goldi Solar",
+  "count": 16,
+  "exportedAt": "2026-09-23T06:32:14.053Z",
+  "items": [
+    {
+      "id": 121959,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF525",
+      "productCode": "GS10-M144-WF525",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/8bc44ea6-9b75-48f5-a224-109016849a58.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/84c8fea7-799f-4873-839d-34c05ca8d38f.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68195,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 525,
+        "stcVoltageAtMaximumPowerVmpp": 41.28,
+        "stcShortCircuitCurrentIsc": 13.2,
+        "stcOpenCircuitVoltageVoc": 50.02,
+        "stcCurrentAtMaximumPowerImpp": 12.7,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2033,
+        "noctMaximumPowerPmax": 389,
+        "noctVoltageAtMaximumPowerVmpp": 38.5,
+        "noctCurrentAtMaximumPowerImpp": 10.08,
+        "noctOpenCircuitVoltageVoc": 46.78,
+        "noctShortCircuitCurrentIsc": 10.63,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.2
+        },
+        "stc_voc": {
+          "value": 50.02
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 525
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF525"
+        },
+        "stc_vmpp": {
+          "value": 41.28
+        }
+      }
+    },
+    {
+      "id": 121958,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF530",
+      "productCode": "GS10-M144-WF530",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/a9ef8821-e942-4977-a1a4-c796c4dff09c.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/66779b38-f1bb-4a83-a9d2-0bdd015a9545.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68194,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 530,
+        "stcVoltageAtMaximumPowerVmpp": 41.51,
+        "stcShortCircuitCurrentIsc": 13.24,
+        "stcOpenCircuitVoltageVoc": 50.21,
+        "stcCurrentAtMaximumPowerImpp": 12.75,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2053,
+        "noctMaximumPowerPmax": 392,
+        "noctVoltageAtMaximumPowerVmpp": 38.71,
+        "noctCurrentAtMaximumPowerImpp": 10.12,
+        "noctOpenCircuitVoltageVoc": 46.96,
+        "noctShortCircuitCurrentIsc": 10.66,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.24
+        },
+        "stc_voc": {
+          "value": 50.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 530
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF530"
+        },
+        "stc_vmpp": {
+          "value": 41.51
+        }
+      }
+    },
+    {
+      "id": 121957,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF535",
+      "productCode": "GS10-M144-WF535",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/780bdc70-4a61-447f-bd8a-425b5b3a125c.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/84d88077-313a-4b35-85c5-626414ce819c.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68193,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.75,
+        "stcShortCircuitCurrentIsc": 13.28,
+        "stcOpenCircuitVoltageVoc": 50.4,
+        "stcCurrentAtMaximumPowerImpp": 12.8,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2072,
+        "noctMaximumPowerPmax": 396,
+        "noctVoltageAtMaximumPowerVmpp": 38.94,
+        "noctCurrentAtMaximumPowerImpp": 10.16,
+        "noctOpenCircuitVoltageVoc": 47.13,
+        "noctShortCircuitCurrentIsc": 10.69,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.28
+        },
+        "stc_voc": {
+          "value": 50.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF535"
+        },
+        "stc_vmpp": {
+          "value": 41.75
+        }
+      }
+    },
+    {
+      "id": 121956,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF540",
+      "productCode": "GS10-M144-WF540",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/36173730-34cc-44af-a4b0-5e94d2b42209.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/7471dae0-8d48-4a01-9387-d0f1d83b2ae4.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68192,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 41.97,
+        "stcShortCircuitCurrentIsc": 13.33,
+        "stcOpenCircuitVoltageVoc": 50.61,
+        "stcCurrentAtMaximumPowerImpp": 12.85,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2091,
+        "noctMaximumPowerPmax": 400,
+        "noctVoltageAtMaximumPowerVmpp": 39.14,
+        "noctCurrentAtMaximumPowerImpp": 10.2,
+        "noctOpenCircuitVoltageVoc": 47.33,
+        "noctShortCircuitCurrentIsc": 10.73,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.33
+        },
+        "stc_voc": {
+          "value": 50.61
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF540"
+        },
+        "stc_vmpp": {
+          "value": 41.97
+        }
+      }
+    },
+    {
+      "id": 121955,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF545",
+      "productCode": "GS10-M144-WF545",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/1d35313d-3027-4250-b013-5766574ba06f.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/3bab267e-bc56-406c-97ac-546fd3e2f976.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68191,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 545,
+        "stcVoltageAtMaximumPowerVmpp": 42.2,
+        "stcShortCircuitCurrentIsc": 13.36,
+        "stcOpenCircuitVoltageVoc": 50.8,
+        "stcCurrentAtMaximumPowerImpp": 12.9,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2111,
+        "noctMaximumPowerPmax": 404,
+        "noctVoltageAtMaximumPowerVmpp": 39.36,
+        "noctCurrentAtMaximumPowerImpp": 10.24,
+        "noctOpenCircuitVoltageVoc": 47.51,
+        "noctShortCircuitCurrentIsc": 10.76,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.36
+        },
+        "stc_voc": {
+          "value": 50.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 545
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF545"
+        },
+        "stc_vmpp": {
+          "value": 42.2
+        }
+      }
+    },
+    {
+      "id": 121954,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF550",
+      "productCode": "GS10-M144-WF550",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/811b280a-8473-437e-9555-bf5ef8f30edd.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/03c970fd-ce61-4e08-8d8a-f222deabb51a.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68190,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 550,
+        "stcVoltageAtMaximumPowerVmpp": 42.42,
+        "stcShortCircuitCurrentIsc": 13.39,
+        "stcOpenCircuitVoltageVoc": 50.9,
+        "stcCurrentAtMaximumPowerImpp": 12.94,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 407,
+        "noctVoltageAtMaximumPowerVmpp": 39.56,
+        "noctCurrentAtMaximumPowerImpp": 10.27,
+        "noctOpenCircuitVoltageVoc": 47.6,
+        "noctShortCircuitCurrentIsc": 10.78,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.39
+        },
+        "stc_voc": {
+          "value": 50.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 550
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF550"
+        },
+        "stc_vmpp": {
+          "value": 42.42
+        }
+      }
+    },
+    {
+      "id": 121953,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M144-WF555",
+      "productCode": "GS10-M144-WF555",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/a696fc4d-83b5-40f1-a444-7d7f63b628a4.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/6f9da5b1-9573-4a44-970c-85c6298cef38.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68189,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 555,
+        "stcVoltageAtMaximumPowerVmpp": 42.66,
+        "stcShortCircuitCurrentIsc": 13.6,
+        "stcOpenCircuitVoltageVoc": 51,
+        "stcCurrentAtMaximumPowerImpp": 13.01,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2279,
+        "width": 1133,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2149,
+        "noctMaximumPowerPmax": 411,
+        "noctVoltageAtMaximumPowerVmpp": 39.79,
+        "noctCurrentAtMaximumPowerImpp": 10.32,
+        "noctOpenCircuitVoltageVoc": 47.69,
+        "noctShortCircuitCurrentIsc": 10.95,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.6
+        },
+        "stc_voc": {
+          "value": 51
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 555
+        },
+        "cec_model": {
+          "value": "GS10-M144-WF555"
+        },
+        "stc_vmpp": {
+          "value": 42.66
+        }
+      }
+    },
+    {
+      "id": 121948,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M156-WF-580",
+      "productCode": "GS10-M156-WF-580",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/c4b7f3da-8f24-4d6d-879e-ff65227f9e10.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/12995de9-1bfe-422a-8f71-de69dc6fb2a5.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68184,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 580,
+        "stcVoltageAtMaximumPowerVmpp": 44.97,
+        "stcShortCircuitCurrentIsc": 13.79,
+        "stcOpenCircuitVoltageVoc": 53.59,
+        "stcCurrentAtMaximumPowerImpp": 12.9,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2465,
+        "width": 1133,
+        "depth": 35,
+        "weight": 31.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline Silicon",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.207,
+        "noctMaximumPowerPmax": 432,
+        "noctVoltageAtMaximumPowerVmpp": 41,
+        "noctCurrentAtMaximumPowerImpp": 10.3,
+        "noctOpenCircuitVoltageVoc": 50.4,
+        "noctShortCircuitCurrentIsc": 11.12,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.79
+        },
+        "stc_voc": {
+          "value": 53.59
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 580
+        },
+        "cec_model": {
+          "value": "GS10-M156-WF-580"
+        },
+        "stc_vmpp": {
+          "value": 44.97
+        }
+      }
+    },
+    {
+      "id": 121947,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M156-WF-585",
+      "productCode": "GS10-M156-WF-585",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/a8524bcc-595d-44ee-811c-65c443be6735.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/dab8e53b-3145-4c35-99b2-507044cb6a40.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68183,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 585,
+        "stcVoltageAtMaximumPowerVmpp": 45.11,
+        "stcShortCircuitCurrentIsc": 13.86,
+        "stcOpenCircuitVoltageVoc": 53.73,
+        "stcCurrentAtMaximumPowerImpp": 12.97,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2465,
+        "width": 1133,
+        "depth": 35,
+        "weight": 31.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline Silicon",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 436,
+        "noctVoltageAtMaximumPowerVmpp": 42.1,
+        "noctCurrentAtMaximumPowerImpp": 10.35,
+        "noctOpenCircuitVoltageVoc": 50.6,
+        "noctShortCircuitCurrentIsc": 11.17,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.86
+        },
+        "stc_voc": {
+          "value": 53.73
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 585
+        },
+        "cec_model": {
+          "value": "GS10-M156-WF-585"
+        },
+        "stc_vmpp": {
+          "value": 45.11
+        }
+      }
+    },
+    {
+      "id": 121946,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M156-WF-590",
+      "productCode": "GS10-M156-WF-590",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/038cfd2c-22af-4f9c-81b2-1859fd0ec741.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/7a7ad943-ac99-421f-9f90-a3f353bbb51c.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68182,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 590,
+        "stcVoltageAtMaximumPowerVmpp": 45.25,
+        "stcShortCircuitCurrentIsc": 13.93,
+        "stcOpenCircuitVoltageVoc": 53.87,
+        "stcCurrentAtMaximumPowerImpp": 13.04,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2465,
+        "width": 1133,
+        "depth": 35,
+        "weight": 31.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline Silicon",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.211,
+        "noctMaximumPowerPmax": 439,
+        "noctVoltageAtMaximumPowerVmpp": 42.2,
+        "noctCurrentAtMaximumPowerImpp": 10.41,
+        "noctOpenCircuitVoltageVoc": 50.7,
+        "noctShortCircuitCurrentIsc": 11.23,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.93
+        },
+        "stc_voc": {
+          "value": 53.87
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 590
+        },
+        "cec_model": {
+          "value": "GS10-M156-WF-590"
+        },
+        "stc_vmpp": {
+          "value": 45.25
+        }
+      }
+    },
+    {
+      "id": 121945,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M156-WF-595",
+      "productCode": "GS10-M156-WF-595",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/dd053eb5-8be5-45d6-8a39-1fdc7e34075a.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/38fa7fd9-d4cc-44c9-94e2-c6823a2f7a71.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68181,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 595,
+        "stcVoltageAtMaximumPowerVmpp": 45.39,
+        "stcShortCircuitCurrentIsc": 14,
+        "stcOpenCircuitVoltageVoc": 54.01,
+        "stcCurrentAtMaximumPowerImpp": 13.11,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2465,
+        "width": 1133,
+        "depth": 35,
+        "weight": 31.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline Silicon",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 443,
+        "noctVoltageAtMaximumPowerVmpp": 42.3,
+        "noctCurrentAtMaximumPowerImpp": 10.46,
+        "noctOpenCircuitVoltageVoc": 50.8,
+        "noctShortCircuitCurrentIsc": 11.28,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14
+        },
+        "stc_voc": {
+          "value": 54.01
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 595
+        },
+        "cec_model": {
+          "value": "GS10-M156-WF-595"
+        },
+        "stc_vmpp": {
+          "value": 45.39
+        }
+      }
+    },
+    {
+      "id": 121944,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-M156-WF-600",
+      "productCode": "GS10-M156-WF-600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/1bf1002a-3210-4484-9d5d-9e529c676d1e.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/439f3834-b2a5-4f00-8a09-fcd4ef7c7a7a.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68180,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 45.53,
+        "stcShortCircuitCurrentIsc": 14.07,
+        "stcOpenCircuitVoltageVoc": 54.15,
+        "stcCurrentAtMaximumPowerImpp": 13.18,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.00048,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 2465,
+        "width": 1133,
+        "depth": 35,
+        "weight": 31.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline Silicon",
+        "cellTechnology": "PERC",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.215,
+        "noctMaximumPowerPmax": 447,
+        "noctVoltageAtMaximumPowerVmpp": 42.5,
+        "noctCurrentAtMaximumPowerImpp": 10.52,
+        "noctOpenCircuitVoltageVoc": 51,
+        "noctShortCircuitCurrentIsc": 11.34,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14.07
+        },
+        "stc_voc": {
+          "value": 54.15
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.048
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "GS10-M156-WF-600"
+        },
+        "stc_vmpp": {
+          "value": 45.53
+        }
+      }
+    },
+    {
+      "id": 121952,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-T144-GF555",
+      "productCode": "GS10-T144-GF555",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/cf80adaa-9758-41e1-af52-5d26c1eacfd3.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/adff1205-48b6-435e-9c6a-819a197998b8.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68188,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 555,
+        "stcVoltageAtMaximumPowerVmpp": 42.2,
+        "stcShortCircuitCurrentIsc": 14.06,
+        "stcOpenCircuitVoltageVoc": 50.48,
+        "stcCurrentAtMaximumPowerImpp": 13.16,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2148,
+        "noctMaximumPowerPmax": 610,
+        "noctVoltageAtMaximumPowerVmpp": 42.2,
+        "noctCurrentAtMaximumPowerImpp": 14.47,
+        "noctOpenCircuitVoltageVoc": 50.48,
+        "noctShortCircuitCurrentIsc": 15.46,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.06
+        },
+        "stc_voc": {
+          "value": 50.48
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 555
+        },
+        "cec_model": {
+          "value": "GS10-T144-GF555"
+        },
+        "stc_vmpp": {
+          "value": 42.2
+        }
+      }
+    },
+    {
+      "id": 121951,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-T144-GF560",
+      "productCode": "GS10-T144-GF560",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/27b980f4-f5e7-4702-a6f9-57101431f412.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/501245ac-f515-4ebb-aef9-9f37df904301.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68187,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 560,
+        "stcVoltageAtMaximumPowerVmpp": 42.4,
+        "stcShortCircuitCurrentIsc": 14.12,
+        "stcOpenCircuitVoltageVoc": 50.68,
+        "stcCurrentAtMaximumPowerImpp": 13.21,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2167,
+        "noctMaximumPowerPmax": 616,
+        "noctVoltageAtMaximumPowerVmpp": 42.4,
+        "noctCurrentAtMaximumPowerImpp": 14.53,
+        "noctOpenCircuitVoltageVoc": 50.68,
+        "noctShortCircuitCurrentIsc": 15.53,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.12
+        },
+        "stc_voc": {
+          "value": 50.68
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 560
+        },
+        "cec_model": {
+          "value": "GS10-T144-GF560"
+        },
+        "stc_vmpp": {
+          "value": 42.4
+        }
+      }
+    },
+    {
+      "id": 121950,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-T144-GF565",
+      "productCode": "GS10-T144-GF565",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/3cc10453-3635-4d1f-9834-8f85729d05a3.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/95557318-52a2-4abb-8095-a942a6444568.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68186,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 565,
+        "stcVoltageAtMaximumPowerVmpp": 42.6,
+        "stcShortCircuitCurrentIsc": 14.18,
+        "stcOpenCircuitVoltageVoc": 50.88,
+        "stcCurrentAtMaximumPowerImpp": 13.27,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2187,
+        "noctMaximumPowerPmax": 621,
+        "noctVoltageAtMaximumPowerVmpp": 42.6,
+        "noctCurrentAtMaximumPowerImpp": 14.59,
+        "noctOpenCircuitVoltageVoc": 50.88,
+        "noctShortCircuitCurrentIsc": 15.59,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.18
+        },
+        "stc_voc": {
+          "value": 50.88
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 565
+        },
+        "cec_model": {
+          "value": "GS10-T144-GF565"
+        },
+        "stc_vmpp": {
+          "value": 42.6
+        }
+      }
+    },
+    {
+      "id": 121949,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2697,
+      "brandName": "Goldi Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/36c4ff22-638d-4fd7-8147-fb75a595c9a3.png",
+      "productName": "GS10-T144-GF570",
+      "productCode": "GS10-T144-GF570",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/17a07613-fe59-41e2-a99e-1f61d3ead7e2.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/f873f992-715d-4c0e-bc57-6c0a9878f060.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68185,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 570,
+        "stcVoltageAtMaximumPowerVmpp": 42.8,
+        "stcShortCircuitCurrentIsc": 14.24,
+        "stcOpenCircuitVoltageVoc": 51.08,
+        "stcCurrentAtMaximumPowerImpp": 13.32,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2278,
+        "width": 1134,
+        "depth": 30,
+        "weight": 32.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2206,
+        "noctMaximumPowerPmax": 627,
+        "noctVoltageAtMaximumPowerVmpp": 42.8,
+        "noctCurrentAtMaximumPowerImpp": 14.65,
+        "noctOpenCircuitVoltageVoc": 51.08,
+        "noctShortCircuitCurrentIsc": 15.66,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.24
+        },
+        "stc_voc": {
+          "value": 51.08
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 570
+        },
+        "cec_model": {
+          "value": "GS10-T144-GF570"
+        },
+        "stc_vmpp": {
+          "value": 42.8
+        }
+      }
+    }
+  ]
+}

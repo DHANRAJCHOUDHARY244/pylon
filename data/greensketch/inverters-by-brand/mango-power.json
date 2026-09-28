@@ -1,0 +1,187 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "MANGO POWER",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.639Z",
+  "items": [
+    {
+      "id": 126941,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3131,
+      "brandName": "MANGO POWER",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/992cac23-c7d7-4e4e-8da9-bdd18766ddf7.webp",
+      "productName": "Mango Power M Hybrid Inverter 5kW",
+      "productCode": "M Hybrid Inverter 5kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d05f0a72-0bb0-400b-ae80-b712d2b433dc.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/07/ed30a624-0e3d-42c1-b938-9aa1cc06c43d.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "M Hybrid Inverter 5kW (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2",
+        "EN 62109-1",
+        "EN 62109-2",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "EN 61000-6-4",
+        "AS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27857,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 95,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 470,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 95
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126942,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3131,
+      "brandName": "MANGO POWER",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/992cac23-c7d7-4e4e-8da9-bdd18766ddf7.webp",
+      "productName": "Mango Power M Hybrid Inverter 6kW",
+      "productCode": "M Hybrid Inverter 6kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/292377d0-94bb-4aeb-8487-b9c9c70d50c9.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/07/ed30a624-0e3d-42c1-b938-9aa1cc06c43d.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "M Hybrid Inverter 6kW (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2",
+        "EN 62109-1",
+        "EN 62109-2",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "EN 61000-6-4",
+        "AS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27858,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 95,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 22,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 470,
+        "depth": 180,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 95
+        },
+        "current_isc_max": {
+          "value": 22
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

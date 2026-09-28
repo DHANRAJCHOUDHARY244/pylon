@@ -1,0 +1,404 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "BYD",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.199Z",
+  "items": [
+    {
+      "id": 90882,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 289,
+      "brandName": "BYD",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3e7e4b00-4673-45cd-82d4-844c5330f302.png",
+      "productName": "Power-Box SH3.7K",
+      "productCode": "Power-Box SH3.7K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8ed42a97-43b9-46ba-8fe4-bdbb1d37a871.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/0e90f8e0-6dff-4164-bff3-851f3165dd7c.pdf",
+      "productWarranty": "10.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "Power-Box SH3.7K-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25243,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 480,
+        "depth": 180,
+        "weight": 20,
+        "display": "LED",
+        "maxDcPower": 7360,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 90881,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 289,
+      "brandName": "BYD",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3e7e4b00-4673-45cd-82d4-844c5330f302.png",
+      "productName": "Power-Box SH3K",
+      "productCode": "Power-Box SH3K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/201b7236-470b-4306-bafa-4a6397517e38.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/54a89e09-d159-4d3c-a736-e38a6fb8b03a.pdf",
+      "productWarranty": "10.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "Power-Box SH3K-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25242,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 480,
+        "depth": 180,
+        "weight": 20,
+        "display": "LED",
+        "maxDcPower": 6000,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 90883,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 289,
+      "brandName": "BYD",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3e7e4b00-4673-45cd-82d4-844c5330f302.png",
+      "productName": "Power-Box SH4.6K",
+      "productCode": "Power-Box SH4.6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7f717bf7-60fe-47bb-9270-54c9abe292b5.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/8e4b89ab-27ac-4ead-9357-bf03ab244992.pdf",
+      "productWarranty": "10.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "Power-Box SH4.6K-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25244,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 480,
+        "depth": 180,
+        "weight": 20,
+        "display": "LED",
+        "maxDcPower": 8280,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 90884,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 289,
+      "brandName": "BYD",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3e7e4b00-4673-45cd-82d4-844c5330f302.png",
+      "productName": "Power-Box SH5K",
+      "productCode": "Power-Box SH5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf27ad82-4602-4f04-b4ac-1fbce164dd9c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/b19196d9-9d4f-4300-9fdd-05d87657f8cd.pdf",
+      "productWarranty": "10.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "Power-Box SH5K-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25245,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 480,
+        "depth": 180,
+        "weight": 20,
+        "display": "LED",
+        "maxDcPower": 9000,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 90885,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 289,
+      "brandName": "BYD",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/3e7e4b00-4673-45cd-82d4-844c5330f302.png",
+      "productName": "Power-Box SH6K",
+      "productCode": "Power-Box SH6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/22951c62-d147-4d7b-838d-a2d432bd3a8f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/f224a420-106a-4bc6-8145-726af59e980a.pdf",
+      "productWarranty": "10.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "Power-Box SH6K-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25246,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 480,
+        "width": 480,
+        "depth": 180,
+        "weight": 20,
+        "display": "LED",
+        "maxDcPower": 9000,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

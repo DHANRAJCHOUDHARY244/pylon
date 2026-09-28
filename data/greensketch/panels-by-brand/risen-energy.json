@@ -1,0 +1,1522 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Risen Energy",
+  "count": 17,
+  "exportedAt": "2026-09-23T06:32:14.047Z",
+  "items": [
+    {
+      "id": 72100,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion Pro RSM132-8-720-745BHDG",
+      "productCode": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-725BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/4e183736-b33b-4238-b9a9-fe054558b82e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/cf4f77f8-e26b-4a26-ab68-87943611e1a3.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-725BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35051,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 725,
+        "stcVoltageAtMaximumPowerVmpp": 42.14,
+        "stcShortCircuitCurrentIsc": 18.29,
+        "stcOpenCircuitVoltageVoc": 50.26,
+        "stcCurrentAtMaximumPowerImpp": 17.23,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 554,
+        "noctVoltageAtMaximumPowerVmpp": 39.4,
+        "noctCurrentAtMaximumPowerImpp": 14.06,
+        "noctOpenCircuitVoltageVoc": 47.09,
+        "noctShortCircuitCurrentIsc": 15,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.29
+        },
+        "stc_voc": {
+          "value": 50.26
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 725
+        },
+        "cec_model": {
+          "value": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-725BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 42.14
+        }
+      }
+    },
+    {
+      "id": 72102,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion Pro RSM132-8-720-745BHDG",
+      "productCode": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-735BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/554359d8-c549-48e0-9c05-3cb9adc28793.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/a7559ca3-6a4a-46ea-abab-754253bcb2aa.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-735BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35053,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 735,
+        "stcVoltageAtMaximumPowerVmpp": 42.26,
+        "stcShortCircuitCurrentIsc": 18.47,
+        "stcOpenCircuitVoltageVoc": 50.4,
+        "stcCurrentAtMaximumPowerImpp": 17.41,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.237,
+        "noctMaximumPowerPmax": 561.3,
+        "noctVoltageAtMaximumPowerVmpp": 39.51,
+        "noctCurrentAtMaximumPowerImpp": 14.21,
+        "noctOpenCircuitVoltageVoc": 47.22,
+        "noctShortCircuitCurrentIsc": 15.15,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.47
+        },
+        "stc_voc": {
+          "value": 50.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 735
+        },
+        "cec_model": {
+          "value": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-735BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 42.26
+        }
+      }
+    },
+    {
+      "id": 72098,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion Pro RSM132-8-720-745BHDG",
+      "productCode": "Hyper-ion Pro RSM132-8-720-745BHDG (RSM132-8-745BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/fd8ae370-3bf5-4373-a0ea-d945b7ebb5b1.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/c0751ffd-6760-478f-8b70-5086de60026b.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-745BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35049,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 745,
+        "stcVoltageAtMaximumPowerVmpp": 42.38,
+        "stcShortCircuitCurrentIsc": 18.65,
+        "stcOpenCircuitVoltageVoc": 50.54,
+        "stcCurrentAtMaximumPowerImpp": 17.59,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.24,
+        "noctMaximumPowerPmax": 568.8,
+        "noctVoltageAtMaximumPowerVmpp": 39.63,
+        "noctCurrentAtMaximumPowerImpp": 14.35,
+        "noctOpenCircuitVoltageVoc": 47.36,
+        "noctShortCircuitCurrentIsc": 15.29,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.65
+        },
+        "stc_voc": {
+          "value": 50.54
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 745
+        },
+        "cec_model": {
+          "value": "Hyper-ion Pro RSM132-8-720-745BHDG (RSM132-8-745BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 42.38
+        }
+      }
+    },
+    {
+      "id": 72103,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion Pro RSM132-8-720-745BHDG",
+      "productCode": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-740BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/d5ace06e-2b80-487a-a37f-ffaeecf40018.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/123d42a1-5c6e-4b0f-9be3-aeac5e5255fb.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-740BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35054,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 740,
+        "stcVoltageAtMaximumPowerVmpp": 42.32,
+        "stcShortCircuitCurrentIsc": 18.56,
+        "stcOpenCircuitVoltageVoc": 50.47,
+        "stcCurrentAtMaximumPowerImpp": 17.5,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.238,
+        "noctMaximumPowerPmax": 565,
+        "noctVoltageAtMaximumPowerVmpp": 39.57,
+        "noctCurrentAtMaximumPowerImpp": 14.28,
+        "noctOpenCircuitVoltageVoc": 47.29,
+        "noctShortCircuitCurrentIsc": 15.22,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.56
+        },
+        "stc_voc": {
+          "value": 50.47
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 740
+        },
+        "cec_model": {
+          "value": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-740BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 42.32
+        }
+      }
+    },
+    {
+      "id": 72101,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion Pro RSM132-8-720-745BHDG",
+      "productCode": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-730BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/4b6edba9-8bbe-4aef-b280-be11ea281dfe.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/d137c872-4ff6-464c-8b67-f4d88523036e.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-730BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35052,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 730,
+        "stcVoltageAtMaximumPowerVmpp": 42.2,
+        "stcShortCircuitCurrentIsc": 18.38,
+        "stcOpenCircuitVoltageVoc": 50.33,
+        "stcCurrentAtMaximumPowerImpp": 17.32,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": 557.7,
+        "noctVoltageAtMaximumPowerVmpp": 39.46,
+        "noctCurrentAtMaximumPowerImpp": 14.13,
+        "noctOpenCircuitVoltageVoc": 47.16,
+        "noctShortCircuitCurrentIsc": 15.07,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.38
+        },
+        "stc_voc": {
+          "value": 50.33
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 730
+        },
+        "cec_model": {
+          "value": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-730BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 42.2
+        }
+      }
+    },
+    {
+      "id": 72099,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion Pro RSM132-8-720-745BHDG",
+      "productCode": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-720BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/b6ffaf8c-5602-4afc-ba1f-8cacfc3defee.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/68ae0e48-786c-4ea5-8ad0-0557e360be8b.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-720BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35050,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 720,
+        "stcVoltageAtMaximumPowerVmpp": 42.08,
+        "stcShortCircuitCurrentIsc": 18.19,
+        "stcOpenCircuitVoltageVoc": 50.18,
+        "stcCurrentAtMaximumPowerImpp": 17.13,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 550,
+        "noctVoltageAtMaximumPowerVmpp": 39.34,
+        "noctCurrentAtMaximumPowerImpp": 13.98,
+        "noctOpenCircuitVoltageVoc": 47.02,
+        "noctShortCircuitCurrentIsc": 14.92,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.19
+        },
+        "stc_voc": {
+          "value": 50.18
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 720
+        },
+        "cec_model": {
+          "value": "Hyper-ion Pro RSM132-8-720-745BHDG(RSM132-8-720BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 42.08
+        }
+      }
+    },
+    {
+      "id": 123598,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-570-595BHDG",
+      "productCode": "Hyper-ion RSM110-8-570-595BHDG(RSM110-8-570BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/72eea1bf-21ea-4ccc-a54e-04f40a04b3ff.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/b02596be-d772-44e5-b0bf-b76e4dcfce90.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 69658,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 35.2,
+        "stcShortCircuitCurrentIsc": 17.88,
+        "stcOpenCircuitVoltageVoc": 42.27,
+        "stcCurrentAtMaximumPowerImpp": 17.05,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 457.9,
+        "noctVoltageAtMaximumPowerVmpp": 32.91,
+        "noctCurrentAtMaximumPowerImpp": 13.91,
+        "noctOpenCircuitVoltageVoc": 39.61,
+        "noctShortCircuitCurrentIsc": 14.66,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.88
+        },
+        "stc_voc": {
+          "value": 42.27
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-570-595BHDG(RSM110-8-570BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 35.2
+        }
+      }
+    },
+    {
+      "id": 72065,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-580-605BHDG",
+      "productCode": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-595BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/0ec40ad8-3474-4e07-922f-7adde6bd61a2.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/0e163272-3223-4437-a93c-2261402f7c43.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35030,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 595,
+        "stcVoltageAtMaximumPowerVmpp": 35.12,
+        "stcShortCircuitCurrentIsc": 17.79,
+        "stcOpenCircuitVoltageVoc": 42.19,
+        "stcCurrentAtMaximumPowerImpp": 16.95,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 454.2,
+        "noctVoltageAtMaximumPowerVmpp": 32.84,
+        "noctCurrentAtMaximumPowerImpp": 13.83,
+        "noctOpenCircuitVoltageVoc": 39.53,
+        "noctShortCircuitCurrentIsc": 14.59,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.79
+        },
+        "stc_voc": {
+          "value": 42.19
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 595
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-595BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 35.12
+        }
+      }
+    },
+    {
+      "id": 72062,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-580-605BHDG",
+      "productCode": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-580BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/0cb94b6c-d040-4951-83b8-5d18ff1d22b3.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/2a89212a-0757-4258-8baa-98171baf3f20.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35027,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 580,
+        "stcVoltageAtMaximumPowerVmpp": 34.86,
+        "stcShortCircuitCurrentIsc": 17.5,
+        "stcOpenCircuitVoltageVoc": 41.95,
+        "stcCurrentAtMaximumPowerImpp": 16.64,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.222,
+        "noctMaximumPowerPmax": 442.6,
+        "noctVoltageAtMaximumPowerVmpp": 32.59,
+        "noctCurrentAtMaximumPowerImpp": 13.58,
+        "noctOpenCircuitVoltageVoc": 39.31,
+        "noctShortCircuitCurrentIsc": 14.35,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.5
+        },
+        "stc_voc": {
+          "value": 41.95
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 580
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-580BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 34.86
+        }
+      }
+    },
+    {
+      "id": 72061,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-580-605BHDG",
+      "productCode": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-605BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/38fa8977-f95b-4c9f-8ad2-3e5e00525ed5.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/021d19db-e3b5-4cd5-83ca-6b908bbdf49f.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35026,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 605,
+        "stcVoltageAtMaximumPowerVmpp": 35.28,
+        "stcShortCircuitCurrentIsc": 17.97,
+        "stcOpenCircuitVoltageVoc": 42.35,
+        "stcCurrentAtMaximumPowerImpp": 17.15,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 461.6,
+        "noctVoltageAtMaximumPowerVmpp": 32.99,
+        "noctCurrentAtMaximumPowerImpp": 13.99,
+        "noctOpenCircuitVoltageVoc": 39.68,
+        "noctShortCircuitCurrentIsc": 14.74,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.97
+        },
+        "stc_voc": {
+          "value": 42.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 605
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-605BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 35.28
+        }
+      }
+    },
+    {
+      "id": 72064,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-580-605BHDG",
+      "productCode": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-590BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/f627f4b9-c426-45fc-9061-c019fc20d0fb.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/87d83770-82c5-42e9-a842-0400e328a742.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35029,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 590,
+        "stcVoltageAtMaximumPowerVmpp": 35.04,
+        "stcShortCircuitCurrentIsc": 17.69,
+        "stcOpenCircuitVoltageVoc": 42.11,
+        "stcCurrentAtMaximumPowerImpp": 16.84,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.226,
+        "noctMaximumPowerPmax": 450.2,
+        "noctVoltageAtMaximumPowerVmpp": 32.76,
+        "noctCurrentAtMaximumPowerImpp": 13.74,
+        "noctOpenCircuitVoltageVoc": 39.46,
+        "noctShortCircuitCurrentIsc": 14.51,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.69
+        },
+        "stc_voc": {
+          "value": 42.11
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 590
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-590BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 35.04
+        }
+      }
+    },
+    {
+      "id": 72063,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-580-605BHDG",
+      "productCode": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-585BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/921ff658-0f81-4f9c-afff-82ba650f62bf.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/35f49348-85a6-4bb1-a9ab-b950b9d60a1f.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35028,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 585,
+        "stcVoltageAtMaximumPowerVmpp": 34.95,
+        "stcShortCircuitCurrentIsc": 17.6,
+        "stcOpenCircuitVoltageVoc": 42.03,
+        "stcCurrentAtMaximumPowerImpp": 16.74,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.224,
+        "noctMaximumPowerPmax": 446.4,
+        "noctVoltageAtMaximumPowerVmpp": 32.68,
+        "noctCurrentAtMaximumPowerImpp": 13.66,
+        "noctOpenCircuitVoltageVoc": 39.38,
+        "noctShortCircuitCurrentIsc": 14.43,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.6
+        },
+        "stc_voc": {
+          "value": 42.03
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 585
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-585BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 34.95
+        }
+      }
+    },
+    {
+      "id": 72060,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM110-8-580-605BHDG",
+      "productCode": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-600BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/e82088df-0f7b-4bef-814e-c06c4c35a206.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/b02596be-d772-44e5-b0bf-b76e4dcfce90.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35025,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 35.2,
+        "stcShortCircuitCurrentIsc": 17.88,
+        "stcOpenCircuitVoltageVoc": 42.27,
+        "stcCurrentAtMaximumPowerImpp": 17.05,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1096,
+        "depth": 30,
+        "weight": 33,
+        "palletWeight": 2400,
+        "palletDimensionLength": 2395,
+        "palletDimensionWidth": 1075,
+        "palletDimensionHeight": 2470,
+        "cell": 110,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 457.9,
+        "noctVoltageAtMaximumPowerVmpp": 32.91,
+        "noctCurrentAtMaximumPowerImpp": 13.91,
+        "noctOpenCircuitVoltageVoc": 39.61,
+        "noctShortCircuitCurrentIsc": 14.66,
+        "frameThickness": null,
+        "qtyPerPallet": 35,
+        "connectorType": "Risen Twinsel PV-SY02, IP68",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.88
+        },
+        "stc_voc": {
+          "value": 42.27
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM110-8-580-605BHDG(RSM110-8-600BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 35.2
+        }
+      }
+    },
+    {
+      "id": 72059,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM132-8-700-715BHDG",
+      "productCode": "RSM132-8-715BHDG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/10/52e23f94-8500-4575-b9c0-0076216e90f2.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/b859ca81-25a3-4484-b9d0-aa0532030070.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-715BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35024,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 715,
+        "stcVoltageAtMaximumPowerVmpp": 42,
+        "stcShortCircuitCurrentIsc": 18.1,
+        "stcOpenCircuitVoltageVoc": 50.09,
+        "stcCurrentAtMaximumPowerImpp": 17.05,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 546.2,
+        "noctVoltageAtMaximumPowerVmpp": 39.27,
+        "noctCurrentAtMaximumPowerImpp": 13.91,
+        "noctOpenCircuitVoltageVoc": 46.93,
+        "noctShortCircuitCurrentIsc": 14.84,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18.1
+        },
+        "stc_voc": {
+          "value": 50.09
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 715
+        },
+        "cec_model": {
+          "value": "RSM132-8-715BHDG"
+        },
+        "stc_vmpp": {
+          "value": 42
+        }
+      }
+    },
+    {
+      "id": 72056,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM132-8-700-715BHDG",
+      "productCode": "Hyper-ion RSM132-8-700-715BHDG(RSM132-8-700BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/eaac962b-a499-4d1d-bd09-0527bbf8b1c2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/cdabbec6-9b33-42eb-a9fb-ae5f9d7909fb.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35021,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 700,
+        "stcVoltageAtMaximumPowerVmpp": 41.78,
+        "stcShortCircuitCurrentIsc": 17.82,
+        "stcOpenCircuitVoltageVoc": 49.83,
+        "stcCurrentAtMaximumPowerImpp": 16.77,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 534.5,
+        "noctVoltageAtMaximumPowerVmpp": 39.07,
+        "noctCurrentAtMaximumPowerImpp": 13.68,
+        "noctOpenCircuitVoltageVoc": 46.69,
+        "noctShortCircuitCurrentIsc": 14.61,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.82
+        },
+        "stc_voc": {
+          "value": 49.83
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 700
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM132-8-700-715BHDG(RSM132-8-700BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 41.78
+        }
+      }
+    },
+    {
+      "id": 72057,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM132-8-700-715BHDG",
+      "productCode": "Hyper-ion RSM132-8-700-715BHDG(RSM132-8-705BHDG)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/65c960db-7e08-49f0-a030-cc7a8c86cc3d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/2232abc6-d35f-40d5-8a0f-6aa8f2c1ba9e.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35022,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 705,
+        "stcVoltageAtMaximumPowerVmpp": 41.86,
+        "stcShortCircuitCurrentIsc": 17.91,
+        "stcOpenCircuitVoltageVoc": 49.92,
+        "stcCurrentAtMaximumPowerImpp": 16.86,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 538.5,
+        "noctVoltageAtMaximumPowerVmpp": 39.14,
+        "noctCurrentAtMaximumPowerImpp": 13.76,
+        "noctOpenCircuitVoltageVoc": 46.78,
+        "noctShortCircuitCurrentIsc": 14.68,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 17.91
+        },
+        "stc_voc": {
+          "value": 49.92
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 705
+        },
+        "cec_model": {
+          "value": "Hyper-ion RSM132-8-700-715BHDG(RSM132-8-705BHDG)"
+        },
+        "stc_vmpp": {
+          "value": 41.86
+        }
+      }
+    },
+    {
+      "id": 72058,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 207,
+      "brandName": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "productName": "Hyper-ion RSM132-8-700-715BHDG",
+      "productCode": "RSM132-8-710BHDG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/18/5210d97f-cf77-4966-b610-4877f2690b05.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/18/ade1eb77-6739-40fe-b2d2-22434045d8ad.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": "30",
+      "cecModelNumber": "RSM132-8-710BHDG (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 35023,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 710,
+        "stcVoltageAtMaximumPowerVmpp": 41.93,
+        "stcShortCircuitCurrentIsc": 18,
+        "stcOpenCircuitVoltageVoc": 50.01,
+        "stcCurrentAtMaximumPowerImpp": 16.95,
+        "temperatureCoefficientOfPmax": -0.0024,
+        "temperatureCoefficientOfVoc": -0.0022,
+        "temperatureCoefficientOfIsc": 0.00047,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.003,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 37.5,
+        "palletWeight": 1288.6,
+        "palletDimensionLength": 1320,
+        "palletDimensionWidth": 1125,
+        "palletDimensionHeight": 2520,
+        "cell": 132,
+        "cellType": "N-type Monocrystalline Silicon",
+        "cellTechnology": "HJT",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 542.3,
+        "noctVoltageAtMaximumPowerVmpp": 39.21,
+        "noctCurrentAtMaximumPowerImpp": 13.83,
+        "noctOpenCircuitVoltageVoc": 46.86,
+        "noctShortCircuitCurrentIsc": 14.76,
+        "frameThickness": null,
+        "qtyPerPallet": 33,
+        "connectorType": "PV-SY02/Others",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.24
+        },
+        "stc_isc": {
+          "value": 18
+        },
+        "stc_voc": {
+          "value": 50.01
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.22
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.047
+        },
+        "power": {
+          "value": 710
+        },
+        "cec_model": {
+          "value": "RSM132-8-710BHDG"
+        },
+        "stc_vmpp": {
+          "value": 41.93
+        }
+      }
+    }
+  ]
+}

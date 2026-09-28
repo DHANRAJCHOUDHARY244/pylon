@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "NEP",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.650Z",
+  "items": [
+    {
+      "id": 22211,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1439,
+      "brandName": "NEP",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/7beb02dc-47e7-4354-88a8-aa27c5312d0f.png",
+      "productName": "BDM-600",
+      "productCode": "BDM-600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/556bc4d3-9baf-4d1f-a1e5-5680c39742b6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEP_BDM-600.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11321,
+        "companyProductId": null,
+        "maxAcPower": 500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 22,
+        "mpptVoltageMax": 55,
+        "nominalAcPower": 500,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 132,
+        "width": 277,
+        "depth": 50,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 720,
+        "dcInputs": 0,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 500
+        },
+        "mppt_voltage_min": {
+          "value": 22
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

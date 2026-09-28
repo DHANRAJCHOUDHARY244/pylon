@@ -1,0 +1,173 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "IN-Power",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.628Z",
+  "items": [
+    {
+      "id": 128329,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3132,
+      "brandName": "IN-Power",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7f750c91-a620-48ce-9d58-080bcd3e3f3e.webp",
+      "productName": "INPPCS-100/0.4-W-14-C1-OS (with AC Circuit Breaker)",
+      "productCode": "INPPCS-100/0.4-W-14-C1-OS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a91efa70-0275-4ff1-8b9d-20a96d7efed4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/86a36a3a-9f96-40a4-bfaa-e4724191aca6.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "INPPCS-100/0.4-W-14-C1-OS (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC-62477",
+        "IEC-61000"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28440,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 630,
+        "mpptVoltageMin": null,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 260,
+        "width": 480,
+        "depth": 720,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 190,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 630
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": null
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 128330,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3132,
+      "brandName": "IN-Power",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/7f750c91-a620-48ce-9d58-080bcd3e3f3e.webp",
+      "productName": "INPPCS-100/0.4-W-24-C1-OS (without AC Circuit Breaker)",
+      "productCode": "INPPCS-100/0.4-W-24-C1-OS",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a91efa70-0275-4ff1-8b9d-20a96d7efed4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/86a36a3a-9f96-40a4-bfaa-e4724191aca6.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "INPPCS-100/0.4-W-24-C1-OS (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC-62477",
+        "IEC-61000"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28441,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 630,
+        "mpptVoltageMin": null,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 260,
+        "width": 480,
+        "depth": 720,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 190,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 630
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": null
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "GRUNDFOS",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.119Z",
+  "items": [
+    {
+      "id": 128326,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0005-4-X",
+      "productCode": "RSI0100-3L-0005-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/05afae40-b6a5-44b7-ac14-67fbb1089c3a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/ee9881e8-8dd4-4f0b-a5af-40b5e5715611.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0005-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28437,
+        "companyProductId": null,
+        "maxAcPower": 2700,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 2200,
+        "maxShortCircuitCurrentPerMppt": 5,
+        "type": "PV-only Inverter",
+        "height": 316,
+        "width": 191,
+        "depth": 214,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 5,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 5
+        },
+        "nominal_ac_power": {
+          "value": 2200
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128320,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0009-4-X",
+      "productCode": "RSI0100-3L-0009-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44f809c9-ca44-48ca-b23c-681a5abd0628.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/73a4a3b9-49a1-496e-9084-e2d3d91a2937.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "N/A",
+      "cecModelNumber": "RSI0100-3L-0009-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28431,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 9,
+        "type": "PV-only Inverter",
+        "height": 316,
+        "width": 191,
+        "depth": 214,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 9.2,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 9
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128325,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0012-4-X",
+      "productCode": "RSI0100-3L-0012-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6eb029c8-f8a7-4c29-96e4-fcd384eae4c9.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/f6543419-d437-4728-8a7e-cca30ac8c6cb.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0012-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28436,
+        "companyProductId": null,
+        "maxAcPower": 5800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 5500,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 316,
+        "width": 191,
+        "depth": 214,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 12.6,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 5500
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128323,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0016-4-X",
+      "productCode": "RSI0100-3L-0016-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/09f245f0-4c72-494e-9acc-b0368413350c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/67ab455d-32a6-4125-818e-dc89c870dc03.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0016-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1/ IEC 62109-2",
+        "SGS Systems"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28434,
+        "companyProductId": null,
+        "maxAcPower": 7700,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 7500,
+        "maxShortCircuitCurrentPerMppt": 17,
+        "type": "PV-only Inverter",
+        "height": 367,
+        "width": 233,
+        "depth": 231,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 17.2,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 17
+        },
+        "nominal_ac_power": {
+          "value": 7500
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128321,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0031-4-X",
+      "productCode": "RSI0100-3L-0031-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1356c03f-9485-41b9-9ef1-542c7f629d15.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/2e1e99d9-b00e-434d-b8ef-e94cf06f1cdf.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0031-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28432,
+        "companyProductId": null,
+        "maxAcPower": 14900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 34,
+        "type": "PV-only Inverter",
+        "height": 367,
+        "width": 233,
+        "depth": 231,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 34.4,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 34
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128322,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0038-4-X",
+      "productCode": "RSI0100-3L-0038-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8e6b826a-8b34-4657-b005-d221a9d18751.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/41b2645b-195e-455f-b1fb-8e81901508cc.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0038-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28433,
+        "companyProductId": null,
+        "maxAcPower": 18200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 18500,
+        "maxShortCircuitCurrentPerMppt": 42,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 350,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 42.4,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 42
+        },
+        "nominal_ac_power": {
+          "value": 18500
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128324,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0061-4-X",
+      "productCode": "RSI0100-3L-0061-4-X",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c4b74991-32c0-4316-909b-9ce7b16c6316.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/3f9a847b-3e41-4f69-94b4-07e244b77a86.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0061-4-X",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28435,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 68,
+        "type": "PV-only Inverter",
+        "height": 500,
+        "width": 350,
+        "depth": 255,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.972,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 68.8,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 68
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128327,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0087-5",
+      "productCode": "RSI0100-3L-0087-5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1d5e4221-7b74-4df7-a6b7-30abbe63331e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/b1153c1a-341a-412d-8836-3e19591530fa.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0087-5",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28438,
+        "companyProductId": null,
+        "maxAcPower": 43500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 45000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 237,
+        "depth": 259,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 100,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 45000
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128328,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3130,
+      "brandName": "GRUNDFOS",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/cbaf1a22-75aa-4dab-aae2-5bde52b116f7.webp",
+      "productName": "RSI0100-3L-0105-5",
+      "productCode": "RSI0100-3L-0105-5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/13d1755d-bada-4088-a841-3c1148b2454e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/10/2be42db1-668c-40bd-b174-0956a1a76572.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "RSI0100-3L-0105-5",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC 62109-1",
+        "IEC 62109-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28439,
+        "companyProductId": null,
+        "maxAcPower": 52500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 351,
+        "mpptVoltageMin": 436,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 52.5,
+        "maxShortCircuitCurrentPerMppt": 121,
+        "type": "PV-only Inverter",
+        "height": 660,
+        "width": 237,
+        "depth": 259,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 121,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 351
+        },
+        "current_isc_max": {
+          "value": 121
+        },
+        "nominal_ac_power": {
+          "value": 52.5
+        },
+        "mppt_voltage_min": {
+          "value": 436
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

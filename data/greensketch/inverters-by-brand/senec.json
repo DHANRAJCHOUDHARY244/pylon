@@ -1,0 +1,246 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "SENEC",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.602Z",
+  "items": [
+    {
+      "id": 20831,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 311,
+      "brandName": "SENEC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SENEC.png",
+      "productName": "SENEC.Home V3 Hybrid 10.0",
+      "productCode": "SENEC.Home V3 Hybrid 10.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/75b5f7ec-77b5-4c84-a898-cca11fc93be8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SENEC_SENEC.Home_V3_Hybrid_10.0.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9941,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1175,
+        "width": 530,
+        "depth": 406,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23156,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 311,
+      "brandName": "SENEC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SENEC.png",
+      "productName": "SENEC.Home V3 Hybrid 5.0",
+      "productCode": "SENEC.Home V3 Hybrid 5.0",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/161824eb-95a1-4100-9b7e-c656459052c6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SENEC_SENEC.Home_V3_Hybrid_5.0.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12266,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1175,
+        "width": 530,
+        "depth": 406,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21012,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 311,
+      "brandName": "SENEC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/SENEC.png",
+      "productName": "SENEC.Home V3 hybrid 5 (AS4777-2 2020)",
+      "productCode": "SENEC.Home V3 hybrid 5 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/be5a7fa4-35ee-4571-8c07-64d2939cc551.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SENEC_SENEC.Home_V3_hybrid_5_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10122,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1175,
+        "width": 530,
+        "depth": 406,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2056 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Redback",
+  "count": 24,
+  "exportedAt": "2026-09-23T06:39:31.842Z",
+  "items": [
+    {
+      "id": 128128,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-C1-T100AC",
+      "productCode": "RED-C1-T100AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6d107b61-0a54-4096-8a1b-7c78f9e30b82.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/6725bb89-5c3d-4aa3-aeea-cb727e6ea0f5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "RED-C1-T100AC (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62109-1:2010",
+        "IEC62109-2:2011",
+        "IEC 62116:2014",
+        "EC 62040-1:2017",
+        "IEC 62477-1:2012",
+        "IEC 60529",
+        "EN 61000",
+        "RCM",
+        "CE Mark (LVD, EMC, RoHS directives)",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5139:2019",
+        "AS/NZS 5033:2021"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28367,
+        "companyProductId": null,
+        "maxAcPower": 110,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 630,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 240,
+        "width": 520,
+        "depth": 680,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 630
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128129,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-C1-T125AC",
+      "productCode": "RED-C1-T125AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6d107b61-0a54-4096-8a1b-7c78f9e30b82.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/6725bb89-5c3d-4aa3-aeea-cb727e6ea0f5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "RED-C1-T125AC (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62109-1:2010",
+        "IEC62109-2:2011",
+        "IEC 62116:2014",
+        "EC 62040-1:2017",
+        "IEC 62477-1:2012",
+        "IEC 60529",
+        "EN 61000",
+        "RCM",
+        "CE Mark (LVD, EMC, RoHS directives)",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5139:2019",
+        "AS/NZS 5033:2021"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28368,
+        "companyProductId": null,
+        "maxAcPower": 137.5,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 630,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 240,
+        "width": 520,
+        "depth": 680,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.99,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "Not specified",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 630
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128130,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-S05HV",
+      "productCode": "RED-H3-S05HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0d109de4-7e81-41fa-bd93-94c29f9b6a9c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/239c2393-cfc1-4ab0-9c1a-8d0b39a3e271.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5 years or 10 years (additional conditions apply)",
+      "cecModelNumber": "RED-H3-S05HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62109-1:2010",
+        "IEC 62109-2:2011",
+        "IEC 62116:2014",
+        "IEC 62040-1:2017",
+        "IEC 62477-1:2012",
+        "IEC 60529",
+        "EN 61000",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5139:2019",
+        "AS/NZS 5033:2021",
+        "RCM",
+        "CE Mark (LVD, EMC, RoHS directives)"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28369,
+        "companyProductId": null,
+        "maxAcPower": 4999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 110,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 670,
+        "width": 652,
+        "depth": 226,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 4999
+        },
+        "mppt_voltage_min": {
+          "value": 110
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 128131,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-S06HV",
+      "productCode": "RED-H3-S06HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0d109de4-7e81-41fa-bd93-94c29f9b6a9c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/239c2393-cfc1-4ab0-9c1a-8d0b39a3e271.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5 years or 10 years (additional conditions apply)",
+      "cecModelNumber": "RED-H3-S06HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62109-1:2010",
+        "IEC 62109-2:2011",
+        "IEC 62116:2014",
+        "IEC 62040-1:2017",
+        "IEC 62477-1:2012",
+        "IEC 60529",
+        "EN 61000",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5139:2019",
+        "AS/NZS 5033:2021",
+        "RCM",
+        "CE Mark (LVD, EMC, RoHS directives)"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28370,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 130,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 670,
+        "width": 652,
+        "depth": 226,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 130
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 128132,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-S08HV",
+      "productCode": "RED-H3-S08HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0d109de4-7e81-41fa-bd93-94c29f9b6a9c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/239c2393-cfc1-4ab0-9c1a-8d0b39a3e271.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5 years or 10 years (additional conditions apply)",
+      "cecModelNumber": "RED-H3-S08HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62109-1:2010",
+        "IEC 62109-2:2011",
+        "IEC 62116:2014",
+        "IEC 62040-1:2017",
+        "IEC 62477-1:2012",
+        "IEC 60529",
+        "EN 61000",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5139:2019",
+        "AS/NZS 5033:2021",
+        "RCM",
+        "CE Mark (LVD, EMC, RoHS directives)"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28371,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 670,
+        "width": 652,
+        "depth": 226,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 128133,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-S10HV",
+      "productCode": "RED-H3-S10HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/0d109de4-7e81-41fa-bd93-94c29f9b6a9c.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/05/239c2393-cfc1-4ab0-9c1a-8d0b39a3e271.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5 years or 10 years (additional conditions apply)",
+      "cecModelNumber": "RED-H3-S10HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62109-1:2010",
+        "IEC 62109-2:2011",
+        "IEC 62116:2014",
+        "IEC 62040-1:2017",
+        "IEC 62477-1:2012",
+        "IEC 60529",
+        "EN 61000",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5139:2019",
+        "AS/NZS 5033:2021",
+        "RCM",
+        "CE Mark (LVD, EMC, RoHS directives)"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28372,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 220,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 19.2,
+        "type": "Hybrid Inverter",
+        "height": 670,
+        "width": 652,
+        "depth": 226,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 19.2
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 220
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124909,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-T10HV",
+      "productCode": "RED-H3-T10HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d76d2ecb-2bd0-4674-a30c-ec1b60acbafa.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3621c47e-3063-4050-9385-0cf8ad628c25.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "RED-H3-T10HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62116:2014",
+        "IEC 60529",
+        "RCM",
+        "IEC 62109-1:2010",
+        "IEC 62040-1:2017",
+        "EN 61000",
+        "RCM (LVD, EMC, RoHS directives)",
+        "IEC 62109-2:2011",
+        "IEC 62477-1:2012",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5033:2021",
+        "AS/NZS 5139:2019"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26999,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "Hybrid Inverter",
+        "height": 1950,
+        "width": 661,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 40,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124910,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-T15HV",
+      "productCode": "RED-H3-T15HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/03789f71-0c38-46dd-a0fe-797b4b2f5ef9.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/b04c11e5-1115-4533-a9b5-2de45781c4a9.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "RED-H3-T15HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62116:2014",
+        "IEC 60529",
+        "RCM",
+        "IEC 62109-1:2010",
+        "IEC 62040-1:2017",
+        "EN 61000",
+        "RCM (LVD, EMC, RoHS directives)",
+        "IEC 62109-2:2011",
+        "IEC 62477-1:2012",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5033:2021",
+        "AS/NZS 5139:2019"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27000,
+        "companyProductId": null,
+        "maxAcPower": 16500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "Hybrid Inverter",
+        "height": 1950,
+        "width": 661,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 40,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124911,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-T20HV",
+      "productCode": "RED-H3-T20HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e565327b-c754-44f3-9983-40996bac3c6b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/839d498f-9685-4ccf-82d2-cde754bbbdb5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "RED-H3-T20HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62116:2014",
+        "IEC 60529",
+        "RCM",
+        "IEC 62109-1:2010",
+        "IEC 62040-1:2017",
+        "EN 61000",
+        "RCM (LVD, EMC, RoHS directives)",
+        "IEC 62109-2:2011",
+        "IEC 62477-1:2012",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5033:2021",
+        "AS/NZS 5139:2019"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27001,
+        "companyProductId": null,
+        "maxAcPower": 22000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "Hybrid Inverter",
+        "height": 1950,
+        "width": 661,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 40,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124913,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-T25HV",
+      "productCode": "RED-H3-T25HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/f0013a25-64a2-43da-8679-cc8414027f04.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5739fe9c-c716-493f-8a41-c2d40e1d511a.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "RED-H3-T25HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62116:2014",
+        "IEC 60529",
+        "RCM",
+        "IEC 62109-1:2010",
+        "IEC 62040-1:2017",
+        "EN 61000",
+        "IEC 62109-2:2011",
+        "IEC 62477-1:2012",
+        "CE Mark (LVD, EMC, RoHS directives)"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27003,
+        "companyProductId": null,
+        "maxAcPower": 27500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "Hybrid Inverter",
+        "height": 1950,
+        "width": 661,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 40,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124912,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "RED-H3-T30HV",
+      "productCode": "RED-H3-T30HV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a6a7b21e-321f-4e49-8da3-f6889207ed10.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/fce0bdf2-eca4-41eb-82d0-732770801bbb.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "RED-H3-T30HV (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020",
+        "IEC 62116:2014",
+        "IEC 60529",
+        "RCM",
+        "IEC 62109-1:2010",
+        "IEC 62040-1:2017",
+        "EN 61000",
+        "RCM (LVD, EMC, RoHS directives)",
+        "IEC 62109-2:2011",
+        "IEC 62477-1:2012",
+        "AS/NZS 3000:2018",
+        "AS/NZS 5033:2021",
+        "AS/NZS 5139:2019"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27002,
+        "companyProductId": null,
+        "maxAcPower": 29999,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 180,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 29999,
+        "maxShortCircuitCurrentPerMppt": 50,
+        "type": "Hybrid Inverter",
+        "height": 1950,
+        "width": 661,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 40,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 50
+        },
+        "nominal_ac_power": {
+          "value": 29999
+        },
+        "mppt_voltage_min": {
+          "value": 180
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 23925,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SB14200 (AS4777-2 2020)",
+      "productCode": "SB14200 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f7aa745b-680d-434e-aea9-b3e7f2822811.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SB14200_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13035,
+        "companyProductId": null,
+        "maxAcPower": 4500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 192,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 4500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 1655,
+        "width": 518,
+        "depth": 370,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 192
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 4500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24225,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SB7200 (AS4777-2 2020)",
+      "productCode": "SB7200 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/68e8e4d3-e68b-4c08-8332-4550c8d4cd43.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SB7200_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13335,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 144,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3300,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 1247,
+        "width": 518,
+        "depth": 370,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 144
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 3300
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 20411,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SB9600",
+      "productCode": "SB9600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2664d784-5083-454a-8182-d2810579ea35.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SB9600_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9521,
+        "companyProductId": null,
+        "maxAcPower": 3300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 192,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 4500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 1655,
+        "width": 518,
+        "depth": 370,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 192
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 4500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 24328,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SH4600",
+      "productCode": "SH4600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ad03e9c6-842d-4fc7-a008-2c57b500f43e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_Technologies_SH4600.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13438,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 11,
+        "type": "Hybrid Inverter",
+        "height": 950,
+        "width": 516,
+        "depth": 278,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 11
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22482,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SH5000 (AS4777-2 2020)",
+      "productCode": "SH5000 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1db93b79-d285-4b1d-88d9-40bfa400abaa.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SH5000_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11592,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 1123,
+        "width": 518,
+        "depth": 352,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20382,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SH5000-G3",
+      "productCode": "SH5000-G3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e339fc2c-380e-479c-8086-e6d45d8c481a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SH5000-G3_AS4777-2_2020.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9492,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1172,
+        "width": 549,
+        "depth": 368,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23625,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SH6000-G3 (AS4777-2 2020)",
+      "productCode": "SH6000-G3 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/29531f19-27b9-4c54-9654-ed469111109b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SH6000-G3_AS4777-2_2020.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12735,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1172,
+        "width": 549,
+        "depth": 368,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 120000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24465,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SI10000 (AS4777-2 2020)",
+      "productCode": "SI10000 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bc984d7e-3bfc-4b6d-8d91-f79548350be4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SI10000_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13575,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "PV-only Inverter",
+        "height": 531,
+        "width": 400,
+        "depth": 192,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23719,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SI5000 (AS4777-2 2020)",
+      "productCode": "SI5000 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/064408e8-8636-4197-8aeb-a458288d0c64.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SI5000_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "SI5000 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12829,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "PV-only Inverter",
+        "height": 407,
+        "width": 350,
+        "depth": 147,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23437,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SI6000 (AS4777-2 2020)",
+      "productCode": "SI6000 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6a4cba2f-09d9-4749-8b06-e2787b637ec9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SI6000_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12547,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "PV-only Inverter",
+        "height": 407,
+        "width": 350,
+        "depth": 147,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23054,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SI8000 (AS4777-2 2020)",
+      "productCode": "SI8000 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6e2960bf-66a5-4958-ad31-04e1d9e82c36.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SI8000_AS4777-2_2020.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12164,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "PV-only Inverter",
+        "height": 531,
+        "width": 400,
+        "depth": 192,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21131,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "SI80000",
+      "productCode": "SI80000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/721fb851-4f4a-4a13-b999-60e28d02dccf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_SI80000_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10241,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 540,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 35,
+        "type": "PV-only Inverter",
+        "height": 531,
+        "width": 400,
+        "depth": 192,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 35
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21648,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 310,
+      "brandName": "Redback",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ffe238b1-5d45-4477-8ae2-c4d20d41e4ff.png",
+      "productName": "ST10000 (AS4777-2 2020)",
+      "productCode": "ST10000 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ee757a56-8d3c-4df6-958c-e76dfbb5790e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Redback_ST10000_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10758,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 17.5,
+        "type": "Hybrid Inverter",
+        "height": 1960,
+        "width": 1175,
+        "depth": 360,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 17.5
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

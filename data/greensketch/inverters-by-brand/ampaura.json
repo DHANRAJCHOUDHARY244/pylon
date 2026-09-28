@@ -1,0 +1,561 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "AMPAURA",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:39:42.187Z",
+  "items": [
+    {
+      "id": 126374,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3116,
+      "brandName": "AMPAURA",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/10b15d64-f7bb-4129-a78d-fac28244a628.webp",
+      "productName": "Roca2-5KL-C-10",
+      "productCode": "Roca2-5KL-C-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4838c389-e118-4e79-9071-20957a3fcef4.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/55eb0152-a295-4c91-81aa-223adeb0de78.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Roca2-5KL-C-10 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109",
+        "EN 61000",
+        "IEC 62040",
+        "IEC 62477",
+        "EN 50549",
+        "AS/NZS 4777.2",
+        "CEC",
+        "RoHS",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 60730-1",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27620,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 700,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126375,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3116,
+      "brandName": "AMPAURA",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/10b15d64-f7bb-4129-a78d-fac28244a628.webp",
+      "productName": "Roca2-5KL-C-15",
+      "productCode": "Roca2-5KL-C-15",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c5dcca3f-8619-46da-a8aa-fec252c4d19f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/6fc0a5a0-b7c4-43a0-9cf7-dfef8b033765.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Roca2-5KL-C-15 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109",
+        "EN 61000",
+        "IEC 62040",
+        "IEC 62477",
+        "EN 50549",
+        "AS/NZS 4777.2",
+        "CEC",
+        "RoHS",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 60730-1",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27621,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 1280,
+        "width": 700,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126376,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3116,
+      "brandName": "AMPAURA",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/10b15d64-f7bb-4129-a78d-fac28244a628.webp",
+      "productName": "Roca2-5KL-C-20",
+      "productCode": "Roca2-5KL-C-20",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/339eac79-b46b-42cf-b52a-dd6bd00b0a00.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/7e74bd59-bde8-4c3d-9ad7-afeb57d3565a.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Roca2-5KL-C-20 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109",
+        "EN 61000",
+        "IEC 62040",
+        "IEC 62477",
+        "EN 50549",
+        "AS/NZS 4777.2",
+        "CEC",
+        "RoHS",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 60730-1",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27622,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 1680,
+        "width": 700,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126371,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3116,
+      "brandName": "AMPAURA",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/10b15d64-f7bb-4129-a78d-fac28244a628.webp",
+      "productName": "Roca2-5KL-E-10",
+      "productCode": "Roca2-5KL-E-10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b9bd75d9-952d-47f3-ac9f-797af03f331a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/214afb13-e2f8-4d1e-a956-0603a4a73f74.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Roca2-5KL-E-10 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109",
+        "EN 61000",
+        "IEC 62040",
+        "IEC 62477",
+        "EN 50549",
+        "AS/NZS 4777.2",
+        "CEC",
+        "RoHS",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 60730-1",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27617,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 700,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 22.5,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126372,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3116,
+      "brandName": "AMPAURA",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/10b15d64-f7bb-4129-a78d-fac28244a628.webp",
+      "productName": "Roca2-5KL-E-15",
+      "productCode": "Roca2-5KL-E-15",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b7b18898-3021-4d1d-8a2b-caf8b351de84.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5199cdcb-9488-48d5-bf90-e75967a69ede.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Roca2-5KL-E-15 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109",
+        "EN 61000",
+        "IEC 62040",
+        "IEC 62477",
+        "EN 50549",
+        "AS/NZS 4777.2",
+        "CEC",
+        "RoHS",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 60730-1",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27618,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1280,
+        "width": 700,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 22.5,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126373,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3116,
+      "brandName": "AMPAURA",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/10b15d64-f7bb-4129-a78d-fac28244a628.webp",
+      "productName": "Roca2-5KL-E-20",
+      "productCode": "Roca2-5KL-E-20",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/86993abb-b9a7-40f8-a04e-a5ff80c9e16b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/99af9890-eb1d-49ec-a30e-91a1ff95d687.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Roca2-5KL-E-20 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109",
+        "EN 61000",
+        "IEC 62040",
+        "IEC 62477",
+        "EN 50549",
+        "AS/NZS 4777.2",
+        "CEC",
+        "RoHS",
+        "IEC 62619",
+        "IEC 63056",
+        "IEC 60730-1",
+        "UN38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27619,
+        "companyProductId": null,
+        "maxAcPower": 7000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 500,
+        "minDcVoltageToStartFeedIn": 70,
+        "mpptVoltageMin": 70,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 23,
+        "type": "Hybrid Inverter",
+        "height": 1680,
+        "width": 700,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 22.5,
+        "dcSwitch": 1,
+        "builtInBattery": 1,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 500
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 70
+        },
+        "current_isc_max": {
+          "value": 23
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 70
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

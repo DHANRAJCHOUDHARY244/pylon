@@ -1,0 +1,167 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "JingTsing",
+  "count": 2,
+  "exportedAt": "2026-09-23T06:39:52.630Z",
+  "items": [
+    {
+      "id": 131644,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1583,
+      "brandName": "JingTsing",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3412beed-76be-4de2-8306-720ada229989.png",
+      "productName": "JTES-PCS100K-1000/400-L05C1",
+      "productCode": "JTES-PCS100K-1000/400-L05C1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5ce0066c-d197-4408-838c-dc95afaf9098.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/09/14/d251c1bd-1b3c-44fa-83e1-003f2fd53e3c.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 29030,
+        "companyProductId": null,
+        "maxAcPower": 110000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 680,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 100,
+        "maxShortCircuitCurrentPerMppt": 5220,
+        "type": "Battery-only",
+        "height": 240,
+        "width": 680,
+        "depth": 850,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 162,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 5220
+        },
+        "nominal_ac_power": {
+          "value": 100
+        },
+        "mppt_voltage_min": {
+          "value": 680
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 131643,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1583,
+      "brandName": "JingTsing",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3412beed-76be-4de2-8306-720ada229989.png",
+      "productName": "JTES-PCS125K-1000/400-L05C1",
+      "productCode": "JTES-PCS125K-1000/400-L05C1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5ce0066c-d197-4408-838c-dc95afaf9098.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/09/14/d251c1bd-1b3c-44fa-83e1-003f2fd53e3c.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "JTES-PCS125K-1000/400-L05C1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 29029,
+        "companyProductId": null,
+        "maxAcPower": 137500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 680,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 125,
+        "maxShortCircuitCurrentPerMppt": 5220,
+        "type": "Battery-only",
+        "height": 240,
+        "width": 680,
+        "depth": 850,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 202,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 5220
+        },
+        "nominal_ac_power": {
+          "value": 125
+        },
+        "mppt_voltage_min": {
+          "value": 680
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "energysynt",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.129Z",
+  "items": [
+    {
+      "id": 127521,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "RHI-3P10K-HVES-5G",
+      "productCode": "RHI-3P10K-HVES-5G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44a18d40-1d04-43d2-a09c-f58b117bd035.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/65b41e75-9b9f-439c-9ff0-5b423a7fd248.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "G98 ο G99",
+        "VDE-AR-N 4105/VDE V 0124",
+        "EN 50549-1",
+        "VDE 0126/UTE C 15/VFR:2019",
+        "RD 1699/ RD 244/UNE 206006 / UNE 206007-1",
+        "CEI 0-21",
+        "C10/11",
+        "NRS 097-2-1",
+        "EIFS 2018.2",
+        "IEC 62116",
+        "IEC 61727",
+        "IEC 60068",
+        "IEC 61683",
+        "EN 50530",
+        "ΜΕΑ",
+        "ΡΕΑ",
+        "IEC 62109-1/-2",
+        "EN 61000-6-2/-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28140,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 32.5,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 535,
+        "depth": 181,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.977,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 32.5
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127519,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "RHI-3P6K-HVES-5G",
+      "productCode": "RHI-3P6K-HVES-5G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44a18d40-1d04-43d2-a09c-f58b117bd035.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/65b41e75-9b9f-439c-9ff0-5b423a7fd248.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "G98 ο G99",
+        "VDE-AR-N 4105/VDE V 0124",
+        "EN 50549-1",
+        "VDE 0126/UTE C 15/VFR:2019",
+        "RD 1699/ RD 244/UNE 206006 / UNE 206007-1",
+        "CEI 0-21",
+        "C10/11",
+        "NRS 097-2-1",
+        "EIFS 2018.2",
+        "IEC 62116",
+        "IEC 61727",
+        "IEC 60068",
+        "IEC 61683",
+        "EN 50530",
+        "ΜΕΑ",
+        "ΡΕΑ",
+        "IEC 62109-1/-2",
+        "EN 61000-6-2/-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28138,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 535,
+        "depth": 181,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.977,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127520,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "RHI-3P8K-HVES-5G",
+      "productCode": "RHI-3P8K-HVES-5G",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/44a18d40-1d04-43d2-a09c-f58b117bd035.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/65b41e75-9b9f-439c-9ff0-5b423a7fd248.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "G98 ο G99",
+        "VDE-AR-N 4105/VDE V 0124",
+        "EN 50549-1",
+        "VDE 0126/UTE C 15/VFR:2019",
+        "RD 1699/ RD 244/UNE 206006 / UNE 206007-1",
+        "CEI 0-21",
+        "C10/11",
+        "NRS 097-2-1",
+        "EIFS 2018.2",
+        "IEC 62116",
+        "IEC 61727",
+        "IEC 60068",
+        "IEC 61683",
+        "EN 50530",
+        "ΜΕΑ",
+        "ΡΕΑ",
+        "IEC 62109-1/-2",
+        "EN 61000-6-2/-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28139,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 32.5,
+        "type": "Hybrid Inverter",
+        "height": 455,
+        "width": 535,
+        "depth": 181,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.977,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 32.5
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127515,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "S5-EH1P3.6K-L",
+      "productCode": "S5-EH1P3.6K-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/93808b40-735a-48f6-a0ba-5015944dbbd3.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/8fb56e61-4c67-4656-813e-fd9478668292.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5-year warranty extendable to 10 years with “Energy Care”.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CEI 0-21",
+        "EN50438",
+        "G83/2",
+        "G98",
+        "G99",
+        "G59/3",
+        "AS4777.2:2015",
+        "VDE0126-1-1",
+        "IEC61727",
+        "VDE N4105",
+        "IEC62040-1",
+        "IEC62109-1/-2",
+        "AS3100",
+        "NB/T 32004",
+        "EN61000-6-1",
+        "EN61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28134,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 333,
+        "depth": 249,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127514,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "S5-EH1P3K-L",
+      "productCode": "S5-EH1P3K-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/93808b40-735a-48f6-a0ba-5015944dbbd3.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/8fb56e61-4c67-4656-813e-fd9478668292.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5-year warranty extendable to 10 years with “Energy Care”.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CEI 0-21",
+        "EN50438",
+        "G83/2",
+        "G98",
+        "G99",
+        "G59/3",
+        "AS4777.2:2015",
+        "VDE0126-1-1",
+        "IEC61727",
+        "VDE N4105",
+        "IEC62040-1",
+        "IEC62109-1/-2",
+        "AS3100",
+        "NB/T 32004",
+        "EN61000-6-1",
+        "EN61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28133,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 333,
+        "depth": 249,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127516,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "S5-EH1P4.6K-L",
+      "productCode": "S5-EH1P4.6K-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/93808b40-735a-48f6-a0ba-5015944dbbd3.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/8fb56e61-4c67-4656-813e-fd9478668292.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5-year warranty extendable to 10 years with “Energy Care”.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CEI 0-21",
+        "EN50438",
+        "G83/2",
+        "G98",
+        "G99",
+        "G59/3",
+        "AS4777.2:2015",
+        "VDE0126-1-1",
+        "IEC61727",
+        "VDE N4105",
+        "IEC62040-1",
+        "IEC62109-1/-2",
+        "AS3100",
+        "NB/T 32004",
+        "EN61000-6-1",
+        "EN61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28135,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 333,
+        "depth": 249,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127517,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "S5-EH1P5K-L",
+      "productCode": "S5-EH1P5K-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/93808b40-735a-48f6-a0ba-5015944dbbd3.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/8fb56e61-4c67-4656-813e-fd9478668292.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5-year warranty extendable to 10 years with “Energy Care”.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CEI 0-21",
+        "EN50438",
+        "G83/2",
+        "G98",
+        "G99",
+        "G59/3",
+        "AS4777.2:2015",
+        "VDE0126-1-1",
+        "IEC61727",
+        "VDE N4105",
+        "IEC62040-1",
+        "IEC62109-1/-2",
+        "AS3100",
+        "NB/T 32004",
+        "EN61000-6-1",
+        "EN61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28136,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 333,
+        "depth": 249,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127518,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3196,
+      "brandName": "energysynt",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/125a8370-91f5-4713-ac29-9f269b65f458.png",
+      "productName": "S5-EH1P6K-L",
+      "productCode": "S5-EH1P6K-L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/93808b40-735a-48f6-a0ba-5015944dbbd3.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/29/8fb56e61-4c67-4656-813e-fd9478668292.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "5-year warranty extendable to 10 years with “Energy Care”.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CEI 0-21",
+        "EN50438",
+        "G83/2",
+        "G98",
+        "G99",
+        "G59/3",
+        "AS4777.2:2015",
+        "VDE0126-1-1",
+        "IEC61727",
+        "VDE N4105",
+        "IEC62040-1",
+        "IEC62109-1/-2",
+        "AS3100",
+        "NB/T 32004",
+        "EN61000-6-1",
+        "EN61000-6-3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28137,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 22.5,
+        "type": "Hybrid Inverter",
+        "height": 505,
+        "width": 333,
+        "depth": 249,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.968,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 22.5
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

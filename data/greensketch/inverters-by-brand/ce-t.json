@@ -1,0 +1,925 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "CE+T",
+  "count": 10,
+  "exportedAt": "2026-09-23T06:39:42.087Z",
+  "items": [
+    {
+      "id": 128258,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 18 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 18 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 18 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28397,
+        "companyProductId": null,
+        "maxAcPower": 18,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 14.4,
+        "maxShortCircuitCurrentPerMppt": 326,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 326,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "14.4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 326
+        },
+        "nominal_ac_power": {
+          "value": 14.4
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128259,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 27 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 27 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 27 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28398,
+        "companyProductId": null,
+        "maxAcPower": 27,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 21.6,
+        "maxShortCircuitCurrentPerMppt": 490,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 490,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "21.6",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 490
+        },
+        "nominal_ac_power": {
+          "value": 21.6
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128260,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 36 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 36 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 36 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28399,
+        "companyProductId": null,
+        "maxAcPower": 36,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 28.8,
+        "maxShortCircuitCurrentPerMppt": 653,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 653,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "28.8",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 653
+        },
+        "nominal_ac_power": {
+          "value": 28.8
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128261,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 45 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 45 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 45 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28400,
+        "companyProductId": null,
+        "maxAcPower": 45,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 36,
+        "maxShortCircuitCurrentPerMppt": 816,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 816,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "36.0",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 816
+        },
+        "nominal_ac_power": {
+          "value": 36
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128262,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 54 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 54 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 54 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28401,
+        "companyProductId": null,
+        "maxAcPower": 54,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 43.2,
+        "maxShortCircuitCurrentPerMppt": 979,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 979,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "43.2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 979
+        },
+        "nominal_ac_power": {
+          "value": 43.2
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128263,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 63 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 63 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 63 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28402,
+        "companyProductId": null,
+        "maxAcPower": 63,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 50.4,
+        "maxShortCircuitCurrentPerMppt": 1142,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 1142,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "50.4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 1142
+        },
+        "nominal_ac_power": {
+          "value": 50.4
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128264,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 72 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 72 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 72 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28403,
+        "companyProductId": null,
+        "maxAcPower": 72,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 57.6,
+        "maxShortCircuitCurrentPerMppt": 1306,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 1306,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "57.6",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 1306
+        },
+        "nominal_ac_power": {
+          "value": 57.6
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128265,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 81 kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 81 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fce8e149-39bb-4498-81c0-8161caaf7b39.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/fa782115-5f2d-4324-94c9-dedb423e6693.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 81 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1",
+        "EN 61000-4-2",
+        "EN 61000-4-3",
+        "EN 61000-4-4",
+        "EN 61000-4-5",
+        "EN 61000-4-6",
+        "EN 61000-4-8",
+        "EN 55022",
+        "RoHS 6",
+        "REACH"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28404,
+        "companyProductId": null,
+        "maxAcPower": 81,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 64.8,
+        "maxShortCircuitCurrentPerMppt": 1469,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.937,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 1469,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "64.8",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 1469
+        },
+        "nominal_ac_power": {
+          "value": 64.8
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 128266,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Hybrid Sierra System - 48 Vdc 90kVA",
+      "productCode": "Hybrid Sierra System 48 VDC / 90 kVA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d2ea6ea5-2fed-478e-8931-c786a42f7d4a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/08/c905700c-f45d-493d-a22d-48a45aaa9e6c.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "Hybrid Sierra System 48 VDC / 90 kVA (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS4777.2:2020",
+        "IEC62109-1",
+        "IEC62109-2",
+        "IEC62477-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28405,
+        "companyProductId": null,
+        "maxAcPower": 90,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 72,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 1800,
+        "width": 600,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 1469,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "64800",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 72
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127609,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3122,
+      "brandName": "CE+T",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/a8d15ae2-b0f9-41fc-8eea-0dbbb3f0dfb3.webp",
+      "productName": "Sierra 25 - 48/230-277",
+      "productCode": "SIERRA 25-380 CONVERTER SHELF - ECI",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/f1a47f74-de96-41bd-8d95-0b87ff253958.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/71848881-3959-4536-9720-72c93657e703.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "SIERRA 25-380 CONVERTER SHELF - ECI",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN60950-EN62040-1-UL1778-IEC62109/1-IEC62109/2",
+        "EN300386V1.6.1 / EN61000-1-2-3-4",
+        "GR3108 class 2 for outdoor",
+        "RoHS Compliant",
+        "ETS300-019-2-3 Class 3.1",
+        "ETS300-019-2-1 Class 1.2",
+        "ETS300-019-2-2 Class 3.1",
+        "GR63 office vibration"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28179,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 63,
+        "minDcVoltageToStartFeedIn": 32,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 63,
+        "nominalAcPower": 2400,
+        "maxShortCircuitCurrentPerMppt": 66.8,
+        "type": "Battery-only",
+        "height": 103,
+        "width": 435,
+        "depth": 515,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 66.8,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 63
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 32
+        },
+        "current_isc_max": {
+          "value": 66.8
+        },
+        "nominal_ac_power": {
+          "value": 2400
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

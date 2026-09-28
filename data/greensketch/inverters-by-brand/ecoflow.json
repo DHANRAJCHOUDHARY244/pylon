@@ -1,0 +1,1863 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "EcoFlow",
+  "count": 20,
+  "exportedAt": "2026-09-23T06:39:31.854Z",
+  "items": [
+    {
+      "id": 130084,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Plus Single-Phase Hybird Inverter (10kW)",
+      "productCode": "EF HD-P1-9K9-S2A",
+      "displayName": null,
+      "productDescription": "EcoFlow OCEAN 2 Plus Single-Phase integrates a hybrid inverter, LFP battery, and intelligent energy management into an all-in-one solution. With 3 MPPTs, seamless whole-home backup, and simplified installation, it is designed for flexible residential",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/34fd211a-ddbe-4adc-ac49-9174c70c7d89.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/10/827c934b-6db0-405c-8755-b4d8bc3a34f6.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EF HD-P1-9K9-S2A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO4892-4",
+        "EN 50549",
+        "G99",
+        "UNE",
+        "NTS",
+        "AS/NZS4777.2",
+        "EN 301 489-1",
+        "EN 301 489-3",
+        "EN 301 489-17",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 300 440",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN 61000-3-11",
+        "EN 61000-3-12",
+        "EN IEC 62311",
+        "EN 50665",
+        "EN62920",
+        "EN 55011"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28630,
+        "companyProductId": null,
+        "maxAcPower": 9999,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 810,
+        "nominalAcPower": 9999,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 203,
+        "width": 680,
+        "depth": 407,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 9999
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 130085,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Plus Single-Phase Hybird Inverter (12kW)",
+      "productCode": "EF HD-P1-12K0-S2A",
+      "displayName": null,
+      "productDescription": "EcoFlow OCEAN 2 Plus Single-Phase integrates a hybrid inverter, LFP battery, and intelligent energy management into an all-in-one solution. With 3 MPPTs, seamless whole-home backup, and simplified installation, it is designed for flexible residential",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/34fd211a-ddbe-4adc-ac49-9174c70c7d89.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/10/827c934b-6db0-405c-8755-b4d8bc3a34f6.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EF HD-P1-12K0-S2A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO4892-4",
+        "EN 50549",
+        "G99",
+        "UNE",
+        "NTS",
+        "AS/NZS4777.2",
+        "EN 301 489-1",
+        "EN 301 489-3",
+        "EN 301 489-17",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 300 440",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN 61000-3-11",
+        "EN 61000-3-12",
+        "EN IEC 62311",
+        "EN 50665",
+        "EN62920",
+        "EN 55011"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28631,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 810,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 203,
+        "width": 680,
+        "depth": 407,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 130083,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Plus Single-Phase Hybird Inverter (8kW)",
+      "productCode": "EF HD-P1-8K0-S2A",
+      "displayName": null,
+      "productDescription": "EcoFlow OCEAN 2 Plus Single-Phase integrates a hybrid inverter, LFP battery, and intelligent energy management into an all-in-one solution. With 3 MPPTs, seamless whole-home backup, and simplified installation, it is designed for flexible residential",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/34fd211a-ddbe-4adc-ac49-9174c70c7d89.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/10/827c934b-6db0-405c-8755-b4d8bc3a34f6.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "EF HD-P1-8K0-S2A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO4892-4",
+        "EN 50549",
+        "G99",
+        "UNE",
+        "NTS",
+        "AS/NZS4777.2",
+        "EN 301 489-1",
+        "EN 301 489-3",
+        "EN 301 489-17",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 300 440",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN 61000-3-11",
+        "EN 61000-3-12",
+        "EN IEC 62311",
+        "EN 50665",
+        "EN62920",
+        "EN 55011"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28629,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 810,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 203,
+        "width": 680,
+        "depth": 407,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 131640,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Three-Phase Hybird Inverter (10kW)",
+      "productCode": "EF HD-P3-10K0-S2F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/58a99412-4f4f-4de5-b45f-c84e64676feb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/09/14/c60a4363-f934-4028-ae0b-31ecefca1cc8.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "EF HD-P3-10K0-S2F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO 4892-4",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 301 489-1",
+        "EN 301 489-17 V3.3.1",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN IEC 61000-3-11",
+        "EN 61000-3-12",
+        "EN 55011",
+        "EN 62920",
+        "EN IEC 62311",
+        "EN 50665",
+        "VDE-AR-N 4105",
+        "EN 50549-1",
+        "EN50549-10",
+        "AS/NZS 4777.2",
+        "OVE-Richtlinie R",
+        "TOR Erzeuger (for Type A)",
+        "PTPIREE (Type A)",
+        "PPDS",
+        "CEI 0-21G98",
+        "G99",
+        "G100",
+        "G98 NI",
+        "G99 NI",
+        "TR3.3.1 UNE 217001",
+        "UNE 217002",
+        "IEC 62116",
+        "NTS(Type A)",
+        "C10/C11",
+        "SI 4777.2",
+        "Portaria n.° 73/2020"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 29026,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 407,
+        "width": 680,
+        "depth": 203,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 131642,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Three-Phase Hybird Inverter (12kW)",
+      "productCode": "EF HD-P3-12K0-S2F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/58a99412-4f4f-4de5-b45f-c84e64676feb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/09/14/c60a4363-f934-4028-ae0b-31ecefca1cc8.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "EF HD-P3-12K0-S2F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO 4892-4",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 301 489-1",
+        "EN 301 489-17 V3.3.1",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN IEC 61000-3-11",
+        "EN 61000-3-12",
+        "EN 55011",
+        "EN 62920",
+        "EN IEC 62311",
+        "EN 50665",
+        "VDE-AR-N 4105",
+        "EN 50549-1",
+        "EN50549-10",
+        "AS/NZS 4777.2",
+        "OVE-Richtlinie R",
+        "TOR Erzeuger (for Type A)",
+        "PTPIREE (Type A)",
+        "PPDS",
+        "CEI 0-21G98",
+        "G99",
+        "G100",
+        "G98 NI",
+        "G99 NI",
+        "TR3.3.1 UNE 217001",
+        "UNE 217002",
+        "IEC 62116",
+        "NTS(Type A)",
+        "C10/C11",
+        "SI 4777.2",
+        "Portaria n.° 73/2020"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 29028,
+        "companyProductId": null,
+        "maxAcPower": 13200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 407,
+        "width": 680,
+        "depth": 203,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 131636,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Three-Phase Hybird Inverter (6kW)",
+      "productCode": "EF HD-P3-6K0-S2F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/58a99412-4f4f-4de5-b45f-c84e64676feb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/09/14/c60a4363-f934-4028-ae0b-31ecefca1cc8.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "EF HD-P3-6K0-S2F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO 4892-4",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 301 489-1",
+        "EN 301 489-17 V3.3.1",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN IEC 61000-3-11",
+        "EN 61000-3-12",
+        "EN 55011",
+        "EN 62920",
+        "EN IEC 62311",
+        "EN 50665",
+        "VDE-AR-N 4105",
+        "EN 50549-1",
+        "EN50549-10",
+        "AS/NZS 4777.2",
+        "OVE-Richtlinie R",
+        "TOR Erzeuger (for Type A)",
+        "PTPIREE (Type A)",
+        "PPDS",
+        "CEI 0-21G98",
+        "G99",
+        "G100",
+        "G98 NI",
+        "G99 NI",
+        "TR3.3.1 UNE 217001",
+        "UNE 217002",
+        "IEC 62116",
+        "NTS(Type A)",
+        "C10/C11",
+        "SI 4777.2",
+        "Portaria n.° 73/2020"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 29022,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 407,
+        "width": 680,
+        "depth": 203,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 131638,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow OCEAN 2 Three-Phase Hybird Inverter (8kW)",
+      "productCode": "EF HD-P3-8K0-S2F",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/58a99412-4f4f-4de5-b45f-c84e64676feb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/09/14/c60a4363-f934-4028-ae0b-31ecefca1cc8.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "EF HD-P3-8K0-S2F (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "AS 60947.3",
+        "ISO 4892-4",
+        "EN 300 328",
+        "EN 301 893",
+        "EN 301 489-1",
+        "EN 301 489-17 V3.3.1",
+        "EN IEC 61000-6-1",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 61000-6-4",
+        "EN IEC 61000-3-11",
+        "EN 61000-3-12",
+        "EN 55011",
+        "EN 62920",
+        "EN IEC 62311",
+        "EN 50665",
+        "VDE-AR-N 4105",
+        "EN 50549-1",
+        "EN50549-10",
+        "AS/NZS 4777.2",
+        "OVE-Richtlinie R",
+        "TOR Erzeuger (for Type A)",
+        "PTPIREE (Type A)",
+        "PPDS",
+        "CEI 0-21G98",
+        "G99",
+        "G100",
+        "G98 NI",
+        "G99 NI",
+        "TR3.3.1 UNE 217001",
+        "UNE 217002",
+        "IEC 62116",
+        "NTS(Type A)",
+        "C10/C11",
+        "SI 4777.2",
+        "Portaria n.° 73/2020"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 29024,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 500,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 407,
+        "width": 680,
+        "depth": 203,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 500
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 123457,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean (Three-Phase)",
+      "productCode": "EF HD-P3-12K-S1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/10/da435bc1-0b3b-4f05-a686-96d161ca497d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/10/f164f9ce-0b9d-4459-ac78-527acedb0a74.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26672,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 111,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 380,
+        "width": 588,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 111
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123599,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Plus (Three-Phase)",
+      "productCode": "EF HD-P3-29K9-S1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/58eabcbe-0057-4c8d-b91e-a1894486f4d9.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/830da080-ffde-4b06-8cf8-2efb01679ae0.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "15",
+      "cecModelNumber": "EF HD-P3-29K9-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26693,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 2,
+        "type": "Hybrid Inverter",
+        "height": 498,
+        "width": 636,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 2
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 123606,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Plus Three-Phase (15kW)",
+      "productCode": "EF HD-P3-15K0-S1",
+      "displayName": null,
+      "productDescription": "EcoFlow PowerOcean Plus is a scalable three-phase energy storage solution with a high-power hybrid inverter, supporting up to 4 PV strings, 40kW solar input, and 29.9kW AC output for complex PV applications.",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/d76fcc5b-8881-43da-8c51-3383ead4f174.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/613d381b-a51e-4526-8793-eee169052bc9.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "15",
+      "cecModelNumber": "EF HD-P3-15K0-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26700,
+        "companyProductId": null,
+        "maxAcPower": 18000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 498,
+        "width": 636,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123607,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Plus Three-Phase (20kW)",
+      "productCode": "EF HD-P3-20K0-S1",
+      "displayName": null,
+      "productDescription": "EcoFlow PowerOcean Plus is a scalable three-phase energy storage solution with a high-power hybrid inverter, supporting up to 4 PV strings, 40kW solar input, and 29.9kW AC output for complex PV applications.",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/b33b9c29-55b6-44f5-bf41-f64ef01f3375.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/fa474e99-8c4b-4444-8e59-e2603bd2e382.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "15",
+      "cecModelNumber": "EF HD-P3-20K0-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26701,
+        "companyProductId": null,
+        "maxAcPower": 24000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 498,
+        "width": 636,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123605,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Plus Three-Phase (25kW)",
+      "productCode": "EF HD-P3-25K0-S1",
+      "displayName": null,
+      "productDescription": "EcoFlow PowerOcean Plus is a scalable three-phase energy storage solution with a high-power hybrid inverter, supporting up to 4 PV strings, 40kW solar input, and 29.9kW AC output for complex PV applications.",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/e17dfb9f-51d5-4fe7-83e2-781d75ff08bb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/03060990-a217-4e2a-92e1-20a7e4ae9e5a.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P3-25K0-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26699,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 498,
+        "width": 636,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123604,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Plus Three-Phase (30kW)",
+      "productCode": "EF HD-P3-29K9-S1",
+      "displayName": null,
+      "productDescription": "EcoFlow PowerOcean Plus is a scalable three-phase energy storage solution with a high-power hybrid inverter, supporting up to 4 PV strings, 40kW solar input, and 29.9kW AC output for complex PV applications.",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/f39a09fd-f6de-421c-90f4-68ef3521e7ef.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/b91625b4-b62c-4503-ba00-f989d6495fd3.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "15",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26698,
+        "companyProductId": null,
+        "maxAcPower": 35880,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 38,
+        "type": "Hybrid Inverter",
+        "height": 498,
+        "width": 636,
+        "depth": 235,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 38
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 126064,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Single-Phase Hybird Inverter (3kW)",
+      "productCode": "EF HD-P1-3K-S1-A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b8a1a896-924c-453d-8440-bc31c94c72f4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/15/b5667c18-8caf-43f8-8157-00c584cf77e4.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P1-3K-S1-A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB/CE MARK",
+        "EN62619",
+        "EN62040-1",
+        "EN62477-1",
+        "ISO13849",
+        "VDE-AR-E 2510-50",
+        "UN38.3",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "EN 61000-6-4",
+        "DEKRA MARK",
+        "IEC/EN62109-1",
+        "IEC/EN62109-2",
+        "G98",
+        "G99",
+        "G100",
+        "VDE-AR-N 4105",
+        "CEI 0-21",
+        "UTE C15-712-1",
+        "VDE 0126-1-1",
+        "EN 50549-1",
+        "C10/11",
+        "NTS631",
+        "UNE 217001",
+        "UNE 217002",
+        "PPDS",
+        "PTPIREE",
+        "PSE",
+        "NC RfG",
+        "ORDINANCE No.140",
+        "NRS 097-2-1",
+        "EN/IEC 61000-6-1/2/3/4",
+        "IEC 61000-4-16/18/29",
+        "IEC 61000-2-2",
+        "EN 300328",
+        "EN 301489-1",
+        "EN 301489-17",
+        "EN IEC 62311"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27436,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 280,
+        "width": 680,
+        "depth": 183,
+        "weight": 21.5,
+        "display": null,
+        "maxDcPower": 9000,
+        "dcInputs": null,
+        "maxEfficiency": 0.96,
+        "euroEfficiency": 0.95,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123609,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Single-Phase Hybird Inverter (5kW)",
+      "productCode": "EF HD-P1-5K-S1-A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ed7794c8-b27c-4e1e-9d84-803f9c27bcfd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/29/36c7917b-d9f0-4778-93c5-361635ff7620.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P1-5K-S1-A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26703,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 680,
+        "width": 280,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.96,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123608,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Single-Phase Hybird Inverter (6kW)",
+      "productCode": "EF HD-P1-6K-S1-A",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/96251afe-cc62-4399-adc1-6dfe47579331.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/29/1683252e-4517-4a97-ba66-2dfc3adb68ca.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P1-6K-S1-A (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26702,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 90,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 680,
+        "width": 280,
+        "depth": 183,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.96,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 90
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123602,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Three-Phase Hybrid Inverter (10kW)",
+      "productCode": "EF HD-P3-10K-S1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/5b98696b-0ea9-481e-9f3f-6d1c6467f68b.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/34171526-f315-4153-be8e-266843676ad7.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P3-10K-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26696,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 380,
+        "width": 588,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": "Yes",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123600,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Three-Phase Hybrid Inverter (12kW)",
+      "productCode": "EF HD-P3-12K-S1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/8aeb1953-2a26-472e-8961-717db09242aa.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/c5107ae5-d23c-4393-be99-541bb9c4e7d5.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P3-12K-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26694,
+        "companyProductId": null,
+        "maxAcPower": 14400,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 380,
+        "width": 588,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123601,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Three-Phase Hybrid Inverter (6kW)",
+      "productCode": "EF HD-P3-6K0-S1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/12e8d878-d45a-41d4-b566-3734a22a0f4a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/d84fec9f-8ded-43a0-86c9-5151a9a4185b.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P3-6K0-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26695,
+        "companyProductId": null,
+        "maxAcPower": 7200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 380,
+        "width": 588,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 123603,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1478,
+      "brandName": "EcoFlow",
+      "brandLogo": "https://file.greensketch.ai/master-data/partner/prod/supplier/brand/2026/05/12/f781c5a5-23c9-44c2-b12b-e2e1ffbab33b.png",
+      "productName": "EcoFlow PowerOcean Three-Phase Hybrid Inverter (8kW)",
+      "productCode": "EF HD-P3-8K0-S1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/12/11/1b4e3cf2-2ced-4f35-a831-150f49bb109f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/12/11/7f3d0d92-e51b-4097-9622-bba82387e08b.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": null,
+      "cecModelNumber": "EF HD-P3-8K0-S1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26697,
+        "companyProductId": null,
+        "maxAcPower": 9600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 380,
+        "width": 588,
+        "depth": 175,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

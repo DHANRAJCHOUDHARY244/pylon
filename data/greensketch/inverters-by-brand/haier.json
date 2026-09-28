@@ -1,0 +1,325 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Haier",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:39:42.220Z",
+  "items": [
+    {
+      "id": 21520,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1374,
+      "brandName": "Haier",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/155801a0-04f0-425d-bd66-f23e34e7927d.png",
+      "productName": "HH3P-10KA1/HU",
+      "productCode": "HH3P-10KA1/HU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ba3820c1-4d38-48f4-8c1b-adb30c2539cd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Haier_HH3P-10KA1_HU_AS4777-2_2020.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "HH3P-10KA1/HU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10630,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 600,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.979,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22392,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1374,
+      "brandName": "Haier",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/155801a0-04f0-425d-bd66-f23e34e7927d.png",
+      "productName": "HH3P-5KA1/HU (AS4777-2 2020)",
+      "productCode": "HH3P-5KA1/HU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8d53c097-b950-42a4-b60b-5a10d2efe704.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Haier_HH3P-5KA1_HU_AS4777-2_2020.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "HH3P-5KA1/HU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11502,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 500,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 8000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20560,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1374,
+      "brandName": "Haier",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/155801a0-04f0-425d-bd66-f23e34e7927d.png",
+      "productName": "HH3P-6KA1/HU",
+      "productCode": "HH3P-6KA1/HU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6e0dadbb-ff41-40ac-a1d1-1b2aa5325f5c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Haier_HH3P-6KA1_HU_AS4777-2_2020.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "HH3P-6KA1/HU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9670,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 600,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 9600,
+        "dcInputs": 3,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 21041,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1374,
+      "brandName": "Haier",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/155801a0-04f0-425d-bd66-f23e34e7927d.png",
+      "productName": "HH3P-8KA1/HU",
+      "productCode": "HH3P-8KA1/HU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2054a64b-4ed1-4ca0-a31c-9f84428262e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Haier_HH3P-8KA1_HU_AS4777-2_2020.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": "HH3P-8KA1/HU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10151,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 600,
+        "depth": 230,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 12800,
+        "dcInputs": 4,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    }
+  ]
+}

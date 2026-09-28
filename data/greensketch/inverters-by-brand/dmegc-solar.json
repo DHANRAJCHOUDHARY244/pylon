@@ -1,0 +1,695 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "DMEGC Solar",
+  "count": 8,
+  "exportedAt": "2026-09-23T06:39:42.125Z",
+  "items": [
+    {
+      "id": 124928,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-SPB5K",
+      "productCode": "DM-INV-SPB5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/03/19/e6d150b8-cf1c-448c-82e8-fc508d43f9ea.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/f734e7d4-4265-4cb7-922d-a69a6b20d785.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "VDE-AR-N 4105",
+        "G98/G99",
+        "C10/11",
+        "NTS 631",
+        "RD1699",
+        "CEI 0-21",
+        "VDE 0126",
+        "NRS 097-2-1",
+        "MEA",
+        "PEA",
+        "AS/NZS 4777.2",
+        "EN 50549-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27018,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.962,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124924,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-SPH3.6K",
+      "productCode": "DM-INV-SPH3.6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/03/18/c2936e93-d589-47c8-a8df-26679c4005a2.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3dcaa2ac-bc8e-4d20-aff5-127fbf23e52e.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "DM-INV-SPH3.6K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "VDE-AR-N 4105",
+        "G98/G99",
+        "C10/11",
+        "NTS 631",
+        "RD1699",
+        "CEI 0-21",
+        "VDE 0126",
+        "NRS 097-2-1",
+        "MEA",
+        "PEA",
+        "AS/NZS 4777.2",
+        "EN 50549-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27014,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.962,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124925,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-SPH5K",
+      "productCode": "DM-INV-SPH5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/03/18/1b1c7b06-894f-4b97-82d3-6799b438b51e.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/3906b41e-f184-419a-a233-2e3a8d9d6580.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "DM-INV-SPH5K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC62109-1",
+        "IEC62109-2",
+        "EN 61000-6-1",
+        "EN 61000-6-2",
+        "EN 61000-6-3",
+        "VDE-AR-N 4105",
+        "G98/G99",
+        "C10/11",
+        "NTS 631",
+        "RD1699",
+        "CEI 0-21",
+        "VDE 0126",
+        "NRS 097-2-1",
+        "MEA",
+        "PEA",
+        "AS/NZS 4777.2",
+        "EN 50549-1"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27015,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 19,
+        "type": "Hybrid Inverter",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.962,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 18.75,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 19
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 124859,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-TPH10K",
+      "productCode": "DM-INV-TPH10K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/02/13/1c6eb697-1275-4753-8d03-ee232913219d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/471dda0a-7826-4cbc-ae52-62cd5a983d21.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26976,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124855,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-TPH4K",
+      "productCode": "DM-INV-TPH4K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/02/13/1123d7cc-8649-40a0-bd23-d587e2fcca75.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/983a3792-2a37-4613-904f-91c33ec09b2f.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26972,
+        "companyProductId": null,
+        "maxAcPower": 4000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124856,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-TPH5K",
+      "productCode": "DM-INV-TPH5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/02/13/104fc0d3-6f48-4f5c-9b54-95ccbe9e6be0.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/19a2924c-98e0-478c-999c-f28ba947d4a0.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26973,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124857,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-TPH6K",
+      "productCode": "DM-INV-TPH6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/02/13/164631f3-002c-4fc3-9031-cfbe8910ec53.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/2d20b360-3a2a-4247-8a4d-a1e26e6a0ffc.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26974,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124858,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 221,
+      "brandName": "DMEGC Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/550f98cd-7425-4dd3-bcce-3333bdf3783c.png",
+      "productName": "DM-INV-TPH8K",
+      "productCode": "DM-INV-TPH8K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/partner/prod/product/image/2026/02/13/c0dd5407-5dd3-40c6-a52b-1ad324a004c5.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/6c2f27a1-4333-4096-88c6-e176473ace8e.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 26975,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

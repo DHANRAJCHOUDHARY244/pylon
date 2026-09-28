@@ -1,0 +1,1352 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Projoy Electric",
+  "count": 17,
+  "exportedAt": "2026-09-23T06:39:31.866Z",
+  "items": [
+    {
+      "id": 20358,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS1000",
+      "productCode": "PSOL-MS1000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fc88c02a-d91e-4962-b251-e70e016452e0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS1000.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9468,
+        "companyProductId": null,
+        "maxAcPower": 1000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 1000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 228,
+        "width": 261,
+        "depth": 32,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 1000
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24484,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS1600",
+      "productCode": "PSOL-MS1600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3435c880-831f-485b-850a-9e6f1604074c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS1600.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13594,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 261,
+        "width": 331,
+        "depth": 44,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 4,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21535,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS1800",
+      "productCode": "PSOL-MS1800",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9bd719ef-d0c7-47bb-99f2-2d7ab81edb93.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS1800.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10645,
+        "companyProductId": null,
+        "maxAcPower": 1800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 261,
+        "width": 331,
+        "depth": 44,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 4,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 23913,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS2000",
+      "productCode": "PSOL-MS2000",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c48b6bbd-644a-4334-b717-b8492433cd19.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS2000.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13023,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 261,
+        "width": 331,
+        "depth": 44,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2400,
+        "dcInputs": 4,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 21994,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS2250",
+      "productCode": "PSOL-MS2250",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2b65b321-690b-43aa-9665-3b726d03bf10.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS2250.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11104,
+        "companyProductId": null,
+        "maxAcPower": 2250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 261,
+        "width": 331,
+        "depth": 44,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2800,
+        "dcInputs": 4,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 22539,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS2250H",
+      "productCode": "PSOL-MS2250H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7cf5afbd-6005-4f37-8d7b-5c3d82785beb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS2250H.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11649,
+        "companyProductId": null,
+        "maxAcPower": 2250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 20,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 2250,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 326,
+        "width": 349,
+        "depth": 60,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3440,
+        "dcInputs": 4,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 20
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 2250
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 20565,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS300",
+      "productCode": "PSOL-MS300",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/09f2faef-484d-40f9-91ce-6e394c1a9db7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS300.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9675,
+        "companyProductId": null,
+        "maxAcPower": 300,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 225,
+        "width": 164,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 550,
+        "dcInputs": 1,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 300
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23053,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS3000H",
+      "productCode": "PSOL-MS3000H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c384e65e-2434-4bf1-99e6-e11cb5d00050.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS3000H.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12163,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 6,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 20,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 326,
+        "width": 349,
+        "depth": 60,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4200,
+        "dcInputs": 6,
+        "maxEfficiency": 0.971,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 20
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 6
+        }
+      }
+    },
+    {
+      "id": 23422,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS3000L",
+      "productCode": "PSOL-MS3000L",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c37f4278-04dd-4e5a-b82e-64432caad2d5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS3000L.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12532,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 120,
+        "minDcVoltageToStartFeedIn": 16,
+        "mpptVoltageMin": 32,
+        "mpptVoltageMax": 120,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 326,
+        "width": 349,
+        "depth": 60,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 120
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 16
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 32
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 24180,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS350",
+      "productCode": "PSOL-MS350",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/032a7478-7d50-4592-87a5-f790b2ebe093.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS350.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13290,
+        "companyProductId": null,
+        "maxAcPower": 350,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 225,
+        "width": 164,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 550,
+        "dcInputs": 1,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 300
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23632,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS400",
+      "productCode": "PSOL-MS400",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5925a68e-d053-4b05-8ebb-b6c9a9676437.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS400.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12742,
+        "companyProductId": null,
+        "maxAcPower": 400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 225,
+        "width": 164,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 600,
+        "dcInputs": 1,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 300
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21984,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS450",
+      "productCode": "PSOL-MS450",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/36465ff2-5c77-4173-8338-6e5ad0ab8b39.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS450.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11094,
+        "companyProductId": null,
+        "maxAcPower": 450,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 450,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 225,
+        "width": 164,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 600,
+        "dcInputs": 1,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 450
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23190,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS500",
+      "productCode": "PSOL-MS500",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/afd8696c-1041-42f2-b4bf-67eefa8ac2f7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS500.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12300,
+        "companyProductId": null,
+        "maxAcPower": 500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 300,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 225,
+        "width": 164,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 600,
+        "dcInputs": 1,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 300
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22547,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS600",
+      "productCode": "PSOL-MS600",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2ca8e0df-7645-4d7b-976a-9e6b23692f08.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS600.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11657,
+        "companyProductId": null,
+        "maxAcPower": 600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 600,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 223,
+        "width": 250,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1100,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21505,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS700",
+      "productCode": "PSOL-MS700",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/daa4ea27-2de9-4d0e-b074-cacb8e92699f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS700.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10615,
+        "companyProductId": null,
+        "maxAcPower": 700,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 600,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 223,
+        "width": 250,
+        "depth": 30,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1100,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20634,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS800",
+      "productCode": "PSOL-MS800",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/92361484-5d15-4515-959f-c3606523a2d3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS800.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9744,
+        "companyProductId": null,
+        "maxAcPower": 800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 800,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 228,
+        "width": 261,
+        "depth": 32,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 800
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21818,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1344,
+      "brandName": "Projoy Electric",
+      "brandLogo": null,
+      "productName": "PSOL-MS900",
+      "productCode": "PSOL-MS900",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bc71fe47-df7f-4893-a762-18aa01de4897.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Projoy_Electric_PSOL-MS900.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10928,
+        "companyProductId": null,
+        "maxAcPower": 900,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 600,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "PV-only Inverter",
+        "height": 228,
+        "width": 261,
+        "depth": 32,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1200,
+        "dcInputs": 2,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 600
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Neovolt",
+  "count": 15,
+  "exportedAt": "2026-09-23T06:39:31.872Z",
+  "items": [
+    {
+      "id": 24620,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPB5K",
+      "productCode": "BW-INV-SPB5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/94a2d4da-d4c7-467c-911d-60c0c225e99a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Neovolt_BW-INV-SPB5K_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "BW-INV-SPB5K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13730,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 400,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 0,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 400
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 65087,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPB5K(Blue, compatible with BW-BAT-10.1P)",
+      "productCode": "BW-INV-SPB5K(Blue)",
+      "displayName": null,
+      "productDescription": "The BW-INV-SPB5K is a high-performance battery inverter designed for residential and commercial energy storage systems. It offers robust load and backup management, high efficiency, and reliable parallel operation for maximum power availability",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/19/a0833b49-e5c8-4b14-bb56-9f17997f2bd0.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/52ad071d-6803-41ea-84da-d70df313cec7.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25122,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 190,
+        "width": 406,
+        "depth": 590,
+        "weight": 18,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 65086,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPB5K(White, compatible with BW-BAT-9.6P)",
+      "productCode": "BW-INV-SPB5K( White)",
+      "displayName": null,
+      "productDescription": "The BW-INV-SPB5K is a high-performance battery inverter designed for residential and commercial energy storage systems. It offers robust load and backup management, high efficiency, and reliable parallel operation for maximum power availablity",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/19/dd157f93-eb68-47b9-86de-951a5d34ac14.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/46d5c927-fdb1-4b4d-90be-737d23ce6bd1.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25121,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 190,
+        "width": 406,
+        "depth": 590,
+        "weight": 18,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125114,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPH3.6K",
+      "productCode": "BW-INV-SPH3.6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/130e764c-c1f5-4c9f-bbac-19355ad1baf7.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/f09dd6e0-0621-4948-a34f-3a9afcdac5aa.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "5 years / 10 years",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105:2018",
+        "G98",
+        "G99",
+        "C10/11:2021",
+        "NTS 631",
+        "RD647:2020",
+        "UNE 217002:2020",
+        "CEI 0-21",
+        "VDE 0126-1-1",
+        "NRS 097-2-1",
+        "AS/NZS 4777.2:2020",
+        "EN 50549-1",
+        "IEC/EN 62109-1&2",
+        "IEC/EN 62477-1:2012",
+        "IEC/EN 61000-6-1",
+        "IEC/EN 61000-6-2",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 61000-6-4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27091,
+        "companyProductId": null,
+        "maxAcPower": 3.68,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3.68,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.962,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 3.68
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPH3.6K (AS4777-2 2020)",
+      "productCode": "BW-INV-SPH3.6K (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d6ba6dce-55b4-44f9-bf8e-3b90d03fdd30.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Neovolt_BW-INV-SPH3.6K_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "BW-INV-SPH3.6K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11953,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22773,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPH5K",
+      "productCode": "BW-INV-SPH5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c149e8a2-a4ff-4c94-a277-aec133ff1776.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Neovolt_BW-INV-SPH5K_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "BW-INV-SPH5K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11883,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18.75,
+        "type": "Hybrid Inverter",
+        "height": 405,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7360,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.962,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 18.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 40016,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPH5K (White, compatible with BW-BAT-9.6P)",
+      "productCode": "BW-INV-SPH5K(White）",
+      "displayName": null,
+      "productDescription": "The BW-INV-SPH5K is a high-performance, hybrid inverter designed for residential and commercial energy storage systems. It offers robust load and backup management, high efficiency, and reliable parallel operation for maximum power availablity\n",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/19/4fb75f30-d502-4a08-90ba-25442c97a1ef.webp",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/30336a3c-cf8f-492c-b91b-8ea21c78650e.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16899,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 190,
+        "width": 406,
+        "depth": 590,
+        "weight": 19.5,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 65085,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-SPH5K(Blue,compatible with BW-BAT-10.1P)",
+      "productCode": "BW-INV-SPH5K(Blue)",
+      "displayName": null,
+      "productDescription": "The BW-INV-SPH5K is a high-performance, hybrid inverter designed for residential and commercial energy storage systems. It offers robust load and backup management, high efficiency, and reliable parallel operation for maximum power availablity\n",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b76a6424-c409-4b43-8f11-8ba07b23ee53.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/f1384e6c-3ee9-43a7-999f-da284224bcb2.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25120,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 90,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 190,
+        "width": 406,
+        "depth": 590,
+        "weight": 19.5,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 90
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22750,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH10K",
+      "productCode": "BW-INV-TPH10K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b7b55c03-8ee8-4164-be4f-b6a54411be7f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Neovolt_BW-INV-TPH10K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "10",
+      "cecModelNumber": "BW-INV-TPH10K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11860,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.96,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 22980,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH12K",
+      "productCode": "BW-INV-TPH12K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/100161ba-5cbc-4fd8-b467-3d3f451b9635.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Neovolt_BW-INV-TPH12K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12090,
+        "companyProductId": null,
+        "maxAcPower": 12000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 22500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.96,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125118,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH15K",
+      "productCode": "BW-INV-TPH15K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/797ac446-d9f8-4bd3-a25e-54485bef138a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/7edf3f00-fb06-4b63-bded-647858d29376.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105:2018",
+        "G98",
+        "G99",
+        "C10/11:2021",
+        "NTS 631",
+        "RD647:2020",
+        "UNE 217002:2020",
+        "CEI 0-21",
+        "VDE 0126-1-1",
+        "NRS 097-2-1",
+        "AS/NZS 4777.2:2020",
+        "EN 50549-1/10",
+        "JEC/EN 62109-1&2",
+        "EC/EN 61000-6-1",
+        "IEC/EN 61000-6-2",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 61000-6-4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27095,
+        "companyProductId": null,
+        "maxAcPower": 15750,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00984,
+        "euroEfficiency": 0.0098,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125115,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH4K",
+      "productCode": "BW-INV-TPH4K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/36fca95b-6609-47e8-bd03-32d3fb06bc50.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/7e6d6e7b-1591-48c2-9975-d1f2c83437d5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "BW-INV-TPH4K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105:2018",
+        "G98",
+        "G99",
+        "C10/11:2021",
+        "NTS 631",
+        "RD647:2020",
+        "UNE 217002:2020",
+        "CEI 0-21",
+        "VDE 0126-1-1",
+        "NRS 097-2-1",
+        "AS/NZS 4777.2:2020",
+        "EN 50549-1/10",
+        "JEC/EN 62109-1&2",
+        "EC/EN 61000-6-1",
+        "IEC/EN 61000-6-2",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 61000-6-4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27092,
+        "companyProductId": null,
+        "maxAcPower": 4400,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 4000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.0098,
+        "euroEfficiency": 0.00975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 4000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125116,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH5K",
+      "productCode": "BW-INV-TPH5K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d517ab27-83da-4f12-98bd-8b74db5a4266.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/225de228-994f-4e3e-b786-eddd46cecea6.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "BW-INV-TPH5K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105:2018",
+        "G98",
+        "G99",
+        "C10/11:2021",
+        "NTS 631",
+        "RD647:2020",
+        "UNE 217002:2020",
+        "CEI 0-21",
+        "VDE 0126-1-1",
+        "NRS 097-2-1",
+        "AS/NZS 4777.2:2020",
+        "EN 50549-1/10",
+        "JEC/EN 62109-1&2",
+        "EC/EN 61000-6-1",
+        "IEC/EN 61000-6-2",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 61000-6-4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27093,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.0098,
+        "euroEfficiency": 0.00975,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 125117,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH6K",
+      "productCode": "BW-INV-TPH6K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/9a0f309b-fc86-48ad-93e0-2b0a321a4484.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/6224b648-cf81-411a-b784-532a9628437f.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": "BW-INV-TPH6K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "VDE-AR-N 4105:2018",
+        "G98",
+        "G99",
+        "C10/11:2021",
+        "NTS 631",
+        "RD647:2020",
+        "UNE 217002:2020",
+        "CEI 0-21",
+        "VDE 0126-1-1",
+        "NRS 097-2-1",
+        "AS/NZS 4777.2:2020",
+        "EN 50549-1/10",
+        "JEC/EN 62109-1&2",
+        "EC/EN 61000-6-1",
+        "IEC/EN 61000-6-2",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 61000-6-4"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27094,
+        "companyProductId": null,
+        "maxAcPower": 6600,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 416,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00982,
+        "euroEfficiency": 0.00977,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 20889,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1404,
+      "brandName": "Neovolt",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/supplier/brand/2025/10/13/6d251a93-fe8c-4813-8bfe-932c3b9abc88.webp",
+      "productName": "BW-INV-TPH8K",
+      "productCode": "BW-INV-TPH8K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ec5aea81-fb82-4b87-a9b6-10e66a5bf56d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Neovolt_BW-INV-TPH8K.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "BW-INV-TPH8K (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9999,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 85,
+        "mpptVoltageMin": 140,
+        "mpptVoltageMax": 950,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 24,
+        "type": "Hybrid Inverter",
+        "height": 430,
+        "width": 590,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 16000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.984,
+        "euroEfficiency": 0.96,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 85
+        },
+        "current_isc_max": {
+          "value": 24
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 140
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    }
+  ]
+}

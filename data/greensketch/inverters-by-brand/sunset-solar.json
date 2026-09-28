@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "sunset solar",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.679Z",
+  "items": [
+    {
+      "id": 119255,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3066,
+      "brandName": "sunset solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/09/16/f4449216-b148-4ef4-bb25-c51d556d63c5.png",
+      "productName": "SUNisland® Xtender",
+      "productCode": "SUNisland® Xtender(XTH 5000-24)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/09/26/7aeceb72-4e14-4e04-a0a0-9a259b9d623a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/26/0892e69d-dc7a-4a76-9f3b-7dfd680740a8.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "XTH 5000-24",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25838,
+        "companyProductId": null,
+        "maxAcPower": null,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": null,
+        "minDcVoltageToStartFeedIn": null,
+        "mpptVoltageMin": null,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": null,
+        "height": 497,
+        "width": 300,
+        "depth": 250,
+        "weight": 40,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.94,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": null
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": null
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": null
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    }
+  ]
+}

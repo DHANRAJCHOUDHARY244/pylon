@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Vestwoods",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.685Z",
+  "items": [
+    {
+      "id": 23670,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1413,
+      "brandName": "Vestwoods",
+      "brandLogo": "https://file.greensketch.net/brands/logo/fmkybkcf.png",
+      "productName": "VESS Plus-100k",
+      "productCode": "VESS Plus-100k",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/811fc0ca-12cd-4205-a625-8a41a2b907b7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Vestwoods_VESS_Plus-100k.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12780,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 650,
+        "minDcVoltageToStartFeedIn": 200,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 320,
+        "type": "Hybrid Inverter",
+        "height": 2300,
+        "width": 1850,
+        "depth": 1200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 100000,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 650
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 200
+        },
+        "current_isc_max": {
+          "value": 320
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

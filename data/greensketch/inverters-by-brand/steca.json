@@ -1,0 +1,878 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Steca",
+  "count": 11,
+  "exportedAt": "2026-09-23T06:39:42.073Z",
+  "items": [
+    {
+      "id": 23428,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "1000-12",
+      "productCode": "1000-12",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9b37a78a-0e05-4f8c-8942-a7906930684a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_1000-12.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12538,
+        "companyProductId": null,
+        "maxAcPower": 1000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 100,
+        "minDcVoltageToStartFeedIn": 18,
+        "mpptVoltageMin": 15,
+        "mpptVoltageMax": 80,
+        "nominalAcPower": 1000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 331,
+        "width": 243,
+        "depth": 115,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 18
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 1000
+        },
+        "mppt_voltage_min": {
+          "value": 15
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21055,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "2400-24",
+      "productCode": "2400-24",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/031ded6a-9084-43b9-9d88-1847fc982b6b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_2400-24.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10165,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 100,
+        "minDcVoltageToStartFeedIn": 36,
+        "mpptVoltageMin": 30,
+        "mpptVoltageMax": 80,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 385,
+        "width": 275,
+        "depth": 114,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 36
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 30
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24132,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "5000-48",
+      "productCode": "5000-48",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/453680ef-44bb-4489-bd80-b18c362b02dd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_5000-48.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13242,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 145,
+        "minDcVoltageToStartFeedIn": 60,
+        "mpptVoltageMin": 60,
+        "mpptVoltageMax": 115,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "PV-only Inverter",
+        "height": 469,
+        "width": 298,
+        "depth": 130,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 145
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 60
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 60
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20777,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 1511",
+      "productCode": "StecaGrid 1511",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/12662d1e-1650-433e-9fb1-c8986a8476bf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_1511.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9887,
+        "companyProductId": null,
+        "maxAcPower": 1500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 360,
+        "nominalAcPower": 1500,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1540,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.961,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 1500
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22669,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 2011",
+      "productCode": "StecaGrid 2011",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e2edb48d-0d7a-41f9-949c-b4d7d1e68f46.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_2011.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11779,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 360,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2050,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20528,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 2511",
+      "productCode": "StecaGrid 2511",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7379ab08-562a-423f-833a-82c430621285.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_2511.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9638,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 450,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 360,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2560,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 450
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20796,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 3011",
+      "productCode": "StecaGrid 3011",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bdab4b1e-b678-4cda-ad2a-5a345c31b66d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_3011.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9906,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3070,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23066,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 3011_2",
+      "productCode": "StecaGrid 3011_2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3d8274e9-71b5-4d03-b450-48b26657992c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_3011_2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12176,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3070,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24478,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 3611",
+      "productCode": "StecaGrid 3611",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f37cfc9d-5197-444e-a3c1-2d41c655fd90.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_3611.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13588,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3770,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24161,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 3611_2",
+      "productCode": "StecaGrid 3611_2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/e7fbc9ae-96f7-4a50-8fde-6e59f623aa32.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_3611_2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13271,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3770,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21429,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1371,
+      "brandName": "Steca",
+      "brandLogo": "https://file.greensketch.net/brands/logo/kontron_solar_logo.jpg",
+      "productName": "StecaGrid 4611_2",
+      "productCode": "StecaGrid 4611_2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ce596708-b2a0-4f66-b187-0d7a47f00013.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Steca_Elektronik_StecaGrid_4611_2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10539,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 750,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 16.5,
+        "type": "PV-only Inverter",
+        "height": 657,
+        "width": 399,
+        "depth": 222,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4740,
+        "dcInputs": 0,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.969,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 750
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16.5
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

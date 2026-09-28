@@ -1,0 +1,98 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Kaneka",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:32:24.489Z",
+  "items": [
+    {
+      "id": 36268,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2009,
+      "brandName": "Kaneka",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo+(1).gif",
+      "productName": "K60 (GSA-60)",
+      "productCode": "K60 (GSA-60)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Kaneka_K60_(GSA-60).jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Kaneka_K60_(GSA-60).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14268,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 60,
+        "stcVoltageAtMaximumPowerVmpp": 67,
+        "stcShortCircuitCurrentIsc": 1.19,
+        "stcOpenCircuitVoltageVoc": 92,
+        "stcCurrentAtMaximumPowerImpp": 0.9,
+        "temperatureCoefficientOfPmax": -0.0019,
+        "temperatureCoefficientOfVoc": -0.0021,
+        "temperatureCoefficientOfIsc": 0.0006,
+        "firstYearPowerDegradation": 0.02,
+        "subsequentAnnualPowerDegradation": 0.0075,
+        "height": 960,
+        "width": 990,
+        "depth": 40,
+        "weight": 14,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.06313,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.19
+        },
+        "stc_isc": {
+          "value": 1.19
+        },
+        "stc_voc": {
+          "value": 92
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.21
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.06
+        },
+        "power": {
+          "value": 60
+        },
+        "cec_model": {
+          "value": "K60 (GSA-60)"
+        },
+        "stc_vmpp": {
+          "value": 67
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "MG Energy",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.683Z",
+  "items": [
+    {
+      "id": 39960,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2018,
+      "brandName": "MG Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/a5ba1242-4455-4374-8bbd-b75acab2fa8d.png",
+      "productName": "TCI X5.0 Ⅲ",
+      "productCode": "TCI X5.0 III",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3834238f-a622-4799-ab6e-cd1265f8ebde.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/dba73317-3c6d-4e22-bcd3-5dc5f81c254b.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "TCI X5.0 III (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 16877,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 20,
+        "type": "Hybrid Inverter",
+        "height": 485,
+        "width": 535,
+        "depth": 198,
+        "weight": 29,
+        "display": "LCD",
+        "maxDcPower": 8000,
+        "dcInputs": 13,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 20
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

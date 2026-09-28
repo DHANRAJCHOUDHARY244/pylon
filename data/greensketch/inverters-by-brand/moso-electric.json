@@ -1,0 +1,562 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "MOSO Electric",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:39:42.164Z",
+  "items": [
+    {
+      "id": 23460,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF1.6KTN",
+      "productCode": "SF1.6KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/863621b1-546a-4f32-bb6f-4bfe207c877f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF1.6KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12570,
+        "companyProductId": null,
+        "maxAcPower": 1600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 1600,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 330,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2200,
+        "dcInputs": 0,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 1600
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22676,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF2.2KTN",
+      "productCode": "SF2.2KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b1852b31-60e3-441e-a501-d737b70f4a44.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF2.2KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11786,
+        "companyProductId": null,
+        "maxAcPower": 2200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 2200,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 330,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.971,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 2200
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22334,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF3.6KTN",
+      "productCode": "SF3.6KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f67af006-5503-4ec1-a725-e7da3f46b174.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF3.6KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11444,
+        "companyProductId": null,
+        "maxAcPower": 3600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 3600,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 397,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 4400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.973,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 3600
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22046,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF3KTN",
+      "productCode": "SF3KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fd119457-8e61-4036-ac2b-c4885002c3b3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF3KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11156,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 280,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 330,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3600,
+        "dcInputs": 0,
+        "maxEfficiency": 0.978,
+        "euroEfficiency": 0.972,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 280
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23399,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF4.2KTN",
+      "productCode": "SF4.2KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/52542786-8101-446f-b1ec-b2955be69665.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF4.2KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12509,
+        "companyProductId": null,
+        "maxAcPower": 4200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4200,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 397,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.974,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 4200
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23511,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF4.6KTN",
+      "productCode": "SF4.6KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ffb6612b-ffcb-4032-9271-133a5a619471.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF4.6KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12621,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 4600,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 397,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.975,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 4600
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20785,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1393,
+      "brandName": "MOSO Electric",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MOSO.webp",
+      "productName": "SF5KTN",
+      "productCode": "SF5KTN",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5b4eba50-283a-49a0-9d15-278a8fa6f143.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/MOSO_Electric_SF5KTN.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9895,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 250,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13.75,
+        "type": "PV-only Inverter",
+        "height": 397,
+        "width": 340,
+        "depth": 120,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 5800,
+        "dcInputs": 0,
+        "maxEfficiency": 0.981,
+        "euroEfficiency": 0.976,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 13.75
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 250
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

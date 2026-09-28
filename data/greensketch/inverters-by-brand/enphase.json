@@ -1,0 +1,5238 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Enphase",
+  "count": 63,
+  "exportedAt": "2026-09-23T06:39:23.412Z",
+  "items": [
+    {
+      "id": 24517,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ6-60-2-INT",
+      "productCode": "IQ6-60-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed14ef56-2035-4a13-b7c5-31687a6104bb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ6-60-2-INT.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13627,
+        "companyProductId": null,
+        "maxAcPower": 240,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 230,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 191,
+        "width": 219,
+        "depth": 37.9,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 330,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 230
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21634,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ6-60-5-INT",
+      "productCode": "IQ6-60-5-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cd52e572-4bca-4fba-9c41-926e178f30b0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ6-60-5-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10744,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 10,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 37,
+        "nominalAcPower": 240,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 191,
+        "width": 219,
+        "depth": 37.9,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 330,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.963,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 10
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 240
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22887,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ6PLUS-72-2-INT",
+      "productCode": "IQ6PLUS-72-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ed793733-fa9a-4fa8-bc98-c8b63683f643.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ6PLUS-72-2-INT.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11997,
+        "companyProductId": null,
+        "maxAcPower": 290,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 62,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 280,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 191,
+        "width": 219,
+        "depth": 37.9,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.961,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 62
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 280
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22052,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ6PLUS-72-5-INT",
+      "productCode": "IQ6PLUS-72-5-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0f944fdd-f463-4a94-b8c2-6d9163fb0f10.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ6PLUS-72-5-INT.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11162,
+        "companyProductId": null,
+        "maxAcPower": 290,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 62,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 280,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 191,
+        "width": 219,
+        "depth": 37.9,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 400,
+        "dcInputs": 0,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.961,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 62
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 280
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23883,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7-60-2-INT",
+      "productCode": "IQ7-60-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/249108fb-e195-4ff8-8c4c-edc41684c370.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7-60-2-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12993,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 240,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 240
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21689,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7-60-5-INT",
+      "productCode": "IQ7-60-5-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c6eea100-8637-48cd-b6d4-24b7ebaa6f30.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7-60-5-INT.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10799,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 37,
+        "nominalAcPower": 240,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 240
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20593,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7-60-B-INT",
+      "productCode": "IQ7-60-B-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5cb39050-a91c-42d6-830b-80bfea6a4cdb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7-60-B-INT.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9703,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 53,
+        "mpptVoltageMax": 64,
+        "nominalAcPower": 240,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 240
+        },
+        "mppt_voltage_min": {
+          "value": 53
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23862,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7-60-E-INT",
+      "productCode": "IQ7-60-E-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7658e20a-5a46-4e00-a682-bb67868a5c3c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7-60-E-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12972,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 240,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 240
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22261,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7-ACM-INT",
+      "productCode": "IQ7-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4ffa7b46-7441-4764-8a21-c52375aeecf8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7-ACM-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11371,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 37,
+        "nominalAcPower": 240,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 240
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21327,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7A-72-2-INT",
+      "productCode": "IQ7A-72-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/002e4c28-c45f-4bd8-81eb-2a372efb5d2f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7A-72-2-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10437,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 349,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 460,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 349
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127612,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7A-72-E-ACM-INT",
+      "productCode": "IQ7A-72-E-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/a3069217-d831-4609-8af4-92f9f03527f4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/a057d683-6172-4b03-a7ee-316f1a1552f0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ7A-72-E-ACM-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020 + A2",
+        "RCM",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "EN 50549",
+        "G98/G99",
+        "VDE-AR-N-4105"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28182,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 349,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00965,
+        "euroEfficiency": 0.00965,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 10.2,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 349
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127613,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7A-72-E-ACM-INT-NM",
+      "productCode": "IQ7A-72-E-ACM-INT-NM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/a3069217-d831-4609-8af4-92f9f03527f4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/a057d683-6172-4b03-a7ee-316f1a1552f0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020 + A2",
+        "RCM",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "EN 50549",
+        "G98/G99",
+        "VDE-AR-N-4105"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28183,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 349,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00965,
+        "euroEfficiency": 0.00965,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 10.2,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 349
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127614,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7A-72-E-ACM-INT-RMA",
+      "productCode": "IQ7A-72-E-ACM-INT-RMA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/a3069217-d831-4609-8af4-92f9f03527f4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/a057d683-6172-4b03-a7ee-316f1a1552f0.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020 + A2",
+        "RCM",
+        "IEC/EN 61000-6-3",
+        "IEC/EN 62109-1",
+        "IEC/EN 62109-2",
+        "EN 50549",
+        "G98/G99",
+        "VDE-AR-N-4105"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28184,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 349,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.00965,
+        "euroEfficiency": 0.00965,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 10.2,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 349
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1961,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7A-72-E-INT",
+      "productCode": "IQ7A-72-E-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b51f961b-3780-4018-b9b5-3c248aa76683.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7A-72-2-INT.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 583,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 349,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": 1.08,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 349
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21459,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7A-72-M-INT (AS4777-2 2020)",
+      "productCode": "IQ7A-72-M-INT (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/507aecf9-a24e-4423-85b5-d08f49e91120.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7A-72-M-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ7A-72-M-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10569,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 18,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 366,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 366
+        },
+        "mppt_voltage_min": {
+          "value": 18
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20941,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7PLUS-72-2-INT",
+      "productCode": "IQ7PLUS-72-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/df5ca056-4cd4-4903-8283-276fdeb78ada.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7PLUS-72-2-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10051,
+        "companyProductId": null,
+        "maxAcPower": 295,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 53,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 290,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 440,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 290
+        },
+        "mppt_voltage_min": {
+          "value": 53
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21945,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7PLUS-72-5-INT",
+      "productCode": "IQ7PLUS-72-5-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/9b7eaaa1-3d03-4f17-b080-9be631dbf084.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7PLUS-72-5-INT.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11055,
+        "companyProductId": null,
+        "maxAcPower": 295,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 290,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 440,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 290
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24312,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7PLUS-72-B-INT",
+      "productCode": "IQ7PLUS-72-B-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f4231a1a-dd4c-498f-8d39-064d83b8294e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7PLUS-72-B-INT.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13422,
+        "companyProductId": null,
+        "maxAcPower": 295,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 290,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 440,
+        "dcInputs": 0,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 290
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21656,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7PLUS-72-E-INT",
+      "productCode": "IQ7PLUS-72-E-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/4d2d152c-6ea9-496e-98dc-d90f57dc320c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7PLUS-72-E-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10766,
+        "companyProductId": null,
+        "maxAcPower": 295,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 290,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 440,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 290
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24238,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7PLUS-72-M-INT (AS4777-2 2020)",
+      "productCode": "IQ7PLUS-72-M-INT (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/99a64cee-806f-46ed-b383-267f2856bb7a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7PLUS-72-M-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13348,
+        "companyProductId": null,
+        "maxAcPower": 295,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 290,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 440,
+        "dcInputs": 1,
+        "maxEfficiency": 0.972,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 290
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21258,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7PLUS-ACM-INT",
+      "productCode": "IQ7PLUS-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1f59f5a6-9a4d-4219-b7ad-7a740864fb6a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7PLUS-ACM-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10368,
+        "companyProductId": null,
+        "maxAcPower": 295,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 290,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 440,
+        "dcInputs": 0,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 290
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1983,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7X-96-2-INT",
+      "productCode": "IQ7X-96-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3604dcd6-223b-4d86-974d-6df04441164c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7-60-2-INT.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 601,
+        "companyProductId": null,
+        "maxAcPower": 320,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 79.5,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 53,
+        "mpptVoltageMax": 64,
+        "nominalAcPower": 320,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 212,
+        "depth": 30.2,
+        "weight": 1.08,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.1,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 10,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 79.5
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 320
+        },
+        "mppt_voltage_min": {
+          "value": 53
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24091,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7X-96-ACM-INT",
+      "productCode": "IQ7X-96-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/090004fc-360b-4813-b8dc-ee1bb297fad2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7X-96-ACM-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13201,
+        "companyProductId": null,
+        "maxAcPower": 320,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 79,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 53,
+        "mpptVoltageMax": 64,
+        "nominalAcPower": 315,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 460,
+        "dcInputs": 0,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 79
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 315
+        },
+        "mppt_voltage_min": {
+          "value": 53
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21607,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7X-96-B-INT",
+      "productCode": "IQ7X-96-B-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2e7fd565-318d-42bd-be64-e8af4433be29.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7X-96-B-INT.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10717,
+        "companyProductId": null,
+        "maxAcPower": 320,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 79,
+        "minDcVoltageToStartFeedIn": 10,
+        "mpptVoltageMin": 53,
+        "mpptVoltageMax": 64,
+        "nominalAcPower": 315,
+        "maxShortCircuitCurrentPerMppt": 10,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 460,
+        "dcInputs": 0,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 79
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 10
+        },
+        "current_isc_max": {
+          "value": 10
+        },
+        "nominal_ac_power": {
+          "value": 315
+        },
+        "mppt_voltage_min": {
+          "value": 53
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21728,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ7X-96-E-INT (AS4777-2 2020)",
+      "productCode": "IQ7X-96-E-INT (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d02a409f-3c77-4689-b1a0-716233368036.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ7X-96-E-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10838,
+        "companyProductId": null,
+        "maxAcPower": 329,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 80,
+        "minDcVoltageToStartFeedIn": 33,
+        "mpptVoltageMin": 25,
+        "mpptVoltageMax": 80,
+        "nominalAcPower": 315,
+        "maxShortCircuitCurrentPerMppt": 6.5,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 460,
+        "dcInputs": 1,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 80
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 33
+        },
+        "current_isc_max": {
+          "value": 6.5
+        },
+        "nominal_ac_power": {
+          "value": 315
+        },
+        "mppt_voltage_min": {
+          "value": 25
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 90843,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8 MC - AC - HC",
+      "productCode": "IQ8HC-72-M-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/de79c60e-954f-4895-8cf6-c2847ed26e7a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/de7a5e0a-f986-4c3c-8610-01fb5560244e.pdf",
+      "productWarranty": "25.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "IQ8HC-72-M-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25222,
+        "companyProductId": null,
+        "maxAcPower": 384,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 29.5,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 380,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": 1.1,
+        "display": null,
+        "maxDcPower": 560,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 380
+        },
+        "mppt_voltage_min": {
+          "value": 29.5
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 90842,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8 MC - AC - HC",
+      "productCode": "IQ8AC-72-M-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/076ef9a9-c83b-433a-a80f-136a6cc1d696.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/09/19/d408f459-a823-4840-872d-3f167b1f34a0.pdf",
+      "productWarranty": "25.0",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 25221,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 360,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": 1.1,
+        "display": null,
+        "maxDcPower": 530,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 360
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22655,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8AC-72-M-ACM-INT (AS4777-2 2020)",
+      "productCode": "IQ8AC-72-M-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6152e1c4-c846-45c4-a9c0-bd809b519176.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8AC-72-M-ACM-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ8AC-72-M-ACM-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11765,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 360,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 480,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.966,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 360
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23519,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8AC-72-M-INT (AS4777-2 2020)",
+      "productCode": "IQ8AC-72-M-INT (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5bde7732-14df-4395-9280-7715c2f464e3.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8AC-72-M-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ8AC-72-M-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12629,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 360,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 480,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 360
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 57817,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8HC-72-M-ACM-INT",
+      "productCode": "IQ8HC-72-M-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a40d4c89-16f5-4b26-b5d3-248dbbec00b4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/29/509cc2d2-6624-4d33-92f6-8666df9035ab.pdf",
+      "productWarranty": "25.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "IQ8HC-72-M-ACM-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 17315,
+        "companyProductId": null,
+        "maxAcPower": 384,
+        "noOfFeedInPhases": null,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 29.5,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 380,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": null,
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": 1.1,
+        "display": null,
+        "maxDcPower": 505,
+        "dcInputs": null,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 380
+        },
+        "mppt_voltage_min": {
+          "value": 29.5
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 21669,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8HC-72-M-ACM-INT (AS4777-2 2020",
+      "productCode": "IQ8HC-72-M-ACM-INT (AS4777-2 2020",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8b239bed-eba9-49f6-814f-931b8e735ebc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8HC-72-M-ACM-INT_(AS4777-2_2020.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10779,
+        "companyProductId": null,
+        "maxAcPower": 384,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 29,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 380,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 505,
+        "dcInputs": 1,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": 0.968,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 380
+        },
+        "mppt_voltage_min": {
+          "value": 29
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22220,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8HC-72-M-INT (AS4777-2 2020)",
+      "productCode": "IQ8HC-72-M-INT (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c7def0ac-8d32-4d68-aabb-2e49e99ffadc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8HC-72-M-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ8HC-72-M-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11330,
+        "companyProductId": null,
+        "maxAcPower": 384,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 30,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 380,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 505,
+        "dcInputs": 1,
+        "maxEfficiency": 0.974,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 380
+        },
+        "mppt_voltage_min": {
+          "value": 30
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20282,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8MC-72-M-ACM-INT",
+      "productCode": "IQ8MC-72-M-ACM-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2d2e79c2-345f-486d-b8f3-9afef96ed868.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8MC-72-M-ACM-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9392,
+        "companyProductId": null,
+        "maxAcPower": 330,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 25,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 325,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 480,
+        "dcInputs": 1,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 325
+        },
+        "mppt_voltage_min": {
+          "value": 25
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 124237,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8P-72-2-INT",
+      "productCode": "IQ8P-72-2-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cc9330a8-ec63-4532-8b97-549f250345cd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/01/16/8d9f76ae-b120-48e5-96d3-5e94ae926f88.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ8P-72-2-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "S",
+        "AAD",
+        "IEC 61727",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "EN IEC 61000-3-2",
+        "EN IEC 61000-3-3",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 50065-1",
+        "EN IEC 50065-2-2",
+        "EN 550115",
+        "RCM",
+        "BIS"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26844,
+        "companyProductId": null,
+        "maxAcPower": 480,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 65,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 36,
+        "mpptVoltageMax": 55,
+        "nominalAcPower": 475,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 263.5,
+        "width": 196.3,
+        "depth": 36.1,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 14,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 65
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 475
+        },
+        "mppt_voltage_min": {
+          "value": 36
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20730,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8X-80-M-INT",
+      "productCode": "IQ8X-80-M-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bfbffed0-7b0e-47c1-a1a5-04249f8a6255.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8X-80-M-INT_(AS4777-2_2020).pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "",
+      "cecModelNumber": "IQ8X-80-M-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9840,
+        "companyProductId": null,
+        "maxAcPower": 384,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 79,
+        "minDcVoltageToStartFeedIn": 30,
+        "mpptVoltageMin": 43,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 380,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 505,
+        "dcInputs": 1,
+        "maxEfficiency": 0.975,
+        "euroEfficiency": 0.967,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 79
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 30
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 380
+        },
+        "mppt_voltage_min": {
+          "value": 43
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21677,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8X-80-M-US (208 VAC)",
+      "productCode": "IQ8X-80-M-US (208 VAC)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b210ee6c-5941-42e3-b0d9-5e59ca7606d4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8X-80-M-US_(208_VAC).pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10787,
+        "companyProductId": null,
+        "maxAcPower": 366,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 79,
+        "minDcVoltageToStartFeedIn": 30,
+        "mpptVoltageMin": 25,
+        "mpptVoltageMax": 79,
+        "nominalAcPower": 360,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 540,
+        "dcInputs": 1,
+        "maxEfficiency": 0.97,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 79
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 30
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 360
+        },
+        "mppt_voltage_min": {
+          "value": 25
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24556,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ8X-80-M-US (240 VAC)",
+      "productCode": "IQ8X-80-M-US (240 VAC)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3cfb6a9f-1030-4a87-8e70-444d0efc3618.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_IQ8X-80-M-US_(240_VAC).pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13666,
+        "companyProductId": null,
+        "maxAcPower": 384,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 79,
+        "minDcVoltageToStartFeedIn": 30,
+        "mpptVoltageMin": 25,
+        "mpptVoltageMax": 79,
+        "nominalAcPower": 380,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "PV-only Inverter",
+        "height": 212,
+        "width": 175,
+        "depth": 30.2,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 540,
+        "dcInputs": 1,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": 0.965,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 79
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 30
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 380
+        },
+        "mppt_voltage_min": {
+          "value": 25
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 129674,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQ9N-A-INT",
+      "productCode": "IQ9N-A-INT",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e78f5ece-c716-4603-9681-797bec99fa05.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/06/504f5a5e-63c6-4486-b07f-898423c4c7e8.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": "IQ9N-A-INT (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "EN 50549-1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "EN IEC 61000-3-2",
+        "EN IEC 61000-3-3",
+        "EN IEC 61000-6-2",
+        "EN IEC 61000-6-3",
+        "EN IEC 50065-1",
+        "EN IEC 50065-2-2",
+        "EN 550114",
+        "CE",
+        "RCM"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28581,
+        "companyProductId": null,
+        "maxAcPower": 427,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 21,
+        "mpptVoltageMin": 28,
+        "mpptVoltageMax": 45,
+        "nominalAcPower": 427,
+        "maxShortCircuitCurrentPerMppt": 25,
+        "type": "PV-only Inverter",
+        "height": 214,
+        "width": 176,
+        "depth": 30.8,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.9795,
+        "euroEfficiency": 0.9744,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 16,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 21
+        },
+        "current_isc_max": {
+          "value": 25
+        },
+        "nominal_ac_power": {
+          "value": 427
+        },
+        "mppt_voltage_min": {
+          "value": 28
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127904,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-1P-ROW",
+      "productCode": "B05-T02-ROW00-1-2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7a10be12-42c2-4934-9229-aa644058def0.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/14/523c8620-545f-450c-9566-00bb8b66bd27.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15-year or 6,000 cycles",
+      "cecModelNumber": "B05-T02-ROW00-1-2 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "AS/NZS 4777.2:2020 + A2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28298,
+        "companyProductId": null,
+        "maxAcPower": 7.68,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3.84,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.9,
+        "euroEfficiency": 0,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 0,
+        "dcSwitch": 0,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3.84
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125140,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-1.65-1P",
+      "productCode": "IQBATTERY-5P-3P-INT-1.65-1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b636caa9-4523-4fdf-9bad-9d4785e6fedc.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/02117772-176d-45c0-a719-836f9ececcd3.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-1.65-1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27117,
+        "companyProductId": null,
+        "maxAcPower": 1650,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 1650,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 1650
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125145,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-1.84-3P",
+      "productCode": "IQBATTERY-5P-3P-INT-1.84-3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7cade13d-7eab-478a-8171-00bd254a61dc.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/62c4bc72-87e7-4402-8f29-e20b1ee276dd.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-1.84-3P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27122,
+        "companyProductId": null,
+        "maxAcPower": 1840,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 1840,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 1840
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125141,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-2.50-1P",
+      "productCode": "IQBATTERY-5P-3P-INT-2.50-1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cd813d55-08ad-4144-9dd9-2a36b33e7aba.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/386c9579-d273-4705-940c-7bbde53c5526.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-2.50-1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27118,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125146,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-2.50-3P",
+      "productCode": "IQBATTERY-5P-3P-INT-2.50-3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7a32492a-6166-4ddf-a28f-fb8c2ed7b7bc.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/70be45fd-2a84-4d62-b03b-be3e2bab571b.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-2.50-3P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27123,
+        "companyProductId": null,
+        "maxAcPower": 2500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 2500,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 2500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125142,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-3.00-1P",
+      "productCode": "IQBATTERY-5P-3P-INT-3.00-1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/96285510-e42c-4705-bf5d-275fddc1b671.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/ed380fdf-1ef2-42c8-ac1c-9cdfc506d9b9.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-3.00-1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27119,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125147,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-3.00-3P",
+      "productCode": "IQBATTERY-5P-3P-INT-3.00-3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/963ac10f-5e4b-4cec-94f7-63eaa79a9bc9.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/9db1d18b-3002-4eaa-ab1c-349a3c35ed42.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-3.00-3P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27124,
+        "companyProductId": null,
+        "maxAcPower": 3000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3000,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3000
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125143,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-3.68-1P",
+      "productCode": "IQBATTERY-5P-3P-INT-3.68-1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/76bae1c1-d9f0-4f89-8bb4-360ef9d7586a.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/36c3c189-e476-4d61-836b-0914326a8b71.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-3.68-1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27120,
+        "companyProductId": null,
+        "maxAcPower": 3680,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125139,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-3.68-3P",
+      "productCode": "IQBATTERY-5P-3P-INT-3.68-3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b9e28de9-c0d2-4524-b9aa-713a1469ae7b.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/ee2b6e14-f13e-41c2-905d-23a2110d2d96.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-3.68-3P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27116,
+        "companyProductId": null,
+        "maxAcPower": 3.68,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": null,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 3680,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3680
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": null
+        }
+      }
+    },
+    {
+      "id": 125144,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-3.84-1P",
+      "productCode": "IQBATTERY-5P-3P-INT-3.84-1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/49f74879-1af6-4fe5-a693-211dcb6b12b8.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/8a221454-715c-4363-9564-88ed60d3f6d7.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-3.84-1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27121,
+        "companyProductId": null,
+        "maxAcPower": 3840,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3840,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3840
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 125138,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "IQBATTERY-5P-3P-INT-3.84-3P",
+      "productCode": "IQBATTERY-5P-3P-INT-3.84-3P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/344fcba5-983d-4e43-91be-1bbdc38f927d.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/79c0ea1e-d7a9-49e9-9ebf-c7ba8349de67.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": ">60% capacity, up to 15 years or 6000 cycles",
+      "cecModelNumber": "IQBATTERY-5P-3P-INT-3.84-3P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE",
+        "UL 9540A",
+        "AS/NZS 4777.2:2020 + A2",
+        "EN 50065-2-2",
+        "IEC 61000-3-2",
+        "IEC 61000-3-3",
+        "IEC 61000-4-2",
+        "IEC 61000-4-3",
+        "IEC 61000-4-4",
+        "IEC 61000-4-5",
+        "IEC 61000-4-11",
+        "IEC 61000-6-2",
+        "AS IEC 62040.1",
+        "EN IEC 62109-1",
+        "EN IEC 62109-2",
+        "AS IEC 62619",
+        "UN 38.3"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 27115,
+        "companyProductId": null,
+        "maxAcPower": 3840,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 76.8,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 3840,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Battery-only",
+        "height": 980,
+        "width": 550,
+        "depth": 188,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.009,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": 1,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 76.8
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 3840
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23743,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "M215-60-230-S22",
+      "productCode": "M215-60-230-S22",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/606a3919-5967-4079-a467-935bf7fe1650.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_M215-60-230-S22.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12853,
+        "companyProductId": null,
+        "maxAcPower": 225,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 45,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 36,
+        "nominalAcPower": 215,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 164,
+        "width": 172,
+        "depth": 25,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 270,
+        "dcInputs": 1,
+        "maxEfficiency": 0.954,
+        "euroEfficiency": 0.954,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 45
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 215
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1201,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "M215-60-230-S22-E",
+      "productCode": "M215-60-230-S22-E",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3e972c4d-0e6c-4f17-adfc-22e808b34699.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_M215-60-230-S22-E.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 143,
+        "companyProductId": null,
+        "maxAcPower": 225,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 215,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 217,
+        "width": 179,
+        "depth": 28,
+        "weight": 1.66,
+        "display": null,
+        "maxDcPower": 270,
+        "dcInputs": null,
+        "maxEfficiency": 0.957,
+        "euroEfficiency": 0.957,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 215
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1837,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "M250-60-230-S22",
+      "productCode": "M250-60-230-S22",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/25def266-8adf-4229-9ee9-a61e7693394a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_M250-72-2LN-S2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 465,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 39,
+        "nominalAcPower": 250,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 217,
+        "width": 179,
+        "depth": 28,
+        "weight": 1.66,
+        "display": null,
+        "maxDcPower": 310,
+        "dcInputs": null,
+        "maxEfficiency": 0.957,
+        "euroEfficiency": 0.957,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 250
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1838,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "M250-60-230-S25",
+      "productCode": "M250-60-230-S25",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7a864ecd-a354-4d0f-8937-b425f5e95912.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_M250-72-2LN-S2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 466,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 39,
+        "nominalAcPower": 250,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 217,
+        "width": 179,
+        "depth": 28,
+        "weight": 1.66,
+        "display": null,
+        "maxDcPower": 310,
+        "dcInputs": null,
+        "maxEfficiency": 0.957,
+        "euroEfficiency": 0.957,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 250
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1104,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "M250-72-2LN-S2",
+      "productCode": "M250-72-2LN-S2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1b639735-4f72-4604-8dbd-93cf1e47a55a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_M250-72-2LN-S2.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 46,
+        "companyProductId": null,
+        "maxAcPower": 258,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 250,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 217,
+        "width": 179,
+        "depth": 28,
+        "weight": 1.66,
+        "display": null,
+        "maxDcPower": 310,
+        "dcInputs": null,
+        "maxEfficiency": 0.957,
+        "euroEfficiency": 0.957,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 250
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 1839,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "M250-72-2LN-S5",
+      "productCode": "M250-72-2LN-S5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/f7429520-593e-41e5-ade4-bb56618975d7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_M250-72-2LN-S2.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 467,
+        "companyProductId": null,
+        "maxAcPower": 250,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 250,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 217,
+        "width": 179,
+        "depth": 28,
+        "weight": 1.66,
+        "display": null,
+        "maxDcPower": 310,
+        "dcInputs": null,
+        "maxEfficiency": 0.957,
+        "euroEfficiency": 0.957,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 250
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23497,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S230-60-LN-2",
+      "productCode": "S230-60-LN-2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/8fae0dab-dda4-42e6-947f-ad27f2efa15f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S230-60-LN-2.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12607,
+        "companyProductId": null,
+        "maxAcPower": 230,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 37,
+        "nominalAcPower": 220,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 285,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.958,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 220
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23932,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S230-60-LN-2-AU",
+      "productCode": "S230-60-LN-2-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/cdd89f49-3e6b-460b-b1c0-f87f791d5b64.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S230-60-LN-2-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13042,
+        "companyProductId": null,
+        "maxAcPower": 230,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 220,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 285,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.958,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 220
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20316,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S230-60-LN-5",
+      "productCode": "S230-60-LN-5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bde80b45-09fa-4b89-be8a-d64c7db69554.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S230-60-LN-5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9426,
+        "companyProductId": null,
+        "maxAcPower": 230,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 37,
+        "nominalAcPower": 220,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 285,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.958,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 220
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21149,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S230-60-LN-5-AU",
+      "productCode": "S230-60-LN-5-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/966234af-c3a2-4b91-9b40-cbb4acd96c9b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S230-60-LN-5-AU.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10259,
+        "companyProductId": null,
+        "maxAcPower": 230,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 48,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 27,
+        "mpptVoltageMax": 37,
+        "nominalAcPower": 220,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 285,
+        "dcInputs": 0,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.958,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 48
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 220
+        },
+        "mppt_voltage_min": {
+          "value": 27
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24535,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S270-72-LN-2",
+      "productCode": "S270-72-LN-2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/56346692-952d-4cd6-aecb-b03c31758876.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S270-72-LN-2.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13645,
+        "companyProductId": null,
+        "maxAcPower": 270,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 48,
+        "nominalAcPower": 260,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.969,
+        "euroEfficiency": 0.956,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 260
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24070,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S270-72-LN-2-AU",
+      "productCode": "S270-72-LN-2-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/0f68df3f-bf95-4699-b8c4-19abd34ddbb9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S270-72-LN-2-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13180,
+        "companyProductId": null,
+        "maxAcPower": 270,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 260,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.969,
+        "euroEfficiency": 0.956,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 260
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24606,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S270-72-LN-5",
+      "productCode": "S270-72-LN-5",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/02b513b3-eacd-48a3-a24f-2431e9e0544e.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S270-72-LN-5.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13716,
+        "companyProductId": null,
+        "maxAcPower": 270,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 260,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.969,
+        "euroEfficiency": 0.956,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 260
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23802,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 264,
+      "brandName": "Enphase",
+      "brandLogo": "https://file.greensketch.net/brands/logo/enphase_logo.png",
+      "productName": "S270-72-LN-5-AU",
+      "productCode": "S270-72-LN-5-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b168924d-ad6f-4172-abd1-cef2ea2a9cb5.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Enphase_S270-72-LN-5-AU.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12912,
+        "companyProductId": null,
+        "maxAcPower": 270,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 60,
+        "minDcVoltageToStartFeedIn": 22,
+        "mpptVoltageMin": 16,
+        "mpptVoltageMax": 60,
+        "nominalAcPower": 260,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "PV-only Inverter",
+        "height": 175,
+        "width": 172,
+        "depth": 35,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 350,
+        "dcInputs": 0,
+        "maxEfficiency": 0.969,
+        "euroEfficiency": 0.956,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 60
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 22
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 260
+        },
+        "mppt_voltage_min": {
+          "value": 16
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

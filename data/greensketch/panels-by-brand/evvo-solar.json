@@ -1,0 +1,1433 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "EVVO Solar",
+  "count": 16,
+  "exportedAt": "2026-09-23T06:32:14.052Z",
+  "items": [
+    {
+      "id": 32254,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-515W-182/144",
+      "productCode": "EV-515W-182/144",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-515W-182_144.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-515W-182_144.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10254,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 515,
+        "stcVoltageAtMaximumPowerVmpp": 41.89,
+        "stcShortCircuitCurrentIsc": 13.49,
+        "stcOpenCircuitVoltageVoc": 48.72,
+        "stcCurrentAtMaximumPowerImpp": 12.6,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2279,
+        "width": 1134,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.199,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.49
+        },
+        "stc_voc": {
+          "value": 48.72
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 515
+        },
+        "cec_model": {
+          "value": "EV-515W-182/144"
+        },
+        "stc_vmpp": {
+          "value": 41.89
+        }
+      }
+    },
+    {
+      "id": 39201,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-520W-182/144",
+      "productCode": "EV-520W-182/144",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-520W-182_144.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-520W-182_144.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17201,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 520,
+        "stcVoltageAtMaximumPowerVmpp": 41.1,
+        "stcShortCircuitCurrentIsc": 13.56,
+        "stcOpenCircuitVoltageVoc": 48.92,
+        "stcCurrentAtMaximumPowerImpp": 12.66,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2279,
+        "width": 1134,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.201,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.56
+        },
+        "stc_voc": {
+          "value": 48.92
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 520
+        },
+        "cec_model": {
+          "value": "EV-520W-182/144"
+        },
+        "stc_vmpp": {
+          "value": 41.1
+        }
+      }
+    },
+    {
+      "id": 20071,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-525W-182/144",
+      "productCode": "EV-525W-182/144",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-525W-182_144.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-525W-182_144.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6952,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 525,
+        "stcVoltageAtMaximumPowerVmpp": 41.26,
+        "stcShortCircuitCurrentIsc": 13.63,
+        "stcOpenCircuitVoltageVoc": 49.12,
+        "stcCurrentAtMaximumPowerImpp": 12.73,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2279,
+        "width": 1134,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.203,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.63
+        },
+        "stc_voc": {
+          "value": 49.12
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 525
+        },
+        "cec_model": {
+          "value": "EV-525W-182/144"
+        },
+        "stc_vmpp": {
+          "value": 41.26
+        }
+      }
+    },
+    {
+      "id": 19782,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-530W-182/144",
+      "productCode": "EV-530W-182/144",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-530W-182_144.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-530W-182_144.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6663,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 530,
+        "stcVoltageAtMaximumPowerVmpp": 41.41,
+        "stcShortCircuitCurrentIsc": 13.7,
+        "stcOpenCircuitVoltageVoc": 49.32,
+        "stcCurrentAtMaximumPowerImpp": 12.81,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2279,
+        "width": 1134,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.205,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.7
+        },
+        "stc_voc": {
+          "value": 49.32
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 530
+        },
+        "cec_model": {
+          "value": "EV-530W-182/144"
+        },
+        "stc_vmpp": {
+          "value": 41.41
+        }
+      }
+    },
+    {
+      "id": 35482,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-535W-182/144",
+      "productCode": "EV-535W-182/144",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-535W-182_144.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-535W-182_144.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13482,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.55,
+        "stcShortCircuitCurrentIsc": 13.78,
+        "stcOpenCircuitVoltageVoc": 49.52,
+        "stcCurrentAtMaximumPowerImpp": 12.88,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2279,
+        "width": 1134,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2068,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.78
+        },
+        "stc_voc": {
+          "value": 49.52
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "EV-535W-182/144"
+        },
+        "stc_vmpp": {
+          "value": 41.55
+        }
+      }
+    },
+    {
+      "id": 37088,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-540W-182/144",
+      "productCode": "EV-540W-182/144",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-540W-182_144.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-540W-182_144.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15088,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 41.72,
+        "stcShortCircuitCurrentIsc": 13.86,
+        "stcOpenCircuitVoltageVoc": 49.69,
+        "stcCurrentAtMaximumPowerImpp": 12.95,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2279,
+        "width": 1134,
+        "depth": 35,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2088,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.86
+        },
+        "stc_voc": {
+          "value": 49.69
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "EV-540W-182/144"
+        },
+        "stc_vmpp": {
+          "value": 41.72
+        }
+      }
+    },
+    {
+      "id": 33684,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-635W-210/132",
+      "productCode": "EV-635W-210/132",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-635W-210_132.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-635W-210_132.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11684,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 635,
+        "stcVoltageAtMaximumPowerVmpp": 37.1,
+        "stcShortCircuitCurrentIsc": 18.16,
+        "stcOpenCircuitVoltageVoc": 44.9,
+        "stcCurrentAtMaximumPowerImpp": 17.06,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2284,
+        "width": 1303,
+        "depth": 35,
+        "weight": 40,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2044,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 18.16
+        },
+        "stc_voc": {
+          "value": 44.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 635
+        },
+        "cec_model": {
+          "value": "EV-635W-210/132"
+        },
+        "stc_vmpp": {
+          "value": 37.1
+        }
+      }
+    },
+    {
+      "id": 18300,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-640W-210/132",
+      "productCode": "EV-640W-210/132",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-640W-210/132.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-640W-210/132.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5181,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 640,
+        "stcVoltageAtMaximumPowerVmpp": 37.3,
+        "stcShortCircuitCurrentIsc": 18.21,
+        "stcOpenCircuitVoltageVoc": 45.1,
+        "stcCurrentAtMaximumPowerImpp": 17.12,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2284,
+        "width": 1303,
+        "depth": 35,
+        "weight": 40,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.206,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 18.21
+        },
+        "stc_voc": {
+          "value": 45.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 640
+        },
+        "cec_model": {
+          "value": "EV-640W-210/132"
+        },
+        "stc_vmpp": {
+          "value": 37.3
+        }
+      }
+    },
+    {
+      "id": 18779,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-645W-210/132",
+      "productCode": "EV-645W-210/132",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-645W-210/132.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-645W-210/132.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5660,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 645,
+        "stcVoltageAtMaximumPowerVmpp": 37.5,
+        "stcShortCircuitCurrentIsc": 18.26,
+        "stcOpenCircuitVoltageVoc": 45.3,
+        "stcCurrentAtMaximumPowerImpp": 17.21,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2284,
+        "width": 1303,
+        "depth": 35,
+        "weight": 40,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.208,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 18.26
+        },
+        "stc_voc": {
+          "value": 45.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 645
+        },
+        "cec_model": {
+          "value": "EV-645W-210/132"
+        },
+        "stc_vmpp": {
+          "value": 37.5
+        }
+      }
+    },
+    {
+      "id": 19388,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-650W-210/132",
+      "productCode": "EV-650W-210/132",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-650W-210_132.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-650W-210_132.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6269,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 650,
+        "stcVoltageAtMaximumPowerVmpp": 37.7,
+        "stcShortCircuitCurrentIsc": 18.31,
+        "stcOpenCircuitVoltageVoc": 45.5,
+        "stcCurrentAtMaximumPowerImpp": 17.25,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2284,
+        "width": 1303,
+        "depth": 35,
+        "weight": 40,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.209,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 18.31
+        },
+        "stc_voc": {
+          "value": 45.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 650
+        },
+        "cec_model": {
+          "value": "EV-650W-210/132"
+        },
+        "stc_vmpp": {
+          "value": 37.7
+        }
+      }
+    },
+    {
+      "id": 38166,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-655W-210/132",
+      "productCode": "EV-655W-210/132",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-655W-210_132.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-655W-210_132.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16166,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 655,
+        "stcVoltageAtMaximumPowerVmpp": 37.9,
+        "stcShortCircuitCurrentIsc": 18.36,
+        "stcOpenCircuitVoltageVoc": 45.7,
+        "stcCurrentAtMaximumPowerImpp": 17.3,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2284,
+        "width": 1303,
+        "depth": 35,
+        "weight": 40,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2109,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 18.36
+        },
+        "stc_voc": {
+          "value": 45.7
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 655
+        },
+        "cec_model": {
+          "value": "EV-655W-210/132"
+        },
+        "stc_vmpp": {
+          "value": 37.9
+        }
+      }
+    },
+    {
+      "id": 38369,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EV-660W-210/132",
+      "productCode": "EV-660W-210/132",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EV-660W-210_132.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EV-660W-210_132.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16369,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 660,
+        "stcVoltageAtMaximumPowerVmpp": 38.1,
+        "stcShortCircuitCurrentIsc": 18.42,
+        "stcOpenCircuitVoltageVoc": 45.9,
+        "stcCurrentAtMaximumPowerImpp": 17.34,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.0027,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2284,
+        "width": 1303,
+        "depth": 35,
+        "weight": 40,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2125,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 18.42
+        },
+        "stc_voc": {
+          "value": 45.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.27
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 660
+        },
+        "cec_model": {
+          "value": "EV-660W-210/132"
+        },
+        "stc_vmpp": {
+          "value": 38.1
+        }
+      }
+    },
+    {
+      "id": 18557,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 10BB 530W",
+      "productCode": "EVVO 10BB 530W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EVVO_10BB_530W.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EVVO_10BB_530W.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5438,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 530,
+        "stcVoltageAtMaximumPowerVmpp": 41.47,
+        "stcShortCircuitCurrentIsc": 13.45,
+        "stcOpenCircuitVoltageVoc": 48.96,
+        "stcCurrentAtMaximumPowerImpp": 12.79,
+        "temperatureCoefficientOfPmax": -0.00397,
+        "temperatureCoefficientOfVoc": -0.00291,
+        "temperatureCoefficientOfIsc": 0.00021,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2278,
+        "width": 1133,
+        "depth": 40,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.206,
+        "noctMaximumPowerPmax": 400.63,
+        "noctVoltageAtMaximumPowerVmpp": 39.11,
+        "noctCurrentAtMaximumPowerImpp": 10.24,
+        "noctOpenCircuitVoltageVoc": 45.82,
+        "noctShortCircuitCurrentIsc": 10.8,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.397
+        },
+        "stc_isc": {
+          "value": 13.45
+        },
+        "stc_voc": {
+          "value": 48.96
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.291
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.021
+        },
+        "power": {
+          "value": 530
+        },
+        "cec_model": {
+          "value": "EVVO 10BB 530W"
+        },
+        "stc_vmpp": {
+          "value": 41.47
+        }
+      }
+    },
+    {
+      "id": 34769,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 10BB 535W",
+      "productCode": "EVVO 10BB 535W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EVVO_10BB_535W.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EVVO_10BB_535W.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12769,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 535,
+        "stcVoltageAtMaximumPowerVmpp": 41.73,
+        "stcShortCircuitCurrentIsc": 13.49,
+        "stcOpenCircuitVoltageVoc": 49.15,
+        "stcCurrentAtMaximumPowerImpp": 12.83,
+        "temperatureCoefficientOfPmax": -0.00397,
+        "temperatureCoefficientOfVoc": -0.00291,
+        "temperatureCoefficientOfIsc": 0.00021,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2278,
+        "width": 1133,
+        "depth": 40,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2074,
+        "noctMaximumPowerPmax": 404.41,
+        "noctVoltageAtMaximumPowerVmpp": 39.29,
+        "noctCurrentAtMaximumPowerImpp": 10.29,
+        "noctOpenCircuitVoltageVoc": 45.96,
+        "noctShortCircuitCurrentIsc": 10.83,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.397
+        },
+        "stc_isc": {
+          "value": 13.49
+        },
+        "stc_voc": {
+          "value": 49.15
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.291
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.021
+        },
+        "power": {
+          "value": 535
+        },
+        "cec_model": {
+          "value": "EVVO 10BB 535W"
+        },
+        "stc_vmpp": {
+          "value": 41.73
+        }
+      }
+    },
+    {
+      "id": 38682,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 10BB 540W",
+      "productCode": "EVVO 10BB 540W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EVVO_10BB_540W.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EVVO_10BB_540W.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 16682,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 540,
+        "stcVoltageAtMaximumPowerVmpp": 42.06,
+        "stcShortCircuitCurrentIsc": 13.52,
+        "stcOpenCircuitVoltageVoc": 49.34,
+        "stcCurrentAtMaximumPowerImpp": 12.85,
+        "temperatureCoefficientOfPmax": -0.00397,
+        "temperatureCoefficientOfVoc": -0.00291,
+        "temperatureCoefficientOfIsc": 0.00021,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2278,
+        "width": 1133,
+        "depth": 40,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2094,
+        "noctMaximumPowerPmax": 408.19,
+        "noctVoltageAtMaximumPowerVmpp": 39.49,
+        "noctCurrentAtMaximumPowerImpp": 10.35,
+        "noctOpenCircuitVoltageVoc": 46.21,
+        "noctShortCircuitCurrentIsc": 10.91,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.397
+        },
+        "stc_isc": {
+          "value": 13.52
+        },
+        "stc_voc": {
+          "value": 49.34
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.291
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.021
+        },
+        "power": {
+          "value": 540
+        },
+        "cec_model": {
+          "value": "EVVO 10BB 540W"
+        },
+        "stc_vmpp": {
+          "value": 42.06
+        }
+      }
+    },
+    {
+      "id": 34276,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1256,
+      "brandName": "EVVO Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/logo.png",
+      "productName": "EVVO 10BB 545W",
+      "productCode": "EVVO 10BB 545W",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/EVVO_Solar_EVVO_10BB_545W.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/EVVO_Solar_EVVO_10BB_545W.pdf",
+      "productWarranty": "12",
+      "performanceWarranty": "27",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12276,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 545,
+        "stcVoltageAtMaximumPowerVmpp": 42.28,
+        "stcShortCircuitCurrentIsc": 13.56,
+        "stcOpenCircuitVoltageVoc": 49.45,
+        "stcCurrentAtMaximumPowerImpp": 12.9,
+        "temperatureCoefficientOfPmax": -0.00397,
+        "temperatureCoefficientOfVoc": -0.00291,
+        "temperatureCoefficientOfIsc": 0.00021,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.007,
+        "height": 2278,
+        "width": 1133,
+        "depth": 40,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2113,
+        "noctMaximumPowerPmax": 411.97,
+        "noctVoltageAtMaximumPowerVmpp": 39,
+        "noctCurrentAtMaximumPowerImpp": 10.57,
+        "noctOpenCircuitVoltageVoc": 46.35,
+        "noctShortCircuitCurrentIsc": 10.95,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.397
+        },
+        "stc_isc": {
+          "value": 13.56
+        },
+        "stc_voc": {
+          "value": 49.45
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.291
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.021
+        },
+        "power": {
+          "value": 545
+        },
+        "cec_model": {
+          "value": "EVVO 10BB 545W"
+        },
+        "stc_vmpp": {
+          "value": 42.28
+        }
+      }
+    }
+  ]
+}

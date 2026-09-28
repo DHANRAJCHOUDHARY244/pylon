@@ -1,0 +1,345 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "LG",
+  "count": 4,
+  "exportedAt": "2026-09-23T06:39:42.221Z",
+  "items": [
+    {
+      "id": 20825,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 219,
+      "brandName": "LG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/8cec3c15-c13b-42c1-b590-2eb59387e2bc.png",
+      "productName": "LG ESS Home 10 (D010KE1N211)",
+      "productCode": "LG ESS Home 10 (D010KE1N211)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/810bcf90-8c88-4385-8025-24bb8f7af3fc.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/LG_LG_ESS_Home_10_(D010KE1N211).pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9935,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 599,
+        "width": 450,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 124592,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 219,
+      "brandName": "LG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/8cec3c15-c13b-42c1-b590-2eb59387e2bc.png",
+      "productName": "LG ESS Home 8 (D008KE1N211)",
+      "productCode": "LG ESS Home 8 (D008KE1N211)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ae6a3e82-542b-4148-8fa5-ccf9cef6853e.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/96a4e722-9bb5-4269-944c-2645537c2a66.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1/-2",
+        "EN 61000 Series",
+        "EN 55011",
+        "EN 301",
+        "2014/53/EU RED",
+        "EN 50549-1",
+        "VDE-AR4105:11-2018",
+        "DIN VDE V 0124-100",
+        "TOR Erzeuger Type A",
+        "OVE-R25",
+        "C10/C11",
+        "RD 1699",
+        "TED 749",
+        "NTS 2.0",
+        "UNE 206007-1",
+        "UNE 217002",
+        "UNE 217001",
+        "TF 3.3.1",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 26934,
+        "companyProductId": null,
+        "maxAcPower": 8000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 13,
+        "type": "Hybrid Inverter",
+        "height": 599,
+        "width": 450,
+        "depth": 210,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.977,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 1,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 13
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 24518,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 219,
+      "brandName": "LG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/8cec3c15-c13b-42c1-b590-2eb59387e2bc.png",
+      "productName": "LGES-5048 (AS4777-2 2020)",
+      "productCode": "LGES-5048 (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/b0567920-b7c4-4113-ab78-1d9b37ff7fc6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/f7492fb4-9220-41be-8e1e-491644842de8/LGES-5048_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13628,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "Hybrid Inverter",
+        "height": 440,
+        "width": 516,
+        "depth": 184,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23833,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 219,
+      "brandName": "LG",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/8cec3c15-c13b-42c1-b590-2eb59387e2bc.png",
+      "productName": "LGES-5048-NS (AS4777-2 2020)",
+      "productCode": "LGES-5048-NS (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d85bdd56-b3cf-4efc-940f-114967f01f3d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/LG_LGES-5048-NS_(AS4777-2_2020).pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12943,
+        "companyProductId": null,
+        "maxAcPower": 4600,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 580,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 120,
+        "mpptVoltageMax": 550,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 13.8,
+        "type": "Hybrid Inverter",
+        "height": 440,
+        "width": 516,
+        "depth": 184,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 580
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 13.8
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 120
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

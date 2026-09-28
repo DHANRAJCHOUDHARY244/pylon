@@ -1,0 +1,98 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Yingli Solar",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:32:24.487Z",
+  "items": [
+    {
+      "id": 41335,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1234,
+      "brandName": "Yingli Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/5a026d59-5b65-4af6-99d5-ee7746a3629b.png",
+      "productName": " YL655CF60 f/2",
+      "productCode": "YL655CF60 f/2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/27/32cbea83-5fb8-4f69-a367-d8bb6032503f.jpg",
+      "datasheet": "https://file.greensketch.ai/green-sketch/prod/document/e22d409b-c241-478c-99c9-97e3abcf2252.pdf",
+      "productWarranty": "12.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "YL655CF60 f/2 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 18134,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 655,
+        "stcVoltageAtMaximumPowerVmpp": 37.41,
+        "stcShortCircuitCurrentIsc": 18.42,
+        "stcOpenCircuitVoltageVoc": 44.45,
+        "stcCurrentAtMaximumPowerImpp": 17.51,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.00042,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2172,
+        "width": 1303,
+        "depth": 33,
+        "weight": 34.6,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": 498,
+        "noctVoltageAtMaximumPowerVmpp": 35.69,
+        "noctCurrentAtMaximumPowerImpp": 13.96,
+        "noctOpenCircuitVoltageVoc": 42.21,
+        "noctShortCircuitCurrentIsc": 14.84,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 18.42
+        },
+        "stc_voc": {
+          "value": 44.45
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.042
+        },
+        "power": {
+          "value": 655
+        },
+        "cec_model": {
+          "value": "YL655CF60 f/2"
+        },
+        "stc_vmpp": {
+          "value": 37.41
+        }
+      }
+    }
+  ]
+}

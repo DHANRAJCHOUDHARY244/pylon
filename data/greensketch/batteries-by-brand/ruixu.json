@@ -1,0 +1,61 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "RUiXU",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:23.028Z",
+  "items": [
+    {
+      "id": 127699,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 3135,
+      "brandName": "RUiXU",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/84505cbe-2789-4b36-b583-03ac7e628ba9.webp",
+      "productName": "Lithi2-16",
+      "productCode": "Lithi2-16",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/94e53cbd-0680-4b19-8f25-c94a08542a66.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/4da8383b-b9ee-495f-ab06-a74543cabb06.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "≥9500 cycles @ 80% DOD, 15 Years Design Life",
+      "cecModelNumber": "Lithi2-16",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE/IEC62619/UN38.3",
+        "UL1973/UL9540"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 15648,
+        "companyProductId": null,
+        "nominalEnergy": 16,
+        "usableEnergy": 16,
+        "depthOfDischarge": 1,
+        "roundTripEfficiency": 0.9,
+        "cycleLife": null,
+        "length": 250,
+        "width": 543,
+        "height": 924,
+        "batteryType": "Lithium Iron Phosphate",
+        "weight": 145,
+        "ratedDcVoltage": 51.2,
+        "maxAcPower": 0,
+        "ipRating": "",
+        "batteryChemistry": "LiFePO4",
+        "maxOutputPower": 10000,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Trina Solar",
+  "count": 6,
+  "exportedAt": "2026-09-23T06:32:14.075Z",
+  "items": [
+    {
+      "id": 124268,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 214,
+      "brandName": "Trina Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/77187339-b29c-4a23-9669-1c85877dd647.png",
+      "productName": " Vertex S+ DUAL GLASS N type i-TOPCon MODULE TSM-NEG18R.28 485–510W",
+      "productCode": "TSM-515NEG18R.28",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/a39970f4-24e4-4bae-9a25-fd1b1d624cfc.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/01/16/3c049660-3c0e-4536-ab65-fd4791d015fd.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30 year Power Warranty, 1% first year degradation, 0.4% Annual Power Attenuation",
+      "cecModelNumber": "TSM-515NEG18R.28 (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215",
+        "IEC61730",
+        "IEC61701",
+        "IEC62716",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System"
+      ],
+      "panel": {
+        "id": 69920,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 515,
+        "stcVoltageAtMaximumPowerVmpp": 33.9,
+        "stcShortCircuitCurrentIsc": 15.96,
+        "stcOpenCircuitVoltageVoc": 40.9,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "i-TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 394,
+        "noctVoltageAtMaximumPowerVmpp": 32.2,
+        "noctCurrentAtMaximumPowerImpp": 12.23,
+        "noctOpenCircuitVoltageVoc": 38.8,
+        "noctShortCircuitCurrentIsc": 12.86,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4 EVO2",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.96
+        },
+        "stc_voc": {
+          "value": 40.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 515
+        },
+        "cec_model": {
+          "value": "TSM-515NEG18R.28"
+        },
+        "stc_vmpp": {
+          "value": 33.9
+        }
+      }
+    },
+    {
+      "id": 125994,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 214,
+      "brandName": "Trina Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/77187339-b29c-4a23-9669-1c85877dd647.png",
+      "productName": " Vertex S+ DUAL GLASS N type i-TOPCon MODULE TSM-NEG18R.28 485–510W",
+      "productCode": "TSM-500NEG18R.28",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/03/11/06dd3231-3bc1-4163-b61f-9095350161ac.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/03/11/b625586a-2b36-44d3-84a3-e283bde475ea.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30 year Power Warranty; 1% first year degradation; 0.4% annual degradation",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215/IEC61730/IEC61701/IEC62716",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System",
+        "TUV SUD",
+        "CE",
+        "PV CYCLE"
+      ],
+      "panel": {
+        "id": 70610,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 500,
+        "stcVoltageAtMaximumPowerVmpp": 33.3,
+        "stcShortCircuitCurrentIsc": 15.86,
+        "stcOpenCircuitVoltageVoc": 40.1,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "i-TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 382,
+        "noctVoltageAtMaximumPowerVmpp": 31.5,
+        "noctCurrentAtMaximumPowerImpp": 12.11,
+        "noctOpenCircuitVoltageVoc": 38,
+        "noctShortCircuitCurrentIsc": 12.78,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.86
+        },
+        "stc_voc": {
+          "value": 40.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 500
+        },
+        "cec_model": {
+          "value": "TSM-500NEG18R.28"
+        },
+        "stc_vmpp": {
+          "value": 33.3
+        }
+      }
+    },
+    {
+      "id": 125992,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 214,
+      "brandName": "Trina Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/77187339-b29c-4a23-9669-1c85877dd647.png",
+      "productName": " Vertex S+ DUAL GLASS N type i-TOPCon MODULE TSM-NEG18R.28 485–510W",
+      "productCode": "TSM-490NEG18R.28",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/03/11/06dd3231-3bc1-4163-b61f-9095350161ac.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/03/11/b625586a-2b36-44d3-84a3-e283bde475ea.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30 year Power Warranty; 1% first year degradation; 0.4% annual degradation",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215/IEC61730/IEC61701/IEC62716",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System",
+        "TUV SUD",
+        "CE",
+        "PV CYCLE"
+      ],
+      "panel": {
+        "id": 70608,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 490,
+        "stcVoltageAtMaximumPowerVmpp": 32.9,
+        "stcShortCircuitCurrentIsc": 15.8,
+        "stcOpenCircuitVoltageVoc": 39.6,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "i-TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 375,
+        "noctVoltageAtMaximumPowerVmpp": 31,
+        "noctCurrentAtMaximumPowerImpp": 12.06,
+        "noctOpenCircuitVoltageVoc": 37.6,
+        "noctShortCircuitCurrentIsc": 12.74,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.8
+        },
+        "stc_voc": {
+          "value": 39.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 490
+        },
+        "cec_model": {
+          "value": "TSM-490NEG18R.28"
+        },
+        "stc_vmpp": {
+          "value": 32.9
+        }
+      }
+    },
+    {
+      "id": 125991,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 214,
+      "brandName": "Trina Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/77187339-b29c-4a23-9669-1c85877dd647.png",
+      "productName": " Vertex S+ DUAL GLASS N type i-TOPCon MODULE TSM-NEG18R.28 485–510W",
+      "productCode": "TSM-485NEG18R.28",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/03/11/06dd3231-3bc1-4163-b61f-9095350161ac.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/03/11/b625586a-2b36-44d3-84a3-e283bde475ea.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30 year Power Warranty; 1% first year degradation; 0.4% annual degradation",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215/IEC61730/IEC61701/IEC62716",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System",
+        "TUV SUD",
+        "CE",
+        "PV CYCLE"
+      ],
+      "panel": {
+        "id": 70607,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 485,
+        "stcVoltageAtMaximumPowerVmpp": 32.7,
+        "stcShortCircuitCurrentIsc": 15.76,
+        "stcOpenCircuitVoltageVoc": 39.4,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "i-TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.218,
+        "noctMaximumPowerPmax": 371,
+        "noctVoltageAtMaximumPowerVmpp": 30.8,
+        "noctCurrentAtMaximumPowerImpp": 12.02,
+        "noctOpenCircuitVoltageVoc": 37.4,
+        "noctShortCircuitCurrentIsc": 12.7,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.76
+        },
+        "stc_voc": {
+          "value": 39.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 485
+        },
+        "cec_model": {
+          "value": "TSM-485NEG18R.28"
+        },
+        "stc_vmpp": {
+          "value": 32.7
+        }
+      }
+    },
+    {
+      "id": 125995,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 214,
+      "brandName": "Trina Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/77187339-b29c-4a23-9669-1c85877dd647.png",
+      "productName": " Vertex S+ DUAL GLASS N type i-TOPCon MODULE TSM-NEG18R.28 485–510W",
+      "productCode": "TSM-505NEG18R.28",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/03/11/06dd3231-3bc1-4163-b61f-9095350161ac.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/03/11/b625586a-2b36-44d3-84a3-e283bde475ea.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30 year Power Warranty; 1% first year degradation; 0.4% annual degradation",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215/IEC61730/IEC61701/IEC62716",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System",
+        "TUV SUD",
+        "CE",
+        "PV CYCLE"
+      ],
+      "panel": {
+        "id": 70611,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 505,
+        "stcVoltageAtMaximumPowerVmpp": 33.5,
+        "stcShortCircuitCurrentIsc": 15.89,
+        "stcOpenCircuitVoltageVoc": 40.3,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "i-TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": 386,
+        "noctVoltageAtMaximumPowerVmpp": 31.8,
+        "noctCurrentAtMaximumPowerImpp": 12.15,
+        "noctOpenCircuitVoltageVoc": 38.3,
+        "noctShortCircuitCurrentIsc": 12.81,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.89
+        },
+        "stc_voc": {
+          "value": 40.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 505
+        },
+        "cec_model": {
+          "value": "TSM-505NEG18R.28"
+        },
+        "stc_vmpp": {
+          "value": 33.5
+        }
+      }
+    },
+    {
+      "id": 125993,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 214,
+      "brandName": "Trina Solar",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/77187339-b29c-4a23-9669-1c85877dd647.png",
+      "productName": " Vertex S+ DUAL GLASS N type i-TOPCon MODULE TSM-NEG18R.28 485–510W",
+      "productCode": "TSM-495NEG18R.28",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/03/11/06dd3231-3bc1-4163-b61f-9095350161ac.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/03/11/b625586a-2b36-44d3-84a3-e283bde475ea.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30 year Power Warranty; 1% first year degradation; 0.4% annual degradation",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215/IEC61730/IEC61701/IEC62716",
+        "ISO 9001: Quality Management System",
+        "ISO 14001: Environmental Management System",
+        "ISO14064: Greenhouse Gases Emissions Verification",
+        "ISO45001: Occupational Health and Safety Management System",
+        "TUV SUD",
+        "CE",
+        "PV CYCLE"
+      ],
+      "panel": {
+        "id": 70609,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 495,
+        "stcVoltageAtMaximumPowerVmpp": 33.1,
+        "stcShortCircuitCurrentIsc": 15.83,
+        "stcOpenCircuitVoltageVoc": 39.8,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0029,
+        "temperatureCoefficientOfVoc": -0.0024,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1961,
+        "width": 1134,
+        "depth": 30,
+        "weight": 23.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "i-TOPCon",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 378,
+        "noctVoltageAtMaximumPowerVmpp": 31.3,
+        "noctCurrentAtMaximumPowerImpp": 12.08,
+        "noctOpenCircuitVoltageVoc": 37.7,
+        "noctShortCircuitCurrentIsc": 12.76,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.29
+        },
+        "stc_isc": {
+          "value": 15.83
+        },
+        "stc_voc": {
+          "value": 39.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.24
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 495
+        },
+        "cec_model": {
+          "value": "TSM-495NEG18R.28"
+        },
+        "stc_vmpp": {
+          "value": 33.1
+        }
+      }
+    }
+  ]
+}

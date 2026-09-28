@@ -1,0 +1,899 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Apex Solar",
+  "count": 10,
+  "exportedAt": "2026-09-23T06:32:14.063Z",
+  "items": [
+    {
+      "id": 121974,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-400M10",
+      "productCode": "APEX-108H-400M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/386298de-1878-4e92-9cb9-9343e1780759.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/76a959ad-eb2f-4dfe-97b8-dc2b8f7b4158.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68210,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 30.75,
+        "stcShortCircuitCurrentIsc": 13.76,
+        "stcOpenCircuitVoltageVoc": 36.75,
+        "stcCurrentAtMaximumPowerImpp": 13.01,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2046,
+        "noctMaximumPowerPmax": 299,
+        "noctVoltageAtMaximumPowerVmpp": 28.56,
+        "noctCurrentAtMaximumPowerImpp": 10.47,
+        "noctOpenCircuitVoltageVoc": 34.55,
+        "noctShortCircuitCurrentIsc": 11.13,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.76
+        },
+        "stc_voc": {
+          "value": 36.75
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "APEX-108H-400M10"
+        },
+        "stc_vmpp": {
+          "value": 30.75
+        }
+      }
+    },
+    {
+      "id": 121973,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-405M10",
+      "productCode": "APEX-108H-405M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/c98ed6b8-8707-4957-963e-8a0da37d5e91.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/8944b463-2c26-4668-9f63-1e287f1991c3.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68209,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 31,
+        "stcShortCircuitCurrentIsc": 13.83,
+        "stcOpenCircuitVoltageVoc": 37,
+        "stcCurrentAtMaximumPowerImpp": 13.07,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2072,
+        "noctMaximumPowerPmax": 302.7,
+        "noctVoltageAtMaximumPowerVmpp": 28.8,
+        "noctCurrentAtMaximumPowerImpp": 10.52,
+        "noctOpenCircuitVoltageVoc": 34.79,
+        "noctShortCircuitCurrentIsc": 11.18,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.83
+        },
+        "stc_voc": {
+          "value": 37
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "APEX-108H-405M10"
+        },
+        "stc_vmpp": {
+          "value": 31
+        }
+      }
+    },
+    {
+      "id": 121971,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-410M10",
+      "productCode": "APEX-108H-410M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/c7a44558-a5be-483a-9921-435c591b0f0c.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/8ef01165-0244-40fd-ad22-301c03b93a67.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68207,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.25,
+        "stcShortCircuitCurrentIsc": 13.88,
+        "stcOpenCircuitVoltageVoc": 37.25,
+        "stcCurrentAtMaximumPowerImpp": 13.12,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2097,
+        "noctMaximumPowerPmax": 306.5,
+        "noctVoltageAtMaximumPowerVmpp": 29.03,
+        "noctCurrentAtMaximumPowerImpp": 10.56,
+        "noctOpenCircuitVoltageVoc": 35.08,
+        "noctShortCircuitCurrentIsc": 11.22,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.88
+        },
+        "stc_voc": {
+          "value": 37.25
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "APEX-108H-410M10"
+        },
+        "stc_vmpp": {
+          "value": 31.25
+        }
+      }
+    },
+    {
+      "id": 121969,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-415M10",
+      "productCode": "APEX-108H-415M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/abfc8687-db2e-476f-b6ae-194e7495db3d.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/49c6a523-5607-47f5-9fb3-5fec0f947c39.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68205,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.49,
+        "stcShortCircuitCurrentIsc": 13.94,
+        "stcOpenCircuitVoltageVoc": 37.5,
+        "stcCurrentAtMaximumPowerImpp": 13.18,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2123,
+        "noctMaximumPowerPmax": 310.2,
+        "noctVoltageAtMaximumPowerVmpp": 29.25,
+        "noctCurrentAtMaximumPowerImpp": 10.6,
+        "noctOpenCircuitVoltageVoc": 35.26,
+        "noctShortCircuitCurrentIsc": 11.27,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.94
+        },
+        "stc_voc": {
+          "value": 37.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "APEX-108H-415M10"
+        },
+        "stc_vmpp": {
+          "value": 31.49
+        }
+      }
+    },
+    {
+      "id": 121967,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-420M10",
+      "productCode": "APEX-108H-420M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/f58c5c22-4ce3-4a8f-b02b-a86c482a96a5.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/d2dee2b4-b6d7-4e09-8901-2e2f6af1776d.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68203,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 31.73,
+        "stcShortCircuitCurrentIsc": 14.01,
+        "stcOpenCircuitVoltageVoc": 37.75,
+        "stcCurrentAtMaximumPowerImpp": 13.24,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.0055,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2148,
+        "noctMaximumPowerPmax": 313.9,
+        "noctVoltageAtMaximumPowerVmpp": 29.47,
+        "noctCurrentAtMaximumPowerImpp": 10.65,
+        "noctOpenCircuitVoltageVoc": 35.49,
+        "noctShortCircuitCurrentIsc": 11.32,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14.01
+        },
+        "stc_voc": {
+          "value": 37.75
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "APEX-108H-420M10"
+        },
+        "stc_vmpp": {
+          "value": 31.73
+        }
+      }
+    },
+    {
+      "id": 121972,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-N410M10",
+      "productCode": "APEX-108H-N410M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/281f60e5-dc4c-4eba-b08d-f827f10f0c75.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/160efa39-45a5-49e1-958c-e8c4932f0086.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68208,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.13,
+        "stcShortCircuitCurrentIsc": 13.91,
+        "stcOpenCircuitVoltageVoc": 37.73,
+        "stcCurrentAtMaximumPowerImpp": 13.17,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "N-Type Monocrystalline",
+        "cellTechnology": "N-TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.21,
+        "noctMaximumPowerPmax": 308,
+        "noctVoltageAtMaximumPowerVmpp": 29.06,
+        "noctCurrentAtMaximumPowerImpp": 10.61,
+        "noctOpenCircuitVoltageVoc": 35.84,
+        "noctShortCircuitCurrentIsc": 11.23,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.91
+        },
+        "stc_voc": {
+          "value": 37.73
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "APEX-108H-N410M10"
+        },
+        "stc_vmpp": {
+          "value": 31.13
+        }
+      }
+    },
+    {
+      "id": 121970,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-N415M10",
+      "productCode": "APEX-108H-N415M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/3f2006bb-66f4-42bd-bf6d-4a7561d49fa9.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/c613a08a-5633-4324-b751-21c201f9c51a.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68206,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.32,
+        "stcShortCircuitCurrentIsc": 13.99,
+        "stcOpenCircuitVoltageVoc": 37.92,
+        "stcCurrentAtMaximumPowerImpp": 13.25,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "N-Type Monocrystalline",
+        "cellTechnology": "N-TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2113,
+        "noctMaximumPowerPmax": 312,
+        "noctVoltageAtMaximumPowerVmpp": 29.21,
+        "noctCurrentAtMaximumPowerImpp": 10.68,
+        "noctOpenCircuitVoltageVoc": 36.02,
+        "noctShortCircuitCurrentIsc": 11.29,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 13.99
+        },
+        "stc_voc": {
+          "value": 37.92
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "APEX-108H-N415M10"
+        },
+        "stc_vmpp": {
+          "value": 31.32
+        }
+      }
+    },
+    {
+      "id": 121968,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-N420M10",
+      "productCode": "APEX-108H-N420M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/ec064b14-49b1-4833-a2e5-fb360dc9aebc.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/dd39ebe1-6584-43cd-9bd8-d1925c679c65.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68204,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 31.51,
+        "stcShortCircuitCurrentIsc": 14.07,
+        "stcOpenCircuitVoltageVoc": 38.11,
+        "stcCurrentAtMaximumPowerImpp": 13.33,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "N-Type Monocrystalline",
+        "cellTechnology": "N-TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2125,
+        "noctMaximumPowerPmax": 316,
+        "noctVoltageAtMaximumPowerVmpp": 29.34,
+        "noctCurrentAtMaximumPowerImpp": 10.76,
+        "noctOpenCircuitVoltageVoc": 36.2,
+        "noctShortCircuitCurrentIsc": 11.36,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14.07
+        },
+        "stc_voc": {
+          "value": 38.11
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "APEX-108H-N420M10"
+        },
+        "stc_vmpp": {
+          "value": 31.51
+        }
+      }
+    },
+    {
+      "id": 121966,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-N425M10",
+      "productCode": "APEX-108H-N425M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/d2aee7da-97bc-4060-939d-9e24c8df28dd.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/4b45db96-9331-4e49-b36a-d356ca4d58bb.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68202,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 425,
+        "stcVoltageAtMaximumPowerVmpp": 31.7,
+        "stcShortCircuitCurrentIsc": 14.15,
+        "stcOpenCircuitVoltageVoc": 38.3,
+        "stcCurrentAtMaximumPowerImpp": 13.41,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "N-Type Monocrystalline",
+        "cellTechnology": "N-TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2151,
+        "noctMaximumPowerPmax": 320,
+        "noctVoltageAtMaximumPowerVmpp": 29.5,
+        "noctCurrentAtMaximumPowerImpp": 10.83,
+        "noctOpenCircuitVoltageVoc": 36.38,
+        "noctShortCircuitCurrentIsc": 11.42,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14.15
+        },
+        "stc_voc": {
+          "value": 38.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 425
+        },
+        "cec_model": {
+          "value": "APEX-108H-N425M10"
+        },
+        "stc_vmpp": {
+          "value": 31.7
+        }
+      }
+    },
+    {
+      "id": 121965,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2237,
+      "brandName": "Apex Solar",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/1bd4e53d-a907-43b4-a62f-a913f0196bf8.png",
+      "productName": "APEX-108H-N430M10",
+      "productCode": "APEX-108H-N430M10",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/98334cbc-97d2-4cc8-b1ab-4c988bd6a90c.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/8ff21388-3d4b-446f-85f7-abf9cc6af3cd.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68201,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 430,
+        "stcVoltageAtMaximumPowerVmpp": 31.88,
+        "stcShortCircuitCurrentIsc": 14.23,
+        "stcOpenCircuitVoltageVoc": 38.49,
+        "stcCurrentAtMaximumPowerImpp": 13.49,
+        "temperatureCoefficientOfPmax": -0.0034,
+        "temperatureCoefficientOfVoc": -0.0028,
+        "temperatureCoefficientOfIsc": 0.0005,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1724,
+        "width": 1134,
+        "depth": 30,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "N-Type Monocrystalline",
+        "cellTechnology": "N-TOPCon",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2202,
+        "noctMaximumPowerPmax": 323,
+        "noctVoltageAtMaximumPowerVmpp": 29.63,
+        "noctCurrentAtMaximumPowerImpp": 10.91,
+        "noctOpenCircuitVoltageVoc": 36.56,
+        "noctShortCircuitCurrentIsc": 11.49,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.34
+        },
+        "stc_isc": {
+          "value": 14.23
+        },
+        "stc_voc": {
+          "value": 38.49
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.28
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.05
+        },
+        "power": {
+          "value": 430
+        },
+        "cec_model": {
+          "value": "APEX-108H-N430M10"
+        },
+        "stc_vmpp": {
+          "value": 31.88
+        }
+      }
+    }
+  ]
+}

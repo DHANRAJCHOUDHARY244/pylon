@@ -1,0 +1,720 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Bluesun",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.103Z",
+  "items": [
+    {
+      "id": 22608,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "BSE20KH3",
+      "productCode": "BSE20KH3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/24fa58b5-4c3d-45a9-91f8-5acd00a08450.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_BSE20KH3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11718,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "Hybrid Inverter",
+        "height": 558,
+        "width": 535,
+        "depth": 260,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 30000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.983,
+        "euroEfficiency": 0.978,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21603,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "BSE30KH3",
+      "productCode": "BSE30KH3",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c0de5ab6-2dad-41c9-9c46-ee4ab0c6c2d9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_BSE30KH3.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10713,
+        "companyProductId": null,
+        "maxAcPower": 45000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 558,
+        "width": 535,
+        "depth": 260,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.985,
+        "euroEfficiency": 0.981,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 22267,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "BSE6KL1",
+      "productCode": "BSE6KL1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b4198a32-8365-4fb0-a5b4-c8294032e9c1.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_Solar_BSE6KL1.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11377,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 550,
+        "minDcVoltageToStartFeedIn": 125,
+        "mpptVoltageMin": 125,
+        "mpptVoltageMax": 500,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 14,
+        "type": "Hybrid Inverter",
+        "height": 515,
+        "width": 550,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 7000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 550
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 125
+        },
+        "current_isc_max": {
+          "value": 14
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 125
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 21936,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "BSM125K-B",
+      "productCode": "BSM125K-B",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/43cf2304-5209-42ed-adfb-1d952c06784c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_BSM125K-B.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11046,
+        "companyProductId": null,
+        "maxAcPower": 125000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 8,
+        "maxDcVoltage": 1100,
+        "minDcVoltageToStartFeedIn": 350,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 1000,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 965,
+        "depth": 355,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 187500,
+        "dcInputs": 16,
+        "maxEfficiency": 0.987,
+        "euroEfficiency": 0.983,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1100
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 350
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 8
+        }
+      }
+    },
+    {
+      "id": 1898,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "S6-EH3P29.9K-H-AU",
+      "productCode": "S6-EH3P29.9K-H-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/19de0aa3-4ad8-422f-af07-8495b765ff11.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_S6-EH3P40K-H.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": "S6-EH3P29.9K-H-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 523,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 530,
+        "depth": 290,
+        "weight": 73,
+        "display": "",
+        "maxDcPower": 41860,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1350,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "S6-EH3P30K-H",
+      "productCode": "S6-EH3P30K-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b553dcb2-bc8e-423e-99dd-b5bfabfdac2c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_S6-EH3P30K-H.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 292,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 530,
+        "depth": 290,
+        "weight": 73,
+        "display": "LED + Bluetooth + APP",
+        "maxDcPower": 42000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1897,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "S6-EH3P30K-H-LV",
+      "productCode": "S6-EH3P30K-H-LV",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a79ebe06-1394-4198-a858-548c70fc241c.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_S6-EH3P40K-H.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 522,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 3,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 530,
+        "depth": 290,
+        "weight": 73,
+        "display": "LED + Bluetooth + APP",
+        "maxDcPower": 42000,
+        "dcInputs": 3,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 3
+        }
+      }
+    },
+    {
+      "id": 1172,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "S6-EH3P40K-H",
+      "productCode": "S6-EH3P40K-H",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/783f842c-0034-4295-975c-fb09495c2756.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_S6-EH3P40K-H.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 114,
+        "companyProductId": null,
+        "maxAcPower": 40000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 40000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 530,
+        "depth": 290,
+        "weight": 73,
+        "display": "LED + Bluetooth + APP",
+        "maxDcPower": 56000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 40000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    },
+    {
+      "id": 1251,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 277,
+      "brandName": "Bluesun",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Bluesun+Solar.png",
+      "productName": "S6-EH3P50K-H-AU",
+      "productCode": "S6-EH3P50K-H-AU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/c45595d1-bc8e-4d7f-9eec-8d2dd4166e3f.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Bluesun_S6-EH3P50K-H.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "S6-EH3P50K-H-AU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 193,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 4,
+        "maxDcVoltage": 1000,
+        "minDcVoltageToStartFeedIn": 180,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 850,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 880,
+        "width": 530,
+        "depth": 290,
+        "weight": 73,
+        "display": "LEDBluetoothAPP",
+        "maxDcPower": 70000,
+        "dcInputs": 4,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 0,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 1000
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 180
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 4
+        }
+      }
+    }
+  ]
+}

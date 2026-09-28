@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Must",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:39:42.196Z",
+  "items": [
+    {
+      "id": 129853,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2172,
+      "brandName": "Must",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/09a4493c-7335-4f68-907d-c55e5798724d.png",
+      "productName": "PH11-10KL3-EU",
+      "productCode": "PH11-10KL3-EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a07e935-e98b-433e-848c-5968652d1d41.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/e2bf6d32-b601-4141-b5d1-cc74460951b0.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "PH11-10KL3-EU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE-EMC+LVD (EN6100-6-3, EN6100-6-1+EN IEC 62109-1, EN IEC 62109-2)",
+        "CE-LVD(EN 62477-1)",
+        "IEC 60529",
+        "EN50549-1",
+        "Polska Typ A, (NC RfG:2016, PSE:2018, PTPIREE:2021)C10/C11",
+        "UNE217001-2020",
+        "UNE217002-2020",
+        "NTS-631 (typ A)",
+        "G98+G99"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28599,
+        "companyProductId": null,
+        "maxAcPower": 11000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 656,
+        "width": 446,
+        "depth": 285,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129854,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2172,
+      "brandName": "Must",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/09a4493c-7335-4f68-907d-c55e5798724d.png",
+      "productName": "PH11-12KL3-EU",
+      "productCode": "PH11-12KL3-EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a07e935-e98b-433e-848c-5968652d1d41.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/e2bf6d32-b601-4141-b5d1-cc74460951b0.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "PH11-12KL3-EU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE-EMC+LVD (EN6100-6-3, EN6100-6-1+EN IEC 62109-1, EN IEC 62109-2)",
+        "CE-LVD(EN 62477-1)",
+        "IEC 60529",
+        "EN50549-1",
+        "Polska Typ A, (NC RfG:2016, PSE:2018, PTPIREE:2021)C10/C11",
+        "UNE217001-2020",
+        "UNE217002-2020",
+        "NTS-631 (typ A)",
+        "G98+G99"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28600,
+        "companyProductId": null,
+        "maxAcPower": 13200,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 12000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 656,
+        "width": 446,
+        "depth": 285,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 12000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129850,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2172,
+      "brandName": "Must",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/09a4493c-7335-4f68-907d-c55e5798724d.png",
+      "productName": "PH11-5KL3-EU",
+      "productCode": "PH11-5KL3-EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a07e935-e98b-433e-848c-5968652d1d41.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/e2bf6d32-b601-4141-b5d1-cc74460951b0.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "PH11-5KL3-EU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE-EMC+LVD (EN6100-6-3, EN6100-6-1+EN IEC 62109-1, EN IEC 62109-2)",
+        "CE-LVD(EN 62477-1)",
+        "IEC 60529",
+        "EN50549-1",
+        "Polska Typ A, (NC RfG:2016, PSE:2018, PTPIREE:2021)C10/C11",
+        "UNE217001-2020",
+        "UNE217002-2020",
+        "NTS-631 (typ A)",
+        "G98+G99"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28596,
+        "companyProductId": null,
+        "maxAcPower": 5500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 656,
+        "width": 446,
+        "depth": 285,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129851,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2172,
+      "brandName": "Must",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/09a4493c-7335-4f68-907d-c55e5798724d.png",
+      "productName": "PH11-6.5KL3-EU",
+      "productCode": "PH11-6.5KL3 EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a07e935-e98b-433e-848c-5968652d1d41.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/e2bf6d32-b601-4141-b5d1-cc74460951b0.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "PH11-6.5KL3 EU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE-EMC+LVD (EN6100-6-3, EN6100-6-1+EN IEC 62109-1, EN IEC 62109-2)",
+        "CE-LVD(EN 62477-1)",
+        "IEC 60529",
+        "EN50549-1",
+        "Polska Typ A, (NC RfG:2016, PSE:2018, PTPIREE:2021)C10/C11",
+        "UNE217001-2020",
+        "UNE217002-2020",
+        "NTS-631 (typ A)",
+        "G98+G99"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28597,
+        "companyProductId": null,
+        "maxAcPower": 7150,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 6500,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 656,
+        "width": 446,
+        "depth": 285,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 6500
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 129852,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 2172,
+      "brandName": "Must",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/09a4493c-7335-4f68-907d-c55e5798724d.png",
+      "productName": "PH11-8KL3-EU",
+      "productCode": "PH11-8KL3-EU",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/8a07e935-e98b-433e-848c-5968652d1d41.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/07/e2bf6d32-b601-4141-b5d1-cc74460951b0.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": null,
+      "cecModelNumber": "PH11-8KL3-EU (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CE-EMC+LVD (EN6100-6-3, EN6100-6-1+EN IEC 62109-1, EN IEC 62109-2)",
+        "CE-LVD(EN 62477-1)",
+        "IEC 60529",
+        "EN50549-1",
+        "Polska Typ A, (NC RfG:2016, PSE:2018, PTPIREE:2021)C10/C11",
+        "UNE217001-2020",
+        "UNE217002-2020",
+        "NTS-631 (typ A)",
+        "G98+G99"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28598,
+        "companyProductId": null,
+        "maxAcPower": 8800,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 800,
+        "minDcVoltageToStartFeedIn": 160,
+        "mpptVoltageMin": 200,
+        "mpptVoltageMax": 650,
+        "nominalAcPower": 8000,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 656,
+        "width": 446,
+        "depth": 285,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.976,
+        "euroEfficiency": 0.97,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 30,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 800
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 160
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 8000
+        },
+        "mppt_voltage_min": {
+          "value": 200
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

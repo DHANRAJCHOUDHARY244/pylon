@@ -1,0 +1,3095 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Horay",
+  "count": 32,
+  "exportedAt": "2026-09-23T06:32:07.002Z",
+  "items": [
+    {
+      "id": 52124,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS430TC-MHO-D",
+      "productCode": "HS430TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/2f2b0f66-f969-45eb-9f1c-32c6a1d0a0f1.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/c2ca17b2-9aeb-43d1-8de8-22d2f0e53080.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HS430TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 28923,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 430,
+        "stcVoltageAtMaximumPowerVmpp": 32.84,
+        "stcShortCircuitCurrentIsc": 14.15,
+        "stcOpenCircuitVoltageVoc": 39.13,
+        "stcCurrentAtMaximumPowerImpp": 13.11,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2202,
+        "noctMaximumPowerPmax": 328,
+        "noctVoltageAtMaximumPowerVmpp": 30.51,
+        "noctCurrentAtMaximumPowerImpp": 10.74,
+        "noctOpenCircuitVoltageVoc": 37.12,
+        "noctShortCircuitCurrentIsc": 11.43,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.15
+        },
+        "stc_voc": {
+          "value": 39.13
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 430
+        },
+        "cec_model": {
+          "value": "HS430TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 32.84
+        }
+      }
+    },
+    {
+      "id": 130459,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS440TC-MHC-D",
+      "productCode": "HS440TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e80b52f0-2012-44c4-9120-f932415c3d40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/7ee9065d-fe23-436a-b7c2-43eeb0db887a.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 99% at year 1, 87.4% at year 30",
+      "cecModelNumber": "HS440TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 72782,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 29.66,
+        "stcShortCircuitCurrentIsc": 15.66,
+        "stcOpenCircuitVoltageVoc": 35.69,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type, Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.22,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.66
+        },
+        "stc_voc": {
+          "value": 35.69
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "HS440TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 29.66
+        }
+      }
+    },
+    {
+      "id": 52126,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS440TC-MHO-D",
+      "productCode": "HS440TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/efbc34b8-3822-443b-a9d6-f58b0c8c79e7.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/9f80f9d2-7140-4a35-87fe-0ab2ec1b3cc3.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HS440TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 28925,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 33.24,
+        "stcShortCircuitCurrentIsc": 14.33,
+        "stcOpenCircuitVoltageVoc": 39.53,
+        "stcCurrentAtMaximumPowerImpp": 13.24,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2253,
+        "noctMaximumPowerPmax": 336,
+        "noctVoltageAtMaximumPowerVmpp": 30.92,
+        "noctCurrentAtMaximumPowerImpp": 10.86,
+        "noctOpenCircuitVoltageVoc": 37.53,
+        "noctShortCircuitCurrentIsc": 11.55,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.33
+        },
+        "stc_voc": {
+          "value": 39.53
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "HS440TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 33.24
+        }
+      }
+    },
+    {
+      "id": 130460,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS445TC-MHC-D",
+      "productCode": "HS445TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e80b52f0-2012-44c4-9120-f932415c3d40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/7ee9065d-fe23-436a-b7c2-43eeb0db887a.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 99% at year 1, 87.4% at year 30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 72783,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 29.81,
+        "stcShortCircuitCurrentIsc": 15.77,
+        "stcOpenCircuitVoltageVoc": 35.87,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type, Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.223,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.77
+        },
+        "stc_voc": {
+          "value": 35.87
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "HS445TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 29.81
+        }
+      }
+    },
+    {
+      "id": 130549,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS445TC-MHO-D",
+      "productCode": "HS445TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d1ce5f56-eca6-422b-931d-cdebc277ea90.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/27/ad19d61f-6cd2-4d7a-ae67-4406c47be13c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "TÜV Rheinland",
+        "CSI",
+        "MCS",
+        "PV CYCLE",
+        "INMETRO",
+        "CEC",
+        "BloombergNEF"
+      ],
+      "panel": {
+        "id": 72872,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 445,
+        "stcVoltageAtMaximumPowerVmpp": 33.44,
+        "stcShortCircuitCurrentIsc": 14.37,
+        "stcOpenCircuitVoltageVoc": 39.9,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 340,
+        "noctVoltageAtMaximumPowerVmpp": 31.1,
+        "noctCurrentAtMaximumPowerImpp": 31.1,
+        "noctOpenCircuitVoltageVoc": 37.7,
+        "noctShortCircuitCurrentIsc": 11.61,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.37
+        },
+        "stc_voc": {
+          "value": 39.9
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 445
+        },
+        "cec_model": {
+          "value": "HS445TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 33.44
+        }
+      }
+    },
+    {
+      "id": 130461,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS450TC-MHC-D",
+      "productCode": "HS450TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e80b52f0-2012-44c4-9120-f932415c3d40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/7ee9065d-fe23-436a-b7c2-43eeb0db887a.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 99% at year 1, 87.4% at year 30",
+      "cecModelNumber": "HS450TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 72784,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 29.95,
+        "stcShortCircuitCurrentIsc": 15.87,
+        "stcOpenCircuitVoltageVoc": 36.04,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type, Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.225,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.87
+        },
+        "stc_voc": {
+          "value": 36.04
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "HS450TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 29.95
+        }
+      }
+    },
+    {
+      "id": 130550,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS450TC-MHO-D",
+      "productCode": "HS450TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/d1ce5f56-eca6-422b-931d-cdebc277ea90.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/27/ad19d61f-6cd2-4d7a-ae67-4406c47be13c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS450TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "TÜV Rheinland",
+        "CSI",
+        "MCS",
+        "PV CYCLE",
+        "INMETRO",
+        "CEC",
+        "BloombergNEF"
+      ],
+      "panel": {
+        "id": 72873,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 450,
+        "stcVoltageAtMaximumPowerVmpp": 33.64,
+        "stcShortCircuitCurrentIsc": 14.45,
+        "stcOpenCircuitVoltageVoc": 40.1,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 344,
+        "noctVoltageAtMaximumPowerVmpp": 31.3,
+        "noctCurrentAtMaximumPowerImpp": 31.3,
+        "noctOpenCircuitVoltageVoc": 37.9,
+        "noctShortCircuitCurrentIsc": 11.67,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.45
+        },
+        "stc_voc": {
+          "value": 40.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 450
+        },
+        "cec_model": {
+          "value": "HS450TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 33.64
+        }
+      }
+    },
+    {
+      "id": 130462,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS455TC-MHC-D",
+      "productCode": "HS455TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e80b52f0-2012-44c4-9120-f932415c3d40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/7ee9065d-fe23-436a-b7c2-43eeb0db887a.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 99% at year 1, 87.4% at year 30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 72785,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 455,
+        "stcVoltageAtMaximumPowerVmpp": 30.1,
+        "stcShortCircuitCurrentIsc": 15.97,
+        "stcOpenCircuitVoltageVoc": 36.21,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type, Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.97
+        },
+        "stc_voc": {
+          "value": 36.21
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 455
+        },
+        "cec_model": {
+          "value": "HS455TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 30.1
+        }
+      }
+    },
+    {
+      "id": 130463,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS460TC-MHC-D",
+      "productCode": "HS460TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e80b52f0-2012-44c4-9120-f932415c3d40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/7ee9065d-fe23-436a-b7c2-43eeb0db887a.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 99% at year 1, 87.4% at year 30",
+      "cecModelNumber": "HS460TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 72786,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 460,
+        "stcVoltageAtMaximumPowerVmpp": 30.24,
+        "stcShortCircuitCurrentIsc": 16.07,
+        "stcOpenCircuitVoltageVoc": 36.39,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type, Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.07
+        },
+        "stc_voc": {
+          "value": 36.39
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 460
+        },
+        "cec_model": {
+          "value": "HS460TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 30.24
+        }
+      }
+    },
+    {
+      "id": 130464,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS465TC-MHC-D",
+      "productCode": "HS465TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e80b52f0-2012-44c4-9120-f932415c3d40.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/7ee9065d-fe23-436a-b7c2-43eeb0db887a.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 99% at year 1, 87.4% at year 30",
+      "cecModelNumber": "HS465TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "panel": {
+        "id": 72787,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 465,
+        "stcVoltageAtMaximumPowerVmpp": 30.38,
+        "stcShortCircuitCurrentIsc": 16.16,
+        "stcOpenCircuitVoltageVoc": 36.56,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1762,
+        "width": 1134,
+        "depth": 30,
+        "weight": 24.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 96,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type, Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.16
+        },
+        "stc_voc": {
+          "value": 36.56
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 465
+        },
+        "cec_model": {
+          "value": "HS465TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 30.38
+        }
+      }
+    },
+    {
+      "id": 52132,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS470TC-MHO-D",
+      "productCode": "HS470TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/66e1cdfd-fca8-477c-9e55-5557c8b4a393.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/5419938a-2636-42b1-9a90-1bae02b47fc7.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HS470TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 28931,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 470,
+        "stcVoltageAtMaximumPowerVmpp": 36.04,
+        "stcShortCircuitCurrentIsc": 14.08,
+        "stcOpenCircuitVoltageVoc": 42.86,
+        "stcCurrentAtMaximumPowerImpp": 13.04,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 28,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.2171,
+        "noctMaximumPowerPmax": 357,
+        "noctVoltageAtMaximumPowerVmpp": 33.44,
+        "noctCurrentAtMaximumPowerImpp": 10.71,
+        "noctOpenCircuitVoltageVoc": 40.51,
+        "noctShortCircuitCurrentIsc": 11.38,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.08
+        },
+        "stc_voc": {
+          "value": 42.86
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 470
+        },
+        "cec_model": {
+          "value": "HS470TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 36.04
+        }
+      }
+    },
+    {
+      "id": 130454,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS495TC-MHO-D",
+      "productCode": "HS495TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4fc52a45-b37c-4137-8c3e-d803b364285f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/9c06e76e-845d-4537-9363-9cc73bfc327d.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "TÜV Rheinland",
+        "CSI",
+        "MCS",
+        "PV CYCLE",
+        "INMETRO",
+        "CEC"
+      ],
+      "panel": {
+        "id": 72777,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 495,
+        "stcVoltageAtMaximumPowerVmpp": 37.04,
+        "stcShortCircuitCurrentIsc": 14.43,
+        "stcOpenCircuitVoltageVoc": 43.86,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 25.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 378,
+        "noctVoltageAtMaximumPowerVmpp": 34.4,
+        "noctCurrentAtMaximumPowerImpp": 34.4,
+        "noctOpenCircuitVoltageVoc": 41.6,
+        "noctShortCircuitCurrentIsc": 11.66,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.43
+        },
+        "stc_voc": {
+          "value": 43.86
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 495
+        },
+        "cec_model": {
+          "value": "HS495TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 37.04
+        }
+      }
+    },
+    {
+      "id": 130465,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS500TC-MHC-D",
+      "productCode": "HS500TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e2936078-2631-47ec-985c-cf64c58d4cd2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/ee594301-e922-410f-914e-1ba0f79bf197.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS500TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland IEC 61215",
+        "TÜV Rheinland IEC 61730"
+      ],
+      "panel": {
+        "id": 72788,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 500,
+        "stcVoltageAtMaximumPowerVmpp": 33.37,
+        "stcShortCircuitCurrentIsc": 15.82,
+        "stcOpenCircuitVoltageVoc": 40.16,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.224,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.82
+        },
+        "stc_voc": {
+          "value": 40.16
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 500
+        },
+        "cec_model": {
+          "value": "HS500TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 33.37
+        }
+      }
+    },
+    {
+      "id": 130455,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS500TC-MHO-D",
+      "productCode": "HS500TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4fc52a45-b37c-4137-8c3e-d803b364285f.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/9c06e76e-845d-4537-9363-9cc73bfc327d.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS500TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "TÜV Rheinland",
+        "CSI",
+        "MCS",
+        "PV CYCLE",
+        "INMETRO",
+        "CEC"
+      ],
+      "panel": {
+        "id": 72778,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 500,
+        "stcVoltageAtMaximumPowerVmpp": 37.24,
+        "stcShortCircuitCurrentIsc": 14.5,
+        "stcOpenCircuitVoltageVoc": 44.06,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1909,
+        "width": 1134,
+        "depth": 30,
+        "weight": 25.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 120,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": 382,
+        "noctVoltageAtMaximumPowerVmpp": 34.6,
+        "noctCurrentAtMaximumPowerImpp": 34.6,
+        "noctOpenCircuitVoltageVoc": 41.8,
+        "noctShortCircuitCurrentIsc": 11.72,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.5
+        },
+        "stc_voc": {
+          "value": 44.06
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 500
+        },
+        "cec_model": {
+          "value": "HS500TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 37.24
+        }
+      }
+    },
+    {
+      "id": 130466,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS505TC-MHC-D",
+      "productCode": "HS505TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e2936078-2631-47ec-985c-cf64c58d4cd2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/ee594301-e922-410f-914e-1ba0f79bf197.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland IEC 61215",
+        "TÜV Rheinland IEC 61730"
+      ],
+      "panel": {
+        "id": 72789,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 505,
+        "stcVoltageAtMaximumPowerVmpp": 33.53,
+        "stcShortCircuitCurrentIsc": 15.9,
+        "stcOpenCircuitVoltageVoc": 40.35,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.227,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.9
+        },
+        "stc_voc": {
+          "value": 40.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 505
+        },
+        "cec_model": {
+          "value": "HS505TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 33.53
+        }
+      }
+    },
+    {
+      "id": 130467,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS510TC-MHC-D",
+      "productCode": "HS510TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e2936078-2631-47ec-985c-cf64c58d4cd2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/ee594301-e922-410f-914e-1ba0f79bf197.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS510TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland IEC 61215",
+        "TÜV Rheinland IEC 61730"
+      ],
+      "panel": {
+        "id": 72790,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 510,
+        "stcVoltageAtMaximumPowerVmpp": 33.7,
+        "stcShortCircuitCurrentIsc": 15.98,
+        "stcOpenCircuitVoltageVoc": 40.55,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.98
+        },
+        "stc_voc": {
+          "value": 40.55
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 510
+        },
+        "cec_model": {
+          "value": "HS510TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 33.7
+        }
+      }
+    },
+    {
+      "id": 130468,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS515TC-MHC-D",
+      "productCode": "HS515TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e2936078-2631-47ec-985c-cf64c58d4cd2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/ee594301-e922-410f-914e-1ba0f79bf197.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland IEC 61215",
+        "TÜV Rheinland IEC 61730"
+      ],
+      "panel": {
+        "id": 72791,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 515,
+        "stcVoltageAtMaximumPowerVmpp": 33.86,
+        "stcShortCircuitCurrentIsc": 16.06,
+        "stcOpenCircuitVoltageVoc": 40.74,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.06
+        },
+        "stc_voc": {
+          "value": 40.74
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 515
+        },
+        "cec_model": {
+          "value": "HS515TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 33.86
+        }
+      }
+    },
+    {
+      "id": 130469,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS520TC-MHC-D",
+      "productCode": "HS520TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/e2936078-2631-47ec-985c-cf64c58d4cd2.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/ee594301-e922-410f-914e-1ba0f79bf197.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS520TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "TÜV Rheinland IEC 61215",
+        "TÜV Rheinland IEC 61730"
+      ],
+      "panel": {
+        "id": 72792,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 520,
+        "stcVoltageAtMaximumPowerVmpp": 34.02,
+        "stcShortCircuitCurrentIsc": 16.14,
+        "stcOpenCircuitVoltageVoc": 40.94,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 1960,
+        "width": 1134,
+        "depth": 30,
+        "weight": 27,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 108,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Silver",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": null,
+        "noctVoltageAtMaximumPowerVmpp": null,
+        "noctCurrentAtMaximumPowerImpp": null,
+        "noctOpenCircuitVoltageVoc": null,
+        "noctShortCircuitCurrentIsc": null,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "WIN02",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.14
+        },
+        "stc_voc": {
+          "value": 40.94
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 520
+        },
+        "cec_model": {
+          "value": "HS520TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 34.02
+        }
+      }
+    },
+    {
+      "id": 52230,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS590TC-MHO-D(30 with C Frame)",
+      "productCode": "HS590TC-MHO-D(30 with C Frame)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/b6b5e65a-709f-40e7-81ff-f99138b7000c.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/0d29214a-adfb-474c-a307-14719481ee98.pdf",
+      "productWarranty": "15.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HS590TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 29029,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 590,
+        "stcVoltageAtMaximumPowerVmpp": 43.44,
+        "stcShortCircuitCurrentIsc": 14.38,
+        "stcOpenCircuitVoltageVoc": 51.63,
+        "stcCurrentAtMaximumPowerImpp": 13.59,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 2279,
+        "width": 1134,
+        "depth": 30,
+        "weight": 31.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.228,
+        "noctMaximumPowerPmax": 448,
+        "noctVoltageAtMaximumPowerVmpp": 40.72,
+        "noctCurrentAtMaximumPowerImpp": 11.01,
+        "noctOpenCircuitVoltageVoc": 48.94,
+        "noctShortCircuitCurrentIsc": 11.62,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.38
+        },
+        "stc_voc": {
+          "value": 51.63
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 590
+        },
+        "cec_model": {
+          "value": "HS590TC-MHO-D(30 with C Frame)"
+        },
+        "stc_vmpp": {
+          "value": 43.44
+        }
+      }
+    },
+    {
+      "id": 130456,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS595TC-MHO-D",
+      "productCode": "HS595TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/df1a64ce-6525-4cc9-a0a0-69f5005ab867.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/70116ac0-09f2-4652-abf4-9809db29093e.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72779,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 595,
+        "stcVoltageAtMaximumPowerVmpp": 43.55,
+        "stcShortCircuitCurrentIsc": 14.46,
+        "stcOpenCircuitVoltageVoc": 51.74,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2279,
+        "width": 1134,
+        "depth": 30,
+        "weight": 31.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 451,
+        "noctVoltageAtMaximumPowerVmpp": 40.8,
+        "noctCurrentAtMaximumPowerImpp": 40.8,
+        "noctOpenCircuitVoltageVoc": 49,
+        "noctShortCircuitCurrentIsc": 11.68,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.46
+        },
+        "stc_voc": {
+          "value": 51.74
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 595
+        },
+        "cec_model": {
+          "value": "HS595TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 43.55
+        }
+      }
+    },
+    {
+      "id": 130457,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS600TC-MHO-D",
+      "productCode": "HS600TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/df1a64ce-6525-4cc9-a0a0-69f5005ab867.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/70116ac0-09f2-4652-abf4-9809db29093e.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS600TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72780,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 600,
+        "stcVoltageAtMaximumPowerVmpp": 43.66,
+        "stcShortCircuitCurrentIsc": 14.54,
+        "stcOpenCircuitVoltageVoc": 51.85,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2279,
+        "width": 1134,
+        "depth": 30,
+        "weight": 31.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 455,
+        "noctVoltageAtMaximumPowerVmpp": 40.9,
+        "noctCurrentAtMaximumPowerImpp": 40.9,
+        "noctOpenCircuitVoltageVoc": 49.1,
+        "noctShortCircuitCurrentIsc": 11.74,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.54
+        },
+        "stc_voc": {
+          "value": 51.85
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 600
+        },
+        "cec_model": {
+          "value": "HS600TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 43.66
+        }
+      }
+    },
+    {
+      "id": 130458,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS605TC-MHO-D",
+      "productCode": "HS605TC-MHO-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/df1a64ce-6525-4cc9-a0a0-69f5005ab867.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/70116ac0-09f2-4652-abf4-9809db29093e.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS605TC-MHO-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72781,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 605,
+        "stcVoltageAtMaximumPowerVmpp": 43.76,
+        "stcShortCircuitCurrentIsc": 14.62,
+        "stcOpenCircuitVoltageVoc": 51.95,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2279,
+        "width": 1134,
+        "depth": 30,
+        "weight": 31.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 144,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.234,
+        "noctMaximumPowerPmax": 459,
+        "noctVoltageAtMaximumPowerVmpp": 41,
+        "noctCurrentAtMaximumPowerImpp": 41,
+        "noctOpenCircuitVoltageVoc": 49.2,
+        "noctShortCircuitCurrentIsc": 11.81,
+        "frameThickness": 30,
+        "qtyPerPallet": 37,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 14.62
+        },
+        "stc_voc": {
+          "value": 51.95
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 605
+        },
+        "cec_model": {
+          "value": "HS605TC-MHO-D"
+        },
+        "stc_vmpp": {
+          "value": 43.76
+        }
+      }
+    },
+    {
+      "id": 130470,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS620TC-MHC-D",
+      "productCode": "HS620TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf2b9ee3-ce8d-47b8-ac8d-a67f6242470d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/3bad2dc0-38c7-4140-a876-f393f4521c1c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 1st year 99%, 2nd-30th year 0.4% annual degradation.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72793,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 620,
+        "stcVoltageAtMaximumPowerVmpp": 41.05,
+        "stcShortCircuitCurrentIsc": 15.95,
+        "stcOpenCircuitVoltageVoc": 49.4,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 33.7,
+        "palletWeight": 1213.2,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 484,
+        "noctVoltageAtMaximumPowerVmpp": 41.5,
+        "noctCurrentAtMaximumPowerImpp": 41.5,
+        "noctOpenCircuitVoltageVoc": 49.05,
+        "noctShortCircuitCurrentIsc": 12.44,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 15.95
+        },
+        "stc_voc": {
+          "value": 49.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 620
+        },
+        "cec_model": {
+          "value": "HS620TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 41.05
+        }
+      }
+    },
+    {
+      "id": 130471,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS625TC-MHC-D",
+      "productCode": "HS625TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf2b9ee3-ce8d-47b8-ac8d-a67f6242470d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/3bad2dc0-38c7-4140-a876-f393f4521c1c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 1st year 99%, 2nd-30th year 0.4% annual degradation.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72794,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 625,
+        "stcVoltageAtMaximumPowerVmpp": 41.25,
+        "stcShortCircuitCurrentIsc": 16,
+        "stcOpenCircuitVoltageVoc": 49.63,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 33.7,
+        "palletWeight": 1213.2,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.231,
+        "noctMaximumPowerPmax": 488,
+        "noctVoltageAtMaximumPowerVmpp": 41.7,
+        "noctCurrentAtMaximumPowerImpp": 41.7,
+        "noctOpenCircuitVoltageVoc": 49.29,
+        "noctShortCircuitCurrentIsc": 12.48,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16
+        },
+        "stc_voc": {
+          "value": 49.63
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 625
+        },
+        "cec_model": {
+          "value": "HS625TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 41.25
+        }
+      }
+    },
+    {
+      "id": 130472,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS630TC-MHC-D",
+      "productCode": "HS630TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf2b9ee3-ce8d-47b8-ac8d-a67f6242470d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/3bad2dc0-38c7-4140-a876-f393f4521c1c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 1st year 99%, 2nd-30th year 0.4% annual degradation.",
+      "cecModelNumber": "HS630TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72795,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 630,
+        "stcVoltageAtMaximumPowerVmpp": 41.45,
+        "stcShortCircuitCurrentIsc": 16.05,
+        "stcOpenCircuitVoltageVoc": 49.87,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 33.7,
+        "palletWeight": 1213.2,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 491,
+        "noctVoltageAtMaximumPowerVmpp": 41.9,
+        "noctCurrentAtMaximumPowerImpp": 41.9,
+        "noctOpenCircuitVoltageVoc": 49.52,
+        "noctShortCircuitCurrentIsc": 12.52,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.05
+        },
+        "stc_voc": {
+          "value": 49.87
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 630
+        },
+        "cec_model": {
+          "value": "HS630TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 41.45
+        }
+      }
+    },
+    {
+      "id": 130473,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS635TC-MHC-D",
+      "productCode": "HS635TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf2b9ee3-ce8d-47b8-ac8d-a67f6242470d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/3bad2dc0-38c7-4140-a876-f393f4521c1c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 1st year 99%, 2nd-30th year 0.4% annual degradation.",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72796,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 635,
+        "stcVoltageAtMaximumPowerVmpp": 41.65,
+        "stcShortCircuitCurrentIsc": 16.1,
+        "stcOpenCircuitVoltageVoc": 50.11,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 33.7,
+        "palletWeight": 1213.2,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": 495,
+        "noctVoltageAtMaximumPowerVmpp": 42.1,
+        "noctCurrentAtMaximumPowerImpp": 42.1,
+        "noctOpenCircuitVoltageVoc": 49.76,
+        "noctShortCircuitCurrentIsc": 12.56,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.1
+        },
+        "stc_voc": {
+          "value": 50.11
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 635
+        },
+        "cec_model": {
+          "value": "HS635TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 41.65
+        }
+      }
+    },
+    {
+      "id": 130474,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS640TC-MHC-D",
+      "productCode": "HS640TC-MHC-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/cf2b9ee3-ce8d-47b8-ac8d-a67f6242470d.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/3bad2dc0-38c7-4140-a876-f393f4521c1c.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "N-type Solar Module Linear Performance Warranty: 1st year 99%, 2nd-30th year 0.4% annual degradation.",
+      "cecModelNumber": "HS640TC-MHC-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018",
+        "CE",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72797,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 640,
+        "stcVoltageAtMaximumPowerVmpp": 41.84,
+        "stcShortCircuitCurrentIsc": 16.15,
+        "stcOpenCircuitVoltageVoc": 50.35,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2382,
+        "width": 1134,
+        "depth": 30,
+        "weight": 33.7,
+        "palletWeight": 1213.2,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type Half-Cell",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.237,
+        "noctMaximumPowerPmax": 499,
+        "noctVoltageAtMaximumPowerVmpp": 42.3,
+        "noctCurrentAtMaximumPowerImpp": 42.3,
+        "noctOpenCircuitVoltageVoc": 50,
+        "noctShortCircuitCurrentIsc": 12.6,
+        "frameThickness": 30,
+        "qtyPerPallet": 36,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 16.15
+        },
+        "stc_voc": {
+          "value": 50.35
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 640
+        },
+        "cec_model": {
+          "value": "HS640TC-MHC-D"
+        },
+        "stc_vmpp": {
+          "value": 41.84
+        }
+      }
+    },
+    {
+      "id": 52116,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS710TC-MHG-D",
+      "productCode": "HS710TC-MHG-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/08/28/3942feb7-d4d2-4d3f-9443-a24d21451304.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/08/28/79b5da19-fce5-441f-aa29-1e6ef9ef8bc5.pdf",
+      "productWarranty": "30.0",
+      "performanceWarranty": null,
+      "cecModelNumber": "HS710TC-MHG-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 28915,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 710,
+        "stcVoltageAtMaximumPowerVmpp": 40.9,
+        "stcShortCircuitCurrentIsc": 18.4,
+        "stcOpenCircuitVoltageVoc": 49,
+        "stcCurrentAtMaximumPowerImpp": 17.36,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": null,
+        "subsequentAnnualPowerDegradation": null,
+        "height": 2384,
+        "width": 1303,
+        "depth": 35,
+        "weight": 38.3,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.229,
+        "noctMaximumPowerPmax": 542,
+        "noctVoltageAtMaximumPowerVmpp": 38.4,
+        "noctCurrentAtMaximumPowerImpp": 14.12,
+        "noctOpenCircuitVoltageVoc": 46.4,
+        "noctShortCircuitCurrentIsc": 14.83,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.4
+        },
+        "stc_voc": {
+          "value": 49
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 710
+        },
+        "cec_model": {
+          "value": "HS710TC-MHG-D"
+        },
+        "stc_vmpp": {
+          "value": 40.9
+        }
+      }
+    },
+    {
+      "id": 130475,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS715TC-MHG-D",
+      "productCode": "HS715TC-MHG-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7542ce76-2014-4208-a8cc-fc3c0c605001.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/1d0e6300-8f1d-42d4-8753-c5f6942e26b7.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE: Europe Standard",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72798,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 715,
+        "stcVoltageAtMaximumPowerVmpp": 41.1,
+        "stcShortCircuitCurrentIsc": 18.44,
+        "stcOpenCircuitVoltageVoc": 49.2,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 38.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.23,
+        "noctMaximumPowerPmax": 547,
+        "noctVoltageAtMaximumPowerVmpp": 38.65,
+        "noctCurrentAtMaximumPowerImpp": 14.15,
+        "noctOpenCircuitVoltageVoc": 46.7,
+        "noctShortCircuitCurrentIsc": 14.86,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.44
+        },
+        "stc_voc": {
+          "value": 49.2
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 715
+        },
+        "cec_model": {
+          "value": "HS715TC-MHG-D"
+        },
+        "stc_vmpp": {
+          "value": 41.1
+        }
+      }
+    },
+    {
+      "id": 130476,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS720TC-MHG-D",
+      "productCode": "HS720TC-MHG-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7542ce76-2014-4208-a8cc-fc3c0c605001.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/1d0e6300-8f1d-42d4-8753-c5f6942e26b7.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS720TC-MHG-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE: Europe Standard",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72799,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 720,
+        "stcVoltageAtMaximumPowerVmpp": 41.3,
+        "stcShortCircuitCurrentIsc": 18.49,
+        "stcOpenCircuitVoltageVoc": 49.4,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 38.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.232,
+        "noctMaximumPowerPmax": 551,
+        "noctVoltageAtMaximumPowerVmpp": 38.8,
+        "noctCurrentAtMaximumPowerImpp": 14.2,
+        "noctOpenCircuitVoltageVoc": 46.9,
+        "noctShortCircuitCurrentIsc": 14.9,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.49
+        },
+        "stc_voc": {
+          "value": 49.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 720
+        },
+        "cec_model": {
+          "value": "HS720TC-MHG-D"
+        },
+        "stc_vmpp": {
+          "value": 41.3
+        }
+      }
+    },
+    {
+      "id": 130477,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS725TC-MHG-D",
+      "productCode": "HS725TC-MHG-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7542ce76-2014-4208-a8cc-fc3c0c605001.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/1d0e6300-8f1d-42d4-8753-c5f6942e26b7.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE: Europe Standard",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72800,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 725,
+        "stcVoltageAtMaximumPowerVmpp": 41.5,
+        "stcShortCircuitCurrentIsc": 18.52,
+        "stcOpenCircuitVoltageVoc": 49.6,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 38.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.233,
+        "noctMaximumPowerPmax": 555,
+        "noctVoltageAtMaximumPowerVmpp": 38.95,
+        "noctCurrentAtMaximumPowerImpp": 14.25,
+        "noctOpenCircuitVoltageVoc": 47.1,
+        "noctShortCircuitCurrentIsc": 14.96,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.52
+        },
+        "stc_voc": {
+          "value": 49.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 725
+        },
+        "cec_model": {
+          "value": "HS725TC-MHG-D"
+        },
+        "stc_vmpp": {
+          "value": 41.5
+        }
+      }
+    },
+    {
+      "id": 130478,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 2118,
+      "brandName": "Horay",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/brand/logo/2025/08/26/78b68360-b3d2-451a-a8df-a656871186d0.png",
+      "productName": "HS730TC-MHG-D",
+      "productCode": "HS730TC-MHG-D",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/7542ce76-2014-4208-a8cc-fc3c0c605001.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/07/24/1d0e6300-8f1d-42d4-8753-c5f6942e26b7.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "30-year linear power output warranty",
+      "cecModelNumber": "HS730TC-MHG-D (IEC 61215-2021)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC61215:2021",
+        "IEC61730:2023",
+        "ISO9001:2015 Quality Management System",
+        "ISO14001:2015 Environmental Management System",
+        "ISO45001:2018 Occupational Health and Safety Management System",
+        "CE: Europe Standard",
+        "China Quality Certification Centre",
+        "Solar Product Certification"
+      ],
+      "panel": {
+        "id": 72801,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 730,
+        "stcVoltageAtMaximumPowerVmpp": 41.7,
+        "stcShortCircuitCurrentIsc": 18.56,
+        "stcOpenCircuitVoltageVoc": 49.8,
+        "stcCurrentAtMaximumPowerImpp": null,
+        "temperatureCoefficientOfPmax": -0.0028,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.004,
+        "height": 2384,
+        "width": 1303,
+        "depth": 33,
+        "weight": 38.5,
+        "palletWeight": 0,
+        "palletDimensionLength": 0,
+        "palletDimensionWidth": 0,
+        "palletDimensionHeight": 0,
+        "cell": 132,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-type",
+        "frameColor": "Black",
+        "stcPanelEfficiency": 0.235,
+        "noctMaximumPowerPmax": 559,
+        "noctVoltageAtMaximumPowerVmpp": 39.1,
+        "noctCurrentAtMaximumPowerImpp": 14.3,
+        "noctOpenCircuitVoltageVoc": 47.3,
+        "noctShortCircuitCurrentIsc": 15.01,
+        "frameThickness": 33,
+        "qtyPerPallet": 33,
+        "connectorType": "MC4",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.28
+        },
+        "stc_isc": {
+          "value": 18.56
+        },
+        "stc_voc": {
+          "value": 49.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 730
+        },
+        "cec_model": {
+          "value": "HS730TC-MHG-D"
+        },
+        "stc_vmpp": {
+          "value": 41.7
+        }
+      }
+    }
+  ]
+}

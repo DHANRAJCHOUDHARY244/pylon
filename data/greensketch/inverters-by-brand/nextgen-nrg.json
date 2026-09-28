@@ -1,0 +1,720 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "NEXTGEN NRG",
+  "count": 9,
+  "exportedAt": "2026-09-23T06:39:42.113Z",
+  "items": [
+    {
+      "id": 21132,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS-10KW11",
+      "productCode": "MPS-10KW11",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fc22fe83-cc9c-4c0c-a17d-53b313ff2f90.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS-10KW11.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10242,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 320,
+        "minDcVoltageToStartFeedIn": 230,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 320,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 600,
+        "width": 400,
+        "depth": 250,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 320
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 230
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22485,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS-15KW11",
+      "productCode": "MPS-15KW11",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/42dd75d5-b15f-4aa3-8a1e-eb09b7567eb2.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS-15KW11.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11595,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 320,
+        "minDcVoltageToStartFeedIn": 230,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 320,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 650,
+        "width": 450,
+        "depth": 280,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 13000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 320
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 230
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24321,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS-20KW11",
+      "productCode": "MPS-20KW11",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/1f20327c-d7fa-4471-9a5b-a0e022ccd83d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS-20KW11.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13431,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 320,
+        "minDcVoltageToStartFeedIn": 230,
+        "mpptVoltageMin": 230,
+        "mpptVoltageMax": 320,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 150,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 500,
+        "depth": 300,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 33000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 320
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 230
+        },
+        "current_isc_max": {
+          "value": 150
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 230
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22302,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS-2KW11",
+      "productCode": "MPS-2KW11",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6e9bde01-c439-4d76-9d18-7c81bd5e6f8d.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS-2KW11.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11412,
+        "companyProductId": null,
+        "maxAcPower": 2000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 150,
+        "nominalAcPower": 2000,
+        "maxShortCircuitCurrentPerMppt": 30,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 280,
+        "depth": 200,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 30
+        },
+        "nominal_ac_power": {
+          "value": 2000
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22983,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS-5KW11",
+      "productCode": "MPS-5KW11",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/2c682f23-0de1-4772-8c46-fcb5f7b45da0.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS-5KW11.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12093,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 150,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 150,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 40,
+        "type": "Hybrid Inverter",
+        "height": 500,
+        "width": 320,
+        "depth": 220,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 6000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 150
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 40
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23551,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS33-10KW",
+      "productCode": "MPS33-10KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d9b7d5bb-3399-40ef-af30-0f7c1c698e54.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS33-10KW.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12661,
+        "companyProductId": null,
+        "maxAcPower": 10000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 650,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 10000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 1200,
+        "width": 450,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 10000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 650
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 10000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20809,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS33-15KW",
+      "productCode": "MPS33-15KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/5b42b597-e412-47e1-b33b-e432d54b6745.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS33-15KW.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9919,
+        "companyProductId": null,
+        "maxAcPower": 15000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 650,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 600,
+        "nominalAcPower": 15000,
+        "maxShortCircuitCurrentPerMppt": 60,
+        "type": "Hybrid Inverter",
+        "height": 1200,
+        "width": 450,
+        "depth": 600,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 15000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 650
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 60
+        },
+        "nominal_ac_power": {
+          "value": 15000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 23001,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS33-20KW",
+      "productCode": "MPS33-20KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/fb6c8f60-474e-47c0-88ff-a27d029eefd8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS33-20KW.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12111,
+        "companyProductId": null,
+        "maxAcPower": 20000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 650,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 20000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "Hybrid Inverter",
+        "height": 1525,
+        "width": 600,
+        "depth": 700,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 20000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 650
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 20000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 24099,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1396,
+      "brandName": "NEXTGEN NRG",
+      "brandLogo": "https://file.greensketch.net/brands/logo/NEXTGEN+NRG.png",
+      "productName": "MPS33-25KW",
+      "productCode": "MPS33-25KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/ec46586c-3c8c-4319-b08b-b7a13f292714.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEXTGEN_NRG_MPS33-25KW.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13209,
+        "companyProductId": null,
+        "maxAcPower": 25000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 650,
+        "minDcVoltageToStartFeedIn": 300,
+        "mpptVoltageMin": 300,
+        "mpptVoltageMax": 520,
+        "nominalAcPower": 25000,
+        "maxShortCircuitCurrentPerMppt": 100,
+        "type": "Hybrid Inverter",
+        "height": 1825,
+        "width": 600,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 25000,
+        "dcInputs": 0,
+        "maxEfficiency": 0.98,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 650
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 300
+        },
+        "current_isc_max": {
+          "value": 100
+        },
+        "nominal_ac_power": {
+          "value": 25000
+        },
+        "mppt_voltage_min": {
+          "value": 300
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

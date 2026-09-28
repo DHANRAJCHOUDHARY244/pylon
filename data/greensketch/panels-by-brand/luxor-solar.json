@@ -1,0 +1,1700 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Luxor Solar",
+  "count": 19,
+  "exportedAt": "2026-09-23T06:32:14.041Z",
+  "items": [
+    {
+      "id": 34886,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-360M/166-120+",
+      "productCode": "LX-360M/166-120+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-360M_166-120%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-360M_166-120%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12886,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 360,
+        "stcVoltageAtMaximumPowerVmpp": 33.94,
+        "stcShortCircuitCurrentIsc": 11.21,
+        "stcOpenCircuitVoltageVoc": 40.41,
+        "stcCurrentAtMaximumPowerImpp": 10.62,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2012,
+        "noctMaximumPowerPmax": 268.21,
+        "noctVoltageAtMaximumPowerVmpp": 31.49,
+        "noctCurrentAtMaximumPowerImpp": 8.52,
+        "noctOpenCircuitVoltageVoc": 37.34,
+        "noctShortCircuitCurrentIsc": 9.06,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 11.21
+        },
+        "stc_voc": {
+          "value": 40.41
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 360
+        },
+        "cec_model": {
+          "value": "LX-360M/166-120+"
+        },
+        "stc_vmpp": {
+          "value": 33.94
+        }
+      }
+    },
+    {
+      "id": 19816,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-365M/166-120+",
+      "productCode": "LX-365M/166-120+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-365M_166-120%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-365M_166-120%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6697,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 34.17,
+        "stcShortCircuitCurrentIsc": 11.27,
+        "stcOpenCircuitVoltageVoc": 40.76,
+        "stcCurrentAtMaximumPowerImpp": 10.69,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.201,
+        "noctMaximumPowerPmax": 270.7,
+        "noctVoltageAtMaximumPowerVmpp": 31.73,
+        "noctCurrentAtMaximumPowerImpp": 8.53,
+        "noctOpenCircuitVoltageVoc": 37.62,
+        "noctShortCircuitCurrentIsc": 9.09,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 11.27
+        },
+        "stc_voc": {
+          "value": 40.76
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "LX-365M/166-120+"
+        },
+        "stc_vmpp": {
+          "value": 34.17
+        }
+      }
+    },
+    {
+      "id": 18722,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-370M/166-120+",
+      "productCode": "LX-370M/166-120+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-370M/166-120%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-370M/166-120%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5603,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 370,
+        "stcVoltageAtMaximumPowerVmpp": 34.48,
+        "stcShortCircuitCurrentIsc": 11.34,
+        "stcOpenCircuitVoltageVoc": 41.04,
+        "stcCurrentAtMaximumPowerImpp": 10.74,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.204,
+        "noctMaximumPowerPmax": 274.76,
+        "noctVoltageAtMaximumPowerVmpp": 31.98,
+        "noctCurrentAtMaximumPowerImpp": 8.59,
+        "noctOpenCircuitVoltageVoc": 37.9,
+        "noctShortCircuitCurrentIsc": 9.15,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 11.34
+        },
+        "stc_voc": {
+          "value": 41.04
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 370
+        },
+        "cec_model": {
+          "value": "LX-370M/166-120+"
+        },
+        "stc_vmpp": {
+          "value": 34.48
+        }
+      }
+    },
+    {
+      "id": 18908,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-375M/166-120+",
+      "productCode": "LX-375M/166-120+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-375M/166-120%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-375M/166-120%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5789,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 375,
+        "stcVoltageAtMaximumPowerVmpp": 34.72,
+        "stcShortCircuitCurrentIsc": 11.41,
+        "stcOpenCircuitVoltageVoc": 41.33,
+        "stcCurrentAtMaximumPowerImpp": 10.81,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.206,
+        "noctMaximumPowerPmax": 278.86,
+        "noctVoltageAtMaximumPowerVmpp": 32.21,
+        "noctCurrentAtMaximumPowerImpp": 8.66,
+        "noctOpenCircuitVoltageVoc": 38.17,
+        "noctShortCircuitCurrentIsc": 9.22,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 11.41
+        },
+        "stc_voc": {
+          "value": 41.33
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 375
+        },
+        "cec_model": {
+          "value": "LX-375M/166-120+"
+        },
+        "stc_vmpp": {
+          "value": 34.72
+        }
+      }
+    },
+    {
+      "id": 35119,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-380M/166-120+",
+      "productCode": "LX-380M/166-120+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-380M_166-120%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-380M_166-120%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13119,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 380,
+        "stcVoltageAtMaximumPowerVmpp": 34.86,
+        "stcShortCircuitCurrentIsc": 11.52,
+        "stcOpenCircuitVoltageVoc": 41.5,
+        "stcCurrentAtMaximumPowerImpp": 10.91,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2122,
+        "noctMaximumPowerPmax": 283.38,
+        "noctVoltageAtMaximumPowerVmpp": 32.35,
+        "noctCurrentAtMaximumPowerImpp": 8.76,
+        "noctOpenCircuitVoltageVoc": 38.36,
+        "noctShortCircuitCurrentIsc": 9.31,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 11.52
+        },
+        "stc_voc": {
+          "value": 41.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 380
+        },
+        "cec_model": {
+          "value": "LX-380M/166-120+"
+        },
+        "stc_vmpp": {
+          "value": 34.86
+        }
+      }
+    },
+    {
+      "id": 36015,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-385M/166-120+",
+      "productCode": "LX-385M/166-120+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-385M_166-120%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-385M_166-120%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 14015,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 385,
+        "stcVoltageAtMaximumPowerVmpp": 35.21,
+        "stcShortCircuitCurrentIsc": 11.55,
+        "stcOpenCircuitVoltageVoc": 41.91,
+        "stcCurrentAtMaximumPowerImpp": 10.94,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1755,
+        "width": 1038,
+        "depth": 30,
+        "weight": 19,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2116,
+        "noctMaximumPowerPmax": 286.95,
+        "noctVoltageAtMaximumPowerVmpp": 32.66,
+        "noctCurrentAtMaximumPowerImpp": 8.78,
+        "noctOpenCircuitVoltageVoc": 38.74,
+        "noctShortCircuitCurrentIsc": 9.33,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 11.55
+        },
+        "stc_voc": {
+          "value": 41.91
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 385
+        },
+        "cec_model": {
+          "value": "LX-385M/166-120+"
+        },
+        "stc_vmpp": {
+          "value": 35.21
+        }
+      }
+    },
+    {
+      "id": 39432,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-390M/182-108+",
+      "productCode": "LX-390M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-390M_182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-390M_182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 17432,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 390,
+        "stcVoltageAtMaximumPowerVmpp": 30.71,
+        "stcShortCircuitCurrentIsc": 13.42,
+        "stcOpenCircuitVoltageVoc": 36.56,
+        "stcCurrentAtMaximumPowerImpp": 12.71,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1724,
+        "width": 1134,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2028,
+        "noctMaximumPowerPmax": 289.54,
+        "noctVoltageAtMaximumPowerVmpp": 28.2,
+        "noctCurrentAtMaximumPowerImpp": 10.27,
+        "noctOpenCircuitVoltageVoc": 33.75,
+        "noctShortCircuitCurrentIsc": 10.83,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.42
+        },
+        "stc_voc": {
+          "value": 36.56
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 390
+        },
+        "cec_model": {
+          "value": "LX-390M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 30.71
+        }
+      }
+    },
+    {
+      "id": 35283,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-395M/182-108+",
+      "productCode": "LX-395M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-395M_182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-395M_182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13283,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 395,
+        "stcVoltageAtMaximumPowerVmpp": 30.93,
+        "stcShortCircuitCurrentIsc": 13.5,
+        "stcOpenCircuitVoltageVoc": 36.82,
+        "stcCurrentAtMaximumPowerImpp": 12.78,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1724,
+        "width": 1134,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2054,
+        "noctMaximumPowerPmax": 293.25,
+        "noctVoltageAtMaximumPowerVmpp": 28.4,
+        "noctCurrentAtMaximumPowerImpp": 10.32,
+        "noctOpenCircuitVoltageVoc": 34,
+        "noctShortCircuitCurrentIsc": 10.89,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.5
+        },
+        "stc_voc": {
+          "value": 36.82
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 395
+        },
+        "cec_model": {
+          "value": "LX-395M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 30.93
+        }
+      }
+    },
+    {
+      "id": 19902,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-400M/182-108+",
+      "productCode": "LX-400M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-400M_182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-400M_182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6783,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 31.09,
+        "stcShortCircuitCurrentIsc": 13.6,
+        "stcOpenCircuitVoltageVoc": 37.01,
+        "stcCurrentAtMaximumPowerImpp": 12.88,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.202,
+        "noctMaximumPowerPmax": 296.96,
+        "noctVoltageAtMaximumPowerVmpp": 28.54,
+        "noctCurrentAtMaximumPowerImpp": 10.4,
+        "noctOpenCircuitVoltageVoc": 34.18,
+        "noctShortCircuitCurrentIsc": 10.99,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.6
+        },
+        "stc_voc": {
+          "value": 37.01
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "LX-400M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 31.09
+        }
+      }
+    },
+    {
+      "id": 33729,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-405M/182-108+",
+      "productCode": "LX-405M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-405M_182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-405M_182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11729,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 405,
+        "stcVoltageAtMaximumPowerVmpp": 31.3,
+        "stcShortCircuitCurrentIsc": 13.67,
+        "stcOpenCircuitVoltageVoc": 37.26,
+        "stcCurrentAtMaximumPowerImpp": 12.95,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2048,
+        "noctMaximumPowerPmax": 300.67,
+        "noctVoltageAtMaximumPowerVmpp": 28.74,
+        "noctCurrentAtMaximumPowerImpp": 10.46,
+        "noctOpenCircuitVoltageVoc": 34.42,
+        "noctShortCircuitCurrentIsc": 11.05,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.67
+        },
+        "stc_voc": {
+          "value": 37.26
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 405
+        },
+        "cec_model": {
+          "value": "LX-405M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 31.3
+        }
+      }
+    },
+    {
+      "id": 18188,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-410M/182-108+",
+      "productCode": "LX-410M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-410M/182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-410M/182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 5069,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 410,
+        "stcVoltageAtMaximumPowerVmpp": 31.58,
+        "stcShortCircuitCurrentIsc": 13.72,
+        "stcOpenCircuitVoltageVoc": 37.6,
+        "stcCurrentAtMaximumPowerImpp": 12.99,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.213,
+        "noctMaximumPowerPmax": 304.38,
+        "noctVoltageAtMaximumPowerVmpp": 29.01,
+        "noctCurrentAtMaximumPowerImpp": 10.49,
+        "noctOpenCircuitVoltageVoc": 34.75,
+        "noctShortCircuitCurrentIsc": 11.08,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.72
+        },
+        "stc_voc": {
+          "value": 37.6
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 410
+        },
+        "cec_model": {
+          "value": "LX-410M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 31.58
+        }
+      }
+    },
+    {
+      "id": 35084,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-415M/182-108+",
+      "productCode": "LX-415M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-415M_182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-415M_182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13084,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.8,
+        "stcShortCircuitCurrentIsc": 13.79,
+        "stcOpenCircuitVoltageVoc": 37.86,
+        "stcCurrentAtMaximumPowerImpp": 13.06,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2156,
+        "noctMaximumPowerPmax": 308.1,
+        "noctVoltageAtMaximumPowerVmpp": 29.2,
+        "noctCurrentAtMaximumPowerImpp": 10.55,
+        "noctOpenCircuitVoltageVoc": 34.98,
+        "noctShortCircuitCurrentIsc": 11.14,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.79
+        },
+        "stc_voc": {
+          "value": 37.86
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "LX-415M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 31.8
+        }
+      }
+    },
+    {
+      "id": 122555,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-415M/182-108+ GG",
+      "productCode": "LX-415M/182-108+ GG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/78e30247-08a9-4e68-972a-c7f518431f03.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/1ece500c-f5bf-4809-9fa7-482a0a7c65a1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68791,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 415,
+        "stcVoltageAtMaximumPowerVmpp": 31.32,
+        "stcShortCircuitCurrentIsc": 13.99,
+        "stcOpenCircuitVoltageVoc": 37.92,
+        "stcCurrentAtMaximumPowerImpp": 13.325,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00345,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TopCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2158,
+        "noctMaximumPowerPmax": 312.08,
+        "noctVoltageAtMaximumPowerVmpp": 29.17,
+        "noctCurrentAtMaximumPowerImpp": 10.7,
+        "noctOpenCircuitVoltageVoc": 35,
+        "noctShortCircuitCurrentIsc": 11.29,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 13.99
+        },
+        "stc_voc": {
+          "value": 37.92
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 415
+        },
+        "cec_model": {
+          "value": "LX-415M/182-108+ GG"
+        },
+        "stc_vmpp": {
+          "value": 31.32
+        }
+      }
+    },
+    {
+      "id": 32939,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-420M/182-108+",
+      "productCode": "LX-420M/182-108+",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Luxor_Solar_LX-420M_182-108%2B.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Luxor_Solar_LX-420M_182-108%2B.pdf",
+      "productWarranty": "15",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 10939,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 32.02,
+        "stcShortCircuitCurrentIsc": 13.86,
+        "stcOpenCircuitVoltageVoc": 38.12,
+        "stcCurrentAtMaximumPowerImpp": 13.13,
+        "temperatureCoefficientOfPmax": -0.0036,
+        "temperatureCoefficientOfVoc": -0.00285,
+        "temperatureCoefficientOfIsc": 0.00049,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1722,
+        "width": 1134,
+        "depth": 35,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2182,
+        "noctMaximumPowerPmax": 311.81,
+        "noctVoltageAtMaximumPowerVmpp": 29.4,
+        "noctCurrentAtMaximumPowerImpp": 10.61,
+        "noctOpenCircuitVoltageVoc": 35.23,
+        "noctShortCircuitCurrentIsc": 11.2,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.36
+        },
+        "stc_isc": {
+          "value": 13.86
+        },
+        "stc_voc": {
+          "value": 38.12
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.285
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.049
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "LX-420M/182-108+"
+        },
+        "stc_vmpp": {
+          "value": 32.02
+        }
+      }
+    },
+    {
+      "id": 122554,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-420M/182-108+ GG",
+      "productCode": "LX-420M/182-108+ GG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/ae28eb61-68ff-4c62-845b-f26eab20c861.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/a9b800c4-e998-4c2a-b7eb-026d5ec7bff6.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68790,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 420,
+        "stcVoltageAtMaximumPowerVmpp": 31.51,
+        "stcShortCircuitCurrentIsc": 14.07,
+        "stcOpenCircuitVoltageVoc": 38.15,
+        "stcCurrentAtMaximumPowerImpp": 13.34,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00345,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TopCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2184,
+        "noctMaximumPowerPmax": 315.84,
+        "noctVoltageAtMaximumPowerVmpp": 29.33,
+        "noctCurrentAtMaximumPowerImpp": 10.77,
+        "noctOpenCircuitVoltageVoc": 35.22,
+        "noctShortCircuitCurrentIsc": 11.36,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.07
+        },
+        "stc_voc": {
+          "value": 38.15
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 420
+        },
+        "cec_model": {
+          "value": "LX-420M/182-108+ GG"
+        },
+        "stc_vmpp": {
+          "value": 31.51
+        }
+      }
+    },
+    {
+      "id": 122551,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-425M/182-108+ GG",
+      "productCode": "LX-425M/182-108+ GG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/18370ea8-2553-4685-9b45-a105799964c5.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/8ffdf7eb-0c81-4e3d-bc27-854429226df1.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68787,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 425,
+        "stcVoltageAtMaximumPowerVmpp": 31.7,
+        "stcShortCircuitCurrentIsc": 14.16,
+        "stcOpenCircuitVoltageVoc": 38.38,
+        "stcCurrentAtMaximumPowerImpp": 13.42,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00345,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TopCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.221,
+        "noctMaximumPowerPmax": 319.6,
+        "noctVoltageAtMaximumPowerVmpp": 29.51,
+        "noctCurrentAtMaximumPowerImpp": 10.83,
+        "noctOpenCircuitVoltageVoc": 35.45,
+        "noctShortCircuitCurrentIsc": 11.43,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.16
+        },
+        "stc_voc": {
+          "value": 38.38
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 425
+        },
+        "cec_model": {
+          "value": "LX-425M/182-108+ GG"
+        },
+        "stc_vmpp": {
+          "value": 31.7
+        }
+      }
+    },
+    {
+      "id": 122548,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-430M/182-108+ GG",
+      "productCode": "LX-430M/182-108+ GG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/7948ef21-e3cf-4afc-8582-d566d5691358.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/8974b5fa-969c-48b3-a292-07128023438f.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68784,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 430,
+        "stcVoltageAtMaximumPowerVmpp": 31.89,
+        "stcShortCircuitCurrentIsc": 14.23,
+        "stcOpenCircuitVoltageVoc": 38.61,
+        "stcCurrentAtMaximumPowerImpp": 13.49,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00345,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TopCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2235,
+        "noctMaximumPowerPmax": 323.36,
+        "noctVoltageAtMaximumPowerVmpp": 29.69,
+        "noctCurrentAtMaximumPowerImpp": 10.89,
+        "noctOpenCircuitVoltageVoc": 35.67,
+        "noctShortCircuitCurrentIsc": 11.49,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.23
+        },
+        "stc_voc": {
+          "value": 38.61
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 430
+        },
+        "cec_model": {
+          "value": "LX-430M/182-108+ GG"
+        },
+        "stc_vmpp": {
+          "value": 31.89
+        }
+      }
+    },
+    {
+      "id": 122545,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-435M/182-108+ GG",
+      "productCode": "LX-435M/182-108+ GG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/403a924c-c0d8-4441-b180-e2082424a13d.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/7d32279f-46b0-4050-ae45-a66503233bc0.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68781,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 435,
+        "stcVoltageAtMaximumPowerVmpp": 32.08,
+        "stcShortCircuitCurrentIsc": 14.31,
+        "stcOpenCircuitVoltageVoc": 38.84,
+        "stcCurrentAtMaximumPowerImpp": 13.57,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00345,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TopCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2261,
+        "noctMaximumPowerPmax": 327.12,
+        "noctVoltageAtMaximumPowerVmpp": 29.87,
+        "noctCurrentAtMaximumPowerImpp": 10.95,
+        "noctOpenCircuitVoltageVoc": 35.9,
+        "noctShortCircuitCurrentIsc": 11.55,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.31
+        },
+        "stc_voc": {
+          "value": 38.84
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 435
+        },
+        "cec_model": {
+          "value": "LX-435M/182-108+ GG"
+        },
+        "stc_vmpp": {
+          "value": 32.08
+        }
+      }
+    },
+    {
+      "id": 122542,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1241,
+      "brandName": "Luxor Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/luxor_solar_gmbh_logo.jpg",
+      "productName": "LX-440M/182-108+ GG",
+      "productCode": "LX-440M/182-108+ GG",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2025/11/27/6515998b-369c-466e-9df1-265e4e241e73.jpg",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2025/11/27/5325c06f-f6af-4f6e-a44d-46925c77c49b.pdf",
+      "productWarranty": "30",
+      "performanceWarranty": "30",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 68778,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 440,
+        "stcVoltageAtMaximumPowerVmpp": 32.22,
+        "stcShortCircuitCurrentIsc": 14.42,
+        "stcOpenCircuitVoltageVoc": 39.01,
+        "stcCurrentAtMaximumPowerImpp": 13.67,
+        "temperatureCoefficientOfPmax": -0.003,
+        "temperatureCoefficientOfVoc": -0.0025,
+        "temperatureCoefficientOfIsc": 0.00045,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.00345,
+        "height": 1722,
+        "width": 1134,
+        "depth": 30,
+        "weight": 21.5,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": "Monocrystalline",
+        "cellTechnology": "N-Type TopCON",
+        "frameColor": null,
+        "stcPanelEfficiency": 0.2286,
+        "noctMaximumPowerPmax": 331.58,
+        "noctVoltageAtMaximumPowerVmpp": 30.06,
+        "noctCurrentAtMaximumPowerImpp": 11.03,
+        "noctOpenCircuitVoltageVoc": 36.06,
+        "noctShortCircuitCurrentIsc": 11.64,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.3
+        },
+        "stc_isc": {
+          "value": 14.42
+        },
+        "stc_voc": {
+          "value": 39.01
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.25
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.045
+        },
+        "power": {
+          "value": 440
+        },
+        "cec_model": {
+          "value": "LX-440M/182-108+ GG"
+        },
+        "stc_vmpp": {
+          "value": 32.22
+        }
+      }
+    }
+  ]
+}

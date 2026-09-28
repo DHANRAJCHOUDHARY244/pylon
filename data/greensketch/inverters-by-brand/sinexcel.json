@@ -1,0 +1,562 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Sinexcel",
+  "count": 7,
+  "exportedAt": "2026-09-23T06:39:42.160Z",
+  "items": [
+    {
+      "id": 20866,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWG2-100K-EX (AS4777-2 2020)",
+      "productCode": "PWG2-100K-EX (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/226a5ab0-547f-4124-98a1-e0f9202df5a9.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWG2-100K-EX_(AS4777-2_2020).pdf",
+      "productWarranty": "2",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9976,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 520,
+        "mpptVoltageMin": 520,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 96,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 520
+        },
+        "current_isc_max": {
+          "value": 96
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 520
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23165,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWG2-100K-NA",
+      "productCode": "PWG2-100K-NA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/439caa54-5b04-4562-ba13-a9a8e2c76417.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWG2-100K-NA.pdf",
+      "productWarranty": "2",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12275,
+        "companyProductId": null,
+        "maxAcPower": 100000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 520,
+        "mpptVoltageMin": 520,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 100000,
+        "maxShortCircuitCurrentPerMppt": 96,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 520
+        },
+        "current_isc_max": {
+          "value": 96
+        },
+        "nominal_ac_power": {
+          "value": 100000
+        },
+        "mppt_voltage_min": {
+          "value": 520
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24339,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWG2-50K-EX (AS4777-2 2020)",
+      "productCode": "PWG2-50K-EX (AS4777-2 2020)",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b27a67f3-2e4f-4587-9ec8-ec48f3298697.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWG2-50K-EX_(AS4777-2_2020).pdf",
+      "productWarranty": "2",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13449,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 520,
+        "mpptVoltageMin": 520,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 520
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 520
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24244,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWG2-50K-NA",
+      "productCode": "PWG2-50K-NA",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/b46d43b2-b3c7-4cf9-80fe-109fcd695b09.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWG2-50K-NA.pdf",
+      "productWarranty": "2",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13354,
+        "companyProductId": null,
+        "maxAcPower": 50000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 520,
+        "mpptVoltageMin": 520,
+        "mpptVoltageMax": 800,
+        "nominalAcPower": 50000,
+        "maxShortCircuitCurrentPerMppt": 48,
+        "type": "Hybrid Inverter",
+        "height": 2160,
+        "width": 800,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": 1,
+        "maxEfficiency": 0.955,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 520
+        },
+        "current_isc_max": {
+          "value": 48
+        },
+        "nominal_ac_power": {
+          "value": 50000
+        },
+        "mppt_voltage_min": {
+          "value": 520
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21583,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWS1-500KTL-EX-5M1",
+      "productCode": "PWS1-500KTL-EX-5M1",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/71699068-9d13-405a-9771-37c481ac663a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWS1-500KTL-EX-5M1_(AS4777-2_2020).pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": "PWS1-500KTL-EX-5M1 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10693,
+        "companyProductId": null,
+        "maxAcPower": 312500,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 0,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": 0,
+        "nominalAcPower": 500,
+        "maxShortCircuitCurrentPerMppt": null,
+        "type": "Battery-only",
+        "height": 2160,
+        "width": 1100,
+        "depth": 800,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 0,
+        "dcInputs": 0,
+        "maxEfficiency": 0.982,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": null
+        },
+        "nominal_ac_power": {
+          "value": 500
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "id": 23324,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWS2-29P-EX",
+      "productCode": "PWS2-29P-EX",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/87932083-16fd-4105-95c5-60a236a300f4.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWS2-29P-EX.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": "PWS2-29P-EX (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12434,
+        "companyProductId": null,
+        "maxAcPower": 29900,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 830,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 700,
+        "mpptVoltageMax": 830,
+        "nominalAcPower": 29900,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 173,
+        "width": 440,
+        "depth": 596,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 830
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 29900
+        },
+        "mppt_voltage_min": {
+          "value": 700
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 20480,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1363,
+      "brandName": "Sinexcel",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sinexcel.png",
+      "productName": "PWS2-30P-EX",
+      "productCode": "PWS2-30P-EX",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/eec33c8b-0156-479b-9b4e-bd4e70ae6d91.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sinexcel_PWS2-30P-EX.pdf",
+      "productWarranty": "3",
+      "performanceWarranty": "",
+      "cecModelNumber": "PWS2-30P-EX (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9590,
+        "companyProductId": null,
+        "maxAcPower": 30000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 830,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 700,
+        "mpptVoltageMax": 830,
+        "nominalAcPower": 30000,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 173,
+        "width": 440,
+        "depth": 596,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 45000,
+        "dcInputs": 2,
+        "maxEfficiency": 0.973,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 830
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 30000
+        },
+        "mppt_voltage_min": {
+          "value": 700
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

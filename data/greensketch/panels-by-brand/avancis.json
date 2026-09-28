@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "AVANCIS",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.471Z",
+  "items": [
+    {
+      "id": 35797,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1282,
+      "brandName": "AVANCIS",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AVANCIS.png",
+      "productName": "PowerMax 140",
+      "productCode": "PowerMax 140",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/AVANCIS_PowerMax_140.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/AVANCIS_PowerMax_140.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13797,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 140,
+        "stcVoltageAtMaximumPowerVmpp": 68.6,
+        "stcShortCircuitCurrentIsc": 2.42,
+        "stcOpenCircuitVoltageVoc": 89,
+        "stcCurrentAtMaximumPowerImpp": 2.04,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1587,
+        "width": 664,
+        "depth": 38,
+        "weight": 17,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.133,
+        "noctMaximumPowerPmax": 105,
+        "noctVoltageAtMaximumPowerVmpp": 65,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 85,
+        "noctShortCircuitCurrentIsc": 1.94,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 2.42
+        },
+        "stc_voc": {
+          "value": 89
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0
+        },
+        "power": {
+          "value": 140
+        },
+        "cec_model": {
+          "value": "PowerMax 140"
+        },
+        "stc_vmpp": {
+          "value": 68.6
+        }
+      }
+    },
+    {
+      "id": 33815,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1282,
+      "brandName": "AVANCIS",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AVANCIS.png",
+      "productName": "PowerMax 145",
+      "productCode": "PowerMax 145",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/AVANCIS_PowerMax_145.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/AVANCIS_PowerMax_145.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11815,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 145,
+        "stcVoltageAtMaximumPowerVmpp": 69.5,
+        "stcShortCircuitCurrentIsc": 2.43,
+        "stcOpenCircuitVoltageVoc": 89.4,
+        "stcCurrentAtMaximumPowerImpp": 2.08,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1587,
+        "width": 664,
+        "depth": 38,
+        "weight": 17,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.138,
+        "noctMaximumPowerPmax": 109,
+        "noctVoltageAtMaximumPowerVmpp": 66,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 86,
+        "noctShortCircuitCurrentIsc": 1.94,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 2.43
+        },
+        "stc_voc": {
+          "value": 89.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0
+        },
+        "power": {
+          "value": 145
+        },
+        "cec_model": {
+          "value": "PowerMax 145"
+        },
+        "stc_vmpp": {
+          "value": 69.5
+        }
+      }
+    },
+    {
+      "id": 19611,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1282,
+      "brandName": "AVANCIS",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AVANCIS.png",
+      "productName": "PowerMax 150",
+      "productCode": "PowerMax 150",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/AVANCIS_PowerMax_150.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/AVANCIS_PowerMax_150.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6492,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 150,
+        "stcVoltageAtMaximumPowerVmpp": 70.4,
+        "stcShortCircuitCurrentIsc": 2.44,
+        "stcOpenCircuitVoltageVoc": 89.8,
+        "stcCurrentAtMaximumPowerImpp": 2.13,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1587,
+        "width": 664,
+        "depth": 38,
+        "weight": 17,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.142,
+        "noctMaximumPowerPmax": 113,
+        "noctVoltageAtMaximumPowerVmpp": 67,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 86,
+        "noctShortCircuitCurrentIsc": 1.95,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 2.44
+        },
+        "stc_voc": {
+          "value": 89.8
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0
+        },
+        "power": {
+          "value": 150
+        },
+        "cec_model": {
+          "value": "PowerMax 150"
+        },
+        "stc_vmpp": {
+          "value": 70.4
+        }
+      }
+    },
+    {
+      "id": 34271,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1282,
+      "brandName": "AVANCIS",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AVANCIS.png",
+      "productName": "PowerMax 155",
+      "productCode": "PowerMax 155",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/AVANCIS_PowerMax_155.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/AVANCIS_PowerMax_155.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 12271,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 155,
+        "stcVoltageAtMaximumPowerVmpp": 71.3,
+        "stcShortCircuitCurrentIsc": 2.45,
+        "stcOpenCircuitVoltageVoc": 90.1,
+        "stcCurrentAtMaximumPowerImpp": 2.17,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1587,
+        "width": 664,
+        "depth": 38,
+        "weight": 17,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.147,
+        "noctMaximumPowerPmax": 116,
+        "noctVoltageAtMaximumPowerVmpp": 67,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 86,
+        "noctShortCircuitCurrentIsc": 1.96,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 2.45
+        },
+        "stc_voc": {
+          "value": 90.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0
+        },
+        "power": {
+          "value": 155
+        },
+        "cec_model": {
+          "value": "PowerMax 155"
+        },
+        "stc_vmpp": {
+          "value": 71.3
+        }
+      }
+    },
+    {
+      "id": 37585,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1282,
+      "brandName": "AVANCIS",
+      "brandLogo": "https://file.greensketch.net/brands/logo/AVANCIS.png",
+      "productName": "PowerMax 160",
+      "productCode": "PowerMax 160",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/AVANCIS_PowerMax_160.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/AVANCIS_PowerMax_160.pdf",
+      "productWarranty": "10",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 15585,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 160,
+        "stcVoltageAtMaximumPowerVmpp": 72.2,
+        "stcShortCircuitCurrentIsc": 2.46,
+        "stcOpenCircuitVoltageVoc": 90.5,
+        "stcCurrentAtMaximumPowerImpp": 2.21,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0023,
+        "temperatureCoefficientOfIsc": 0,
+        "firstYearPowerDegradation": 0.01,
+        "subsequentAnnualPowerDegradation": 0.00667,
+        "height": 1587,
+        "width": 664,
+        "depth": 38,
+        "weight": 17,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.152,
+        "noctMaximumPowerPmax": 120,
+        "noctVoltageAtMaximumPowerVmpp": 68,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 87,
+        "noctShortCircuitCurrentIsc": 1.97,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 2.46
+        },
+        "stc_voc": {
+          "value": 90.5
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.23
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0
+        },
+        "power": {
+          "value": 160
+        },
+        "cec_model": {
+          "value": "PowerMax 160"
+        },
+        "stc_vmpp": {
+          "value": 72.2
+        }
+      }
+    }
+  ]
+}

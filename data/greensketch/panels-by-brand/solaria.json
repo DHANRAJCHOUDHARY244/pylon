@@ -1,0 +1,454 @@
+{
+  "source": "greensketch",
+  "productClass": "panel",
+  "brand": "Solaria",
+  "count": 5,
+  "exportedAt": "2026-09-23T06:32:24.472Z",
+  "items": [
+    {
+      "id": 35652,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1322,
+      "brandName": "Solaria",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solaria.png",
+      "productName": "PowerXT-355R-AC",
+      "productCode": "PowerXT-355R-AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Solaria_PowerXT-355R-AC.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Solaria_PowerXT-355R-AC.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 13652,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 355,
+        "stcVoltageAtMaximumPowerVmpp": 39.1,
+        "stcShortCircuitCurrentIsc": 9.53,
+        "stcOpenCircuitVoltageVoc": 47.4,
+        "stcCurrentAtMaximumPowerImpp": 9.09,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1621,
+        "width": 1116,
+        "depth": 40,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.196,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.53
+        },
+        "stc_voc": {
+          "value": 47.4
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 355
+        },
+        "cec_model": {
+          "value": "PowerXT-355R-AC"
+        },
+        "stc_vmpp": {
+          "value": 39.1
+        }
+      }
+    },
+    {
+      "id": 19965,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1322,
+      "brandName": "Solaria",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solaria.png",
+      "productName": "PowerXT-365R-AC",
+      "productCode": "PowerXT-365R-AC",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Solaria_PowerXT-365R-AC.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Solaria_PowerXT-365R-AC.pdf",
+      "productWarranty": "",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 6846,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 39.9,
+        "stcShortCircuitCurrentIsc": 9.58,
+        "stcOpenCircuitVoltageVoc": 48,
+        "stcCurrentAtMaximumPowerImpp": 9.16,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1621,
+        "width": 1116,
+        "depth": 40,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.202,
+        "noctMaximumPowerPmax": 0,
+        "noctVoltageAtMaximumPowerVmpp": 0,
+        "noctCurrentAtMaximumPowerImpp": 0,
+        "noctOpenCircuitVoltageVoc": 0,
+        "noctShortCircuitCurrentIsc": 0,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.58
+        },
+        "stc_voc": {
+          "value": 48
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "PowerXT-365R-AC"
+        },
+        "stc_vmpp": {
+          "value": 39.9
+        }
+      }
+    },
+    {
+      "id": 33250,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1322,
+      "brandName": "Solaria",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solaria.png",
+      "productName": "PowerXT-365R-PD",
+      "productCode": "PowerXT-365R-PD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Solaria_PowerXT-365R-PD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Solaria_PowerXT-365R-PD.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11250,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 365,
+        "stcVoltageAtMaximumPowerVmpp": 39.9,
+        "stcShortCircuitCurrentIsc": 9.58,
+        "stcOpenCircuitVoltageVoc": 48,
+        "stcCurrentAtMaximumPowerImpp": 9.16,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1621,
+        "width": 1116,
+        "depth": 40,
+        "weight": 22,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.202,
+        "noctMaximumPowerPmax": 269,
+        "noctVoltageAtMaximumPowerVmpp": 36.7,
+        "noctCurrentAtMaximumPowerImpp": 7.32,
+        "noctOpenCircuitVoltageVoc": 7.73,
+        "noctShortCircuitCurrentIsc": 7.73,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.58
+        },
+        "stc_voc": {
+          "value": 48
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 365
+        },
+        "cec_model": {
+          "value": "PowerXT-365R-PD"
+        },
+        "stc_vmpp": {
+          "value": 39.9
+        }
+      }
+    },
+    {
+      "id": 33824,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1322,
+      "brandName": "Solaria",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solaria.png",
+      "productName": "PowerXT-370R-PD",
+      "productCode": "PowerXT-370R-PD",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Solaria_PowerXT-370R-PD.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Solaria_PowerXT-370R-PD.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11824,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 370,
+        "stcVoltageAtMaximumPowerVmpp": 40.2,
+        "stcShortCircuitCurrentIsc": 9.6,
+        "stcOpenCircuitVoltageVoc": 48.3,
+        "stcCurrentAtMaximumPowerImpp": 9.2,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1621,
+        "width": 1116,
+        "depth": 40,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.205,
+        "noctMaximumPowerPmax": 272,
+        "noctVoltageAtMaximumPowerVmpp": 37,
+        "noctCurrentAtMaximumPowerImpp": 7.35,
+        "noctOpenCircuitVoltageVoc": 45.5,
+        "noctShortCircuitCurrentIsc": 7.74,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.6
+        },
+        "stc_voc": {
+          "value": 48.3
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 370
+        },
+        "cec_model": {
+          "value": "PowerXT-370R-PD"
+        },
+        "stc_vmpp": {
+          "value": 40.2
+        }
+      }
+    },
+    {
+      "id": 33944,
+      "oswProductId": null,
+      "productClassCode": "panel",
+      "productType": null,
+      "brandId": 1322,
+      "brandName": "Solaria",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solaria.png",
+      "productName": "PowerXT-400R-PM",
+      "productCode": "PowerXT-400R-PM",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.net/images/panels/Solaria_PowerXT-400R-PM.jpg",
+      "datasheet": "https://file.greensketch.net/datasheets/panels/Solaria_PowerXT-400R-PM.pdf",
+      "productWarranty": "25",
+      "performanceWarranty": "25",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": {
+        "id": 11944,
+        "companyProductId": null,
+        "stcMaximumPowerPmax": 400,
+        "stcVoltageAtMaximumPowerVmpp": 42.4,
+        "stcShortCircuitCurrentIsc": 9.82,
+        "stcOpenCircuitVoltageVoc": 51.1,
+        "stcCurrentAtMaximumPowerImpp": 9.41,
+        "temperatureCoefficientOfPmax": -0.0039,
+        "temperatureCoefficientOfVoc": -0.0029,
+        "temperatureCoefficientOfIsc": 0.0004,
+        "firstYearPowerDegradation": 0,
+        "subsequentAnnualPowerDegradation": 0.005,
+        "height": 1644,
+        "width": 1204,
+        "depth": 40,
+        "weight": 21,
+        "palletWeight": null,
+        "palletDimensionLength": null,
+        "palletDimensionWidth": null,
+        "palletDimensionHeight": null,
+        "cell": null,
+        "cellType": null,
+        "cellTechnology": null,
+        "frameColor": null,
+        "stcPanelEfficiency": 0.202,
+        "noctMaximumPowerPmax": 295,
+        "noctVoltageAtMaximumPowerVmpp": 40,
+        "noctCurrentAtMaximumPowerImpp": 7.59,
+        "noctOpenCircuitVoltageVoc": 40,
+        "noctShortCircuitCurrentIsc": 7.92,
+        "frameThickness": null,
+        "qtyPerPallet": null,
+        "connectorType": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "inverter": null,
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "temperature_coefficient_of_pmax": {
+          "value": -0.39
+        },
+        "stc_isc": {
+          "value": 9.82
+        },
+        "stc_voc": {
+          "value": 51.1
+        },
+        "temperature_coefficient_of_voc": {
+          "value": -0.29
+        },
+        "temperature_coefficient_of_isc": {
+          "value": 0.04
+        },
+        "power": {
+          "value": 400
+        },
+        "cec_model": {
+          "value": "PowerXT-400R-PM"
+        },
+        "stc_vmpp": {
+          "value": 42.4
+        }
+      }
+    }
+  ]
+}

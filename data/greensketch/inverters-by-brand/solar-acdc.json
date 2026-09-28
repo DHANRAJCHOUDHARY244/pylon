@@ -1,0 +1,1621 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Solar ACDC",
+  "count": 20,
+  "exportedAt": "2026-09-23T06:39:31.855Z",
+  "items": [
+    {
+      "id": 127523,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC  Hybrid Air Conditioner 10.5KW",
+      "productCode": "SACDCM-ACDC-36KR2 10.5KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4b80cbfe-89f7-4393-9bb4-0a1e381c7fbd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/2eca3944-ba0f-4d8b-a425-645ce8033ea7.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE",
+        "A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28142,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 26,
+        "type": "Hybrid Inverter",
+        "height": 844,
+        "width": 942,
+        "depth": 375,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 26
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127524,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Air Conditioner Solar Multi Split System 3.5KW",
+      "productCode": "ACDCM-ACDC-12KR2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcd3cba1-37dd-4dda-ad2d-440fd95c1a01.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/9a80f59b-365d-457a-a11d-5ae313ffa520.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "N/A",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE",
+        "A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28143,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "Hybrid Inverter",
+        "height": 295,
+        "width": 840,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127525,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Air Conditioner Solar Multi Split System 5KW",
+      "productCode": "ACDCM-ACDC-18KR2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcd3cba1-37dd-4dda-ad2d-440fd95c1a01.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/9a80f59b-365d-457a-a11d-5ae313ffa520.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "N/A",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE",
+        "A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28144,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 310,
+        "width": 952,
+        "depth": 231,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127526,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Air Conditioner Solar Multi Split System 7KW",
+      "productCode": "ACDCM-ACDC-24KR2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/fcd3cba1-37dd-4dda-ad2d-440fd95c1a01.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/9a80f59b-365d-457a-a11d-5ae313ffa520.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "N/A",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE",
+        "A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28145,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 100,
+        "mpptVoltageMin": 100,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 1080,
+        "depth": 237,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 32,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 100
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 100
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127522,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Air Conditioner 8KW",
+      "productCode": "SACDCM-ACDC-27KR2 8KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/4b80cbfe-89f7-4393-9bb4-0a1e381c7fbd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/2eca3944-ba0f-4d8b-a425-645ce8033ea7.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "Not specified",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE",
+        "A"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28141,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 150,
+        "mpptVoltageMin": 150,
+        "mpptVoltageMax": 410,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 28,
+        "type": "Hybrid Inverter",
+        "height": 700,
+        "width": 888,
+        "depth": 318,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 2,
+        "maxInputCurrentPerMppt": 20,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "N/A",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 150
+        },
+        "current_isc_max": {
+          "value": 28
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 150
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127528,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid POOL PUMP SP-100",
+      "productCode": "SP-100",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1db619cc-8ea7-4a83-b8c9-2771add741cd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/39913a1a-0dc1-4a32-87ef-465545a5780f.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Australian Made"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28147,
+        "companyProductId": null,
+        "maxAcPower": 750,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 750,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 300,
+        "width": 200,
+        "depth": 100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 14,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 750
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127529,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid POOL PUMP SP-150",
+      "productCode": "SP-150",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1db619cc-8ea7-4a83-b8c9-2771add741cd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/39913a1a-0dc1-4a32-87ef-465545a5780f.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Australian Made"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28148,
+        "companyProductId": null,
+        "maxAcPower": 1200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 300,
+        "width": 200,
+        "depth": 100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 14,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127530,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid POOL PUMP SP-300",
+      "productCode": "SP-300",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1db619cc-8ea7-4a83-b8c9-2771add741cd.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/39913a1a-0dc1-4a32-87ef-465545a5780f.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "Australian Made"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28149,
+        "companyProductId": null,
+        "maxAcPower": 2200,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 410,
+        "minDcVoltageToStartFeedIn": 40,
+        "mpptVoltageMin": 40,
+        "mpptVoltageMax": 400,
+        "nominalAcPower": 2200,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 300,
+        "width": 200,
+        "depth": 100,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 14,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 410
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 40
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 2200
+        },
+        "mppt_voltage_min": {
+          "value": 40
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22601,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Air Conditioner 3.5kW",
+      "productCode": "Hybrid Solar Air Conditioner 3.5kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/3abb37e0-e5ed-4a74-9d8b-37ae3bd77b4b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DGWA1-ACDC-24K_R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11711,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 1085,
+        "depth": 239,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21336,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Air Conditioner 5.0kW",
+      "productCode": "Hybrid Solar Air Conditioner 5.0kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a3fb1bc2-ea30-4248-898f-36bd7647da3b.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DGWA2-ACDC-12K_R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10446,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 295,
+        "width": 845,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1700,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 23592,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Air Conditioner 7.0kW",
+      "productCode": "Hybrid Solar Air Conditioner 7.0kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/78fd7995-5e41-47f2-b171-f5eba53f8cc7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DGWA1-ACDC-18K_R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 12702,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 16,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 1085,
+        "depth": 239,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 16
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21914,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Air Conditioner DC48V AirCon",
+      "productCode": "DGWA1-DC48V-12K",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/df236a95-b9f7-48de-aada-60cfccc62a61.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DGWA1-DC48V-12K.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11024,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 58,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 46,
+        "mpptVoltageMax": 58,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 295,
+        "width": 840,
+        "depth": 205,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 1500,
+        "dcInputs": 3,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 58
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 46
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21389,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Ducted Air Conditioner 5kW",
+      "productCode": "Duct Type Solar Air Conditioner 5KW DUCTED",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d9c1fe80-e6bc-444e-a9d1-1085809c5551.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DLMDWA1-ACDC-18K.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10499,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 265,
+        "width": 829,
+        "depth": 670,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 2500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24474,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Ducted Air Conditioner 7kW",
+      "productCode": "Duct Type Solar Air Conditioner 7KW DUCTED",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/88814339-63e9-4d2b-bcf5-0f3376e1a0cf.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DLMDWA1-ACDC-24K.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13584,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 265,
+        "width": 829,
+        "depth": 670,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 21494,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Heat Pump Pool Heater 11KW",
+      "productCode": "Solar Heat Pump Pool Heater 11KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bd196a8d-fe66-465b-805c-a389f3b5850a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DSPD1-ACDC-15R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 10604,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 633,
+        "width": 995,
+        "depth": 432,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 24271,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Heat Pump Pool Heater 15KW",
+      "productCode": "Hybrid Solar Heat Pump Pool Heater 15KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7c0e462f-3aca-4e12-967a-8f6588d2ab72.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DSPD1-ACDC-13R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 13381,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 633,
+        "width": 995,
+        "depth": 432,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 20276,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Heat Pump Pool Heater 17KW",
+      "productCode": "Heat Pump Pool Heater 17KW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/13a265c4-5ca6-4f91-8516-25f1cb9ba4ce.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DSPD1-ACDC-10R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 9386,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 0,
+        "maxShortCircuitCurrentPerMppt": 0,
+        "type": "Hybrid Inverter",
+        "height": 633,
+        "width": 995,
+        "depth": 432,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 1,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 0
+        },
+        "nominal_ac_power": {
+          "value": 0
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127531,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Heat Pump Pool Heater SOL-HP-270SHW",
+      "productCode": "SOL-HP-270SHW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/75eb5eb1-9c43-4897-ad66-26c5d2af3f12.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/b7106f8e-35e9-4936-bac8-b4cbfa69ad13.pdf",
+      "productWarranty": null,
+      "performanceWarranty": null,
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28150,
+        "companyProductId": null,
+        "maxAcPower": 1400,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 0,
+        "mpptVoltageMax": null,
+        "nominalAcPower": 1400,
+        "maxShortCircuitCurrentPerMppt": 12,
+        "type": "Hybrid Inverter",
+        "height": 1480,
+        "width": 652,
+        "depth": 652,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": null,
+        "euroEfficiency": null,
+        "wifi": 1,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": 12,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 12
+        },
+        "nominal_ac_power": {
+          "value": 1400
+        },
+        "mppt_voltage_min": {
+          "value": 0
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 22479,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Powered Cassette Air Conditioner 7.0kW",
+      "productCode": "Hybrid Solar Powered Cassette Air Conditioner 7.0kW",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/88996484-d679-4118-b1c4-f435d3237f16.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Solar_ACDC_DCaWMB1-ACDC-24R2.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 11589,
+        "companyProductId": null,
+        "maxAcPower": 0,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 0,
+        "mpptVoltageMin": 80,
+        "mpptVoltageMax": 380,
+        "nominalAcPower": 3500,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 330,
+        "width": 830,
+        "depth": 830,
+        "weight": null,
+        "display": null,
+        "maxDcPower": 3500,
+        "dcInputs": 2,
+        "maxEfficiency": 0.95,
+        "euroEfficiency": null,
+        "wifi": null,
+        "numberOfStringsPerMppt": null,
+        "maxInputCurrentPerMppt": null,
+        "dcSwitch": null,
+        "builtInBattery": null,
+        "meter": null,
+        "useApplication": null,
+        "ieee20305CsipAus": null,
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 0
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3500
+        },
+        "mppt_voltage_min": {
+          "value": 80
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": 127527,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1333,
+      "brandName": "Solar ACDC",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Solar+AC+DC.png",
+      "productName": "Solar AC DC Hybrid Solar Window Air Conditioner SACDCW-12KR2",
+      "productCode": "SACDCW-12KR2",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/dda101ce-9ad7-4463-a28f-7cd2b9c39572.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/04/30/672b97dd-f84d-425b-bc08-a51aa10a2e9e.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": null,
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "CB",
+        "CE"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28146,
+        "companyProductId": null,
+        "maxAcPower": 1700,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 380,
+        "minDcVoltageToStartFeedIn": 75,
+        "mpptVoltageMin": 75,
+        "mpptVoltageMax": 350,
+        "nominalAcPower": 1200,
+        "maxShortCircuitCurrentPerMppt": 15,
+        "type": "Hybrid Inverter",
+        "height": 482,
+        "width": 630,
+        "depth": 380,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0,
+        "euroEfficiency": 0,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 13,
+        "dcSwitch": 1,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 380
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 75
+        },
+        "current_isc_max": {
+          "value": 15
+        },
+        "nominal_ac_power": {
+          "value": 1200
+        },
+        "mppt_voltage_min": {
+          "value": 75
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

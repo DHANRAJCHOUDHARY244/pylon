@@ -1,0 +1,273 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Smart Lifestyle",
+  "count": 3,
+  "exportedAt": "2026-09-23T06:39:52.603Z",
+  "items": [
+    {
+      "id": 127903,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1600,
+      "brandName": "Smart Lifestyle",
+      "brandLogo": "https://file.greensketch.net/brands/logo/38vq7ldr.png",
+      "productName": "SLA-HB-S1-3.8kW1P",
+      "productCode": "SLA-HB-S1-3.8kW1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ce7a1b92-3de5-4cb8-a542-81b8695f3cc4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/14/d8e86fb9-0cc0-4180-90d7-0e0e5521be50.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SLA-HB-S1-3.8kW1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1&2",
+        "IEC 62477",
+        "IEC 61000-6-1",
+        "IEC 61000-6-3",
+        "IEC 60529",
+        "IEC 60068",
+        "IEC 61683",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28297,
+        "companyProductId": null,
+        "maxAcPower": 3800,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 141,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 3800,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 800,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.965,
+        "euroEfficiency": 0.95,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 3800
+        },
+        "mppt_voltage_min": {
+          "value": 141
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127902,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1600,
+      "brandName": "Smart Lifestyle",
+      "brandLogo": "https://file.greensketch.net/brands/logo/38vq7ldr.png",
+      "productName": "SLA-HB-S1-5kW1P",
+      "productCode": "SLA-HB-S1-5kW1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ce7a1b92-3de5-4cb8-a542-81b8695f3cc4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/14/d8e86fb9-0cc0-4180-90d7-0e0e5521be50.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SLA-HB-S1-5kW1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1&2",
+        "IEC 62477",
+        "IEC 61000-6-1",
+        "IEC 61000-6-3",
+        "IEC 60529",
+        "IEC 60068",
+        "IEC 61683",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28296,
+        "companyProductId": null,
+        "maxAcPower": 5000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 185,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 5000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 800,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.967,
+        "euroEfficiency": 0.952,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 5000
+        },
+        "mppt_voltage_min": {
+          "value": 185
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    },
+    {
+      "id": 127901,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 1600,
+      "brandName": "Smart Lifestyle",
+      "brandLogo": "https://file.greensketch.net/brands/logo/38vq7ldr.png",
+      "productName": "SLA-HB-S1-6kW1P",
+      "productCode": "SLA-HB-S1-6kW1P",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/ce7a1b92-3de5-4cb8-a542-81b8695f3cc4.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/14/d8e86fb9-0cc0-4180-90d7-0e0e5521be50.pdf",
+      "productWarranty": "5",
+      "performanceWarranty": "",
+      "cecModelNumber": "SLA-HB-S1-6kW1P (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "IEC/EN 62109-1&2",
+        "IEC 62477",
+        "IEC 61000-6-1",
+        "IEC 61000-6-3",
+        "IEC 60529",
+        "IEC 60068",
+        "IEC 61683",
+        "AS/NZS 4777.2"
+      ],
+      "panel": null,
+      "inverter": {
+        "id": 28295,
+        "companyProductId": null,
+        "maxAcPower": 6000,
+        "noOfFeedInPhases": 1,
+        "noOfMppTrackers": 2,
+        "maxDcVoltage": 600,
+        "minDcVoltageToStartFeedIn": 120,
+        "mpptVoltageMin": 225,
+        "mpptVoltageMax": 480,
+        "nominalAcPower": 6000,
+        "maxShortCircuitCurrentPerMppt": 18,
+        "type": "Hybrid Inverter",
+        "height": 450,
+        "width": 800,
+        "depth": 160,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.968,
+        "euroEfficiency": 0.952,
+        "wifi": 1,
+        "numberOfStringsPerMppt": 1,
+        "maxInputCurrentPerMppt": 15,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 600
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 120
+        },
+        "current_isc_max": {
+          "value": 18
+        },
+        "nominal_ac_power": {
+          "value": 6000
+        },
+        "mppt_voltage_min": {
+          "value": 225
+        },
+        "no_of_mpp_trackers": {
+          "value": 2
+        }
+      }
+    }
+  ]
+}

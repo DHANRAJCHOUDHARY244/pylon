@@ -1,0 +1,88 @@
+{
+  "source": "greensketch",
+  "productClass": "inverter",
+  "brand": "Eaton",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:39:52.648Z",
+  "items": [
+    {
+      "id": 128275,
+      "oswProductId": null,
+      "productClassCode": "inverter",
+      "productType": null,
+      "brandId": 3126,
+      "brandName": "Eaton",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/244b1bce-1188-4d68-8463-d46b7765cb89.png",
+      "productName": "93PCS 125",
+      "productCode": "93PCS 125",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/6d57c136-aa8c-4835-8bd0-359f8a47c1a9.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/09/5d684afc-6450-4956-b0fa-ae5623e68a71.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "93PCS 125 (AS4777-2 2020)",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [],
+      "panel": null,
+      "inverter": {
+        "id": 28406,
+        "companyProductId": null,
+        "maxAcPower": 125000,
+        "noOfFeedInPhases": 3,
+        "noOfMppTrackers": 1,
+        "maxDcVoltage": 900,
+        "minDcVoltageToStartFeedIn": 600,
+        "mpptVoltageMin": 600,
+        "mpptVoltageMax": 900,
+        "nominalAcPower": 125000,
+        "maxShortCircuitCurrentPerMppt": 1000,
+        "type": "Battery-only",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "weight": null,
+        "display": null,
+        "maxDcPower": null,
+        "dcInputs": null,
+        "maxEfficiency": 0.986,
+        "euroEfficiency": null,
+        "wifi": 0,
+        "numberOfStringsPerMppt": 0,
+        "maxInputCurrentPerMppt": 208,
+        "dcSwitch": 0,
+        "builtInBattery": 0,
+        "meter": 0,
+        "useApplication": null,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "battery": null,
+      "electrical": null,
+      "all_specification_hash": {
+        "max_dc_voltage": {
+          "value": 900
+        },
+        "min_dc_voltage_to_start_feedin": {
+          "value": 600
+        },
+        "current_isc_max": {
+          "value": 1000
+        },
+        "nominal_ac_power": {
+          "value": 125000
+        },
+        "mppt_voltage_min": {
+          "value": 600
+        },
+        "no_of_mpp_trackers": {
+          "value": 1
+        }
+      }
+    }
+  ]
+}

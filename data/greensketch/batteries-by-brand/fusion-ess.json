@@ -1,0 +1,63 @@
+{
+  "source": "greensketch",
+  "productClass": "battery",
+  "brand": "Fusion ESS",
+  "count": 1,
+  "exportedAt": "2026-09-23T06:45:23.014Z",
+  "items": [
+    {
+      "id": 127677,
+      "oswProductId": null,
+      "productClassCode": "battery",
+      "productType": null,
+      "brandId": 3159,
+      "brandName": "Fusion ESS",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/9de75b54-53be-4504-b89f-5e571314d597.png",
+      "productName": "FES-512",
+      "productCode": "FES-512",
+      "displayName": null,
+      "productDescription": null,
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/fa307f62-b1b3-4dae-89bd-96c2ac18ab1a.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/82cd03a7-db67-436b-a54b-5eb86ec12b6c.pdf",
+      "productWarranty": "0",
+      "performanceWarranty": "",
+      "cecModelNumber": "FES-512",
+      "unitCost": null,
+      "unitPrice": null,
+      "region": null,
+      "productSource": 1,
+      "certifications": [
+        "UN38.3 Transportation",
+        "UL 1973",
+        "IEC62619",
+        "UL9540A"
+      ],
+      "panel": null,
+      "inverter": null,
+      "battery": {
+        "id": 15626,
+        "companyProductId": null,
+        "nominalEnergy": 5.12,
+        "usableEnergy": 5.12,
+        "depthOfDischarge": 1,
+        "roundTripEfficiency": 0.96,
+        "cycleLife": null,
+        "length": 645.5,
+        "width": 300,
+        "height": 177,
+        "batteryType": "Battery Module",
+        "weight": 46,
+        "ratedDcVoltage": 51.2,
+        "maxAcPower": 0,
+        "ipRating": "IP20",
+        "batteryChemistry": "LiFePO4",
+        "maxOutputPower": 5120,
+        "ieee20305CsipAus": "",
+        "extField": null,
+        "visibleFieldNames": null
+      },
+      "electrical": null,
+      "all_specification_hash": null
+    }
+  ]
+}
