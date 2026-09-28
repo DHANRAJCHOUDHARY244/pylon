@@ -12,6 +12,8 @@
     "start": "node dist/server.js",
     "typecheck": "tsc --noEmit",
     "test": "node --experimental-strip-types scripts/check-design-schema.mjs",
+    "seed:panels": "tsx scripts/seed-panels.ts",
+    "seed:equipment": "tsx scripts/seed-equipment.ts",
     "format": "prettier --write \"src/**/*.{ts,json}\"",
     "lint": "eslint src --ext .ts"
   },

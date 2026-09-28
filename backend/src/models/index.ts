@@ -29,3 +29,6 @@ export {
   type ICalendarConnection,
   type CalendarConnectionDocument,
 } from './calendar-connection.model.js';
+export { Panel, type IPanel, type PanelDocument } from './panel.model.js';
+export { Battery, type IBattery, type BatteryDocument } from './battery.model.js';
+export { Inverter, type IInverter, type InverterDocument } from './inverter.model.js';

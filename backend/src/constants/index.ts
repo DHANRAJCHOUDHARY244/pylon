@@ -38,6 +38,9 @@ export const COLLECTIONS = {
   TASKS: 'tasks',
   CALENDAR_EVENTS: 'calendar_events',
   CALENDAR_CONNECTIONS: 'calendar_connections',
+  PANELS: 'panels',
+  BATTERIES: 'batteries',
+  INVERTERS: 'inverters',
 } as const;
 
 export const CALENDAR_PROVIDERS = ['google', 'outlook'] as const;
