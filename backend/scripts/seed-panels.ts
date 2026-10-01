@@ -34,6 +34,7 @@ type ExportFile = {
   brand?: string;
   total?: number;
   panels?: RawPanel[];
+  items?: RawPanel[];
 };
 
 function argValue(flag: string): string | undefined {
@@ -74,7 +75,109 @@ function asDate(value: unknown): Date | null {
   return Number.isNaN(d.getTime()) ? null : d;
 }
 
+/** GreenSketch product dump (`items[].panel`) → catalog panel document. */
+function mapGreenSketchPanel(raw: RawPanel): MappedPanel | null {
+  const nested =
+    raw.panel && typeof raw.panel === 'object' ? (raw.panel as RawPanel) : null;
+  if (!nested) return null;
+
+  const id = asString(raw.id);
+  const code = asString(raw.productCode) ?? asString(raw.cecModelNumber) ?? id;
+  const brand = asString(raw.brandName);
+  const length = asNumber(nested.height);
+  const width = asNumber(nested.width);
+  const height = asNumber(nested.depth) ?? 30;
+  const stcPmax = asNumber(nested.stcMaximumPowerPmax);
+  if (!id || !code || !brand || length == null || width == null || stcPmax == null) return null;
+
+  const efficiency = asNumber(nested.stcPanelEfficiency);
+
+  return {
+    sku: `gs:${id}`,
+    objectId: id,
+    brand,
+    shortName: asString(raw.productName) ?? asString(raw.displayName),
+    line: asString(nested.cellTechnology),
+    code,
+    identifier: asString(raw.cecModelNumber),
+    cellType: asString(nested.cellType),
+    cellTech: asString(nested.cellTechnology) ?? asString(nested.cell),
+    cellSize: null,
+    cellCount: null,
+    junctionBox: null,
+    cableLength: null,
+    frameType: asString(nested.frameColor),
+    length,
+    width,
+    height,
+    weight: asNumber(nested.weight),
+    moduleEfficiency: efficiency != null && efficiency <= 1 ? efficiency * 100 : efficiency,
+    stcPmax,
+    stcPowerTolerance: null,
+    stcVmpp: asNumber(nested.stcVoltageAtMaximumPowerVmpp),
+    stcImpp: asNumber(nested.stcCurrentAtMaximumPowerImpp),
+    stcVoc: asNumber(nested.stcOpenCircuitVoltageVoc),
+    stcIsc: asNumber(nested.stcShortCircuitCurrentIsc),
+    noctPmax: asNumber(nested.noctMaximumPowerPmax),
+    noctVmpp: asNumber(nested.noctVoltageAtMaximumPowerVmpp),
+    noctImpp: asNumber(nested.noctCurrentAtMaximumPowerImpp),
+    noctVoc: asNumber(nested.noctOpenCircuitVoltageVoc),
+    noctIsc: asNumber(nested.noctShortCircuitCurrentIsc),
+    maximumSystemVoltageIec: null,
+    maximumSystemVoltageUl: null,
+    maximumSeriesFuse: null,
+    imax: null,
+    tmin: null,
+    tmax: null,
+    noctC: null,
+    noctCRange: null,
+    tempCoeffPmax: asNumber(nested.temperatureCoefficientOfPmax),
+    tempCoeffVoc: asNumber(nested.temperatureCoefficientOfVoc),
+    tempCoeffIsc: asNumber(nested.temperatureCoefficientOfIsc),
+    deratingPeriod1Duration: 1,
+    deratingPeriod1StartPerformance: asNumber(nested.firstYearPowerDegradation),
+    deratingPeriod1EndPerformance: null,
+    deratingPeriod1Rate: asNumber(nested.subsequentAnnualPowerDegradation),
+    deratingPeriod2Duration: null,
+    deratingPeriod2StartPerformance: null,
+    deratingPeriod2EndPerformance: null,
+    deratingPeriod2Rate: null,
+    imgSrc: asString(raw.photo),
+    notes: asString(raw.productDescription),
+    files: asString(raw.datasheet),
+    published: true,
+    warrantyFileName: null,
+    installManualFile: null,
+    installManualName: null,
+    performanceWarranty: asNumber(raw.performanceWarranty),
+    productWarranty: asNumber(raw.productWarranty),
+    cellCutCountHor: null,
+    cellCutCountVert: null,
+    bifacial: false,
+    bifaciality: null,
+    country: asString(raw.region),
+    manufactureCountry: null,
+    assembledCountry: null,
+    mcsCertificateFile: null,
+    mcsCertificate: null,
+    mcsCertified: false,
+    iec61215_2021: false,
+    cecApprovedDate: null,
+    cecExpiryDate: null,
+    isGlobal: false,
+    cecApprovedTs: null,
+    cecExpiryTs: null,
+    deletedAt: null,
+    sourceCreatedAt: null,
+    sourceUpdatedAt: null,
+  };
+}
+
 function mapPanel(raw: RawPanel): MappedPanel | null {
+  if (raw.panel && typeof raw.panel === 'object' && (raw.brandName || raw.productCode)) {
+    return mapGreenSketchPanel(raw);
+  }
+
   const sku = asString(raw.sku) ?? asString(raw.objectID);
   const code = asString(raw.code);
   const brand = asString(raw.brand);
@@ -171,6 +274,7 @@ function mapPanel(raw: RawPanel): MappedPanel | null {
 async function loadPanelsFromFile(jsonPath: string): Promise<RawPanel[]> {
   const raw = JSON.parse(await readFile(jsonPath, 'utf8')) as ExportFile | RawPanel[];
   if (Array.isArray(raw)) return raw;
+  if (Array.isArray(raw.items)) return raw.items;
   return Array.isArray(raw.panels) ? raw.panels : [];
 }
 

@@ -12,9 +12,26 @@ export function createApp() {
   const app = express();
 
   app.use(helmet());
+  const allowedOrigins = env.CORS_ORIGIN.split(',')
+    .map((value) => value.trim())
+    .filter(Boolean);
+
   app.use(
     cors({
-      origin: env.CORS_ORIGIN,
+      origin(origin, callback) {
+        if (!origin) {
+          callback(null, true);
+          return;
+        }
+        if (allowedOrigins.includes(origin)) {
+          callback(null, true);
+          return;
+        }
+        const localDev =
+          env.NODE_ENV === 'development' &&
+          /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/.test(origin);
+        callback(null, localDev);
+      },
       credentials: true,
     }),
   );
