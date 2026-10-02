@@ -7,6 +7,10 @@ export type InverterSearchFilter = {
   q?: string;
   brand?: string;
   published?: boolean;
+  phases?: number;
+  mpptMin?: number;
+  mpptExact?: number;
+  inverterType?: string;
 };
 
 export class InverterRepository extends BaseRepository<IInverter, never> {
@@ -21,6 +25,38 @@ export class InverterRepository extends BaseRepository<IInverter, never> {
     else if (input.published === false) filter.published = false;
 
     if (input.brand?.trim()) filter.brand = input.brand.trim();
+
+    if (input.phases != null && Number.isFinite(input.phases)) {
+      filter.phases = input.phases;
+    }
+
+    if (input.mpptExact != null && Number.isFinite(input.mpptExact)) {
+      filter.mpptCount = input.mpptExact;
+    } else if (input.mpptMin != null && Number.isFinite(input.mpptMin)) {
+      filter.mpptCount = { $gte: input.mpptMin };
+    }
+
+    if (input.inverterType?.trim()) {
+      const t = input.inverterType.trim().toLowerCase();
+      if (t === 'hybrid') {
+        filter.inverterType = { $regex: /hybrid/i };
+      } else if (t === 'pv-only' || t === 'pv') {
+        filter.$and = [
+          ...(Array.isArray(filter.$and) ? filter.$and : []),
+          {
+            $or: [
+              { inverterType: { $regex: /pv|string|grid/i } },
+              { inverterType: null },
+            ],
+          },
+          { inverterType: { $not: /hybrid|battery/i } },
+        ];
+      } else if (t === 'battery-only' || t === 'battery') {
+        filter.inverterType = { $regex: /battery/i };
+      } else {
+        filter.inverterType = { $regex: new RegExp(t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i') };
+      }
+    }
 
     const q = input.q?.trim();
     if (q) {

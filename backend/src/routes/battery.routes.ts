@@ -1,12 +1,10 @@
 import { Router } from 'express';
 
 import { batteryController } from '../controllers/battery.controller.js';
-import { authenticate } from '../middleware/index.js';
 
 const router = Router();
 
-router.use(authenticate);
-
+/** Published battery catalog is readable without auth (design sketch / string editor). */
 router.get('/', batteryController.list);
 router.get('/brands', batteryController.brands);
 router.get('/by-skus', batteryController.getMany);

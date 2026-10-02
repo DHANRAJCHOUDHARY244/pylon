@@ -5,8 +5,10 @@ import brandingRoutes from './branding.routes.js';
 import batteryRoutes from './battery.routes.js';
 import crmRoutes from './crm.routes.js';
 import inverterRoutes from './inverter.routes.js';
+import notificationRoutes from './notification.routes.js';
 import panelRoutes from './panel.routes.js';
 import projectRoutes from './project.routes.js';
+import proposalSignRoutes from './proposal-sign.routes.js';
 import userRoutes from './user.routes.js';
 
 const router = Router();
@@ -19,5 +21,7 @@ router.use('/crm', crmRoutes);
 router.use('/panels', panelRoutes);
 router.use('/batteries', batteryRoutes);
 router.use('/inverters', inverterRoutes);
+router.use('/notifications', notificationRoutes);
+router.use('/sign', proposalSignRoutes);
 
 export default router;

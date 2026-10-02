@@ -47,8 +47,6 @@ export function errorHandler(
 
   if (statusCode >= 500) {
     logger.error({ err }, message);
-  } else {
-    logger.warn({ err }, message);
   }
 
   const body: ApiError & { stack?: string } = {

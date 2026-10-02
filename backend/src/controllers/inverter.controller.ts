@@ -18,6 +18,18 @@ function queryBool(value: unknown): boolean | undefined {
 
 export class InverterController extends BaseController {
   list = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
+    const phasesRaw = queryString(req.query.phases);
+    const mpptRaw = queryString(req.query.mppt);
+    const typeRaw = queryString(req.query.type);
+    let phases: number | undefined;
+    let mpptExact: number | undefined;
+    let mpptMin: number | undefined;
+    if (phasesRaw === '1' || phasesRaw === 'single') phases = 1;
+    else if (phasesRaw === '3' || phasesRaw === 'three') phases = 3;
+    else if (phasesRaw && Number.isFinite(Number(phasesRaw))) phases = Number(phasesRaw);
+    if (mpptRaw === '4+' || mpptRaw === '4plus') mpptMin = 4;
+    else if (mpptRaw && Number.isFinite(Number(mpptRaw))) mpptExact = Number(mpptRaw);
+
     const result = await inverterService.list(
       omitUndefined({
         page: Number(req.query.page ?? 1),
@@ -25,6 +37,10 @@ export class InverterController extends BaseController {
         q: queryString(req.query.q),
         brand: queryString(req.query.brand),
         published: queryBool(req.query.published) ?? true,
+        phases,
+        mpptExact,
+        mpptMin,
+        inverterType: typeRaw,
       }),
     );
     return this.ok(res, result);

@@ -1,12 +1,10 @@
 import { Router } from 'express';
 
 import { inverterController } from '../controllers/inverter.controller.js';
-import { authenticate } from '../middleware/index.js';
 
 const router = Router();
 
-router.use(authenticate);
-
+/** Published inverter catalog is readable without auth (design sketch / string editor). */
 router.get('/', inverterController.list);
 router.get('/brands', inverterController.brands);
 router.get('/by-skus', inverterController.getMany);

@@ -40,7 +40,35 @@ export function createApp() {
   app.use(
     pinoHttp({
       logger,
-      autoLogging: env.NODE_ENV !== 'test',
+      quietResLogger: true,
+      autoLogging:
+        env.NODE_ENV === 'test'
+          ? false
+          : {
+              ignore(req) {
+                const url = req.url ?? '';
+                return url === '/favicon.ico' || url.startsWith('/json/');
+              },
+            },
+      customLogLevel(_req, res, err) {
+        if (err || res.statusCode >= 500) return 'error';
+        if (res.statusCode >= 400) return 'warn';
+        return 'info';
+      },
+      customSuccessMessage(req, res, responseTime) {
+        const url = 'originalUrl' in req && req.originalUrl ? req.originalUrl : req.url;
+        return `${req.method} ${url} ${res.statusCode} ${Math.round(responseTime)}ms`;
+      },
+      customErrorMessage(req, res, error) {
+        const url = 'originalUrl' in req && req.originalUrl ? req.originalUrl : req.url;
+        return `${req.method} ${url} ${res.statusCode} ${error.message}`;
+      },
+      customSuccessObject() {
+        return {};
+      },
+      customErrorObject() {
+        return {};
+      },
     }),
   );
 

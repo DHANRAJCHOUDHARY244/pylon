@@ -79,6 +79,10 @@ export class InverterService {
     q?: string;
     brand?: string;
     published?: boolean;
+    phases?: number;
+    mpptExact?: number;
+    mpptMin?: number;
+    inverterType?: string;
   }): Promise<PaginatedResult<InverterDto>> {
     const { page, limit, skip } = getPagination(input.page ?? 1, input.limit ?? 24);
     const { items, total } = await inverterRepository.search(
@@ -86,6 +90,10 @@ export class InverterService {
         q: input.q,
         brand: input.brand,
         published: input.published ?? true,
+        phases: input.phases,
+        mpptExact: input.mpptExact,
+        mpptMin: input.mpptMin,
+        inverterType: input.inverterType,
         skip,
         limit,
       }),

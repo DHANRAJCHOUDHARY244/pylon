@@ -41,6 +41,9 @@ export const COLLECTIONS = {
   PANELS: 'panels',
   BATTERIES: 'batteries',
   INVERTERS: 'inverters',
+  NOTIFICATIONS: 'notifications',
+  PROPOSAL_SIGNS: 'proposal_signs',
+  QUOTE_MESSAGES: 'quote_messages',
 } as const;
 
 export const CALENDAR_PROVIDERS = ['google', 'outlook'] as const;
