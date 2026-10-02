@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Nicest",
+  "exportedAt": "2026-10-01T09:37:25.243Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "NESS-3048S/5KWH",
+      "sku": "NESS-3048S/5KWH",
+      "objectId": "20345",
+      "brand": "Nicest",
+      "brandLogo": null,
+      "name": "NESS-3048S/5KWH",
+      "code": "NESS-3048S/5KWH",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/c5d58427-3ad2-415f-9861-1253d0bb4ce8.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Nicest_NESS-3048S_5KWH.pdf",
+      "watts": 3600,
+      "nominalAcPowerW": 3600,
+      "maxDcPowerW": 3600,
+      "mpptCount": 1,
+      "phases": 1,
+      "maxDcVoltageV": 550,
+      "mpptMinV": 100,
+      "mpptMaxV": 500,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 930,
+      "widthMm": 480,
+      "depthMm": 170,
+      "weightKg": null,
+      "maxEfficiency": 0.94,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

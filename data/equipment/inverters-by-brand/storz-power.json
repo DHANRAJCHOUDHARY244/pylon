@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Storz Power",
+  "exportedAt": "2026-10-01T09:37:25.254Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "15K Inverter (10332)",
+      "sku": "15K Inverter (10332)",
+      "objectId": "22538",
+      "brand": "Storz Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/83e477e8-a20f-46f9-a086-7254597f37d0.png",
+      "name": "15K Inverter (10332)",
+      "code": "15K Inverter (10332)",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/6e06617f-c1d9-4960-90e5-92f8aae5100a.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Storz_Power_15K_Inverter_(10332).pdf",
+      "watts": 15000,
+      "nominalAcPowerW": 15000,
+      "maxDcPowerW": 19500,
+      "mpptCount": 6,
+      "phases": 1,
+      "maxDcVoltageV": 500,
+      "mpptMinV": 150,
+      "mpptMaxV": 425,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 650,
+      "widthMm": 450,
+      "depthMm": 260,
+      "weightKg": null,
+      "maxEfficiency": 0.975,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

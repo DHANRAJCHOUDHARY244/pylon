@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Sermatec",
+  "exportedAt": "2026-10-01T09:37:25.250Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "SMT-5K-TL-LV",
+      "sku": "SMT-5K-TL-LV",
+      "objectId": "23340",
+      "brand": "Sermatec",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Sermatec.png",
+      "name": "SMT-5K-TL-LV",
+      "code": "SMT-5K-TL-LV",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/50571b86-4172-4fa5-93a4-dad2c45474fd.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Sermatec_SMT-5K-TL-LV.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": 6000,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 580,
+      "mpptMinV": 125,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 516,
+      "widthMm": 495,
+      "depthMm": 152,
+      "weightKg": null,
+      "maxEfficiency": 0.977,
+      "productWarranty": "5",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

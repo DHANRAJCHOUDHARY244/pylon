@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Duracell",
+  "exportedAt": "2026-10-01T09:37:25.231Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "DEB3-RF-5.0kW-I (AS4777-2 2020)",
+      "sku": "DEB3-RF-5.0kW-I (AS4777-2 2020)",
+      "objectId": "21344",
+      "brand": "Duracell",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Duracell.png",
+      "name": "DEB3-RF-5.0kW-I (AS4777-2 2020)",
+      "code": "DEB3-RF-5.0kW-I (AS4777-2 2020)",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/a8cd967b-e78b-4c2e-a9e4-8f774467b4ad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Duracell_DEB3-RF-5.0kW-I_(AS4777-2_2020).pdf",
+      "watts": 4999,
+      "nominalAcPowerW": 4999,
+      "maxDcPowerW": null,
+      "mpptCount": 0,
+      "phases": 1,
+      "maxDcVoltageV": 400,
+      "mpptMinV": 0,
+      "mpptMaxV": 0,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Battery-only",
+      "heightMm": 476,
+      "widthMm": 455,
+      "depthMm": 181,
+      "weightKg": null,
+      "maxEfficiency": 0.956,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

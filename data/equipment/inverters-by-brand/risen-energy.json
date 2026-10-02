@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Risen Energy",
+  "exportedAt": "2026-10-01T09:37:25.247Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "SU120E60LM",
+      "sku": "SU120E60LM",
+      "objectId": "125053",
+      "brand": "Risen Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/ce421d68-2156-487e-80c4-38392c56bdba.png",
+      "name": "SU120E60LM",
+      "code": "SU120E60LM",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/bf9f55b0-2c7b-4261-b6dd-9643ca5d4479.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/5f6e86af-53b8-4fbc-b3a4-a37f1ea4e8a7.pdf",
+      "watts": 60000,
+      "nominalAcPowerW": 60000,
+      "maxDcPowerW": null,
+      "mpptCount": 0,
+      "phases": 3,
+      "maxDcVoltageV": 1000,
+      "mpptMinV": 0,
+      "mpptMaxV": 0,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Battery-only",
+      "heightMm": 2000,
+      "widthMm": 1200,
+      "depthMm": 480,
+      "weightKg": null,
+      "maxEfficiency": null,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

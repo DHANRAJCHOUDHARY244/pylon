@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Maxeon",
+  "exportedAt": "2026-10-01T09:37:25.239Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "RESERVE-INV-1-P5-L1-INT",
+      "sku": "RESERVE-INV-1-P5-L1-INT",
+      "objectId": "127616",
+      "brand": "Maxeon",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/d4dd1351-de06-45fa-a5ee-b36c2ae07b0b.webp",
+      "name": "SunPower Reserve 10 kWh 5kW Single Phase",
+      "code": "RESERVE-INV-1-P5-L1-INT",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/7580141a-3086-4ca7-b151-3fc424408c49.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/ab4326ef-f1d3-4293-8f87-438a40496b6b.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": null,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 550,
+      "mpptMinV": 100,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": 15,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 1226,
+      "widthMm": 610,
+      "depthMm": 212,
+      "weightKg": null,
+      "maxEfficiency": 0.0096,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

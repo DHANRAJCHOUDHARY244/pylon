@@ -77,7 +77,7 @@ export class BatteryService {
       omitUndefined({
         q: input.q,
         brand: input.brand,
-        published: input.published ?? true,
+        published: input.published,
         skip,
         limit,
       }),
@@ -99,6 +99,96 @@ export class BatteryService {
 
   async listBrands(): Promise<Array<{ brand: string; count: number }>> {
     return batteryRepository.listBrands();
+  }
+
+  async create(input: {
+    sku: string;
+    brand: string;
+    name: string;
+    code?: string;
+    brandLogo?: string | null;
+    photo?: string | null;
+    datasheet?: string | null;
+    capacityKwh: number;
+    usableKwh?: number;
+    depthOfDischarge?: number | null;
+    roundTripEfficiency?: number | null;
+    lengthMm?: number | null;
+    widthMm?: number | null;
+    heightMm?: number | null;
+    weightKg?: number | null;
+    chemistry?: string | null;
+    ratedDcVoltageV?: number | null;
+    maxOutputPowerW?: number | null;
+    productWarranty?: string | null;
+    unitCost?: number | null;
+    unitPrice?: number | null;
+    published?: boolean;
+  }): Promise<BatteryDto> {
+    const sku = input.sku.trim();
+    const usableKwh = input.usableKwh ?? input.capacityKwh;
+    const doc = await batteryRepository.upsertBySku(sku, {
+      brand: input.brand.trim(),
+      name: input.name.trim(),
+      code: (input.code ?? sku).trim(),
+      brandLogo: input.brandLogo ?? null,
+      photo: input.photo ?? null,
+      datasheet: input.datasheet ?? null,
+      capacityKwh: input.capacityKwh,
+      usableKwh,
+      depthOfDischarge: input.depthOfDischarge ?? null,
+      roundTripEfficiency: input.roundTripEfficiency ?? null,
+      lengthMm: input.lengthMm ?? null,
+      widthMm: input.widthMm ?? null,
+      heightMm: input.heightMm ?? null,
+      weightKg: input.weightKg ?? null,
+      chemistry: input.chemistry ?? null,
+      ratedDcVoltageV: input.ratedDcVoltageV ?? null,
+      maxOutputPowerW: input.maxOutputPowerW ?? null,
+      productWarranty: input.productWarranty ?? null,
+      unitCost: input.unitCost ?? null,
+      unitPrice: input.unitPrice ?? null,
+        published: input.published,
+      source: 'manual',
+    });
+    return toDto(doc);
+  }
+
+  async update(
+    sku: string,
+    input: Partial<{
+      brand: string;
+      name: string;
+      code: string;
+      brandLogo: string | null;
+      photo: string | null;
+      datasheet: string | null;
+      capacityKwh: number;
+      usableKwh: number;
+      depthOfDischarge: number | null;
+      roundTripEfficiency: number | null;
+      lengthMm: number | null;
+      widthMm: number | null;
+      heightMm: number | null;
+      weightKg: number | null;
+      chemistry: string | null;
+      ratedDcVoltageV: number | null;
+      maxOutputPowerW: number | null;
+      productWarranty: string | null;
+      unitCost: number | null;
+      unitPrice: number | null;
+      published: boolean;
+    }>,
+  ): Promise<BatteryDto> {
+    const doc = await batteryRepository.updateBySku(sku, omitUndefined(input));
+    if (!doc) throw new NotFoundError('Battery');
+    return toDto(doc);
+  }
+
+  async remove(sku: string): Promise<BatteryDto> {
+    const doc = await batteryRepository.softDeleteBySku(sku);
+    if (!doc) throw new NotFoundError('Battery');
+    return toDto(doc);
   }
 }
 

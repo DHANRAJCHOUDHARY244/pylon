@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "MG Energy",
+  "exportedAt": "2026-10-01T09:37:25.241Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "TCI X5.0 III",
+      "sku": "TCI X5.0 III",
+      "objectId": "39960",
+      "brand": "MG Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/a5ba1242-4455-4374-8bbd-b75acab2fa8d.png",
+      "name": "TCI X5.0 Ⅲ",
+      "code": "TCI X5.0 III",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/3834238f-a622-4799-ab6e-cd1265f8ebde.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/dba73317-3c6d-4e22-bcd3-5dc5f81c254b.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": 8000,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 600,
+      "mpptMinV": 120,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": 13,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 485,
+      "widthMm": 535,
+      "depthMm": 198,
+      "weightKg": 29,
+      "maxEfficiency": 0.98,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

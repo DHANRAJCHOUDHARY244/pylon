@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "FranklinWH",
+  "exportedAt": "2026-10-01T09:37:25.234Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "aPower X-01-AU",
+      "sku": "aPower X-01-AU",
+      "objectId": "127905",
+      "brand": "FranklinWH",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Snipaste_2024-10-21_19-04-46.png",
+      "name": "Franklin Home Power aPower X-01-AU",
+      "code": "aPower X-01-AU",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/abb3071a-9c50-4c83-982b-9939b39d885e.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/05/14/67014cae-253b-455e-bf36-4c0a63ef9823.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": null,
+      "mpptCount": 0,
+      "phases": 1,
+      "maxDcVoltageV": 51.2,
+      "mpptMinV": 0,
+      "mpptMaxV": 0,
+      "maxInputCurrentPerMpptA": 0,
+      "inverterType": "Battery-only",
+      "heightMm": 1150,
+      "widthMm": 750,
+      "depthMm": 290,
+      "weightKg": null,
+      "maxEfficiency": 0.965,
+      "productWarranty": "12",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

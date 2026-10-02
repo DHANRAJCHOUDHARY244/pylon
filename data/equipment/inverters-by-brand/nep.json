@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "NEP",
+  "exportedAt": "2026-10-01T09:37:25.242Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "BDM-600",
+      "sku": "BDM-600",
+      "objectId": "22211",
+      "brand": "NEP",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/7beb02dc-47e7-4354-88a8-aa27c5312d0f.png",
+      "name": "BDM-600",
+      "code": "BDM-600",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/556bc4d3-9baf-4d1f-a1e5-5680c39742b6.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/NEP_BDM-600.pdf",
+      "watts": 500,
+      "nominalAcPowerW": 500,
+      "maxDcPowerW": 720,
+      "mpptCount": 1,
+      "phases": 1,
+      "maxDcVoltageV": 60,
+      "mpptMinV": 22,
+      "mpptMaxV": 55,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "PV-only Inverter",
+      "heightMm": 132,
+      "widthMm": 277,
+      "depthMm": 50,
+      "weightKg": null,
+      "maxEfficiency": 0.955,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

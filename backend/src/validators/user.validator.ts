@@ -15,6 +15,11 @@ export const updateProfileSchema = z.object({
   name: z.string().trim().min(2).max(120),
 });
 
+export const changePasswordSchema = z.object({
+  currentPassword: z.string().min(1),
+  newPassword: z.string().min(8).max(128),
+});
+
 export const paginationSchema = z.object({
   page: z.coerce.number().int().positive().optional().default(1),
   limit: z.coerce.number().int().positive().max(100).optional().default(20),

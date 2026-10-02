@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "URE",
+  "exportedAt": "2026-10-01T09:37:25.262Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "MA1-INV",
+      "sku": "MA1-INV",
+      "objectId": "23380",
+      "brand": "URE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/thwtryvr.png",
+      "name": "MA1-INV",
+      "code": "MA1-INV",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/56a0822d-5c2c-4479-87e6-21c209f84dad.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/URE_MA1-INV.pdf",
+      "watts": 4600,
+      "nominalAcPowerW": 4600,
+      "maxDcPowerW": 6600,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 580,
+      "mpptMinV": 125,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 615,
+      "widthMm": 610,
+      "depthMm": 236,
+      "weightKg": null,
+      "maxEfficiency": 0.976,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

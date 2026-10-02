@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Renox",
+  "exportedAt": "2026-10-01T09:37:25.246Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "RX-P125k",
+      "sku": "RX-P125k",
+      "objectId": "128375",
+      "brand": "Renox",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/partner/prod/image/1a423079-dca6-42c2-bc85-89305e8c567f.png",
+      "name": "RX-P125k",
+      "code": "RX-P125k",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/38002cee-175f-4d9a-83ec-d2279fb5a049.png",
+      "datasheet": "https://file.greensketch.ai/master-data/partner/prod/product/dataSheet/2026/06/11/afd1e247-e103-4fa7-b6f9-d1b5abd4bf1e.pdf",
+      "watts": 125000,
+      "nominalAcPowerW": 125000,
+      "maxDcPowerW": null,
+      "mpptCount": 1,
+      "phases": 3,
+      "maxDcVoltageV": 1000,
+      "mpptMinV": 630,
+      "mpptMaxV": 950,
+      "maxInputCurrentPerMpptA": 217,
+      "inverterType": "Battery-only",
+      "heightMm": 240,
+      "widthMm": 520,
+      "depthMm": 680,
+      "weightKg": null,
+      "maxEfficiency": 0.99,
+      "productWarranty": "0",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

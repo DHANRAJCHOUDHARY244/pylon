@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "MagellanPower",
+  "exportedAt": "2026-10-01T09:37:25.238Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "MMI-10-1P",
+      "sku": "MMI-10-1P",
+      "objectId": "22150",
+      "brand": "MagellanPower",
+      "brandLogo": "https://file.greensketch.net/brands/logo/MagellanPower.png",
+      "name": "MMI-10-1P",
+      "code": "MMI-10-1P",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d65b4fad-c861-4402-b3bb-d3bee0bf7120.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Magellan_MMI-10-1P.pdf",
+      "watts": 10000,
+      "nominalAcPowerW": 10000,
+      "maxDcPowerW": null,
+      "mpptCount": 0,
+      "phases": 1,
+      "maxDcVoltageV": 240,
+      "mpptMinV": 0,
+      "mpptMaxV": 0,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Battery-only",
+      "heightMm": 573,
+      "widthMm": 333,
+      "depthMm": 249,
+      "weightKg": null,
+      "maxEfficiency": 0.94,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

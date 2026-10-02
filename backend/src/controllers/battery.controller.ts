@@ -10,10 +10,11 @@ function queryString(value: unknown): string | undefined {
   return typeof value === 'string' && value.trim().length > 0 ? value.trim() : undefined;
 }
 
-function queryBool(value: unknown): boolean | undefined {
+function queryPublished(value: unknown): boolean | undefined {
+  if (value === 'all') return undefined;
   if (value === 'true' || value === '1') return true;
   if (value === 'false' || value === '0') return false;
-  return undefined;
+  return true;
 }
 
 export class BatteryController extends BaseController {
@@ -24,7 +25,7 @@ export class BatteryController extends BaseController {
         limit: Number(req.query.limit ?? 24),
         q: queryString(req.query.q),
         brand: queryString(req.query.brand),
-        published: queryBool(req.query.published) ?? true,
+        published: queryPublished(req.query.published),
       }),
     );
     return this.ok(res, result);
@@ -46,6 +47,18 @@ export class BatteryController extends BaseController {
       .filter(Boolean)
       .slice(0, 100);
     return this.ok(res, await batteryService.getBySkus(skus));
+  });
+
+  create = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
+    return this.created(res, await batteryService.create(req.body));
+  });
+
+  update = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
+    return this.ok(res, await batteryService.update(String(req.params.sku), req.body));
+  });
+
+  remove = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
+    return this.ok(res, await batteryService.remove(String(req.params.sku)));
   });
 }
 

@@ -68,6 +68,47 @@ export class BatteryRepository extends BaseRepository<IBattery, never> {
     ]);
     return rows.filter((r) => r._id).map((r) => ({ brand: r._id, count: r.count }));
   }
+
+  async upsertBySku(
+    sku: string,
+    data: Partial<IBattery> & Pick<IBattery, 'brand' | 'name' | 'capacityKwh' | 'usableKwh'>,
+  ): Promise<BatteryDocument> {
+    const code = data.code?.trim() || sku;
+    const doc = await this.model
+      .findOneAndUpdate(
+        { sku },
+        {
+          $set: {
+            ...data,
+            sku,
+            code,
+            objectId: data.objectId ?? sku,
+            deletedAt: null,
+          },
+          $setOnInsert: { source: data.source ?? 'manual' },
+        },
+        { new: true, upsert: true, runValidators: true, setDefaultsOnInsert: true },
+      )
+      .exec();
+    if (!doc) throw new Error('Battery upsert failed');
+    return doc;
+  }
+
+  async updateBySku(sku: string, data: Partial<IBattery>): Promise<BatteryDocument | null> {
+    return this.model
+      .findOneAndUpdate({ sku, deletedAt: null }, { $set: data }, { new: true, runValidators: true })
+      .exec();
+  }
+
+  async softDeleteBySku(sku: string): Promise<BatteryDocument | null> {
+    return this.model
+      .findOneAndUpdate(
+        { sku, deletedAt: null },
+        { $set: { deletedAt: new Date(), published: false } },
+        { new: true },
+      )
+      .exec();
+  }
 }
 
 export const batteryRepository = new BatteryRepository();

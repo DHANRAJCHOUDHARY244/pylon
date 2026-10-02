@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Three Phase Inverter",
+  "exportedAt": "2026-10-01T09:37:25.261Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "SE7K-AUB (AS4777-2 2020)",
+      "sku": "SE7K-AUB (AS4777-2 2020)",
+      "objectId": "20389",
+      "brand": "Three Phase Inverter",
+      "brandLogo": null,
+      "name": "SE7K-AUB (AS4777-2 2020)",
+      "code": "SE7K-AUB (AS4777-2 2020)",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/448dc0ba-a57d-4e0d-8fec-904c92096f65.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Three_Phase_Inverter_SE7K-AUB_AS4777-2_2020.pdf",
+      "watts": 7000,
+      "nominalAcPowerW": 7000,
+      "maxDcPowerW": 9750,
+      "mpptCount": 1,
+      "phases": 3,
+      "maxDcVoltageV": 450,
+      "mpptMinV": 375,
+      "mpptMaxV": 450,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "PV-only Inverter",
+      "heightMm": 775,
+      "widthMm": 315,
+      "depthMm": 260,
+      "weightKg": null,
+      "maxEfficiency": 0.978,
+      "productWarranty": "12",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

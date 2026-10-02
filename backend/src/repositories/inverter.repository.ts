@@ -104,6 +104,47 @@ export class InverterRepository extends BaseRepository<IInverter, never> {
     ]);
     return rows.filter((r) => r._id).map((r) => ({ brand: r._id, count: r.count }));
   }
+
+  async upsertBySku(
+    sku: string,
+    data: Partial<IInverter> & Pick<IInverter, 'brand' | 'name' | 'watts'>,
+  ): Promise<InverterDocument> {
+    const code = data.code?.trim() || sku;
+    const doc = await this.model
+      .findOneAndUpdate(
+        { sku },
+        {
+          $set: {
+            ...data,
+            sku,
+            code,
+            objectId: data.objectId ?? sku,
+            deletedAt: null,
+          },
+          $setOnInsert: { source: data.source ?? 'manual' },
+        },
+        { new: true, upsert: true, runValidators: true, setDefaultsOnInsert: true },
+      )
+      .exec();
+    if (!doc) throw new Error('Inverter upsert failed');
+    return doc;
+  }
+
+  async updateBySku(sku: string, data: Partial<IInverter>): Promise<InverterDocument | null> {
+    return this.model
+      .findOneAndUpdate({ sku, deletedAt: null }, { $set: data }, { new: true, runValidators: true })
+      .exec();
+  }
+
+  async softDeleteBySku(sku: string): Promise<InverterDocument | null> {
+    return this.model
+      .findOneAndUpdate(
+        { sku, deletedAt: null },
+        { $set: { deletedAt: new Date(), published: false } },
+        { new: true },
+      )
+      .exec();
+  }
 }
 
 export const inverterRepository = new InverterRepository();

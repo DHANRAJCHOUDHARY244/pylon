@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "ReneSola",
+  "exportedAt": "2026-10-01T09:37:25.245Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "Replus-250",
+      "sku": "Replus-250",
+      "objectId": "21873",
+      "brand": "ReneSola",
+      "brandLogo": "https://file.greensketch.net/brands/logo/ReneSola.png",
+      "name": "Replus-250",
+      "code": "Replus-250",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/11b2726f-0cf5-4f5d-91b5-95bc2f2b2ebb.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/ReneSola_Replus-250.pdf",
+      "watts": 220,
+      "nominalAcPowerW": 220,
+      "maxDcPowerW": 250,
+      "mpptCount": 1,
+      "phases": 1,
+      "maxDcVoltageV": 55,
+      "mpptMinV": 22,
+      "mpptMaxV": 45,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "PV-only Inverter",
+      "heightMm": 138,
+      "widthMm": 230,
+      "depthMm": 35,
+      "weightKg": null,
+      "maxEfficiency": 0.963,
+      "productWarranty": "25",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

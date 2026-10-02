@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Vestwoods",
+  "exportedAt": "2026-10-01T09:37:25.263Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "VESS Plus-100k",
+      "sku": "VESS Plus-100k",
+      "objectId": "23670",
+      "brand": "Vestwoods",
+      "brandLogo": "https://file.greensketch.net/brands/logo/fmkybkcf.png",
+      "name": "VESS Plus-100k",
+      "code": "VESS Plus-100k",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/811fc0ca-12cd-4205-a625-8a41a2b907b7.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Vestwoods_VESS_Plus-100k.pdf",
+      "watts": 100000,
+      "nominalAcPowerW": 100000,
+      "maxDcPowerW": 100000,
+      "mpptCount": 1,
+      "phases": 3,
+      "maxDcVoltageV": 650,
+      "mpptMinV": 200,
+      "mpptMaxV": 650,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 2300,
+      "widthMm": 1850,
+      "depthMm": 1200,
+      "weightKg": null,
+      "maxEfficiency": 0.973,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

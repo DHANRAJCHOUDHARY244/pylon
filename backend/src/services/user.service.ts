@@ -98,6 +98,21 @@ export class UserService extends BaseService<IUser, UserResponse, RegisterInput>
     return this.serialize(updated);
   }
 
+  async changePassword(
+    id: string,
+    input: { currentPassword: string; newPassword: string },
+  ): ServiceResult<{ ok: true }> {
+    const user = await userRepository.findByIdWithPassword(id);
+    if (!user || !user.isActive) throw new NotFoundError('User');
+
+    const valid = await comparePassword(input.currentPassword, user.password);
+    if (!valid) throw new UnauthorizedError('Current password is incorrect');
+
+    user.password = await hashPassword(input.newPassword);
+    await user.save();
+    return { ok: true };
+  }
+
   async listUsers(query: PaginationQuery = {}): ServiceResult<PaginatedResult<UserResponse>> {
     return this.list(query);
   }

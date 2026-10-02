@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "RCT Power",
+  "exportedAt": "2026-10-01T09:37:25.244Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "RHS-6K-H",
+      "sku": "RHS-6K-H",
+      "objectId": "22914",
+      "brand": "RCT Power",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/5875cf71-ae33-47f0-9710-b82c4a552730.png",
+      "name": "RHS-6K-H (AS4777-2 2020)",
+      "code": "RHS-6K-H",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/bfd8ed74-aaba-46e3-8e11-df9d28366703.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/RCT_Power_RHS-6K-H_(AS4777-2_2020).pdf",
+      "watts": 6000,
+      "nominalAcPowerW": 6000,
+      "maxDcPowerW": 9300,
+      "mpptCount": 3,
+      "phases": 1,
+      "maxDcVoltageV": 600,
+      "mpptMinV": 90,
+      "mpptMaxV": 580,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 445,
+      "widthMm": 605,
+      "depthMm": 165,
+      "weightKg": null,
+      "maxEfficiency": 0.971,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

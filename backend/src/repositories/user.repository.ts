@@ -22,6 +22,10 @@ export class UserRepository extends BaseRepository<IUser, CreateUserInput, Updat
   async findByEmailWithPassword(email: string): Promise<UserDocument | null> {
     return User.findOne({ email: email.toLowerCase() }).select('+password');
   }
+
+  async findByIdWithPassword(id: string): Promise<UserDocument | null> {
+    return User.findById(id).select('+password');
+  }
 }
 
 export const userRepository = new UserRepository();

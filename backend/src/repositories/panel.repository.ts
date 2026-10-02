@@ -84,6 +84,45 @@ export class PanelRepository extends BaseRepository<IPanel, never> {
       .filter((r) => r._id)
       .map((r) => ({ brand: r._id, count: r.count }));
   }
+
+  async upsertBySku(
+    sku: string,
+    data: Partial<IPanel> & Pick<IPanel, 'brand' | 'code' | 'length' | 'width' | 'stcPmax'>,
+  ): Promise<PanelDocument> {
+    const doc = await this.model
+      .findOneAndUpdate(
+        { sku },
+        {
+          $set: {
+            ...data,
+            sku,
+            objectId: data.objectId ?? sku,
+            height: data.height ?? 30,
+            deletedAt: null,
+          },
+        },
+        { new: true, upsert: true, runValidators: true, setDefaultsOnInsert: true },
+      )
+      .exec();
+    if (!doc) throw new Error('Panel upsert failed');
+    return doc;
+  }
+
+  async updateBySku(sku: string, data: Partial<IPanel>): Promise<PanelDocument | null> {
+    return this.model
+      .findOneAndUpdate({ sku, deletedAt: null }, { $set: data }, { new: true, runValidators: true })
+      .exec();
+  }
+
+  async softDeleteBySku(sku: string): Promise<PanelDocument | null> {
+    return this.model
+      .findOneAndUpdate(
+        { sku, deletedAt: null },
+        { $set: { deletedAt: new Date(), published: false } },
+        { new: true },
+      )
+      .exec();
+  }
 }
 
 export const panelRepository = new PanelRepository();

@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "GMDE",
+  "exportedAt": "2026-10-01T09:37:25.234Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "5200TL",
+      "sku": "5200TL",
+      "objectId": "23656",
+      "brand": "GMDE",
+      "brandLogo": "https://file.greensketch.net/brands/logo/4ff3c32e64cd1.gif",
+      "name": "5200TL",
+      "code": "5200TL",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/7e024ad0-fc6e-43f3-b7ac-ad55190c5dab.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Global_Mainstream_Dynamic_Energy_5200TL.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": 5200,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 580,
+      "mpptMinV": 125,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 610,
+      "widthMm": 550,
+      "depthMm": 192,
+      "weightKg": null,
+      "maxEfficiency": 0.95,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "battery",
+  "brand": "Maxeon",
+  "exportedAt": "2026-10-01T09:37:25.654Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "RESERVE-BAT-1-DC-10.1-INT",
+      "sku": "RESERVE-BAT-1-DC-10.1-INT",
+      "objectId": "127689",
+      "brand": "Maxeon",
+      "brandLogo": "https://file.greensketch.ai/master-data/prod/image/2025/12/08/d4dd1351-de06-45fa-a5ee-b36c2ae07b0b.webp",
+      "name": "SunPower Reserve 10.1 kWh 5kW Single Phase",
+      "code": "RESERVE-BAT-1-DC-10.1-INT",
+      "photo": "https://file.greensketch.ai/master-data/prod/product/image/2026/05/12/23c6e8bd-9294-4ef7-9985-d1222f873ccb.png",
+      "datasheet": "https://file.greensketch.ai/master-data/prod/product/dataSheet/2026/05/12/ddd0face-da19-484e-92d4-b782b8d4c72c.pdf",
+      "capacityKwh": 10.1,
+      "usableKwh": 10.1,
+      "depthOfDischarge": 0.00951,
+      "roundTripEfficiency": 0.9,
+      "lengthMm": 212,
+      "widthMm": 610,
+      "heightMm": 1226,
+      "weightKg": 110,
+      "chemistry": "LiFePO4",
+      "ratedDcVoltageV": 96,
+      "maxOutputPowerW": 5000,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

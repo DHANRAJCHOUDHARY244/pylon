@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "REA Power",
+  "exportedAt": "2026-10-01T09:37:25.245Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "REA-INV-5",
+      "sku": "REA-INV-5",
+      "objectId": "21377",
+      "brand": "REA Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/REA_Power_Logo_TM-_Blue__Gray_-_Elaine_Pan.png",
+      "name": "REA-INV-5",
+      "code": "REA-INV-5",
+      "photo": "https://file.greensketch.ai/green-sketch/partner/prod/image/5349840d-810f-48e8-8a8e-cd81617a1f8f.png",
+      "datasheet": "https://file.greensketch.ai/green-sketch/partner/prod/document/7036d45a-aa20-4996-9cc9-f923d9d084c5.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": 5000,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 580,
+      "mpptMinV": 100,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 212,
+      "widthMm": 610,
+      "depthMm": 366,
+      "weightKg": null,
+      "maxEfficiency": 0.973,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

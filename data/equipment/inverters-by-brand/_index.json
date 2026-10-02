@@ -1,0 +1,1084 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "exportedAt": "2026-10-01T09:37:25.264Z",
+  "total": 5255,
+  "brandCount": 215,
+  "brands": [
+    {
+      "brand": "SolaX Power",
+      "count": 300,
+      "file": "solax-power.json"
+    },
+    {
+      "brand": "Growatt",
+      "count": 275,
+      "file": "growatt.json"
+    },
+    {
+      "brand": "GoodWe",
+      "count": 261,
+      "file": "goodwe.json"
+    },
+    {
+      "brand": "Solis",
+      "count": 241,
+      "file": "solis.json"
+    },
+    {
+      "brand": "SAJ",
+      "count": 197,
+      "file": "saj.json"
+    },
+    {
+      "brand": "Fox ESS",
+      "count": 184,
+      "file": "fox-ess.json"
+    },
+    {
+      "brand": "Fronius",
+      "count": 164,
+      "file": "fronius.json"
+    },
+    {
+      "brand": "SOFARSOLAR",
+      "count": 164,
+      "file": "sofarsolar.json"
+    },
+    {
+      "brand": "Deye",
+      "count": 154,
+      "file": "deye.json"
+    },
+    {
+      "brand": "Sigenergy",
+      "count": 151,
+      "file": "sigenergy.json"
+    },
+    {
+      "brand": "Afore",
+      "count": 121,
+      "file": "afore.json"
+    },
+    {
+      "brand": "Sungrow",
+      "count": 116,
+      "file": "sungrow.json"
+    },
+    {
+      "brand": "Hoymiles",
+      "count": 95,
+      "file": "hoymiles.json"
+    },
+    {
+      "brand": "Solplanet",
+      "count": 90,
+      "file": "solplanet.json"
+    },
+    {
+      "brand": "Huawei",
+      "count": 88,
+      "file": "huawei.json"
+    },
+    {
+      "brand": "SolarEdge",
+      "count": 84,
+      "file": "solaredge.json"
+    },
+    {
+      "brand": "SMA",
+      "count": 82,
+      "file": "sma.json"
+    },
+    {
+      "brand": "ABB",
+      "count": 73,
+      "file": "abb.json"
+    },
+    {
+      "brand": "FIMER",
+      "count": 72,
+      "file": "fimer.json"
+    },
+    {
+      "brand": "Sunways",
+      "count": 72,
+      "file": "sunways.json"
+    },
+    {
+      "brand": "AlphaESS",
+      "count": 66,
+      "file": "alphaess.json"
+    },
+    {
+      "brand": "Victron Energy",
+      "count": 65,
+      "file": "victron-energy.json"
+    },
+    {
+      "brand": "Enphase",
+      "count": 63,
+      "file": "enphase.json"
+    },
+    {
+      "brand": "Zeus Appollo",
+      "count": 63,
+      "file": "zeus-appollo.json"
+    },
+    {
+      "brand": "Delta",
+      "count": 53,
+      "file": "delta.json"
+    },
+    {
+      "brand": "RedEarth",
+      "count": 51,
+      "file": "redearth.json"
+    },
+    {
+      "brand": "INVT",
+      "count": 49,
+      "file": "invt.json"
+    },
+    {
+      "brand": "Energizer",
+      "count": 48,
+      "file": "energizer.json"
+    },
+    {
+      "brand": "EVVO Solar",
+      "count": 46,
+      "file": "evvo-solar.json"
+    },
+    {
+      "brand": "Hypontech",
+      "count": 46,
+      "file": "hypontech.json"
+    },
+    {
+      "brand": "KSTAR",
+      "count": 46,
+      "file": "kstar.json"
+    },
+    {
+      "brand": "Pylontech",
+      "count": 45,
+      "file": "pylontech.json"
+    },
+    {
+      "brand": "SUNSYNK",
+      "count": 41,
+      "file": "sunsynk.json"
+    },
+    {
+      "brand": "GE",
+      "count": 38,
+      "file": "ge.json"
+    },
+    {
+      "brand": "WHES",
+      "count": 36,
+      "file": "whes.json"
+    },
+    {
+      "brand": "KEHUA",
+      "count": 34,
+      "file": "kehua.json"
+    },
+    {
+      "brand": "Solinteg",
+      "count": 33,
+      "file": "solinteg.json"
+    },
+    {
+      "brand": "Swatten",
+      "count": 31,
+      "file": "swatten.json"
+    },
+    {
+      "brand": "AISWEI",
+      "count": 30,
+      "file": "aiswei.json"
+    },
+    {
+      "brand": "PrimeVolt",
+      "count": 30,
+      "file": "primevolt.json"
+    },
+    {
+      "brand": "Midea",
+      "count": 29,
+      "file": "midea.json"
+    },
+    {
+      "brand": "JFY",
+      "count": 28,
+      "file": "jfy.json"
+    },
+    {
+      "brand": "Canadian Solar Australia",
+      "count": 27,
+      "file": "canadian-solar-australia.json"
+    },
+    {
+      "brand": "Each Energy",
+      "count": 27,
+      "file": "each-energy.json"
+    },
+    {
+      "brand": "HINEN",
+      "count": 27,
+      "file": "hinen.json"
+    },
+    {
+      "brand": "Latronics",
+      "count": 24,
+      "file": "latronics.json"
+    },
+    {
+      "brand": "Redback",
+      "count": 24,
+      "file": "redback.json"
+    },
+    {
+      "brand": "Suntellite",
+      "count": 24,
+      "file": "suntellite.json"
+    },
+    {
+      "brand": "PotisEdge",
+      "count": 23,
+      "file": "potisedge.json"
+    },
+    {
+      "brand": "AMBRION",
+      "count": 22,
+      "file": "ambrion.json"
+    },
+    {
+      "brand": "Tesla",
+      "count": 22,
+      "file": "tesla.json"
+    },
+    {
+      "brand": "NOARK Electric",
+      "count": 21,
+      "file": "noark-electric.json"
+    },
+    {
+      "brand": "TBB Power",
+      "count": 21,
+      "file": "tbb-power.json"
+    },
+    {
+      "brand": "Hiconics",
+      "count": 19,
+      "file": "hiconics.json"
+    },
+    {
+      "brand": "HYXiPOWER",
+      "count": 19,
+      "file": "hyxipower.json"
+    },
+    {
+      "brand": "Dyness",
+      "count": 18,
+      "file": "dyness.json"
+    },
+    {
+      "brand": "EcoFlow",
+      "count": 18,
+      "file": "ecoflow.json"
+    },
+    {
+      "brand": "mSolar",
+      "count": 18,
+      "file": "msolar.json"
+    },
+    {
+      "brand": "Anker Solix",
+      "count": 17,
+      "file": "anker-solix.json"
+    },
+    {
+      "brand": "GivEnergy",
+      "count": 17,
+      "file": "givenergy.json"
+    },
+    {
+      "brand": "KOYOE",
+      "count": 17,
+      "file": "koyoe.json"
+    },
+    {
+      "brand": "Projoy Electric",
+      "count": 17,
+      "file": "projoy-electric.json"
+    },
+    {
+      "brand": "Redx",
+      "count": 17,
+      "file": "redx.json"
+    },
+    {
+      "brand": "Selectronic",
+      "count": 17,
+      "file": "selectronic.json"
+    },
+    {
+      "brand": "Solar Juice",
+      "count": 16,
+      "file": "solar-juice.json"
+    },
+    {
+      "brand": "Neovolt",
+      "count": 15,
+      "file": "neovolt.json"
+    },
+    {
+      "brand": "Soltaro",
+      "count": 15,
+      "file": "soltaro.json"
+    },
+    {
+      "brand": "Sonnen",
+      "count": 15,
+      "file": "sonnen.json"
+    },
+    {
+      "brand": "Altenergy",
+      "count": 14,
+      "file": "altenergy.json"
+    },
+    {
+      "brand": "AP Systems",
+      "count": 14,
+      "file": "ap-systems.json"
+    },
+    {
+      "brand": "Ingeteam",
+      "count": 14,
+      "file": "ingeteam.json"
+    },
+    {
+      "brand": "iSUNA",
+      "count": 14,
+      "file": "isuna.json"
+    },
+    {
+      "brand": "Schneider",
+      "count": 14,
+      "file": "schneider.json"
+    },
+    {
+      "brand": "Sky Energy",
+      "count": 14,
+      "file": "sky-energy.json"
+    },
+    {
+      "brand": "SSE",
+      "count": 14,
+      "file": "sse.json"
+    },
+    {
+      "brand": "Luxpower",
+      "count": 13,
+      "file": "luxpower.json"
+    },
+    {
+      "brand": "Trina Solar",
+      "count": 13,
+      "file": "trina-solar.json"
+    },
+    {
+      "brand": "ZCS Azzurro",
+      "count": 13,
+      "file": "zcs-azzurro.json"
+    },
+    {
+      "brand": "Zeversolar",
+      "count": 13,
+      "file": "zeversolar.json"
+    },
+    {
+      "brand": "iStore",
+      "count": 12,
+      "file": "istore.json"
+    },
+    {
+      "brand": "Nahui",
+      "count": 12,
+      "file": "nahui.json"
+    },
+    {
+      "brand": "FLOWNERGY",
+      "count": 11,
+      "file": "flownergy.json"
+    },
+    {
+      "brand": "Steca",
+      "count": 11,
+      "file": "steca.json"
+    },
+    {
+      "brand": "CE+T",
+      "count": 10,
+      "file": "ce-t.json"
+    },
+    {
+      "brand": "Chint Power",
+      "count": 10,
+      "file": "chint-power.json"
+    },
+    {
+      "brand": "Energy Smart Water",
+      "count": 10,
+      "file": "energy-smart-water.json"
+    },
+    {
+      "brand": "Litto",
+      "count": 10,
+      "file": "litto.json"
+    },
+    {
+      "brand": "MIL-Systems",
+      "count": 10,
+      "file": "mil-systems.json"
+    },
+    {
+      "brand": "Pixii",
+      "count": 10,
+      "file": "pixii.json"
+    },
+    {
+      "brand": "Sunwoda Energy",
+      "count": 10,
+      "file": "sunwoda-energy.json"
+    },
+    {
+      "brand": "Trannergy",
+      "count": 10,
+      "file": "trannergy.json"
+    },
+    {
+      "brand": "BLD Solar",
+      "count": 9,
+      "file": "bld-solar.json"
+    },
+    {
+      "brand": "Bluesun",
+      "count": 9,
+      "file": "bluesun.json"
+    },
+    {
+      "brand": "EAST",
+      "count": 9,
+      "file": "east.json"
+    },
+    {
+      "brand": "ESY SUNHOME",
+      "count": 9,
+      "file": "esy-sunhome.json"
+    },
+    {
+      "brand": "GRUNDFOS",
+      "count": 9,
+      "file": "grundfos.json"
+    },
+    {
+      "brand": "Haitai Solar",
+      "count": 9,
+      "file": "haitai-solar.json"
+    },
+    {
+      "brand": "KACO",
+      "count": 9,
+      "file": "kaco.json"
+    },
+    {
+      "brand": "NEXTGEN NRG",
+      "count": 9,
+      "file": "nextgen-nrg.json"
+    },
+    {
+      "brand": "PurpleRubik",
+      "count": 9,
+      "file": "purplerubik.json"
+    },
+    {
+      "brand": "ROYPOW",
+      "count": 9,
+      "file": "roypow.json"
+    },
+    {
+      "brand": "SRNE Solar",
+      "count": 9,
+      "file": "srne-solar.json"
+    },
+    {
+      "brand": "Aquila Power",
+      "count": 8,
+      "file": "aquila-power.json"
+    },
+    {
+      "brand": "Chelion",
+      "count": 8,
+      "file": "chelion.json"
+    },
+    {
+      "brand": "DMEGC Solar",
+      "count": 8,
+      "file": "dmegc-solar.json"
+    },
+    {
+      "brand": "eCactus",
+      "count": 8,
+      "file": "ecactus.json"
+    },
+    {
+      "brand": "energysynt",
+      "count": 8,
+      "file": "energysynt.json"
+    },
+    {
+      "brand": "Eversolar",
+      "count": 8,
+      "file": "eversolar.json"
+    },
+    {
+      "brand": "JinkoSolar",
+      "count": 8,
+      "file": "jinkosolar.json"
+    },
+    {
+      "brand": "Outback Power",
+      "count": 8,
+      "file": "outback-power.json"
+    },
+    {
+      "brand": "Rahvolt",
+      "count": 8,
+      "file": "rahvolt.json"
+    },
+    {
+      "brand": "Senergy",
+      "count": 8,
+      "file": "senergy.json"
+    },
+    {
+      "brand": "Star Charge",
+      "count": 8,
+      "file": "star-charge.json"
+    },
+    {
+      "brand": "Studer Innotec",
+      "count": 8,
+      "file": "studer-innotec.json"
+    },
+    {
+      "brand": "EnaSolar",
+      "count": 7,
+      "file": "enasolar.json"
+    },
+    {
+      "brand": "ENJOY",
+      "count": 7,
+      "file": "enjoy.json"
+    },
+    {
+      "brand": "Felicity ESS",
+      "count": 7,
+      "file": "felicity-ess.json"
+    },
+    {
+      "brand": "MOSO Electric",
+      "count": 7,
+      "file": "moso-electric.json"
+    },
+    {
+      "brand": "PowerOak",
+      "count": 7,
+      "file": "poweroak.json"
+    },
+    {
+      "brand": "Sinexcel",
+      "count": 7,
+      "file": "sinexcel.json"
+    },
+    {
+      "brand": "AMPAURA",
+      "count": 6,
+      "file": "ampaura.json"
+    },
+    {
+      "brand": "East Group",
+      "count": 6,
+      "file": "east-group.json"
+    },
+    {
+      "brand": "EVANTRA",
+      "count": 6,
+      "file": "evantra.json"
+    },
+    {
+      "brand": "FnS Power",
+      "count": 6,
+      "file": "fns-power.json"
+    },
+    {
+      "brand": "Lantrun",
+      "count": 6,
+      "file": "lantrun.json"
+    },
+    {
+      "brand": "Omnik",
+      "count": 6,
+      "file": "omnik.json"
+    },
+    {
+      "brand": "Solar ACDC",
+      "count": 6,
+      "file": "solar-acdc.json"
+    },
+    {
+      "brand": "Soluna",
+      "count": 6,
+      "file": "soluna.json"
+    },
+    {
+      "brand": "Tecloman",
+      "count": 6,
+      "file": "tecloman.json"
+    },
+    {
+      "brand": "U R Energy",
+      "count": 6,
+      "file": "u-r-energy.json"
+    },
+    {
+      "brand": "YiNERGY",
+      "count": 6,
+      "file": "yinergy.json"
+    },
+    {
+      "brand": "Atess",
+      "count": 5,
+      "file": "atess.json"
+    },
+    {
+      "brand": "BYD",
+      "count": 5,
+      "file": "byd.json"
+    },
+    {
+      "brand": "Eltek",
+      "count": 5,
+      "file": "eltek.json"
+    },
+    {
+      "brand": "Hanwha Q CELLS",
+      "count": 5,
+      "file": "hanwha-q-cells.json"
+    },
+    {
+      "brand": "LAVO",
+      "count": 5,
+      "file": "lavo.json"
+    },
+    {
+      "brand": "MPP Solar",
+      "count": 5,
+      "file": "mpp-solar.json"
+    },
+    {
+      "brand": "Must",
+      "count": 5,
+      "file": "must.json"
+    },
+    {
+      "brand": "Solavita",
+      "count": 5,
+      "file": "solavita.json"
+    },
+    {
+      "brand": "Stealth Energy",
+      "count": 5,
+      "file": "stealth-energy.json"
+    },
+    {
+      "brand": "AKAI Energy",
+      "count": 4,
+      "file": "akai-energy.json"
+    },
+    {
+      "brand": "Altius",
+      "count": 4,
+      "file": "altius.json"
+    },
+    {
+      "brand": "Bosch",
+      "count": 4,
+      "file": "bosch.json"
+    },
+    {
+      "brand": "Eveready",
+      "count": 4,
+      "file": "eveready.json"
+    },
+    {
+      "brand": "Gsmart",
+      "count": 4,
+      "file": "gsmart.json"
+    },
+    {
+      "brand": "Haier",
+      "count": 4,
+      "file": "haier.json"
+    },
+    {
+      "brand": "LG",
+      "count": 4,
+      "file": "lg.json"
+    },
+    {
+      "brand": "One Solar",
+      "count": 4,
+      "file": "one-solar.json"
+    },
+    {
+      "brand": "Solarwii",
+      "count": 4,
+      "file": "solarwii.json"
+    },
+    {
+      "brand": "Sunvolt",
+      "count": 4,
+      "file": "sunvolt.json"
+    },
+    {
+      "brand": "XESS Energy",
+      "count": 4,
+      "file": "xess-energy.json"
+    },
+    {
+      "brand": "1KOMMA5°",
+      "count": 3,
+      "file": "1komma5.json"
+    },
+    {
+      "brand": "BLUETTI",
+      "count": 3,
+      "file": "bluetti.json"
+    },
+    {
+      "brand": "CEEG",
+      "count": 3,
+      "file": "ceeg.json"
+    },
+    {
+      "brand": "EG4",
+      "count": 3,
+      "file": "eg4.json"
+    },
+    {
+      "brand": "Eguana",
+      "count": 3,
+      "file": "eguana.json"
+    },
+    {
+      "brand": "Empower Energy",
+      "count": 3,
+      "file": "empower-energy.json"
+    },
+    {
+      "brand": "Magarevo",
+      "count": 3,
+      "file": "magarevo.json"
+    },
+    {
+      "brand": "OLiPower",
+      "count": 3,
+      "file": "olipower.json"
+    },
+    {
+      "brand": "Power-One Aurora",
+      "count": 3,
+      "file": "power-one-aurora.json"
+    },
+    {
+      "brand": "Sapphire Solar",
+      "count": 3,
+      "file": "sapphire-solar.json"
+    },
+    {
+      "brand": "SENEC",
+      "count": 3,
+      "file": "senec.json"
+    },
+    {
+      "brand": "Smart Lifestyle",
+      "count": 3,
+      "file": "smart-lifestyle.json"
+    },
+    {
+      "brand": "Sol-Ark",
+      "count": 3,
+      "file": "sol-ark.json"
+    },
+    {
+      "brand": "SPHERE",
+      "count": 3,
+      "file": "sphere.json"
+    },
+    {
+      "brand": "ViTech Power",
+      "count": 3,
+      "file": "vitech-power.json"
+    },
+    {
+      "brand": "Wirentech",
+      "count": 3,
+      "file": "wirentech.json"
+    },
+    {
+      "brand": "AVOL",
+      "count": 2,
+      "file": "avol.json"
+    },
+    {
+      "brand": "Clenergy",
+      "count": 2,
+      "file": "clenergy.json"
+    },
+    {
+      "brand": "CSE",
+      "count": 2,
+      "file": "cse.json"
+    },
+    {
+      "brand": "CYG",
+      "count": 2,
+      "file": "cyg.json"
+    },
+    {
+      "brand": "eleXsys",
+      "count": 2,
+      "file": "elexsys.json"
+    },
+    {
+      "brand": "Energy Storage Australia",
+      "count": 2,
+      "file": "energy-storage-australia.json"
+    },
+    {
+      "brand": "FENECON",
+      "count": 2,
+      "file": "fenecon.json"
+    },
+    {
+      "brand": "Flex",
+      "count": 2,
+      "file": "flex.json"
+    },
+    {
+      "brand": "GNETEK",
+      "count": 2,
+      "file": "gnetek.json"
+    },
+    {
+      "brand": "GS ENERGY",
+      "count": 2,
+      "file": "gs-energy.json"
+    },
+    {
+      "brand": "GSSTES",
+      "count": 2,
+      "file": "gsstes.json"
+    },
+    {
+      "brand": "IMEON ENERGY",
+      "count": 2,
+      "file": "imeon-energy.json"
+    },
+    {
+      "brand": "IN-Power",
+      "count": 2,
+      "file": "in-power.json"
+    },
+    {
+      "brand": "JingTsing",
+      "count": 2,
+      "file": "jingtsing.json"
+    },
+    {
+      "brand": "MANGO POWER",
+      "count": 2,
+      "file": "mango-power.json"
+    },
+    {
+      "brand": "myenergi",
+      "count": 2,
+      "file": "myenergi.json"
+    },
+    {
+      "brand": "PowerPlus Energy",
+      "count": 2,
+      "file": "powerplus-energy.json"
+    },
+    {
+      "brand": "SunArk",
+      "count": 2,
+      "file": "sunark.json"
+    },
+    {
+      "brand": "Xantrex",
+      "count": 2,
+      "file": "xantrex.json"
+    },
+    {
+      "brand": "AERL",
+      "count": 1,
+      "file": "aerl.json"
+    },
+    {
+      "brand": "Duracell",
+      "count": 1,
+      "file": "duracell.json"
+    },
+    {
+      "brand": "Eaton",
+      "count": 1,
+      "file": "eaton.json"
+    },
+    {
+      "brand": "EVO Power",
+      "count": 1,
+      "file": "evo-power.json"
+    },
+    {
+      "brand": "FranklinWH",
+      "count": 1,
+      "file": "franklinwh.json"
+    },
+    {
+      "brand": "GMDE",
+      "count": 1,
+      "file": "gmde.json"
+    },
+    {
+      "brand": "GreenPower",
+      "count": 1,
+      "file": "greenpower.json"
+    },
+    {
+      "brand": "HyperStrong",
+      "count": 1,
+      "file": "hyperstrong.json"
+    },
+    {
+      "brand": "MagellanPower",
+      "count": 1,
+      "file": "magellanpower.json"
+    },
+    {
+      "brand": "Max Power Solar",
+      "count": 1,
+      "file": "max-power-solar.json"
+    },
+    {
+      "brand": "Maxeon",
+      "count": 1,
+      "file": "maxeon.json"
+    },
+    {
+      "brand": "MG Energy",
+      "count": 1,
+      "file": "mg-energy.json"
+    },
+    {
+      "brand": "NEP",
+      "count": 1,
+      "file": "nep.json"
+    },
+    {
+      "brand": "Nicest",
+      "count": 1,
+      "file": "nicest.json"
+    },
+    {
+      "brand": "Powerwave Energy",
+      "count": 1,
+      "file": "powerwave-energy.json"
+    },
+    {
+      "brand": "RCT Power",
+      "count": 1,
+      "file": "rct-power.json"
+    },
+    {
+      "brand": "REA Power",
+      "count": 1,
+      "file": "rea-power.json"
+    },
+    {
+      "brand": "ReneSola",
+      "count": 1,
+      "file": "renesola.json"
+    },
+    {
+      "brand": "Renox",
+      "count": 1,
+      "file": "renox.json"
+    },
+    {
+      "brand": "Risen Energy",
+      "count": 1,
+      "file": "risen-energy.json"
+    },
+    {
+      "brand": "Samsung",
+      "count": 1,
+      "file": "samsung.json"
+    },
+    {
+      "brand": "Sermatec",
+      "count": 1,
+      "file": "sermatec.json"
+    },
+    {
+      "brand": "Solar Options NZ",
+      "count": 1,
+      "file": "solar-options-nz.json"
+    },
+    {
+      "brand": "Storz Power",
+      "count": 1,
+      "file": "storz-power.json"
+    },
+    {
+      "brand": "SunPower",
+      "count": 1,
+      "file": "sunpower.json"
+    },
+    {
+      "brand": "sunset solar",
+      "count": 1,
+      "file": "sunset-solar.json"
+    },
+    {
+      "brand": "Three Phase Inverter",
+      "count": 1,
+      "file": "three-phase-inverter.json"
+    },
+    {
+      "brand": "URE",
+      "count": 1,
+      "file": "ure.json"
+    },
+    {
+      "brand": "Vestwoods",
+      "count": 1,
+      "file": "vestwoods.json"
+    }
+  ]
+}

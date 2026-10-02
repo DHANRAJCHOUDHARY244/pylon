@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "EVO Power",
+  "exportedAt": "2026-10-01T09:37:25.233Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "NEO 100 kW",
+      "sku": "NEO 100 kW",
+      "objectId": "24268",
+      "brand": "EVO Power",
+      "brandLogo": "https://file.greensketch.net/brands/logo/EVO%2BPower%2BLogo-1920w.webp",
+      "name": "NEO 100 kW",
+      "code": "NEO 100 kW",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/43992a54-7005-4d46-a616-9b150e3e4819.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/EVO_Power_NEO_100_kW.pdf",
+      "watts": 100000,
+      "nominalAcPowerW": 100000,
+      "maxDcPowerW": null,
+      "mpptCount": 0,
+      "phases": 3,
+      "maxDcVoltageV": 1000,
+      "mpptMinV": 0,
+      "mpptMaxV": 0,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Battery-only",
+      "heightMm": 2280,
+      "widthMm": 780,
+      "depthMm": 1200,
+      "weightKg": null,
+      "maxEfficiency": 0.98,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

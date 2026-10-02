@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Powerwave Energy",
+  "exportedAt": "2026-10-01T09:37:25.243Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "SP5H Inverter -INV",
+      "sku": "SP5H Inverter -INV",
+      "objectId": "24023",
+      "brand": "Powerwave Energy",
+      "brandLogo": "https://file.greensketch.ai/green-sketch/prod/image/950027da-663d-466a-b945-e8e0c6458509.png",
+      "name": "SP5H Inverter -INV",
+      "code": "SP5H Inverter -INV",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d1e2ffd8-33af-439a-be9d-c2f035b04d11.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Powerwave_Energy_SP5H_Inverter_-INV.pdf",
+      "watts": 4600,
+      "nominalAcPowerW": 4600,
+      "maxDcPowerW": 4600,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 550,
+      "mpptMinV": 125,
+      "mpptMaxV": 530,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 455,
+      "widthMm": 451,
+      "depthMm": 121.5,
+      "weightKg": null,
+      "maxEfficiency": 0.976,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

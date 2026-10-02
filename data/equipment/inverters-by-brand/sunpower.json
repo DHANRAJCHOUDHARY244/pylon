@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "SunPower",
+  "exportedAt": "2026-10-01T09:37:25.257Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "RESERVE-INV-1-L1-P5-INT",
+      "sku": "RESERVE-INV-1-L1-P5-INT",
+      "objectId": "22588",
+      "brand": "SunPower",
+      "brandLogo": "https://file.greensketch.net/brands/logo/download_2.png",
+      "name": "RESERVE-INV-1-L1-P5-INT",
+      "code": "RESERVE-INV-1-L1-P5-INT",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/d9252f05-9b75-4273-8fa7-435855cabd40.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/SunPower_RESERVE-INV-1-L1-P5-INT.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": 10000,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 580,
+      "mpptMinV": 100,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "Hybrid Inverter",
+      "heightMm": 1226,
+      "widthMm": 610,
+      "depthMm": 212,
+      "weightKg": null,
+      "maxEfficiency": 0.95,
+      "productWarranty": "10",
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

@@ -27,6 +27,11 @@ export class UserController extends BaseController {
     return this.ok(res, user, MESSAGES.UPDATED);
   });
 
+  changePassword = asyncHandler(async (req: AuthenticatedRequest, res: Response) => {
+    const result = await userService.changePassword(req.user!.id, req.body);
+    return this.ok(res, result, MESSAGES.UPDATED);
+  });
+
   list = asyncHandler(async (req: Request, res: Response) => {
     const result = await userService.listUsers({
       page: Number(req.query.page ?? 1),

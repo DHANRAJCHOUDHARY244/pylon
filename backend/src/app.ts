@@ -1,6 +1,8 @@
 import cors from 'cors';
 import express from 'express';
 import helmet from 'helmet';
+import { existsSync, mkdirSync } from 'node:fs';
+import { join } from 'node:path';
 import { pinoHttp } from 'pino-http';
 
 import { env } from './config/index.js';
@@ -8,10 +10,15 @@ import { logger } from './helpers/logger.js';
 import { errorHandler, notFoundHandler } from './middleware/index.js';
 import routes from './routes/index.js';
 
+function ensureUploads() {
+  const dir = join(process.cwd(), 'uploads');
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+
 export function createApp() {
   const app = express();
 
-  app.use(helmet());
+  app.use(helmet({ crossOriginResourcePolicy: { policy: 'cross-origin' } }));
   const allowedOrigins = env.CORS_ORIGIN.split(',')
     .map((value) => value.trim())
     .filter(Boolean);
@@ -35,8 +42,11 @@ export function createApp() {
       credentials: true,
     }),
   );
-  app.use(express.json({ limit: '1mb' }));
-  app.use(express.urlencoded({ extended: true }));
+  app.use(express.json({ limit: '12mb' }));
+  app.use(express.urlencoded({ extended: true, limit: '12mb' }));
+
+  ensureUploads();
+  app.use('/uploads', express.static(join(process.cwd(), 'uploads'), { maxAge: '7d' }));
   app.use(
     pinoHttp({
       logger,
@@ -47,7 +57,7 @@ export function createApp() {
           : {
               ignore(req) {
                 const url = req.url ?? '';
-                return url === '/favicon.ico' || url.startsWith('/json/');
+                return url === '/favicon.ico' || url.startsWith('/json/') || url.startsWith('/uploads/');
               },
             },
       customLogLevel(_req, res, err) {

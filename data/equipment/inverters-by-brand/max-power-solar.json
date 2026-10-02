@@ -1,0 +1,40 @@
+{
+  "source": "crm-mongodb",
+  "productClass": "inverter",
+  "brand": "Max Power Solar",
+  "exportedAt": "2026-10-01T09:37:25.239Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "MPS5000",
+      "sku": "MPS5000",
+      "objectId": "22557",
+      "brand": "Max Power Solar",
+      "brandLogo": "https://file.greensketch.net/brands/logo/Max+Power+Solar.png",
+      "name": "MPS5000",
+      "code": "MPS5000",
+      "photo": "https://file.greensketch.ai/green-sketch/prod/image/04d47f39-2478-40ad-9b9d-0c4db6711845.png",
+      "datasheet": "https://file.greensketch.net/datasheets/inverters/Max_Power_Solar_MPS5000.pdf",
+      "watts": 5000,
+      "nominalAcPowerW": 5000,
+      "maxDcPowerW": 6500,
+      "mpptCount": 2,
+      "phases": 1,
+      "maxDcVoltageV": 600,
+      "mpptMinV": 80,
+      "mpptMaxV": 550,
+      "maxInputCurrentPerMpptA": null,
+      "inverterType": "PV-only Inverter",
+      "heightMm": 476,
+      "widthMm": 402,
+      "depthMm": 148,
+      "weightKg": null,
+      "maxEfficiency": 0.99,
+      "productWarranty": null,
+      "cost": null,
+      "sell": null,
+      "published": true,
+      "source": "greensketch"
+    }
+  ]
+}

@@ -41,6 +41,8 @@ export const COLLECTIONS = {
   PANELS: 'panels',
   BATTERIES: 'batteries',
   INVERTERS: 'inverters',
+  EQUIPMENT_BRANDS: 'equipment_brands',
+  EQUIPMENT_CATEGORIES: 'equipment_categories',
   NOTIFICATIONS: 'notifications',
   PROPOSAL_SIGNS: 'proposal_signs',
   QUOTE_MESSAGES: 'quote_messages',
